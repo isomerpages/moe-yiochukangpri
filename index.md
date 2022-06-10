@@ -23,7 +23,7 @@ sections:
       button: click here
       url: https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html
   - infobar:
-      title: Be a parent who reaffirms your child!
+      title: Be a Parent who Reaffirms your Child!
       description: To find out more
       button: click here
       url: https://yiochukangpri.moe.edu.sg/uniquely-yckps/parents-support-group-psg/activities-events-for-you-n-your-child
@@ -58,7 +58,7 @@ sections:
       button: click here
       url: https://yiochukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/2022/parents%20briefing%20slides/Sch%20Website_P6%20Parents%20Briefing_12%20Jan%202022_final.pdf
   - infobar:
-      title: "FAQs: COVID-19 related matters"
+      title: "FAQs: COVID-19 Related Matters"
       description: To find out more about COVID-19 related matters
       button: click here
       url: https://www.moe.gov.sg/faqs-covid-19-infection
@@ -68,4 +68,3 @@ sections:
       button: click here
       url: https://yiochukangpri-moe-edu-sg-admin.cwp.sg/for-parents/school-notifications-communications-materials
 ---
-
