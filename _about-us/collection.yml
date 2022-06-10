@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Foreword.md
       - School Management Committee.md
       - School Staff.md
       - School History.md
@@ -15,4 +16,3 @@ collections:
       - School Safety and Security/Responsible Ownership.md
       - School Rules & School Uniform.md
       - School Facilities.md
-      - Principal's Foreword.md
