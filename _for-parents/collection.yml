@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 2021 E Open House/E Open House 2021.md
       - 2021 E Open House/.keep
       - Parent Support Group (PSG).md
       - School Notifications & Communications Materials.md
