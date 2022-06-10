@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Mathematics.md
       - Mother Tongue Languages.md
       - Physical Education.md
       - Science.md
