@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - "P6 Graduation: Art E Exhibition 2021.md"
       - E Open House 2021.md
