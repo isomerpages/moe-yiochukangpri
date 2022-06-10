@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Handbells.md
       - Chinese Dance.md
       - Indian Dance.md
       - Malay Dance.md
