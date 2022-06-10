@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - CCA/Visual Arts.md
       - CCA/.keep
       - Football (Boys and Girls).md
       - Athletics.md
