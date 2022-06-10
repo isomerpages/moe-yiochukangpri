@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - CCA/Handbells.md
       - CCA/Indian Dance.md
       - CCA/Malay Dance.md
       - CCA/Brownies.md
