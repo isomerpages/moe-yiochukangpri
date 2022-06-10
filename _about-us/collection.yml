@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules & School Uniform.md
       - School Facilities.md
       - Principal's Foreword.md
