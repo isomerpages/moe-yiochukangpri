@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Raffles Student Care Centre.md
       - School Information & Related Services.md
       - School Safety and Security/.keep
       - School Safety and Security/School Safety & Security.md
