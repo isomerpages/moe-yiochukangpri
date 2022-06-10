@@ -2,11 +2,11 @@ title: Yio Chu Kang Primary School
 url: ""
 favicon: /images/yck sch crest.png
 colors:
-  primary-color: "#417505"
-  secondary-color: "#ffffff"
+  primary-color: "#305209"
+  secondary-color: "#649424"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ffffff"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
