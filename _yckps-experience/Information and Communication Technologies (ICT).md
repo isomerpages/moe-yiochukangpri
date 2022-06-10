@@ -15,4 +15,4 @@ Robotics , ICT baseline skills and New Media Literacies are infused into the va
 
 ![ict4.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/YCKPS%20Experience/ICT/ict4.jpg)  
   
-P4 students using Sphero to apply the concept learnt in the 8-point compass. 
+P4 students using Sphero to apply the concept learnt in the 8-point compass.
