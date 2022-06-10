@@ -10,7 +10,9 @@ sections:
       background: /images/hero-banner.png
       dropdown:
         title: Quick Links
-        options: []
+        options:
+          - title: Staff
+            url: /quick-links/for-staff
   - infobar:
       title: Infobar title
       subtitle: Subtitle
