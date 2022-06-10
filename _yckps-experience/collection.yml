@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Athletics.md
       - Volleyball.md
       - Angklung.md
       - Choir.md
