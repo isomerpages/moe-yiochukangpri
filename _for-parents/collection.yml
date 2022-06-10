@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - School noti and comms/.keep
-      - School noti and comms/School Notifications & Communications Materials.md
-      - School noti and comms/MOE Sexuality Education in Schools.md
+      - School Information/.keep
+      - School Information/School Notifications & Communications Materials.md
+      - School Information/MOE Sexuality Education in Schools.md
       - 2021 E Open House/.keep
       - 2021 E Open House/E Open House 2021.md
       - 2021 E Open House/Our Principal.md
