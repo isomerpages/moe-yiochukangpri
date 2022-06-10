@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Malay Dance.md
       - Scouts.md
       - Brownies.md
       - Infocomm Club.md
