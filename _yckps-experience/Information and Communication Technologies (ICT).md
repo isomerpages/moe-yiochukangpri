@@ -11,10 +11,8 @@ With effective technology integration, technology offers opportunities for stude
 
 Our students experience exploration, coding and making through the Code-For-Fun and MakerSpace programmes. These teaches our students problem-solving and logical thinking skills, which are important across all disciplines.   
   
+Robotics , ICT baseline skills and New Media Literacies are infused into the various subjects – English, Mathematics, Science, Mother Tongue and Programme for Active Learning (PAL). Our students apply concepts learnt from these subjects and see them coming alive.
 
 ![ict4.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/YCKPS%20Experience/ICT/ict4.jpg)  
   
-
-  
-  
-P4 students using Sphero to apply the concept learnt in the 8-point compass. | Robotics , ICT baseline skills and New Media Literacies are infused into the various subjects – English, Mathematics, Science, Mother Tongue and Programme for Active Learning (PAL). Our students apply concepts learnt from these subjects and see them coming alive.  
+P4 students using Sphero to apply the concept learnt in the 8-point compass. | 
