@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - CCA/Football (Boys and Girls).md
       - CCA/Volleyball.md
       - CCA/Angklung.md
       - CCA/Choir.md
