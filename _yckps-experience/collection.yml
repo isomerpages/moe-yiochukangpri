@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Information and Communication Technologies (ICT).md
       - Mathematics.md
       - Mother Tongue Languages.md
       - Physical Education.md
