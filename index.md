@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/YCK banner.gif
       dropdown:
         title: Quick Links
         options:
