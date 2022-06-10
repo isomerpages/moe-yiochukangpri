@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Yio Chu Kang Primary School
+description: Yio Chu Kang Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -68,3 +68,4 @@ sections:
       button: click here
       url: https://yiochukangpri-moe-edu-sg-admin.cwp.sg/for-parents/school-notifications-communications-materials
 ---
+
