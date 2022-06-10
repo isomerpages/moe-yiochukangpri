@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - 2021 E Open House/School Brochure.md
-      - 2021 E Open House/Staff Spotlight.md
-      - 2021 E Open House/Our People.md
-      - 2021 E Open House/Our Principal.md
-      - 2021 E Open House/E Open House 2021.md
       - 2021 E Open House/.keep
+      - 2021 E Open House/E Open House 2021.md
+      - 2021 E Open House/Our Principal.md
+      - 2021 E Open House/Our People.md
+      - 2021 E Open House/Staff Spotlight.md
+      - 2021 E Open House/School Brochure.md
       - Parent Support Group (PSG).md
       - School Notifications & Communications Materials.md
       - Student Care.md
