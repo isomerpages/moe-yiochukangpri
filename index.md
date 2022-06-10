@@ -13,6 +13,8 @@ sections:
         options:
           - title: Staff
             url: /quick-links/for-staff
+          - title: Students
+            url: /quick-links/for-students
   - infobar:
       title: Infobar title
       subtitle: Subtitle
