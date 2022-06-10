@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Safety and Security/Responsible Ownership.md
       - School Safety and Security/School Main & Side Gates.md
       - School Safety and Security/School Safety & Security.md
       - School Safety and Security/.keep
