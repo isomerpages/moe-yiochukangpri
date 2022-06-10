@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Ethos and Identity.md
       - School Information/.keep
       - School Information/School Information & Related Services.md
       - School Information/Raffles Student Care Centre.md
