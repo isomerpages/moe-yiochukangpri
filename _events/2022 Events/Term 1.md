@@ -107,6 +107,6 @@ Students watching the performance of _Crow Boy_.
 
   
 
-               Student asking a question about the performance                     Post-performance Q&A session with the cast
+Student asking a question about the performance Post-performance Q&A session with the cast
 
-![P3 threatre experience 5.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/Events/P3%20theatre%20experience/P3%20threatre%20experience%205.jpg)                                                     Students giving a virtual applause at the end of the programme
+![P3 threatre experience 5.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/Events/P3%20theatre%20experience/P3%20threatre%20experience%205.jpg)                     Students giving a virtual applause at the end of the programme
