@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2019 Events/Term 2.md
       - 2019 Events/Term 1.md
       - 2019 Events/.keep
       - 2018 Events/Term 4.md
