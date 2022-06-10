@@ -99,9 +99,6 @@ Reading Activists
 Students who show further leadership potential are interviewed by the student leadership team teachers as well as our school leaders. They are then placed as trainee prefects on a probation of 6 months, before they are confirmed as prefects. Prefects who show keen interest in their roles are given the opportunity to assume EXCO roles within the prefectural board, after campaigning and an interview conducted by the school leaders
 
   
-
-![SLS10.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/YCKPS%20Experience/Student%20LS/SLS10.jpg)![SLS12.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/YCKPS%20Experience/Student%20LS/SLS12.jpg)  
-
-![SLS11.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/YCKPS%20Experience/Student%20LS/SLS11.jpg)
-  
+![prefects](/images/prefects.png)
+ 
 Prefects honing their presentation and communication skills
