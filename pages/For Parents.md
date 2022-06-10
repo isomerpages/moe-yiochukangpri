@@ -50,9 +50,6 @@ Useful Links
 
 Useful Articles
 ---------------
-
-  
-
 *   [Build Resilience In Your Child](https://yiochukangpri.moe.edu.sg/others/building-resilience)
 *   [Cyber Wellness Tip Sheet (Cyber Contacts)](https://yiochukangpri.moe.edu.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/Cyberwellness%20Tip%20sheet%20for%20Parents.pdf)
 *   Cyber Wellness - [Handling Online Content Slides](https://yiochukangpri.moe.edu.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/3A)%202018%20T2%20Parents%20Slides.pptx) & [Tip Sheet](https://yiochukangpri.moe.edu.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf)
