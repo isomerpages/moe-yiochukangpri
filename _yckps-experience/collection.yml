@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Aesthetics.md
       - Citizenship Education CCE.md
       - English Languages.md
       - Information and Communication Technologies (ICT).md
