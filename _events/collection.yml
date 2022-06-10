@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - 2017/Term 2.md
       - 2017/Term 1.md
       - 2017/.keep
