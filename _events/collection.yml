@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - 2017/Term 4.md
-      - 2017/Term 3.md
-      - 2017/Term 2.md
-      - 2017/Term 1.md
-      - 2017/.keep
+      - 2017 Events/Term 4.md
+      - 2017 Events/Term 3.md
+      - 2017 Events/Term 2.md
+      - 2017 Events/Term 1.md
+      - 2017 Events/.keep
