@@ -2,4 +2,5 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Visual Arts.md
       - Co Curricular Activities.md
