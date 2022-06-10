@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - CCA/Volleyball.md
       - CCA/Angklung.md
       - CCA/Choir.md
       - CCA/Chinese Dance.md
