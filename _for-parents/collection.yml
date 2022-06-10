@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 2021 E Open House/School Brochure.md
       - 2021 E Open House/Staff Spotlight.md
       - 2021 E Open House/Our People.md
       - 2021 E Open House/Our Principal.md
