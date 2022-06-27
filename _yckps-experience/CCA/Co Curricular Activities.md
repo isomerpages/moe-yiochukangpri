@@ -12,7 +12,7 @@ Sports and Games
 </a></p>  
   
 <p><a href="/yckps-experience/co-curricular-activities/sports-and-games/athletics">  
-<img style="width:70%" src="/images/athletics.png">  
+<img style="width:60%" src="/images/athletics.png">  
 </a></p>  
   
 <p><a href="/yckps-experience/co-curricular-activities/sports-and-games/volleyball">  
