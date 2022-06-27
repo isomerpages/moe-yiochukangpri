@@ -3,10 +3,11 @@ title: School History
 permalink: /about-us/school-history
 description: ""
 ---
-![history 1.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/About%20YCKPS/history%201.jpg)  
-![](https://yiochukangpri.moe.edu.sg/qql/slot/u746/About%20YCKPS/YCKPS%20History/Screen%20Shot%202020-07-22%20at%202.41.51%20PM.png)
+![School History](/images/history%201.jpg)
 
-![](https://yiochukangpri.moe.edu.sg/qql/slot/u746/About%20YCKPS/YCKPS%20History/History%202.png)
+![School History](/images/history2.png)
+
+![School History](/images/history3.png)
 
 Principals of Yio Chu Kang Primary School:
 ------------------------------------------
@@ -84,5 +85,3 @@ Principals of Yio Chu Kang Primary School:
   </tr>
 </tbody>
 </table>
-  
-
