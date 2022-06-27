@@ -16,122 +16,20 @@ Selected P2 to P4 students started their Nurture Programme in the afternoon of 2
 
 The lessons are designed to be activity-based. In the first lesson, the students set Nurture class rules aligned to our school values. They also created emotion plates and shared their feelings. The students had a fruitful and engaging session. They are looking forward to their weekly sessions with their lead teachers and SMU volunteers.
 
-![nurture 1.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%201.jpg)![pic 1.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/pic%201.jpg)![nurture 3.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%203.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-![nurture 4.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%204.jpg)![nurture 5.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%205.jpg)![nurture 6.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%206.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-![](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)  
-![nurture 9.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%209.jpg)
-
-![nurture 7.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%207.jpg)  ![nurture 8.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/nurture%20programme/nurture%208.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![P2 to P4 Nurture Programme](/images/P2%20to%20P4%20Nurture%20Programme.png)
 
 **Mother Tongue Fortnight (Chinese Language)**
 
 Our annual fun-filled two-week Mother Tongue Fortnight programme created an opportunity for the students to infuse the learning of the Chinese Culture into the learning of the Chinese Language. This year, the students learnt about the various Chinese Cultural Performing Arts, such as Wushu, Chinese Dance, Acrobatics, Puppet Show, Shadow Play and Chinese Opera. 
 
-![MTL CL 2.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%202.png)![MTL CL 1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%201.png)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+![Mother Tongue Fortnight (Chinese Language)](/images/Mother%20Tongue%20Fortnight-1.png)
 Students meaningfully engaged in the Digital Learning Trail, as an tuning-in activity for the MTL Fortnight programme.
 
-![MTL CL 3.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%203.png)
+![Mother Tongue Fortnight (Chinese Language)](/images/Mother%20Tongue%20Fortnight-2.png)
+Hands-on learning to craft the props for the different Chinese Performing Arts.
 
-![MTL CL 5.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%205.png)
-
-![MTL CL 4.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%204.png)  
-
-  
-
-  
-
-  
-
-  
-
-Hands-on learning to craft the props   
-
-for the different Chinese Performing Arts.
-
-  
-
-  
-
-![MTL CL 6.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%206.jpg)![MTL CL 7.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/MTLF/MTL%20CL%207.png)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+![Mother Tongue Fortnight (Chinese Language)](/images/Mother%20Tongue%20Fortnight-3.png)
 Sharing their take-aways from the MTL Fortnight
-
-  
 
 **Mother Tongue Fortnight (Malay Language)**        
 
