@@ -13,108 +13,15 @@ Due to the Covid-19 pandemic, the first day of school in 2021 (4 January 2021) b
 
 After being welcomed in the morning, the P1 students were brought to their respective classrooms by their Form Teachers. They went through a series of activities to learn more about life in a primary school.  The students also took a tour of their new school campus.
 
-  
-
 ![p1 orientation 1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/p1%20orientation%201.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 The parents were brought to another set of classrooms for an online presentation about the school and its programmes. They went for a school tour and watched their child taking part in their first recess in a primary school.  
 
 ![p1 orientation 2.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/p1%20orientation%202.png)  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 The parents also took part in a simple makerspace activity where they made a simple craft for their child.  It was a packed day of activities for both the students and parents alike.
 
 ![p1 orientation 3.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/p1%20orientation%203.png)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 **First day of school and SIR**
 
@@ -127,8 +34,6 @@ On the second day of Term 1, we welcomed back the rest of the school population 
 On 5 February 2021, the school started  its first student training of the year for our P3 to P6 student leaders - Prefects, Class Monitors, Eco Monitors and Cyber Wellness Monitors. In our effort to nurture confident students with a heart to serve, the school provides opportunities for students to take on leadership roles within the classrooms as well as the larger school community. The unique situation caused by COVID-19 led to the first group of Student Leaders  ‘coming together’ remotely via Zoom. This was followed by a training session held by the respective departments for their student leaders.
 
 ![student leadership 1.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/student%20leadership%201.jpg)
-
-  
 
 **Tot****al Defen****ce Day**
 
@@ -152,53 +57,9 @@ This Chinese New Year celebration was unique as it was conducted entirely online
 
  ![CNY 3.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/CNY/CNY%203.jpg)
 
-![CNY 5.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/CNY/CNY%205.jpg)![CNY 4.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/CNY/CNY%204.jpg)  
+![CNY 5.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/CNY/CNY%205.jpg)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![CNY 4.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/CNY/CNY%204.jpg)  
 
 **_Yio Chu Kang Primary School wishes each and every one a prosperous and Happy Chinese New Year!_**
 
@@ -206,43 +67,7 @@ This Chinese New Year celebration was unique as it was conducted entirely online
 
 During the assembly programme on 1 March, the school engaged officers from the _Singapore Police Force (SPF)_ to share via ZOOM on Crime Advisory.  This is a yearly engagement session that the school has in partnership with the _Hougang Neighbourhood Police Centre (NPC)_. In the past, the community police officers would came down to the school hall  to conduct a face-to-face assembly programme for our students. The session this year resumed online with one of the officers who _spoke_ to our students on crime prevention  and cyber awareness. The students were also taught how to help the police when reporting crime.
 
-![crime prevention.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/crime%20prevention.png)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![crime prevention.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/crime%20prevention.png)   
 
 **P5 ESTEM Project Work (EPW) and Learning Journey**
 
@@ -252,63 +77,7 @@ Our P5 students also learnt Information & Communication Technologies (ICT) skill
 
 ![epw1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/epw1.png)  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 ![epw2.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/epw2.png)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 **Personal Device for Learning Programme (PDLP) Pilot**  
 
@@ -317,22 +86,6 @@ We are one of the five primary schools identified by MOE to be on the **_Person
 ![pdlp1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/pdlp1.png)
 
 ![pdlp2.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021%20events/pdlp2.png)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 **Prize Giving Ceremony 2020**
 
