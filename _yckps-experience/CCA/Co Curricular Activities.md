@@ -7,29 +7,117 @@ third_nav_title: CCA
 Sports and Games
 ----------------
 
-[![football](/images/football.png)](/yckps-experience/co-curricular-activities/sports-and-games/football-boys-and-girls)
-[![athletics](/images/athletics.png)](/yckps-experience/co-curricular-activities/sports-and-games/athletics)
-[![volleyball](/images/volleyball.png)](/yckps-experience/co-curricular-activities/sports-and-games/volleyball)
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/sports-and-games/football-boys-and-girls">  
+<img style="width:80%" src="/images/football.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/sports-and-games/athletics">  
+<img style="width:70%" src="/images/athletics.png">  
+</a></p>  
+  
+
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/sports-and-games/volleyball">  
+<img style="width:60%" src="/images/volleyball.png">  
+</a></p>  
+  
+
 
 Performing Arts
 ---------------
 
-[![angklung](/images/angklung.png)](/yckps-experience/co-curricular-activities/performing-arts/angklung)
-[![choir](/images/choir.png)](/yckps-experience/co-curricular-activities/performing-arts/choir)
-[![handbell](/images/handbells.png)](/yckps-experience/co-curricular-activities/performing-arts/handbells)
-[![cd](/images/chinese%20dance.png)](/yckps-experience/co-curricular-activities/performing-arts/chinese-dance)
-[![id](/images/indian%20dance.png)](/yckps-experience/co-curricular-activities/performing-arts/indian-dance)
-[![md](/images/malay%20dance.png)](/yckps-experience/co-curricular-activities/performing-arts/malay-dance)
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/performing-arts/angklung">  
+<img style="width:75%" src="/images/angklung.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/performing-arts/choir">  
+<img style="width:75%" src="/images/choir.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/performing-arts/handbells">  
+<img style="width:75%" src="/images/handbells.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/performing-arts/chinese-dance">  
+<img style="width:75%" src="/images/chinese%20dance.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/performing-arts/indian-dance">  
+<img style="width:75%" src="/images/indian%20dance.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/performing-arts/malay-dance">  
+<img style="width:75%" src="/images/malay%20dance.png">  
+</a></p>  
+  
+
 
 Uniformed Groups
 ----------------
 
-[![scouts](/images/scouts.png)](/yckps-experience/co-curricular-activities/uniformed-groups/scouts)
-[![brownies](/images/brownies.png)](/yckps-experience/co-curricular-activities/uniformed-groups/brownies)
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/uniformed-groups/scouts">  
+<img style="width:75%" src="/images/scouts.png">  
+</a></p>  
+  
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/uniformed-groups/brownies">  
+<img style="width:75%" src="/images/brownies.png">  
+</a></p>  
+  
+
 
 
 Clubs and Societies
 -------------------
 
-[![infocomm](/images/infocomm.png)](/yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club)
-[![va](/images/visual%20arts.png)](/yckps-experience/co-curricular-activities/clubs-and-societies/visual-arts)
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club">  
+<img style="width:75%" src="/images/infocomm.png">  
+</a></p>  
+  
+
+
+
+  
+  
+<p><a href="/yckps-experience/co-curricular-activities/clubs-and-societies/visual-arts">  
+<img style="width:75%" src="/images/visual%20arts.png"> 
+</a></p>  
+  
