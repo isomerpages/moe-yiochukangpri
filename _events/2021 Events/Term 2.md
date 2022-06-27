@@ -93,4 +93,5 @@ On 5 April 2021, our school commemorated **_International Friendship Day_** to
 
 On 9 April, international students from Primary 1 to Primary 5, together with their local buddies, attended the _Integration Programme_ to know more about Singapore_._ The session started off with the students playing an ice-breaking game to know each other better. After the ice-breaking game, they participated in a series of popular traditional game, consisting of _Chapteh_, _Goli (glass marbles)_, _Five stones_, _Kuti Kuti_ and _Tok Kah (one-legged catching)._ These games gave these international students, who had only came to Singapore in the recent years, a platform to build an emotional connection and friendship with their local buddies. At the same time, it also provided our Singaporean students the opportunity to play host and interact with their buddies.
 
-![Integration Programme](/images/integration%201.png)
+<img src="/images/integration%201.png"  
+style="width:65%">
