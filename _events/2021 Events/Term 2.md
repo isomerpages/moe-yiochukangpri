@@ -37,27 +37,27 @@ Mother Tongue (MT) Fortnight kicks off every year in term 2 with various interes
 
 **P1** – The P1 students had an experiential learning on batik painting.
 
-![Mother Tongue Fortnight (Malay Language)](/images/Mother%20Tongue%20Fortnight-4.png)  
+![The P1 students had an experiential learning on batik painting](/images/Mother%20Tongue%20Fortnight-4.png)  
 
-![Mother Tongue Fortnight (Malay Language)](/images/Mother%20Tongue%20Fortnight-5.png)  
+![The P1 students had an experiential learning on batik painting](/images/Mother%20Tongue%20Fortnight-5.png)  
 
 **P2** – The learning package for P2 incorporated enriching learning experiences outside the classroom, where they had to complete a digital trail to learn more about the Malay Traditional Kueh. 
 
-![Mother Tongue Fortnight (Malay Language)](/images/Mother%20Tongue%20Fortnight-6.png)  
+![The learning package for P2 incorporated enriching learning experiences outside the classroom, where they had to complete a digital trail to learn more about the Malay Traditional Kueh](/images/Mother%20Tongue%20Fortnight-6.png)  
   
 **P4 & P6** – The lesson package for P4s and P6s focusing on the Malay Folktale ‘Singapura Dilanggar Todak’ and Mahsuri respectively leveraged on the technology to provide innovative learning experiences for the students.  
   
 **P4**  
 
-![Mother Tongue Fortnight (Malay Language)](/images/Mother%20Tongue%20Fortnight-7.png)
+![The lesson package for P4s and P6s focusing on the Malay Folktale ‘Singapura Dilanggar Todak’ and Mahsuri respectively leveraged on the technology to provide innovative learning experiences for the students](/images/Mother%20Tongue%20Fortnight-7.png)
  
 **P6**  
 
-![Mother Tongue Fortnight (Malay Language)](/images/Mother%20Tongue%20Fortnight-8.png) 
+![The lesson package for P4s and P6s focusing on the Malay Folktale ‘Singapura Dilanggar Todak’ and Mahsuri respectively leveraged on the technology to provide innovative learning experiences for the students](/images/Mother%20Tongue%20Fortnight-8.png) 
   
 **P3 & P5** – The P3s and P5s had an amazing time learning about and playing the Malay Traditional Games!
 
-![Mother Tongue Fortnight (Malay Language)](/images/Mother%20Tongue%20Fortnight-9.png) 
+![The P3s and P5s had an amazing time learning about and playing the Malay Traditional Games](/images/Mother%20Tongue%20Fortnight-9.png) 
 
 
 #### **Mother Tongue Fortnight (Tamil Language)**
