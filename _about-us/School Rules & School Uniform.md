@@ -79,14 +79,14 @@ The school rules and regulations are designed to state clearly the boundaries of
 
 4.2.       Students are expected to observe the following guidelines on school attire. 
 
-![school rules 1.JPG](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/school%20rules/school%20rules%201.JPG)  
+![School Rules & School Uniform](/images/School%20Rules%20&%20School%20Uniform1.jpg)
 
  
 4.3.       Primary 1 and 2 students can wear their PE attire for the whole day on days when they have PE lessons.  
 
 4.4.       Primary 3 to 6 students should be in the following attire on days when they have PE lessons. They must change back to their half-uniform attire right after their PE lesson.
 
-![Acceptable girls hair.JPG](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/school%20rules/Acceptable%20girls%20hair.JPG)  
+![School Rules & School Uniform](/images/School%20Rules%20&%20School%20Uniform2.jpg)
 
   
 
@@ -112,7 +112,7 @@ The school rules and regulations are designed to state clearly the boundaries of
 
 4.9.          Fanciful hairstyles are not allowed in school. Boys who come to school with unacceptable hairstyles will be sent home and are expected to report to school with a student haircut by the next school day.
 
-![school rules 3.JPG](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/school%20rules/school%20rules%203.JPG)  
+![School Rules & School Uniform](/images/School%20Rules%20&%20School%20Uniform3.jpg)
 
   
 
@@ -128,7 +128,8 @@ The school rules and regulations are designed to state clearly the boundaries of
 
 4.14.       Gel, mousse, hair dye/tint of any kind is not allowed.
 
-![Acceptable girls hair.JPG](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/school%20rules/Acceptable%20girls%20hair.JPG)  
+
+![School Rules & School Uniform](/images/School%20Rules%20&%20School%20Uniform4.jpg)
 
 **Jewellery and Accessories**
 
