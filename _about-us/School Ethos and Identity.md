@@ -14,7 +14,7 @@ It has in the centre the school crest with the school motto:
 
   
 
-### YOUTH OF CHARACTER KEEN TO SERVE
+#### YOUTH OF CHARACTER KEEN TO SERVE
 
 The colour green is symbolic of hope and success and&nbsp;  
 the colour white signifies prevading and everlasting purity and virtue.
@@ -49,15 +49,15 @@ Our school values encompass the six main core values&nbsp;highlighted in the sch
 
   
 
-### CARE
+#### CARE
 
   
 
-### RESPECT  
+#### RESPECT  
 
   
 
-### RESPONSIBILITY  
+#### RESPONSIBILITY  
 
   
 
@@ -65,11 +65,11 @@ Our school values encompass the six main core values&nbsp;highlighted in the sch
 
   
 
-### RESILIENCE
+#### RESILIENCE
 
   
 
-### EXCELLENCE
+#### EXCELLENCE
 
 School Song
 -----------
