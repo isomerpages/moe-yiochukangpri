@@ -73,12 +73,11 @@ We believe that reading helps our students build up their proficiency in Mother 
 Students having fun during recess at the various activity booths
 
 ![activity booths](/images/activity%20booths.png)
-
 Students having fun and games at the workshops during Mother Tongue Language Fortnight
 
 **Mother Tongue Language Cultural Camp**
-![mt cultural camp](/images/mt%20cultural%20camp.png)
 
+![mt cultural camp](/images/mt%20cultural%20camp.png)
 Students learning about the different cultures through hands-on activities and learning journeys
 
 **Digital Learning Trails**
