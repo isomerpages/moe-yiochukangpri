@@ -81,7 +81,7 @@ P5 and  6 students learning Kollattam.
 On 5 April 2021, our school commemorated **_International Friendship Day_** to strengthen the bond between people of diverse backgrounds from ASEAN countries.
 
 <img src="/images/ifd%201.png" style="width:360px;height:240px;margin-left:15px;" align = "right">
-<p>The day’s programme started with our International students’ putting up a beautiful rendition of the song “_It’s a Small World_” in their respective mother tongue languages. Two of our ASEAN students, together with their parents, shared graciously about their culture to the whole school. One student from Myanmar demonstrated some practices observed during their New Year. Another student from Philippines, shared their special food culture.</p>
+The day’s programme started with our International students’ putting up a beautiful rendition of the song “_It’s a Small World_” in their respective mother tongue languages. Two of our ASEAN students, together with their parents, shared graciously about their culture to the whole school. One student from Myanmar demonstrated some practices observed during their New Year. Another student from Philippines, shared their special food culture.
     
 
 <br>
