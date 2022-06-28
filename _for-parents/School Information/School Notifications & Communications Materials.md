@@ -90,9 +90,9 @@ Useful Forms and Documents
 Useful Articles
 ---------------
 
-*   [Cyber Wellness Tip Sheet (Cyber Contacts)](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/Cyberwellness%20Tip%20sheet%20for%20Parents.pdf)
-*   Cyber Wellness - [Handling Online Content Slides](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/3A)%202018%20T2%20Parents%20Slides.pptx) & [Tip Sheet](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf)
-*   Cyber Wellness - [Develop your child to be a Positive Peer Influence Online slides](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/3A)%202018%20T1%20Parents%20Slides.pptx) & [Tip Sheet](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/Others/Notification%20for%20Parents/Useful%20Links/3B)%202018%20T1%20Parents%20Tip%20Sheet_pdf.pdf)
+*   [Cyber Wellness Tip Sheet (Cyber Contacts)](/files/Cyberwellness%20Tip%20sheet%20for%20Parents.pdf)
+*   Cyber Wellness - Handling Online Content Slides & [Tip Sheet](/files/3B%202018%20T2%20Parents%20Tip%20Sheet.pdf)
+*   Cyber Wellness - Develop your child to be a Positive Peer Influence Online slides & [Tip Sheet](/files/3B%202018%20T1%20Parents%20Tip%20Sheet_pdf.pdf)
 *   [Five Tips for Parents](https://docs.google.com/a/yckps.edu.sg/viewer?a=v&pid=sites&srcid=eWNrcHMuZWR1LnNnfHlja3BzLWxlYXZlZm9ybXxneDo3NzRiZjc3OWZlNmEzZmQ)
 *   [Resources on Hand Foot Mouth Disease (HFMD)](https://www.healthhub.sg/a-z/diseases-and-conditions/44/hfmd)
 *   [Raising your Child for Success](https://www.schoolbag.sg/story/raising-your-child-for-success#.V4xsxet97IX)
