@@ -44,7 +44,6 @@ Presenting to you YCKPS Councillors and Prefects of 2017.
 ![Prefects' Investiture](/images/Prefects'%20Investiture4.jpg)
   
 #### **Total Defence Day 2017**  
-  
 
 The following activities were organized by the teachers for our YCKPS students to commemorate Total Defence Day:
 
@@ -54,7 +53,6 @@ The following activities were organized by the teachers for our YCKPS students t
 4.  **Food Ration Exercise** where pupils were given food coupons to exchange for the following food items: Tapioca, Sweet Potato, porridge.
 5.  **Booth Activities** held during recess time
 
-  
 
 **Come** **[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/key-programmes-activities/national-education-2017-events)** **to see the pictures and find out in detail about the activities!**
 
