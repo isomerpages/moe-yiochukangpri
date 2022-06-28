@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Our Principal/.keep
       - Our Principal.md
       - Our People.md
       - Virtual School Tour.md
