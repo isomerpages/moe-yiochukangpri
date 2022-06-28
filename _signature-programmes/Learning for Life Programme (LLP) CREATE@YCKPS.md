@@ -35,12 +35,6 @@ Through this programme, the school&nbsp;aims&nbsp;to:&nbsp;
 
 &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Concerned Citizens**&nbsp;who take an active role in bettering the lives of others around them. 
 
-![](/images/LLP01.jpg)
-
-![](/images/LLP02.jpg)
-
-![](/images/LLP03.jpg)
-
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 740px; height: 165px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 242px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 239px; height: 133px;" class="ive_eobj_center" alt="LLP01.jpg" src="/images/LLP01.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 242px; height: 135px;" class="ive_eobj_center" alt="LLP02.jpg" src="/images/LLP02.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 237px; height: 134px;" class="ive_eobj_center" alt="LLP03.jpg" src="/images/LLP03.jpg"></td></tr></tbody></table>
 
   
@@ -53,25 +47,21 @@ The 3-tier framework below summarises the CREATE@YCKPS programme:
 
 &nbsp;Tier 3 –&nbsp;**E**xcellence in the Arts
 
-  
-
-![LLP update 1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%201.png)  
+![3-tier framework](/images/3-tier%20framework.png)
 
 Tier 1, for all our students across Primary 1 to 6, are&nbsp;**Exposure**&nbsp;programmes to create awareness and appreciation of the Arts. Tier 2 programmes allow interested students to&nbsp;**Explore**&nbsp;their interests and enables them to develop skills and competencies in the Arts. Tier 3 targets students with strong passion and are keen to strive for&nbsp;**Excellence**&nbsp;in the Arts through involvement in external performances, exhibitions and competitions.&nbsp;
 
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 743px; height: 240px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 737px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="LLP05.jpg" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP05.jpg"></td></tr></tbody></table>
+![](/images/LLP05.jpg)
 
   
 
-**Tier 1 – Awareness and Appreciation of the Arts**  
+#### **Tier 1 – Awareness and Appreciation of the Arts**  
 
-PAL Programme (P1 to P2)&nbsp;
+**PAL Programme (P1 to P2)**
 
 As part of the school’s Programme for Active Learning (PAL) lessons, all P1 – P2 students will experience Arts-based activities based on the diverse cultures of Singapore. The lessons provide platforms for our students to learn and exhibit the&nbsp;school values of Care, Respect, Responsibility, Integrity, Resilience and Excellence.
 
-Art and Music Instructional Programme (P1 to P6)&nbsp;
+**Art and Music Instructional Programme (P1 to P6)&nbsp;**
 
 The Art and Music Instructional Programme aims to develop students’ artistic skills, thinking skills,&nbsp;art appreciation and learning of values.&nbsp;Students experience different Art&nbsp;Forms and playing of musical instruments, allowing them to&nbsp;discover their strengths and talents in Art and Music.
 
@@ -79,158 +69,25 @@ The Art and Music Instructional Programme aims to develop students’ artistic s
 
 ![llp1](/images/llp1.png)
 
-![LLP update 5.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%205.jpg)![LLP update 6.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%206.jpg)  
+![](/images/LLP07.png)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Tuesday Busking
+**Tuesday Busking**
 
 &nbsp;In 2019, the school introduced a more frequent busking platform where students of all classes share with the students&nbsp;masses their musical and dance skills during recess. Students feel proud to showcase their skills and talents and student audience&nbsp;**practice performance etiquette and appreciation**&nbsp;while watching these busking performances.&nbsp;_(Busking is suspended due to COVID-19)_
 
-![LLP update 7.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%207.jpg)  
+![](/images/LLP08.jpg)
   
 
+![](/images/LLP09.jpg)
   
 
-  
+![](/images/LLP10.jpg)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![LLP update 8.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%208.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![LLP update 9.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%209.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Theatre Experience Programme  
+**Theatre Experience Programme**  
 
 All our Primary 3 students go on a learning journey to experience viewing a performance at an external professional venue. They learn to&nbsp;**appreciate the performance while practising theatre etiquette and learning values**&nbsp;through the performances. Although we were not able to bring students out due to the COVID-19 pandemic, we managed to continue the programme with a digital performance for a virtual theatre experience!
 
-![LLP update 10.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2010.jpg)![LLP update 11.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2011.jpg)  
+![](/images/LLP11.png)
 
   
 
