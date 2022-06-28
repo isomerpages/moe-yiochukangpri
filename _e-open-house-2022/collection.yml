@@ -2,4 +2,5 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Virtual School Tour.md
       - Staff Spotlight.md
