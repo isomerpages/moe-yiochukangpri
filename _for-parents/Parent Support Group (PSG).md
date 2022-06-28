@@ -23,7 +23,7 @@ Mission Statement
 
   
 
-The YCKPS Parent Support Group aims to work in collaboration with the school to achieve the Vision of “**_Empowering Mind, Engaging Heart, Extending Hands_**”
+The YCKPS Parent Support Group aims to work in collaboration with the school to achieve the Vision of **“*Empowering Mind, Engaging Heart, Extending Hands*”**
 
 Objectives of PSG
 -----------------
