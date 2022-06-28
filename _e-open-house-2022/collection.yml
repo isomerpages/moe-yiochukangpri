@@ -2,9 +2,6 @@ collections:
   e-open-house-2022:
     output: true
     order:
-      - Staff Spotlight/.keep
-      - Staff Spotlight/Mdm Salina Binte Akiak.md
-      - Staff Spotlight/Ms Lim Huey Ling.md
       - Our People/.keep
       - Our People/Students.md
       - Our People/Staff and Parents.md
@@ -12,3 +9,6 @@ collections:
       - Our Principal/Our Principal.md
       - Our Principal/Fireside Chat With Our Principal.md
       - Virtual School Tour.md
+      - Staff Spotlight/.keep
+      - Staff Spotlight/Mdm Salina Binte Akiak.md
+      - Staff Spotlight/Ms Lim Huey Ling.md
