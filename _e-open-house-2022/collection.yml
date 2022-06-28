@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Our People/Staff and Parents.md
       - Our People/Students.md
       - Our People/.keep
       - Our Principal/.keep
