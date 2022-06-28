@@ -3,46 +3,16 @@ title: "P6 Graduation: Art E Exhibition 2021"
 permalink: /for-parents/p6-graduation-art-e-exhibition-2021
 description: ""
 ---
-![P6 Graduation Exhibition 2021 Poster Final.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/P6%20Art%20Exhibition/P6%20Graduation%20Exhibition%202021%20Poster%20Final.png)
+![P6 Graduation Exhibition 2021 Poster Final](/images/P6%20Graduation%20Exhibition%202021%20Poster%20Final.png)
 
 Our Young Artists' Process of Artwork Creation
 ----------------------------------------------
 
-![artist process 1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/P6%20Art%20Exhibition/artist%20process%201.png)  
- ![artist process 2.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/P6%20Art%20Exhibition/artist%20process%202.png)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![artist process 3.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/P6%20Art%20Exhibition/artist%20process%203.png)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![artist process 4.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/P6%20Art%20Exhibition/artist%20process%204.png)  
-  
+![Our Young Artists' Process of Artwork Creation](/images/P6%20grad%202.png)
 
-![](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/Events/2020%20Events/P6%20Art%20Exhibition/6.png)
+![Our Young Artists' Process of Artwork Creation](/images/P6%20grad%203.png)
+
+![Our Young Artists' Process of Artwork Creation](/images/P6%20grad%204.png)
 
 P6 Art Graduation Exhibition Launch
 -----------------------------------
