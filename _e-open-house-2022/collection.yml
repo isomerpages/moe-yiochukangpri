@@ -2,6 +2,7 @@ collections:
   e-open-house-2022:
     output: true
     order:
+      - Staff Spotlight/Ms Lim Huey Ling.md
       - Staff Spotlight/Mdm Salina Binte Akiak.md
       - Staff Spotlight/.keep
       - Our People/.keep
