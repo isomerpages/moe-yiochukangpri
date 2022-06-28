@@ -6,9 +6,7 @@ description: ""
 About Raffles Student Care
 --------------------------
 
-  
-![pict3.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/For%20Parents/pict3.jpg)  
-
+![](/images/Raffles%20Student%20Care.jpg)
   
 
 Raffles Student Care Centre (RSCC) is guided by its vision of "Building the Next Generation". It aims to inculcate in its students the core values of Resilience, Responsibility, Respect and Compassion. Through daily activities, it hopes to instill these values so that they may develop into responsible and contributing members of society. In addition to regular student care services, Raffles Student Care seeks to be a safe haven for disadvantaged students where they can be productively engaged. For students from low-income families, RSCC provides fee waivers and subsidies wherever possible. In addition, it actively provides support to at-risk families who may need assistance.
