@@ -89,116 +89,43 @@ All our Primary 3 students go on a learning journey to experience viewing a perf
 
 ![](/images/LLP11.png)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Museum Education Programme&nbsp;
+**Museum Education Programme&nbsp;**
 
 The key outcome for Museum Education Programme is for our students to experience integrated learning of Art, English and Social Studies through their interaction with museum artefacts in a museum setting. Prior to 2020, Primary 2 students would go to the Philatelic Museum and Primary 5 students would go to Asian Civilisation Museum to&nbsp;**discover new learning and make connections**&nbsp;to what they have learnt in class.
 
-  
-
 ![llp2](/images/llp2.png)
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Primary 6 Graduation Art Exhibition
+**Primary 6 Graduation Art Exhibition**
 
 At the end of each year, Primary 6 students put up a Graduation Art Exhibition to showcase the culmination of our students’ art education journey after six years of primary school life. Each student would have&nbsp;**developed sound social emotional skills, life skills and artistic skills to be able to create such meaningful Art.**&nbsp;&nbsp;
 
 In 2021, the theme for the Graduation Art Exhibition was Time. Students ideate and create works of art that show the past, present and future. There is also an e-Exhibition to allow for greater access to the Exhibition and for more students’ works to be displayed.
 
   
+![](/images/LLP14.png)
 
-![LLP 4.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/LLP%20UPDATE/LLP%204.jpg)![LLP 6.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/LLP%20UPDATE/LLP%206.jpg)  
+![](/images/LLP15updated.png)
 
-  
-
-  
-
-  
-
-![LLP update 21.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2021.jpg)
-
-![LLP update 22.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2022.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-![llp update 42.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/llp%20update%2042.png)
-
-![LLP 8.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/LLP%20UPDATE/LLP%208.jpg)![LLP 7.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/LLP%20UPDATE/LLP%207.jpg)
-
-![LLP 9.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/LLP%20UPDATE/LLP%209.jpg)
-
-Aesthetics Week
+**Aesthetics Week**
 
 Aesthetics Week is a regular feature in the school calendar with special Arts events and activities organized to expose our students to different art forms and artistic experiences.
 
 In 2021, the theme of Aesthetics Week was ‘**Loving our World**’. The Music teachers shared songs about the environment with the students while the Art teachers organized the whole school to complete a school-wide recyclable mural using bottle caps and plastic bags.&nbsp;_\[Click&nbsp;here_&nbsp;_to see how the mural was created.\]_&nbsp;The virtual finals of the YCKPS Got Talent Competition 2020/2021 allowed all our students to enjoy a range of diverse performances by their talented schoolmates.
 
-  
+ ![](/images/LLP16.png)
 
-![LLP update 28.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2028.jpg)
-
-![LLP update 26.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2026.jpg)
-
-  
-
-![LLP update 27.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2027.jpg)![LLP update 29.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2029.jpg)
 
 In 2022, the theme of Aesthetics Week was ‘**Arts in Bloom**’ to encourage students to explore the Arts in our school, especially in our school garden. During Art lessons, students created abstract painting using nature and mini clay sculptures that represented nature. For Music lessons, students were introduced to ambisonic soundscapes and created their own musical compositions using sounds recorded around the school. There were also numerous fringe events, including a Photography Exhibition, Music Boards for students to play with during recess, a Virtual Art Gallery, Poetry display and even a fashion display by teachers!
 
-![LLP update 30.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2030.png)
+![](/images/LLP17.png)
 
-![LLP update 31.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2031.png)
+![](/images/LLP18.png)
 
-![LLP update 32.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2032.png)
+![](/images/LLP19.png)
 
-![LLP update 33.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2033.png)  
+![](/images/LLP20.png)
 
-  
-
-  
-
-**Tier 2 – Exploration of the Arts**
+#### **Tier 2 – Exploration of the Arts**
 
 Students who are interested to explore and pursue their interest in the Arts are able to choose from seven Arts-related CCAs offered in the school, namely
 
@@ -212,50 +139,25 @@ Students who are interested to explore and pursue their interest in the Arts are
 
 Students of these CCAs have the opportunity to deepen their learning, involvement and exposure in the Arts, enabling them to&nbsp;**develop skills and competencies**&nbsp;in their chosen area of specialisation. CCA activities also aim to inculcate values in our students, hone their social and emotional competencies, build their character and help them forge friendships with students of diverse backgrounds.
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 717px; height: 400px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 711px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="LLP29.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP29.png"></td></tr></tbody></table>
+![](/images/LLP21.png)
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 713px; height: 221px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 707px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="LLP30.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP30.png"></td></tr></tbody></table>
-
-Community Engagement through the Arts
+**Community Engagement through the Arts**
 
 Our Tier 2 programmes also give our students the opportunity to use their artistic talents and skills to engagement with the community. In recent years, our students have put up &nbsp;performances at Ci Yuan CC and Meranti Home during events and festive celebrations. Our students have also presented their artwork to seniors at the Jia Ying Senior Activity Centre.
 
-  
+![](/images/LLP22.png)
 
-![LLP update 36.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2036.jpg)
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 742px; height: 255px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 736px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="LLP31.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP31.png"></td></tr></tbody></table>
-
-Enrichment Programmes for Members of Arts CCAs
+**Enrichment Programmes for Members of Arts CCAs**
 
 To provide our interested students with greater exposure and experiences, members of the Performing Arts CCA groups also view public performances at external venues. Similarly, members of Visual Arts Club view artworks exhibited by other schools and at museums. Members of Arts CCAs are also given opportunities to interact with professional art practitioners in authentic settings such as dance studios and art studios. This allows them to learn from observation of others,&nbsp;**as part of their journey of self-discovery**&nbsp;so that they can improve on their own skills and techniques.&nbsp;
 
-**Tier 3 – Excellence in the Arts**
+#### **Tier 3 – Excellence in the Arts**
 
 Students with strong passion and relevant dispositions in the arts will platforms to further develop and refine their skills. They will be encouraged to strive for excellence in the Arts through external performances (such as the school musical), exhibitions in collaboration with external agencies and competitions.
 
-Students not only polish their artistic skills in these months of preparation. The preparation process teaches students resilience, self and social awareness, self-management and care for self and others. Students further develop leadership and life skills throughout this unique learning platform and grow into a more independent and reliable individual. In 2017, the school put up Disney’s&nbsp;_Mulan The Musical_&nbsp;at Agape Concert Hall, which involved 50 students in the cast and 103 students from Performing Arts groups.
+Students not only polish their artistic skills in these months of preparation. The preparation process teaches students resilience, self and social awareness, self-management and care for self and others. Students further develop leadership and life skills throughout this unique learning platform and grow into a more independent and reliable individual. In 2017, the school put up Disney’s&nbsp;_Mulan The Musical_&nbsp;at Agape Concert Hall, which involved 50 students in the cast and 103 students from Performing Arts groups.![](/images/LLP24.png)
 
-  
-
-![LLP update 38.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2038.jpg)![LLP update 39.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2039.jpg)![LLP update 40.jpg](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/LLP%20update%2040.jpg)
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-![llp update 43.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/LLP%20updates/llp%20update%2043.png)  
-
-  
+![](/images/LLP23.png)
 
   
 
