@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Principal/.keep
-      - Our Principal.md
       - Our People.md
       - Virtual School Tour.md
       - Staff Spotlight.md
