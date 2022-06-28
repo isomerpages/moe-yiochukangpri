@@ -4,10 +4,9 @@ permalink: /e-open-house-2022/our-principal
 description: ""
 third_nav_title: Our Principal
 ---
-
-
 An Educator's Message
 ---------------------
+
 Mr Ng Aik Boon, Principal
 -------------------------
 
