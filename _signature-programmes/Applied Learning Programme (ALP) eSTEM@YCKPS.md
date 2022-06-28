@@ -35,7 +35,7 @@ YCKPS strives to achieve the following outcomes in our students through the&nbsp
 
 A three-tier approach is deployed:
 
-![alp 1.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/alp%201.png)  
+![Three-tier approach](/images/three-tier%20approach.png) 
 
   
 
@@ -46,57 +46,17 @@ Assembly talks were held to create awareness on the environmental issues we face
 
 ![alp](/images/alp.png)
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Assembly talk to create awareness on Environment" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier1-5.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Assembly talk to create awareness on Environment" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier1-6.png"></td></tr></tbody></table>
+![Tier 1: Awareness about the Environment](/images/Tier%201%20Awareness%20about%20environment2.png)  
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Assembly talk to create awareness on Environment" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier1-7.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Assembly talk to create awareness on Environment" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier1-8.png"></td></tr></tbody></table>
+*** 
 
-  
+Additionally, the school commemorated the Earth Day where all the lights and fans in the classrooms were switched off to signify the school’s commitment to saving Mother Earth. Students also visited display booths from NEA and reflected on what they had learnt during this day.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
-Assembly talks were held to create awareness on the environmental issues we faced.
+![Tier 1: Awareness about the Environment](/images/Tier%201%20Awareness%20about%20environment3.png)
 
+![Tier 1: Awareness about the Environment](/images/Tier%201%20Awareness%20about%20environment4.png)
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 481px; height: 316px;" class="ive_eobj_center" alt="Earth Day experience" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier1-9.png"></td></tr></tbody></table>
-
-  
-
-The school also has various school facilities to bring the environment closer to every student.
-
-![ALP 2.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%202.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![ALP 3.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%203.png)  
-
-  
+![Tier 1: Awareness about the Environment](/images/Tier%201%20Awareness%20about%20environment5.png)
 
 Tier 2: Connecting with the Environment
 ---------------------------------------
@@ -105,100 +65,66 @@ Students took part in programmes where they gained exposure to the use of techno
 
   
 
-P4&nbsp;EPW – Let’s Go Green
+**P4&nbsp;EPW – Let’s Go Green**
 
 The P4 EPW is on urban greening.&nbsp;The students explored and learnt about the positive impact of greenery on our environment. The lesson package was crafted based on the Five Handy Thinking Tools and Cooperative Learning Strategies, and was infused with impactful&nbsp;Making Thinking Visible (MTV)&nbsp;routines. On top of that, a Code for Fun workshop was incorporated in this&nbsp;EPW where our students learnt basic programming and computational thinking skills as they infused the use of micro:bits in hydroponics&nbsp;or in designing a smart home.
 
-  
+![Five Handy Thinking Tool with Exit Tickets](/images/TIer%202%20Connecting%20with%20the%20enviroment1.png) **Five Handy Thinking Tool with Exit Tickets**
 
-  
-![P4 EPW Lets' Go Green programme](https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-1.png)![P4 EPW Lets' Go Green programme](https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-2.png)![ALP 18.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2018.png)  
+![Learning and working with one another](/images/TIer%202%20Connecting%20with%20the%20enviroment2.png) **Learning and working with one another**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 371px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;">Five Handy Thinking Tool with Exit Tickets</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+![Presenting their work](/images/TIer%202%20Connecting%20with%20the%20enviroment3.png) **Presenting their work**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; height: 209px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 274px; height: 205px;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-3.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 271px; height: 203px;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-4.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 273px; height: 204px;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-5.png"></td></tr></tbody></table>
+![Applying the use of technology in the growing of plants and in the designing of smart homes](/images/TIer%202%20Connecting%20with%20the%20enviroment4.png) **Applying the use of technology in the growing of plants and in the designing of smart homes**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 744px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 282px; height: 187px;" class="ive_eobj_left" alt="ALP 4.png" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%204.png"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 280px; height: 183px;" class="ive_eobj_left" alt="ALP 5.png" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%205.png"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 271px; height: 179px;" class="ive_eobj_left" alt="ALP 6.jpg" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%206.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Learning and working with one another</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-7.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-8.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;">Presenting their work</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 247px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-11.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 247px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 240px; height: 170px;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-12.png"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="ALP 7.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%207.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 247px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P4 EPW Lets' Go Green programme" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P4EPW/Tier%202-EPW-14.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="3"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Applying the use of technology in the growing of plants and in the designing of smart homes</span></b><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody></table>
-
-  
-
-P5 EPW - Every Drop Counts
-
-  
+**P5 EPW - Every Drop Counts**
 
 The P5&nbsp;EPW is on water conservation. In addition to the learning in school, the students went to the NEWater Visitor Centre to find out more about one of Singapore’s national taps. Furthermore, the students collaborated in teams and created their own artefacts. They showcased their final products and educated the audiences on the importance of conserving water during the VIA Exposition week.
 
+ ![Co-construction of learning with peers](/images/TIer%202%20Connecting%20with%20the%20enviroment5.png)
   
+![Co-construction of learning with peers](/images/TIer%202%20Connecting%20with%20the%20enviroment6.png)	**Co-construction of learning with peers**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; height: 321px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-1.png"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="ALP 7.jpg" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%207.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 422px; height: 280px;" class="ive_eobj_left" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-2.png"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 421px; height: 312px;" class="ive_eobj_left" alt="ALP 8.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%208.png"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+![Learning how the used water is treated at the NEWater Visitor Centre](/images/TIer%202%20Connecting%20with%20the%20enviroment7.png) **Learning how the used water is treated at the NEWater Visitor Centre**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="ALP 9.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%209.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="ALP 10.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2010.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;">Co-construction of learning with peers</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+![Showcasing their products and educating the audiences on the importance of water conservation during VIA Exposition week](/images/TIer%202%20Connecting%20with%20the%20enviroment8.png) **Showcasing their products and educating the audiences on the importance of water conservation during VIA Exposition week**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 232px; height: 309px;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-5.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 236px; height: 313px;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-6.png"></td></tr></tbody></table>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-7.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-8.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;">Learning how the used water is treated at the NEWater Visitor Centre</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-9.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-10.png"></td></tr></tbody></table>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-11.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="P5 EPW - Every Drop Counts" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P5EPW/Tier2-P5EPW-12.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" align="center"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;">Showcasing their products and educating the audiences on the importance of water conservation during VIA Exposition week</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-  
-
-P6&nbsp;EPW – Save the Earth
+**P6&nbsp;EPW – Save the Earth**
 
 The P6 EPW is on global warming. Issues relating to the conservation of the environment and Man’s impact on the environment are being discussed in the P6&nbsp;EPW. Similar to the other&nbsp;EPWs, students co-constructed their knowledge and skills with their peers. The P6 students collaborated in groups to present what they have learnt.
 
   
+![Five Handy Thinking Tools](/images/TIer%202%20Connecting%20with%20the%20enviroment9.png) **Five Handy Thinking Tools**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 744px;"><img style="margin: 0px; outline: none; padding: 0px; border: none;" alt="P6 EPW - Save the Earth" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier2/P6EPW/Tier2-P6EPW-1.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Five Handy Thinking Tools</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+![Presenting their final work](/images/TIer%202%20Connecting%20with%20the%20enviroment10.png) **Presenting their final work**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 781.5px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="ALP 11.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2011.png"><img style="margin: 0px; outline: none; padding: 0px; border: none;" width="16" src="https://yiochukangpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" id="ive_eobj_carrier"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 423px; height: 236px;" class="ive_eobj_left" alt="ALP 13.png" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2013.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 410px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 409px; height: 229px;" class="ive_eobj_left" alt="ALP 12.gif" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2012.gif"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 413px; height: 300px;" class="ive_eobj_left" alt="ALP 14.png" width="100%" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2014.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;">Presenting their final work</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+
 
   
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As part of their graduation, the P6 students shared their reflections about environmental issues through Art and their art pieces were put up for exhibition in school.
 
-![ALP 15.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2015.png)  
+![](/images/TIer%202%20Connecting%20with%20the%20enviroment11.png)  
 
 Tier 3: Extending the Learning about the Environment
 ----------------------------------------------------
 
 For students with greater interest and aptitude, they can participate in additional activities or competitions to enhance their experiences and extend their learning about the environment.
 
-  
+**Greening Schools for Biodiversity Enrichment Programme:**  
 
-Greening Schools for Biodiversity Enrichment Programme  
-
-  
-
- ![ALP 16.png](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2021/ALP%20UPDATE/ALP%2016.png)  
-
-
+![Students designed and conducted a learning trail for their fellow classmates](/images/Tier%203_1.png)
 **Students designed and conducted a learning trail for their fellow classmates**
 
-2018 Singapore Youth Science Fair
+**2018 Singapore Youth Science Fair:**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 247px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 239px; height: 211px;" class="ive_eobj_center" alt="Tier 3 - Singapore Youth Science Fair" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Science%20Fair/Tier3-ScienceFair-1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 247px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 173px; height: 211px;" class="ive_eobj_center" alt="Tier 3 - Singapore Youth Science Fair" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Science%20Fair/Tier3-ScienceFair-2.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 247px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 234px; height: 211px;" class="ive_eobj_center" alt="Tier 3 - Singapore Youth Science Fair" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Science%20Fair/Tier3-ScienceFair-3.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Applying heat to recycled plastic bags until they fused together</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Testing the strength of fused plastic bags</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Creating a new product from the recycled plastic bags</b></td></tr></tbody></table>
+![](/images/Tier%203_2.png)
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 304px; height: 452px;" class="ive_eobj_center" alt="Tier 3 - Singapore Youth Science Fair" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Science%20Fair/Tier3-ScienceFair-4.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 371px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 302px; height: 453px;" class="ive_eobj_center" alt="Tier 3 - Singapore Youth Science Fair" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Science%20Fair/Tier3-ScienceFair-5.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">The students with their project – they achieved a Distinction award for their project!</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Presenting their project to Prof Lim Tit Meng, Chief Executive of Science Centre Singapore</b></td></tr></tbody></table>
+![](/images/Tier%203_3.png)
 
-  
+**17th Elementz Science Project Competition &amp; Exhibition:**
 
-  
-
-17th Elementz Science Project Competition &amp; Exhibition
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 419px; height: 235px;" class="ive_eobj_center" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Elementz/Tier3-Elementz-1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 411px; height: 236px;" class="ive_eobj_center" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Elementz/Tier3-Elementz-12.png"></td></tr></tbody></table>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 847.5px; height: 332px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 847px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 345px; height: 258px;" class="ive_eobj_center" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/ALP/Tier3/Elementz/Tier3-Elementz-3.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">This team of P5 students investigated and presented on the importance of plants in the filtration of rain water to give us cleaner water</b></td></tr></tbody></table>
-
-  
+![This team of P5 students investigated and presented on the importance of plants in the filtration of rain water to give us cleaner water](/images/Tier%203_4.png)**This team of P5 students investigated and presented on the importance of plants in the filtration of rain water to give us cleaner water**
 
 \*Photos were taken before COVID-19.
