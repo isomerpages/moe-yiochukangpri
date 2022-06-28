@@ -33,9 +33,15 @@ Through this programme, the school&nbsp;aims&nbsp;to:&nbsp;
 
 &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Active Contributors**&nbsp;who collaborate effectively with others, share and care for others and strives for excellence.&nbsp;
 
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Concerned Citizens**&nbsp;who take an active role in bettering the lives of others around them.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Concerned Citizens**&nbsp;who take an active role in bettering the lives of others around them. 
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 740px; height: 165px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 242px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 239px; height: 133px;" class="ive_eobj_center" alt="LLP01.jpg" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP01.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 242px; height: 135px;" class="ive_eobj_center" alt="LLP02.jpg" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP02.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 237px; height: 134px;" class="ive_eobj_center" alt="LLP03.jpg" src="https://yiochukangpri.moe.edu.sg/qql/slot/u746/CREATE@YCKPS/LLP03.jpg"></td></tr></tbody></table>
+![](/images/LLP01.jpg)
+
+![](/images/LLP02.jpg)
+
+![](/images/LLP03.jpg)
+
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 740px; height: 165px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 242px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 239px; height: 133px;" class="ive_eobj_center" alt="LLP01.jpg" src="/images/LLP01.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 242px; height: 135px;" class="ive_eobj_center" alt="LLP02.jpg" src="/images/LLP02.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 237px; height: 134px;" class="ive_eobj_center" alt="LLP03.jpg" src="/images/LLP03.jpg"></td></tr></tbody></table>
 
   
 
