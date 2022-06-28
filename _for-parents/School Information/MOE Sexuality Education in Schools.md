@@ -4,7 +4,6 @@ permalink: /for-parents/school-notifications-communications-materials/moe-sexual
 description: ""
 third_nav_title: School Information
 ---
-
 **Yio Chu Kang Primary School**
 
 **Moe Sexua****l****ity Education in Schools**
@@ -207,7 +206,7 @@ c.        Character and Citizenship Education (CCE)
 
 8.        Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.        Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2022/parents%20briefing%20slides/Annex%20A_Opt%20Out%20Form.pdf). The completed opt-out form is to be submitted by 28/01/2022.
+9.        Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A_OptOut.pdf). The completed opt-out form is to be submitted by 28/01/2022.
 
 10.      Parents can contact the school at 6385 1365 or email [admin\_yckps@moe.edu.sg](mailto:admin_yckps@moe.edu.sg)  for discussion or to seek clarification about the school’s sexuality education programme.
 
