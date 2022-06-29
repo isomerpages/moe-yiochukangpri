@@ -127,3 +127,13 @@ From left to right:
   
 
 2nd row:       Mdm Chen Li Fen, Zhan Ruiang, Balasubramanian Haresh Joven, Ganvkar Aaryan Sanjay, Jeren Lo Yu Kai, Tristan Denzil D'souza, Yip Zheng Rong, Cheng Li Yuan, Wang Sihan, Mdm Poh, Mr Wong
+
+Primary Mathematics World Contest
+---------------------------------
+Our selected P4 and P6 high progressive learners also participated in the Raffles Institution Mathematics Primary World Contest (RIPMWC).
+
+ ![Primary Mathematics World Contest](/images/Primary%20Mathematics%20World%20Contest.jpg)
+
+From left to right:
+
+Sun Yutong, Wong Xiao Han, Tristan Denzil D’ Souza, Isaac Chai Yu Feng, Triniece Ong Xin Ting, Inez Chai Yu En, Daniel Joseph, Kaliyappan Periyanan Niranjjanravi, Balamurugan Vishwa, Saathvika Hari Gopal, Mdm Poh, Mr Wong
