@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue/CL Key Programmes and Activities.md
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/.keep
       - Science/.keep
