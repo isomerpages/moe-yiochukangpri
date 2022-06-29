@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/2019 Earth Day.md
       - "CCE/Integration Programme: Workshop for International Students.md"
       - CCE/Values In Action(VIA) Exposition 2019.md
       - CCE/2019 P3 VIA Buddy Clean Workshop.md
