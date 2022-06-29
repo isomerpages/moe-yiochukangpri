@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Physical   Health Education/Key Programmes and Activities.md
-      - Physical   Health Education/Physical Education Health Education.md
       - Physical   Health Education/.keep
+      - Physical   Health Education/Physical Education Health Education.md
+      - Physical   Health Education/Key Programmes and Activities.md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Values In Action & Environment.md
