@@ -7,13 +7,13 @@ third_nav_title: English Language
 Flagship Programmes
 -------------------
 
-### **STELLAR:** **STrategies for English Language Learning And Learning Primary 1 – Primary 6**
+### **STELLAR:** **STrategies for English Language Learning And Learning Primary 1 – Primary 6** 
 
-![](/images/STELLAR1.jpg)
+<img src="/images/STELLAR1.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 STELLAR aims to strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through the use of well-established, learner-centred and developmentally appropriate pedagogical approaches using authentic children's literature.
 
-![](/images/STELLAR2.png)
+<img src="/images/STELLAR2.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 #### **The three key strategies at the lower-primary level:**
 
@@ -33,7 +33,7 @@ STELLAR aims to strengthen both language and reading skills as well as promote a
 
 ### **Primary 1 – Primary 5**
 
-![](/images/HolisticAssesment.png)
+<img src="/images/HolisticAssesment.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 ### 
 
@@ -55,13 +55,11 @@ As part of the school’s efforts in bolstering the oral competencies in our stu
 *   Story-telling: Primary 3
 *   Speech & Presentation: Primary 4
 
-
-
 <img src="/images/Oratical%20Programmes1.png" style="width:183px;height:240px;margin-left:15px;" align = "left">
 
 <img src="/images/Oratical%20Programmes2.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
-<br>
+****
 
 ### DEAR: **D**rop **E**verything **A**nd **R**ead Programme
 
