@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue/Department Achievements.md
       - Mother Tongue/TL Key Programmes and Activities.md
       - Mother Tongue/ML Key Programmes and Activities.md
       - Mother Tongue/CL Key Programmes and Activities.md
