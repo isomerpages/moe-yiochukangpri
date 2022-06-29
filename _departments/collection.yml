@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Science/Achievements.md
-      - Science/Key Programmes and Activities.md
-      - Science/Science.md
       - Science/.keep
+      - Science/Science.md
+      - Science/Key Programmes and Activities.md
+      - Science/Achievements.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Key Programmes and Activities.md
