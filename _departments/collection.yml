@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - English Language/Achievements.md
-      - English Language/Key Programmes and Activities.md
-      - English Language/English Language.md
       - English Language/.keep
+      - English Language/English Language.md
+      - English Language/Key Programmes and Activities.md
+      - English Language/Achievements.md
