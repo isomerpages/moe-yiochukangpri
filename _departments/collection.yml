@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/2019 Total Defence Day.md
       - CCE/2019 International Friendship Day.md
       - CCE/2019 Earth Day.md
       - "CCE/Integration Programme: Workshop for International Students.md"
