@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics/Achievements.md
-      - Mathematics/Key Programmes and Activities.md
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Key Programmes and Activities.md
+      - Mathematics/Achievements.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Key Programmes and Activities.md
