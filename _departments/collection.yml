@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical   Health Education/Key Programmes and Activities.md
       - Physical   Health Education/Physical Education Health Education.md
       - Physical   Health Education/.keep
       - CCE/.keep
