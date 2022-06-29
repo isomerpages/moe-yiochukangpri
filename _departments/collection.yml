@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/YCKPS Career Day.md
       - CCE/Civil Defence (CD) Lionhearters Training.md
       - CCE/Civil Defence Junior Lionhearters Challenge.md
       - CCE/Racial Harmony Day.md
