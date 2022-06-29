@@ -2,21 +2,21 @@ collections:
   departments:
     output: true
     order:
-      - CCE/2019 Total Defence Day.md
-      - CCE/2019 International Friendship Day.md
-      - CCE/2019 Earth Day.md
-      - "CCE/Integration Programme: Workshop for International Students.md"
-      - CCE/Values In Action(VIA) Exposition 2019.md
-      - CCE/2019 P3 VIA Buddy Clean Workshop.md
-      - CCE/2019 Tray Return Outreach Programme.md
-      - CCE/Internalisation Programme.md
-      - CCE/YCKPS Career Day.md
-      - CCE/Civil Defence (CD) Lionhearters Training.md
-      - CCE/Civil Defence Junior Lionhearters Challenge.md
-      - CCE/Racial Harmony Day.md
-      - CCE/Values In Action & Environment.md
-      - CCE/Character & Citizenship Education (CCE).md
       - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Values In Action & Environment.md
+      - CCE/Racial Harmony Day.md
+      - CCE/Civil Defence Junior Lionhearters Challenge.md
+      - CCE/Civil Defence (CD) Lionhearters Training.md
+      - CCE/YCKPS Career Day.md
+      - CCE/Internalisation Programme.md
+      - CCE/2019 Tray Return Outreach Programme.md
+      - CCE/2019 P3 VIA Buddy Clean Workshop.md
+      - CCE/Values In Action(VIA) Exposition 2019.md
+      - "CCE/Integration Programme: Workshop for International Students.md"
+      - CCE/2019 Earth Day.md
+      - CCE/2019 International Friendship Day.md
+      - CCE/2019 Total Defence Day.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/CL Key Programmes and Activities.md
