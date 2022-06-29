@@ -28,5 +28,5 @@ Primary 3 Learning Journey to Singapore Art Museum
 ![Primary 6 Graduation Art Exhibition](/images/Primary%206%20Gradution%20Art.png)
 Primary 6 Graduation Art Exhibition
 
-![AestheticWeek2011](/images/AestheticsWeek2011.png)
-AestheticWeek2011
+![Aesthetic Week 2011](/images/AestheticsWeek2011.png)
+Aesthetic Week 2011
