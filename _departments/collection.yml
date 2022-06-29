@@ -2,13 +2,24 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/Key Programmes and Activities.md
-      - Aesthetics/Achievements.md
-      - Physical   Health Education/.keep
-      - Physical   Health Education/Physical Education Health Education.md
-      - Physical   Health Education/Key Programmes and Activities.md
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/Key Programmes and Activities.md
+      - English Language/Achievements.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Key Programmes and Activities.md
+      - Mathematics/Achievements.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Key Programmes and Activities.md
+      - Science/Achievements.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/CL Key Programmes and Activities.md
+      - Mother Tongue/ML Key Programmes and Activities.md
+      - Mother Tongue/TL Key Programmes and Activities.md
+      - Mother Tongue/Department Achievements.md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Values In Action & Environment.md
@@ -24,21 +35,10 @@ collections:
       - CCE/2019 Earth Day.md
       - CCE/2019 International Friendship Day.md
       - CCE/2019 Total Defence Day.md
-      - Mother Tongue/.keep
-      - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/CL Key Programmes and Activities.md
-      - Mother Tongue/ML Key Programmes and Activities.md
-      - Mother Tongue/TL Key Programmes and Activities.md
-      - Mother Tongue/Department Achievements.md
-      - Science/.keep
-      - Science/Science.md
-      - Science/Key Programmes and Activities.md
-      - Science/Achievements.md
-      - Mathematics/.keep
-      - Mathematics/Mathematics.md
-      - Mathematics/Key Programmes and Activities.md
-      - Mathematics/Achievements.md
-      - English Language/.keep
-      - English Language/English Language.md
-      - English Language/Key Programmes and Activities.md
-      - English Language/Achievements.md
+      - Physical   Health Education/.keep
+      - Physical   Health Education/Physical Education Health Education.md
+      - Physical   Health Education/Key Programmes and Activities.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Key Programmes and Activities.md
+      - Aesthetics/Achievements.md
