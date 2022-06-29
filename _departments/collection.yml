@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics/Achievements.md
-      - Aesthetics/Key Programmes and Activities.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Key Programmes and Activities.md
+      - Aesthetics/Achievements.md
       - Physical   Health Education/.keep
       - Physical   Health Education/Physical Education Health Education.md
       - Physical   Health Education/Key Programmes and Activities.md
