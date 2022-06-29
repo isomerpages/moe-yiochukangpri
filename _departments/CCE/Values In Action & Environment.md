@@ -142,19 +142,19 @@ The student leaders were taught the "Feel-Imagine-Do-Share "thinking design mode
 
 ![](/images/VIA%2016.png)
 
-![This group feels that students are misplacing their belongings in school, hence they decided to enhance the lost and found corner and worked on promoting the importance of being responsible for one's belongings.](/images/VIA%2017.png)
+![This group feels that students are misplacing their belongings in school, hence they decided to enhance the lost and found corner and worked on promoting the importance of being responsible for one's belongings.](/images/VIA%2017%20updated.png)
 This group feels that students are misplacing their belongings in school, hence they decided to enhance the lost and found corner and worked on promoting the importance of being responsible for one's belongings.
 
 ![This group hopes to educate students and their parents by providing easier drop-off in the morning to ease the traffic jam. Hence,they came up with a mock-up of the school’s drop-off point, hoping that will entice students to be more mindful when they’re dropping off in the morning.](/images/VIA%201.png)
 This group hopes to educate students and their parents by providing easier drop-off in the morning to ease the traffic jam. Hence,they came up with a mock-up of the school’s drop-off point, hoping that will entice students to be more mindful when they’re dropping off in the morning.
 
-![The group working on "Healthy Snack Break" was concerned that their schoolmates were eating unhealthy snacks during their snack breaks. They created a song and mascots to raise awareness among their schoolmates on healthy snacks. They also designed and gave out flyers to inform parents to prepare healthier snacks for their children as well.](/images/VIA%2018.png)
+![The group working on "Healthy Snack Break" was concerned that their schoolmates were eating unhealthy snacks during their snack breaks. They created a song and mascots to raise awareness among their schoolmates on healthy snacks. They also designed and gave out flyers to inform parents to prepare healthier snacks for their children as well.](/images/VIA%2018%20updated.png)
 The group working on "Healthy Snack Break" was concerned that their schoolmates were eating unhealthy snacks during their snack breaks. They created a song and mascots to raise awareness among their schoolmates on healthy snacks. They also designed and gave out flyers to inform parents to prepare healthier snacks for their children as well.
 
 ![The group that worked on "Saving Electricity" rode on the popularity Pokemon and created posters to be put outside the school's toilet to remind their schoolmates to save electricity.](/images/VIA%2019.png)
 The group that worked on "Saving Electricity" rode on the popularity Pokemon and created posters to be put outside the school's toilet to remind their schoolmates to save electricity.
 
-![](/images/VIA%2020.png)
+![Student leaders that belonged to the group "The Blind Spot" witnessed how their schoolmates bumped into each other around the blind spots in school, so they created comic strips to raise awareness of the importance of safety around a bend. They conducted a pre-assembly talk to share with the school about their concerns too.](/images/VIA%2020%20updated.png)
 Student leaders that belonged to the group "The Blind Spot" witnessed how their schoolmates bumped into each other around the blind spots in school, so they created comic strips to raise awareness of the importance of safety around a bend. They conducted a pre-assembly talk to share with the school about their concerns too.
 
 
