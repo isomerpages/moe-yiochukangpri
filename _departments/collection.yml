@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical   Health Education/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Values In Action & Environment.md
