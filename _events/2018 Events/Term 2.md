@@ -59,7 +59,7 @@ Our Primary 4 Chinese Language students had an enriching afternoon once again! T
 **Blowing Painting (吹画), Wushu (武术)**
   
 
-Come over&nbsp;**[here](https://yiochukangpri.moe.edu.sg/departments/mother-tongue/cl-key-programmes-activities/cl-key-programmes-activities)**&nbsp;to find out more!
+Come over&nbsp;**[here](/departments/mother-tongue/cl-key-programmes-activities/cl-key-programmes-activities)**&nbsp;to find out more!
 
   
   
