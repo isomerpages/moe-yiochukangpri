@@ -96,3 +96,6 @@ Besides the Model Drawing modules, all pupils from Primary one to Primary six ar
 The Number Rumble is a Mathematical number game designed to allow pupils to learn Math in a fun and educational way. It hopes to stimulate the interest of pupils in the learning of Math as well. The game will be held once in every term for all the classes. For each term, three winners will be identified and at the end of the year, there will be a Level Challenge where the best of all the classes will come together and compete with one another. Three level winners will subsequently be singled out and each will obtain a medal.
 
 ![](/images/math_dept_6.png)
+
+<img src="/images/math_dept_6.png"  
+style="width:80%">
