@@ -30,7 +30,7 @@ The P5 students attended a 3D2N Residential Camp at the Dairy Farm Outdoor Adven
 
 ![](/images/2018%20Primary%205%20Cohort%20Camp2.png)
 
-Click&nbsp;**[here](https://yiochukangpri.moe.edu.sg/departments/physical-education-health-education/key-programmes-activities)**&nbsp;for more pictures of the activities done at the camp!
+Click&nbsp;**[here](/departments/physical-education-health-education/key-programmes-activities)**&nbsp;for more pictures of the activities done at the camp!
   
 #### **Earth Day 2018**  
   
