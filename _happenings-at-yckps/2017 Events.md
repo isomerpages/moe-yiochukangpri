@@ -292,3 +292,8 @@ The selection process for the head and vice head prefect, councillors and prefec
 Our Principal and Vice-Principals pinning on the badges for the newly appointed Prefects.
 
 ![Head Prefect leading the prefects and councillors of 2017 in the Prefects' Pledge.](/images/Prefects'%20Investiture2.png)
+Head Prefect leading the prefects and councillors of 2017 in the Prefects' Pledge.
+
+![Presenting to you YCKPS Councillors and Prefects of 2017.](/images/Prefects'%20Investiture3.png)
+Presenting to you YCKPS Councillors and Prefects of 2017.
+
