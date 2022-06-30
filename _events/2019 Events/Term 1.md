@@ -18,7 +18,8 @@ Sun, sea and lots of sunblock! The whole P6 cohort spent a morning at Kallang Ba
 
 ![All oars on deck](/images/P6%20Dragon%20Boating5.png)
 
-![P6 Dragon Boating Experience](/images/P6%20Dragon%20Boating6.jpg)
+<img src="/images/P6%20Dragon%20Boating6.jpg"  
+style="width:60%">
 
 #### **Total Defence Day (TDD) Commemoration (11 Feb 2019)**
 
