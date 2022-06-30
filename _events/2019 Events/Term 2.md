@@ -100,17 +100,21 @@ We worked hand in hand with NEA to ensure a clean environment towards a livable 
 
 At the end of the programme, the Eco-Monitors reflected that cleanliness of public spaces is the shared responsibility for all members of public and it is important for everyone to play their part.
 
-![Our P4 & P5 Eco-Monitors in action](/images/Tray%20Return%20Outreach%20Programme.png)
+<img src="/images/Tray%20Return%20Outreach%20Programme.png"  
+style="width:80%">
 
-![2019 Tray Return Outreach Programme](/images/Tray%20Return%20Outreach%20Programme2.png)
+<img src="/images/Tray%20Return%20Outreach%20Programme2.png"  
+style="width:80%">
 
-![2019 Tray Return Outreach Programme](/images/Tray%20Return%20Outreach%20Programme3.png)
+<img src="/images/Tray%20Return%20Outreach%20Programme3.png"  
+style="width:80%">
 
 #### **Primary 5 Camp**
 
 For three days and two nights (16 April till 18 April), our P5 students, together with their FT and Co-FT spent their time together at Camp Challenge Sembawang. The students went through activities such as trekking/heritage trails, low and high elements stations, team bonding activities and a campfire segment. All the activities had the aim of providing opportunities for students to display teamwork, leadership and confidence. It also gave them a platform to practise resilience as they overcame challenges. Some of them shared that the high elements stations helped them to overcome their fear of heights. Others highlighted how they worked together to solve some of the problems posed by the low elements/team bonding activities. Indeed, we observed that the students enjoyed themselves as they learnt meaningful experiences from the camp.
 
-![All set to go for the camp](/images/Primary%205%20Camp1.jpg)
+<img src="/images/Primary%205%20Camp1.jpg"  
+style="width:60%">
 All set to go for the camp
 
 ![Final briefing before setting off for the trek & our students washing their own utensils after meals](/images/Primary%205%20Camp2.png)
