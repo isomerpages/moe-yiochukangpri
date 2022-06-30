@@ -2,5 +2,6 @@ collections:
   happenings-at-yckps:
     output: true
     order:
+      - 2018 Events.md
       - 2019 Events.md
       - 2020 Events.md
