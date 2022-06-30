@@ -18,8 +18,8 @@ Our students put the different strokes to practice! Some of them grasp the var
 **_Blowing Painting Activity:_** <br>
 From a blot of paint, our students used their creativity to produce a unique and beautiful tree filled with plum blossoms~ They used a short straw and blew carefully in the direction the tree branches were to spread out to.
 
-![](/images/CL%20key%20activities%203.png)
-
+<img src="/images/CL%20key%20activities%203.png"  
+style="width:60%">
 2018 Chinese Cultural Exposure Scheme (CPES)
 --------------------------------------------
 
@@ -89,15 +89,18 @@ Students also make use of the Values Express Programme to express their thoughts
 
 **Term 1**
 
-![](/images/CL%20key%20activities%2011.png)
+<img src="/images/CL%20key%20activities%2011.png"  
+style="width:65%">
 
 **Term 2**
 
-![](/images/CL%20key%20activities%2012.png)
+<img src="/images/CL%20key%20activities%2012.png"  
+style="width:65%">
 
 **Term 3**
 
-![](/images/CL%20key%20activities%2013.png)
+<img src="/images/CL%20key%20activities%2013.png"  
+style="width:65%">
 
 Cultural Performance Education Programme
 ----------------------------------------
