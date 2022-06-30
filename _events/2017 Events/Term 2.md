@@ -48,7 +48,7 @@ This Food Donation Drive is spearheaded by our very own CCE-ViA (Values in Actio
   
 Likewise for this year, all Primary 4 students were engaged in conducting a food donation drive for the non-profit organization, Food From The Heart.  
   
-Click [here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/values-in-action-n-environment) to find out more!  
+Click [here](/departments/character-n-citizenship-education-cce/values-in-action-n-environment) to find out more!  
  
 #### **Values in Action (ViA) Exposition and Kindness Week**  
   
@@ -58,7 +58,7 @@ We held a week long exposition for our students to showcase their projects, as w
 
 This year's ViA Exposition was held in conjunction with Kindness Week.
 
-Come over [here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/values-in-action-n-environment) to see pictures and read up more on what our students did!
+Come over [here](/departments/character-n-citizenship-education-cce/values-in-action-n-environment) to see pictures and read up more on what our students did!
   
 #### **End of Term 2, moving to Term 3**  
 
