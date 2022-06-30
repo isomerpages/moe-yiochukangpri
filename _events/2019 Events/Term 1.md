@@ -80,3 +80,6 @@ As part of the P5 PW, the first group of our P5 students went on a guided tour a
 Our P6 students had a wonderful time at Science Centre Singapore in the last week of Term 1. Each class attended a hands-on workshop and went on a self-exploratory tour around the area. The learning was rich, interesting and meaningful.
 
 ![P6 Learning Journey to Science Centre Singapore](/images/P6%20Learning%20Journey%20to%20Science%20Centre%20Singapore.png)
+
+<img src="/images/P6%20Learning%20Journey%20to%20Science%20Centre%20Singapore.png"  
+style="width:75%">
