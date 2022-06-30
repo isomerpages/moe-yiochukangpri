@@ -58,7 +58,7 @@ Calling out to our recent old boys and girls to come back to YCKPS for a very me
 
   
 
-The Homecoming event was a success! Click [here](https://yiochukangpri.moe.edu.sg/happenings-at-yckps/2019-events) for more details and photos~
+The Homecoming event was a success! Click [here](/happenings-at-yckps/2019-events) for more details and photos~
 
   
   
