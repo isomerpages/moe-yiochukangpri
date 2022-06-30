@@ -31,7 +31,7 @@ STELLAR aims to strengthen both language and reading skills as well as promote a
 
 ### Holistic Assessment: 
 
-### **Primary 1 – Primary 5**
+#### **Primary 1 – Primary 5**
 
 <img src="/images/HolisticAssesment.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
@@ -57,16 +57,16 @@ As part of the school’s efforts in bolstering the oral competencies in our stu
 
 ### DEAR: **D**rop **E**verything **A**nd **R**ead Programme
 
-### Primary 1 – Primary 6
+#### Primary 1 – Primary 6
 
 Believing in reading as a main antecedent of English language proficiency in the various EL skill domains, our school promotes active reading by establishing a pervasive reading culture through our differentiated, data-driven and ICT-based structured reading programme through the identification and matching of students’ Lexile profile (reading comprehension proficiency levels) with age-appropriate books.
 
 
 ### PECS Pre-Assembly Programme:
 
-### **P**romoting  **E**nglish  **C**ulture to  **S**tudents  Programme
+#### **P**romoting  **E**nglish  **C**ulture to  **S**tudents  Programme
 
-### Primary 1 – Primary 6
+#### Primary 1 – Primary 6
 
 In line with the general EL direction of the school and to achieve student outcomes, we see the need to build a robust EL culture within school in which the richness, vibrancy, interest and love for the language can be seeded and flourish within students.
 
@@ -74,8 +74,8 @@ In line with the general EL direction of the school and to achieve student outco
 
 ### PILOT Programme:
 
-### **P**ushing **I**ndividual **L**imits **O**f **T**alent
+#### **P**ushing **I**ndividual **L**imits **O**f **T**alent
 
-### Primary 4 – Primary 5
+#### Primary 4 – Primary 5
 
 Recognising the learning needs of our high ability learners, the EL PILOT programme is calibrated to their learning inclinations in which their potential can be better stretched.
