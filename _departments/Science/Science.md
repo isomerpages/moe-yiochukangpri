@@ -25,7 +25,8 @@ This show is part of the Singapore Science Festival 2018 and it is our second ye
 
 As part of the Singapore Science Festival 2018, Science Centre Singapore had also set up an inflatable float featuring the human digestive system in our school. Our Primary 3 and 4 students had so much fun with the float as they learnt about the digestive system at the same time!
 
-![Inflatable Digestive System](/images/science2.png)
+<img src="/images/science2.png"  
+style="width:75%">
 
 #### **Science Buskers Festival 2018**  
 
