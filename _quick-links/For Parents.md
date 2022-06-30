@@ -47,3 +47,17 @@ Useful Links
 *   P6 2020 Parents Briefing Slides
 *   [P6 2020 Parents Briefing Slides](/files/P6%20Parents%20Briefing_13%20Jan%202021_Web.pdf)
 *   [P5 2021 Parents Briefing Slides](/files/2021%20P5%20Parents%20Briefing_15%20Jan_Sch%20Website.pdf)
+
+Useful Articles
+---------------
+
+  
+
+*   Build Resilience In Your Child **(restricted access!)**
+*   [Cyber Wellness Tip Sheet (Cyber Contacts)](/files/Cyberwellness%20%20Tip%20sheet%20for%20Parents.pdf)
+*   Cyber Wellness - [Handling Online Content Slides] & [Tip Sheet](/files/3B%20%202018%20T2%20Parents%20Tip%20Sheet.pdf) 
+*   Cyber Wellness - Develop your child to be a Positive Peer Influence Online slides & [Tip Sheet](/files/3B)%202018%20T1%20Parents%20Tip%20Sheet.pdf) 
+*   [Five Tips for Parents](https://docs.google.com/a/yckps.edu.sg/viewer?a=v&pid=sites&srcid=eWNrcHMuZWR1LnNnfHlja3BzLWxlYXZlZm9ybXxneDo3NzRiZjc3OWZlNmEzZmQ)
+*   [Resources on Hand Foot Mouth Disease (HFMD)](http://www.hpb.gov.sg/HOPPortal/dandc-article/792)
+*   [Raising your Child for Success](https://www.schoolbag.sg/story/raising-your-child-for-success#.V4xsxet97IX)
+*   [Why Kids should Do Chores](https://www.schoolbag.sg/story/why-kids-should-do-chores#.V1RPLrh97IU)
