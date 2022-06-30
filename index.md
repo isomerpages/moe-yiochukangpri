@@ -12,4 +12,7 @@ sections:
         - title: Quick Links
           description: Click here for quick links!
           url: /quick-links/for-parents
+        - title: Announcements
+          description: Click here for announcements!
+          url: /announcements
 ---
