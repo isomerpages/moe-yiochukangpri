@@ -28,7 +28,7 @@ Rakan Bahasa Newsmaker Competition 2018 (23rd May 2018)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ii8k" colspan="3"><img src="/images/Picture4.png" alt="Picture4.png" width="572" height="376"></th>
+    <th class="tg-ii8k" colspan="3"><img src="/images/Picture4.png" alt="Picture4.png" width="480" height="320"></th>
   </tr>
 </thead>
 <tbody>
