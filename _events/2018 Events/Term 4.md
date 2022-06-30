@@ -38,4 +38,4 @@ VR Kungfu
 #### **Science Buskers Festival 2018**  
   
 
-Science Buskers Festival 2018 serves as a platform for participants to do a “show-and-tell” on any science topic with the aims of developing one’s communication skills through expressions of science in creative manners, and inspiring an interest in science. Two of our teams made it to the grand final!Click&nbsp;[here](https://yiochukangpri.moe.edu.sg/departments/science)&nbsp;to find out more!
+Science Buskers Festival 2018 serves as a platform for participants to do a “show-and-tell” on any science topic with the aims of developing one’s communication skills through expressions of science in creative manners, and inspiring an interest in science. Two of our teams made it to the grand final! Click&nbsp;[here](https://yiochukangpri.moe.edu.sg/departments/science)&nbsp;to find out more!
