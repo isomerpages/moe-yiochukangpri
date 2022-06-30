@@ -53,11 +53,7 @@ As part of the school’s efforts in bolstering the oral competencies in our stu
 *   Story-telling: Primary 3
 *   Speech & Presentation: Primary 4
 
-<img src="/images/Oratical%20Programmes1.png" style="width:183px;height:240px;margin-left:15px;" align = "left">
-
-<img src="/images/Oratical%20Programmes2.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
-
-****
+![Oratorical Programmes](/images/English%20Language%20Oratorical%20Programmes.png)
 
 ### DEAR: **D**rop **E**verything **A**nd **R**ead Programme
 
