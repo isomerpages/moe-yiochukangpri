@@ -11,7 +11,9 @@ third_nav_title: Physical   Health Education
 *   **A**nchoring students in key school values for life-long learning and development through team sports.**
 *   **M**astery of skills for personal development and sports excellence.**
 
-![](/images/PE%20key%20programmes.png)
+
+<img src="/images/PE%20key%20programmes.png"  
+style="width:70%">
 
 2018 P5 Cohort Camp
 -------------------
