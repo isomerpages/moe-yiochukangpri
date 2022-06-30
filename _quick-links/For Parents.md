@@ -61,3 +61,52 @@ Useful Articles
 *   [Resources on Hand Foot Mouth Disease (HFMD)](http://www.hpb.gov.sg/HOPPortal/dandc-article/792)
 *   [Raising your Child for Success](https://www.schoolbag.sg/story/raising-your-child-for-success#.V4xsxet97IX)
 *   [Why Kids should Do Chores](https://www.schoolbag.sg/story/why-kids-should-do-chores#.V1RPLrh97IU)
+
+2021 Book Lists for the Various Levels
+--------------------------------------
+
+  
+Primary 1  
+
+*   [Book list](/files/P1%20Booklist%202021.pdf)
+
+  
+
+**Primary 2**
+
+*   [Book list](/files/P2%20Booklist%202021.pdf)
+  
+
+**Primary 3**
+
+*   [Book list](/files/P3%20Booklist%202021.pdf)
+
+  
+
+**Primary 4**
+
+*   [Book list](/files/P4%20Booklist%202021.pdf)
+
+  
+
+**Primary 5** 
+
+*   [4 Standard Subjects Book list](/files/P5%20Booklist%202021.pdf)
+*   [3 Standard, 1 Foundation Subjects Book list](/files/P5%203S1F%20Booklist%202021.pdf)
+
+**Primary 6**
+
+*   [4 Standard Subjects Book list](/files/P6%20Boolist%202021.pdf)
+*   [4 Foundation Subjects Book list](/files/P6%20Foundation%20Booklist%202021.pdf)
+*   [3 Standard, 1 Foundation Subjects Book list](/files/P6%203S1F%20Booklist.pdf)
+*   [2 Standard, 2 Foundation Subjects(1) Book list](/files/P6%202S2F%20-%201%20Booklist.pdf)
+*   [2 Standard, 2 Foundation Subjects(2) Book list](/files/P6%202S2F%20-%202%20Booklist.pdf)
+
+2021 Textbook, Stationery and Uniform Buying Guide
+--------------------------------------------------
+
+  
+
+*   [Instructions for purchase of textbooks and stationery](https://yiochukangpri.moe.edu.sg/qql/slot/u746/2020/booklist/Intructions%20For%20Purhcase%20of%20Textbooks%20%20Stationery%202020%20(002).pptx)
+*   [Uniform Buying Guide](/files/Uniform%20buying%20guidee.pdf)
+*   [Uniform Order Form](/files/Uniform%20Order%20form.pdf)
