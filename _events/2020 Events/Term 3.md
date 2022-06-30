@@ -6,7 +6,8 @@ third_nav_title: 2020 Events
 ---
 #### **2020 Racial Harmony Day**
 
-![2020 Racial Harmony Day](/images/2020%20Racial%20Harmony%20Day%201.png)
+<img src="/images/2020%20Racial%20Harmony%20Day%201.png"  
+style="width:70%">
 
 Every year, schools commemorate Racial Harmony Day on 21 Jul 2020. This year, we commemorated the event on 13 Jul 2020 as the actual day falls on the unprecedented Term 3 mid-term school break. Nonetheless, the Covid-19 pandemic did not dampen our spirit to commemorate the event. Students and staff supported the event by cladding in colorful ethnic costumes. Besides the usual Assembly Talk, an array of interesting traditional cultural activities were lined up for the students to bring out  the RHD theme - “Multicultural Singapore”.  During PE lessons and CCE lessons, students played traditional games such as Sepak Takraw, Zero-point, Pallanguli and Chapteh with their friends. During recess, they also tried various types of traditional food of different races specially prepared by our canteen vendors.
 
