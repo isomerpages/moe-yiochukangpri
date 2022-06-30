@@ -297,3 +297,9 @@ Head Prefect leading the prefects and councillors of 2017 in the Prefects' Pledg
 ![Presenting to you YCKPS Councillors and Prefects of 2017.](/images/Prefects'%20Investiture3.png)
 Presenting to you YCKPS Councillors and Prefects of 2017.
 
+![](/images/Prefects'%20Investiture_4.jpg)
+
+Chinese New Year Celebration 2017
+---------------------------------
+
+Our annual Chinese New Year Celebration was once again organized successfully! The students watched the performance put up by our Chinese Dance in awe; had fun during the games section; they felt proud of their own classroom when it won as the Best Decorated Classroom for CNY; last but not least, the Lion Dance performance was the finale which livened up the entire atmosphere!
