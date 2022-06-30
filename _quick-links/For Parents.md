@@ -44,8 +44,8 @@ Useful Links
 *   [P3 2020 Parents Briefing Slides](/files/2020%20P3%20Parents%20Briefing%20Session_7%20Feb%202020_website.pdf)
 *   [P4 2020 Parents Briefing Slides](/files/P4%20%20Parents%20Briefing%20Jan%202020.pdf)
 *   [P5 2020 Parents Briefing Slides](/files/2020%20P5%20Parents%20Briefing%20Session_7%20Feb%202020_Website.pdf)
-*   P6 2020 Parents Briefing Slides
-*   [P6 2020 Parents Briefing Slides](/files/P6%20Parents%20Briefing_13%20Jan%202021_Web.pdf)
+*   P6 2020 Parents Briefing Slides **(file too big!)**
+*   [P6 2021 Parents Briefing Slides](/files/P6%20Parents%20Briefing%2013%20Jan%202021%20Web.pdf)
 *   [P5 2021 Parents Briefing Slides](/files/2021%20P5%20Parents%20Briefing_15%20Jan_Sch%20Website.pdf)
 
 Useful Articles
