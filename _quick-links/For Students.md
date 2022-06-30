@@ -36,3 +36,38 @@ Useful Links
 *   [Be A Positive Peer Influence](/files/1B%202018%20T1%20Students%20Assembly%20Slides_Pri.pdf)
 *   [Online Content - Which is Good? Which is Inappropriate?](/files/1B%202018%20T2%20Students%20Assembly%20Slides_Pri.pdf)
 *   [Protect Personal Data Online](/files/1B%202018%20Connect%20T4%20CW%20Reminder_Pri.pdf)
+
+Useful Forms
+------------
+
+  
+
+*   [Application form for Direct School Admission - Secondary School (International Students only)](https://yiochukangpri.moe.edu.sg/qql/slot/u746/Others/Students/2019-dsa-sec-application-form-template-mainstream.docx)
+
+*   Upon completion of above form, please submit it to the General Office.
+*   If one of your parents have a SingPass account, apply through this portal here:  [**DSA-Sec Portal**](https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant)
+
+Cyber Wellness For Students:
+----------------------------
+
+  
+Dear Students,  
+  
+As responsible digital learners, it is important to practise the three Cyber Wellness principles. They are:  
+  
+1\. Respect self and others  
+2\. Be safe and responsible  
+3\. Be a positive peer influence  
+  
+  
+Do you know that some children have encountered unpleasant experiences when meeting  
+with cyber contacts? These strangers use different ways to trick you and to gain your trust. For example, they may pretend to be someone from school or your friend’s friend. They spend a lot of time chatting online with you to gain your trust. Be aware that there are strangers online who may want to harm you.  
+  
+  
+Here are some tips to protect yourself:  
+  
+1\. Ignore messages or friend requests from strangers  
+2\. Do not send personal information to strangers online  
+3\. Be careful and check information provided by cyber contacts  
+4\. Do not meet up with anyone you do not know in real life  
+5\. Block the cyber contact if any chat makes you feel uncomfortable. Inform a trusted adult.
