@@ -79,7 +79,9 @@ Tray Outreach Programme @ Ci Yuan Hawker
 
 Our Primary 3 to 5 Ecopals put values into actions by participating in the outreach programme at Ci Yuan Hawker Centre on 12 July, 19 July and 2 August 2018.  They learnt the importance of social graciousness and built confidence in them to remind patrons to return their trays. The Ecopals also fielded questions on the advocacy and the school’s values education programme.
 
-![](/images/VIA%204.png)
+
+<img src="/images/VIA%204.png"  
+style="width:65%">
 
 Clean and Green Singapore Carnival – “Eco School Day 2018”
 ----------------------------------------------------------
