@@ -7,7 +7,8 @@ third_nav_title: English Language
 School Reading Award (P3-P6)
 ----------------------------
 
-![School Reading Award (P3-P6)](/images/school%20reading%20award%20p3-p6.png)
+<img src="/images/school%20reading%20award%20p3-p6.png"  
+style="width:50%">
 
 Inspiring Teacher of English Award 2017
 ---------------------------------------
