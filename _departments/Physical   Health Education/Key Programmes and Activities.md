@@ -71,4 +71,5 @@ Objectives – To inculcate values through Outdoor Education
 PAL
 ---
 
-![PAL](/images/PAL.png)
+<img src="/images/PAL.png"  
+style="width:65%">
