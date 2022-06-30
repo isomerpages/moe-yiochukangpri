@@ -22,7 +22,8 @@ style="width:70%">
 
 The P5 students attended a 3D2N Residential Camp at the Dairy Farm Outdoor Adventure Learning Centre (DFOALC) from 9 – 11 April 2018. The Camp provided a rich learning experience outside the classroom setting where students were given opportunities to develop holistically and build up their resilience and ruggedness. Students went through various activities such as challenging oneself in the Challenge Rope Course (CRC), hikes and buddy night walk. They were able to strengthen their camaraderie by working and overcoming obstacles together.
 
-![2018 P5 Cohort Camp](/images/2018%20P5%20Cohort%20Camp.png)
+<img src="/images/2018%20P5%20Cohort%20Camp.png"  
+style="width:70%">
 
 ![2018 P5 Cohort Camp](/images/2018%20P5%20Cohort%20Camp2.png)
 
