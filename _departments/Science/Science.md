@@ -50,7 +50,8 @@ Not forgetting the other three teams who also participated in the Science Busker
 
 The Sound Busketeers presented on how effects of sound could be observed using everyday objects such as baking materials. They also demonstrated how different sounds could be heard.
 
-![](/images/science5%20updated.jpg)
+<img src="/images/science5%20updated.jpg"  
+style="width:50%">
 Benjamin Yeo Hao En (P3-Care) <br>
 Chan Jun Rong (P3-Care) <br>
 Sathish Krishna Aprameya (P3-Care)
@@ -68,7 +69,8 @@ He Jiahui Phoebe (P4-Care)
 
 The team did a simple demonstration using the concept of pressure to explain why eggs do not break when hens sit on them. They explained the unique curved shape of an egg which helps to distribute pressure evenly over the shell and thereby giving it a tremendous strength to withstand the weight of a hen.
 
-![](/images/science7.png)
+<img src="/images/science7.png"  
+style="width:75%">
 Mariya Jacob Jeslyn (P5-Upright) <br>
 Adil Wirawan Bin Mohamad Hasren (P5-Upright) <br>
 John Immanuel Diaz Ravelo (P5-Upright)
