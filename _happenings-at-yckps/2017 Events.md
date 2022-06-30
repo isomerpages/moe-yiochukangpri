@@ -311,3 +311,19 @@ to an upbeat Chinese New Year song~
 ![Cai Qing successfully completed! Our Principal received the well-wishes from the Lions.](/images/CNY%202017_2.png)
 Cai Qing successfully completed!  
 Our Principal received the well-wishes from the Lions.
+
+This year, the Classroom Decoration Competition was done differently. Each classroom was decorated based on the theme: CNY Customs and Traditions. The Judges followed the following **_Judging Criteria_**:
+
+  
+
+**_Relevance to theme, Festivity, Learning Value_**
+
+  
+
+Through this competition, we hope that our students gain more knowledge about the Chinese culture and the traditions and practices, through the fun and bonding process of decorating the classroom.
+
+  
+
+Our students used their creative juices and put up many interesting decorations in their classrooms!
+
+![Chinese New Year Celebration 2017](/images/CNY%202017_3.png)
