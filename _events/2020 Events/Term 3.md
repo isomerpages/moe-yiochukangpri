@@ -30,7 +30,8 @@ Due to the Covid19 pandemic, this year’s National Day programme was quite diff
 
 Even in the midst of the pandemic, students and staff clad in red tops formed a sea of red in every classroom. Many students also brought along their own handheld national flags for the celebration.  All these represents the resolve and commitment of everyone in the school to be part of the national collective effort to overcome the Covid-19 pandemic. 
 
-![Pre-assembly programme](/images/NDP%202020%201.jpg)
+<img src="/images/NDP%202020%201.jpg"  
+style="width:65%">
 Pre-assembly programme
 
 ![Segment 1: Observance Ceremony](/images/NDP%202020%203.png)
