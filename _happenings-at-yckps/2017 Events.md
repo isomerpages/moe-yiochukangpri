@@ -303,3 +303,11 @@ Chinese New Year Celebration 2017
 ---------------------------------
 
 Our annual Chinese New Year Celebration was once again organized successfully! The students watched the performance put up by our Chinese Dance in awe; had fun during the games section; they felt proud of their own classroom when it won as the Best Decorated Classroom for CNY; last but not least, the Lion Dance performance was the finale which livened up the entire atmosphere!
+
+![Primary 3 Students singing and dancing to an upbeat Chinese New Year song~](/images/CNY%202017_1.jpg)
+Primary 3 Students singing and dancing  
+to an upbeat Chinese New Year song~
+
+![Cai Qing successfully completed! Our Principal received the well-wishes from the Lions.](/images/CNY%202017_2.png)
+Cai Qing successfully completed!  
+Our Principal received the well-wishes from the Lions.
