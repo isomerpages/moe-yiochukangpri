@@ -40,7 +40,7 @@ May the pictures below show you the amount of learning and fun our P5 students e
   
 **International Friendship Day** was commemorated on 7th April 2017 in our school, to provide opportunities for students to appreciate and learn from the different backgrounds and experiences of people in our neighbouring countries.
 
-Find out more on what we did to achieve this, [here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/key-programmes-activities/national-education-2017-events)!
+Find out more on what we did to achieve this, [here](/departments/character-n-citizenship-education-cce/key-programmes-activities/national-education-2017-events)!
  
 #### **YCKPS Food Donation Drive**  
   
