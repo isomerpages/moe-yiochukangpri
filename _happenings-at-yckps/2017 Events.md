@@ -219,3 +219,14 @@ Many of the teachers who attended the camp with the P5 students felt that this y
 May the pictures below show you the amount of learning and fun our P5 students experienced during their camp!
 
 ![Applying navigation skills learnt in PE lesson during the camp.](/images/Navigation2.jpg)
+Applying navigation skills learnt in PE lesson during the camp.
+
+![Encourage pupils to lead a sustainable life through the construction of pot of plant using recycled mineral water bottle.](/images/Edible_Gsrdening2.jpg)
+Encourage pupils to lead a sustainable life through the construction of pot of plant using recycled mineral water bottle.
+
+![Primary 5 Outdoor Adventure Camp](/images/Primary%205%20Outdoor%20Adventure%20Camp3.png)
+
+![Primary 5 Outdoor Adventure Camp](/images/Primary%205%20Outdoor%20Adventure%20Camp_4.png)
+
+![Primary 5 Outdoor Adventure Camp](/images/Primary%205%20Outdoor%20Adventure%20Camp_5.png)
+
