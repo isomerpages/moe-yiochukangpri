@@ -71,7 +71,7 @@ Useful Links
 *   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
 *   [Information on Primary School Education](https://www.moe.gov.sg/primary) (MOE Website)
 *   [Ministry of Education (MOE) main website](https://www.moe.gov.sg/)
-*   [MOE Sexuality Education in Schools](https://yiochukangpri-moe-edu-sg-admin.cwp.sg/for-parents/school-notifications-communications-materials/moe-sexuality-education-in-schools)
+*   [MOE Sexuality Education in Schools](/for-parents/school-notifications-communications-materials/moe-sexuality-education-in-schools)
 
 Useful Forms and Documents
 --------------------------
