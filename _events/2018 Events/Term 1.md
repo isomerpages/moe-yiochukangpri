@@ -57,7 +57,7 @@ Selected P5 Junior CD Lionhearters ambassadors took part in the CD Lionhearters 
 
 ![Civil Defence Junior Lionhearters Challenge](/images/Civil%20Defence%20Junior%20Lionhearters%20Challenge.jpg)
 
-Click [here]() to find out more!
+Click [here](/departments/character-n-citizenship-education-cce/civil-defence-junior-lionhearters-challenge) to find out more!
 
 #### **CL Cultural Performance Exposure Scheme**  
 
