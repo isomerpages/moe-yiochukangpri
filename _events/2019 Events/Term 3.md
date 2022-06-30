@@ -9,13 +9,18 @@ third_nav_title: 2019 Events
 On 5th July 2019, the Primary 4 students experienced a fun-filled day of activities during the Primary 4 Outdoor Adventure Camp. Students went through various team-bonding activities in the morning before heading to Hougang Primary School's Outdoor Adventure Site.
 
 The camp was an eventful one as students tried various outdoor elements such as bouldering and rock walls, challenge rope courses and also the low elements. Students were able to appreciate the activities for the day and got a taste of high and low elements, which would be present in the residential Primary 5 camp the following year.
-![Team Bonding games in YCKPS](/images/Team%20Bonding%20games%20in%20YCKPS.jpg)
+
+<img src="/images/Team%20Bonding%20games%20in%20YCKPS.jpg"  
+style="width:65%">
 Team Bonding games in YCKPS.
 
-![Observing safety while bouldering and students challenged themselves to complete the high elements](/images/observing%20safety%20while.png)
+<img src="/images/observing%20safety%20while.png"  
+style="width:70%">
 Observing safety while bouldering. Students challenged themselves to complete the high elements.
 
-![Having lunch before heading out for high elements. Keeping the ball in the air as a group](/images/having%20lunch%20before.png)
+
+<img src="/images/having%20lunch%20before.png"  
+style="width:70%">
 Having lunch before heading out for high elements. Keeping the ball in the air as a group.
 
 #### **Visit to MK@Fernvale on 12 July 2019 By Lower Primary Teachers** 
