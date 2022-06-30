@@ -41,7 +41,8 @@ On 5 February 2021, the school started  its first student training of the year 
 
 Across the globe, we celebrated the 18th edition of Safer Internet Day on 9 Feb 2021. The theme this year is “_Together for a Better Internet_”. Everyone has a role to play in creating and maintaining a better online world. To mark this day, the school engaged TOUCH Cyberwellness on 10 Feb to share via Zoom about _Gaming Disorder – From Attraction to Addiction_ during the FTGP period to educate our students about the dangers of online gaming.
 
-![Safer Internet Day 2021](/images/Safer%20Internet%20Day%202021.png)
+<img src="/images/Safer%20Internet%20Day%202021.png"  
+style="width:65%">
 
 **Chinese New Year Celebrations 2021**  
 
@@ -62,7 +63,8 @@ This Chinese New Year celebration was unique as it was conducted entirely online
 
 During the assembly programme on 1 March, the school engaged officers from the _Singapore Police Force (SPF)_ to share via ZOOM on Crime Advisory.  This is a yearly engagement session that the school has in partnership with the _Hougang Neighbourhood Police Centre (NPC)_. In the past, the community police officers would came down to the school hall  to conduct a face-to-face assembly programme for our students. The session this year resumed online with one of the officers who _spoke_ to our students on crime prevention  and cyber awareness. The students were also taught how to help the police when reporting crime.
 
-![Crime Advisory Talk by Singapore Police Force](/images/Crime%20Advisory%20Talk%20by%20Singapore%20Police%20Force.png)
+<img src="/images/Crime%20Advisory%20Talk%20by%20Singapore%20Police%20Force.png"  
+style="width:65%">
 
 **P5 ESTEM Project Work (EPW) and Learning Journey**
 
@@ -78,7 +80,8 @@ Our P5 students also learnt Information & Communication Technologies (ICT) skill
 
 We are one of the five primary schools identified by MOE to be on the **_Personal Device for Learning Programme (PDLP) Pilot for Primary Schools_** this year. The **_Primary 4 Tamil, Mathematics and Science teachers_** will be going through 3 Design Cycles throughout this year where they will come together to learn and design **_technology enabled lessons_** with MOE HQ personnel for our students. They will learn how technology can fit into the curriculum and how it can be used meaningfully to enrich our students’ learning. They would also have their classrooms opened for observation and support MOE’s research in this area. Here are some photos of the Mathematics and Science lessons in progress. 
 
-![Personal Device for Learning Programme (PDLP) Pilot](/images/Personal%20Device%20for%20Learning%20Programme%20(PDLP)%20Pilot.png)
+<img src="/images/Personal%20Device%20for%20Learning%20Programme%20(PDLP)%20Pilot.png"  
+style="width:65%">
 
 ![Personal Device for Learning Programme (PDLP) Pilot](/images/Personal%20Device%20for%20Learning%20Programme%20(PDLP)%20Pilot-2.png)
 
