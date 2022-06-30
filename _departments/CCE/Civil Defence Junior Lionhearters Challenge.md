@@ -8,7 +8,8 @@ Selected P5 Junior CD Lionhearters ambassadors took part in the CD Lionhearters 
 
 ![](/images/Civil%20Defence%20Junior.png)
 
-![](/images/Civil%20Defence%20Junior2.png)
+<img src="/images/Civil%20Defence%20Junior2.png"  
+style="width:75%">
 
 ![](/images/Civil%20Defence%20Junior3.png)
 
