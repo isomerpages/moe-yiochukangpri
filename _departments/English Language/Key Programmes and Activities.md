@@ -35,8 +35,6 @@ STELLAR aims to strengthen both language and reading skills as well as promote a
 
 <img src="/images/HolisticAssesment.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
-### 
-
 Holistic assessment in our context refers to the ongoing gathering of information on different facets of a child from various sources, with the aim of providing qualitative and quantitative feedback to support and guide the child's development. Holistic assessment informs teachers on their teaching practice and guides them in the design and delivery of student learning. It will also enable parents to support their children's development an
 
 #### **Broadly, holistic assessment emphasises the following four key aspects:**
