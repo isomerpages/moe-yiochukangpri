@@ -9,7 +9,8 @@ Adding Colours to Our Flowers for Mothers' Day
   
 The Primary 5 students learnt about the plant transport system in their Science lessons. They applied what they have learnt about the water-carrying tubes transporting water to all parts of the plant, and made something special for their mothers on Mothers’ Day! The students dyed the white carnations to red, blue, yellow, green or a combination of two colours. They topped it off by wrapping the flowers up and tying a pretty bow – all ready to show their appreciation to Mummy!
 
-![ Putting the split stem into two selected colours](/images/Putting%20the%20split%20stem%20into%20two%20selected%20colours.jpg)
+<img src="/images/Putting%20the%20split%20stem%20into%20two%20selected%20colours.jpg"  
+style="width:65%">
 Putting the split stem into two selected colours.
 
 ![](/images/math2.png)
@@ -56,15 +57,7 @@ Experiential Learning
 
 Our Primary 4 students experienced a hands-on, outdoor learning journey at the Gardens by the Bay, and learnt important processes that plants undergo as part of their life cycle.
 
-<img src="/images/experential_learning_img1.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
-
-Students examined plant specimens with different methods of seed dispersal under the guidance of the programme facilitators.
-
-
-
-<img src="/images/experential_learning_img2.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
-
-Students also had the opportunity to explore the various fauna and flora on display in the Flower Dome.
+![P4 Learning Journey to Gardens by the Bay](/images/P4%20learning%20journey.png)
 
 **P3 Learning Journey to Singapore Zoological Gardens**
 
