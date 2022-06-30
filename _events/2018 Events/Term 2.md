@@ -37,7 +37,8 @@ Click&nbsp;**[here](/departments/physical-education-health-education/key-program
   
 YCKPS commemorated both the Earth Day and Earth Hour on 9th April 2018, to show our support in environment conservation.
 
-![Assembly talk by Mr Low, Chairman of the Earth Society](/images/Earth%20Day%202018.jpg)
+<img src="/images/Earth%20Day%202018.jpg"  
+style="width:50%">
 Assembly talk by Mr Low, Chairman of the Earth Society
 
 Click&nbsp;**[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/earth-day-2018)**&nbsp;to find out more details!
@@ -101,7 +102,8 @@ The P5 classes visited Chinatown on 14th and 15th May 2018. They visited sites o
 ![The last remaining well in Singapore.](/images/Primary%205%20Social%20Studies%20Learning%20Journey2.jpg)
 The last remaining well in Singapore.
 
-![The students had to complete a digital trail of the journey on iPad. They discovered statues at Telok Ayer Green depicting early Singapore.](/images/Primary%205%20Social%20Studies%20Learning%20Journey3.jpg)
+<img src="/images/Primary%205%20Social%20Studies%20Learning%20Journey3.jpg"  
+style="width:50%">
 The students had to complete a digital trail of the journey on iPad. They discovered statues at Telok Ayer Green depicting early Singapore.
 
 ![It certainly was a fun and informative learning journey!](/images/Primary%205%20Social%20Studies%20Learning%20Journey4.jpg)
