@@ -31,14 +31,16 @@ Some of the teachers shared that the students learn through play and authentic e
 
 ![Visit to MK@Fernvale on 12 July 2019 By Lower Primary Teachers](/images/visit%20to%20MK1.png)
 
-![Visit to MK@Fernvale on 12 July 2019 By Lower Primary Teachers](/images/visit%20to%20MK2.png)
+<img src="/images/visit%20to%20MK2.png"  
+style="width:60%">
   
 
 #### **Science QQ Programme** 
 
 The Science Department has been running the Quality and Quantity (QQ) Programme for our P6 students since Term 2 to better support them in their journey towards PSLE. The main objectives of this programme are to have more targeted revision for the P6 students based on the main PSLE topics and to help them further improve their grades. The science teachers came together at the start of the year to design topical worksheets on identified topics after analysing the PSLE papers for the past few years. The P6 teachers also work with a selected group of students on certain Thursday afternoons to aid them in their revision.
 
-![Science QQ Programme](/images/Science%20QQ%20Programme.png)
+<img src="/images/Science%20QQ%20Programme.png"  
+style="width:75%">
 
 #### **Science Buskers Festival 2019**
 
