@@ -48,7 +48,7 @@ On 23 April, we were honoured to have Mr Srinivas Varma Vegesana, one of our Par
  ![Assembly sharing by our PSG member,  Mr Srinivas Varma Vegesana. Selected pupils in YCKPS Next Top Occupation.](/images/YCKPS%20Career%20Day.png)
  Assembly sharing by our PSG member,  Mr Srinivas Varma Vegesana. Selected pupils in YCKPS Next Top Occupation.
  
-&nbsp;Click&nbsp;**[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/yckps-career-day)**&nbsp;to find out more!
+&nbsp;Click&nbsp;**[here](/departments/character-n-citizenship-education-cce/yckps-career-day)**&nbsp;to find out more!
   
 #### **P4 Chinese Language Cultural Camp**  
 
