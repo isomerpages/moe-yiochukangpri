@@ -12,7 +12,8 @@ Our School commemorated Earth Day & Earth Hour on 8 April 2019.  A variety of a
 
 Ms. Faith Lee from SembCorp was invited to give an environmental talk to the students. She spoke on the 3Rs- reduce, reuse and recycle. The students and staff came to know what happens to our waste once it is deposited into the bins. Students also participated actively in the quiz at the end of the session and learned more on how to segregate waste for recycling.
 
-![Assembly Talk](/images/ED02.jpg)
+<img src="/images/ED02.jpg"  
+	style="width:60%">
 
 #### **Lights Out!**
 ---------------
