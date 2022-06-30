@@ -15,7 +15,8 @@ Click&nbsp;[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citiz
   
 #### **Drag, Aim, Sphero! Father-Child Bonding Event**  
   
-![Father-Child Bonding Event](/images/Father%20Child%20Bonding%20Event.png)
+<img src="/images/Father%20Child%20Bonding%20Event.png"  
+style="width:65%">
 
 On 14 April Saturday, 20 of our students and their Dads participated in our “Drag, Aim, Sphero!” father-child bonding event. They learnt basic block programming skills to programme a spherical robot, called “Sphero”. This FamilyMatters@School event was jointly organized by our Parent Support Group (PSG) and the school.
 
