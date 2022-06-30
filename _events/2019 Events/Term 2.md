@@ -62,8 +62,8 @@ Student leaders from Social Change in Action Programme went on stage to share wi
 
 On Friday (12 April), a workshop for selected international students and their buddies was conducted. Through the workshop, our international students learned more about the cultures of different ethnic groups in Singapore, including the different festivals that we celebrate, the traditional costumes that we wear, and some of our local favorite food.
 
-  
-![Integration Programme - Workshop for International Students](/images/Integration%20Programme.png)
+<img src="/images/Integration%20Programme.png"  
+style="width:75%">
 
 #### **2019 Earth Day**
 
