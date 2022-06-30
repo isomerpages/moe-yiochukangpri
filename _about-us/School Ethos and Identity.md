@@ -19,8 +19,8 @@ It has in the centre the school crest with the school motto:
 The colour green is symbolic of hope and success and&nbsp;  
 the colour white signifies prevading and everlasting purity and virtue.
 
-  
-![YOUTH OF CHARACTER KEEN TO SERVE](/images/Youth%20of%20Character.png)
+<img src="/images/Youth%20of%20Character.png"  
+style="width:65%">
 
 (Pictures - Courtesy of Mr. Lock Hong Fai)
 
