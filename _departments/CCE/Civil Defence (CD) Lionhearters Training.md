@@ -20,7 +20,8 @@ Pupils learned about Dispatcher-Assisted first REsponder (D.A.R.E) Concept.
 ![SCDF officer showed pupils the correct way of doing the CPR.](/images/CD2.jpg)
 SCDF officer showed pupils the correct way of doing the CPR.
 
-![Pupils learned more on the purpose and content of The Ready Bag.](/images/CD3.jpg)
+<img src="/images/CD3.jpg"  
+style="width:60%">
 Pupils learned more on the purpose and content of The Ready Bag.
 
 ![Basic First-Aid skills such head and hand dressing were also taught during the training session.](/images/CD4.jpg)
