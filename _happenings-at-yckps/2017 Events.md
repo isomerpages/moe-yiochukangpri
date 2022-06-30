@@ -288,3 +288,7 @@ The Prefects’ Investiture today is an important milestone for all prefects in 
 
 The selection process for the head and vice head prefect, councillors and prefects was made known to the school. The prefects and councillors were led into the hall, by the 2017 Head Prefect, Keagen Teo and Vice Head Prefect, Althea Ng. After the ceremony the prefects recited the prefects pledge which shows their commitment to serve in their roles with pride, respect and honour.
 
+![Our Principal and Vice-Principals pinning on the badges for the newly appointed Prefects.](/images/Prefects'%20Investiture.png)
+Our Principal and Vice-Principals pinning on the badges for the newly appointed Prefects.
+
+![Head Prefect leading the prefects and councillors of 2017 in the Prefects' Pledge.](/images/Prefects'%20Investiture2.png)
