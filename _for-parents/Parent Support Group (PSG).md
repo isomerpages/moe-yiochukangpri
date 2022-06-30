@@ -143,4 +143,4 @@ Information For Parents
 -----------------------
 
   
-Kindly click [**here**](https://yiochukangpri.moe.edu.sg/quick-links/for-parents) to access useful information, articles and school circulars.
+Kindly click [**here**](/quick-links/for-parents) to access useful information, articles and school circulars.
