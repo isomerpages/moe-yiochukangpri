@@ -351,3 +351,17 @@ Singapore has remained safe and peaceful over the past 53 years because of all S
 In living out the TDD theme for this year – “Together We Keep Singapore Strong”, a slew of activities were organised on 11 February 2019. The activities aimed to drive across the key messages that every pupil can play his/her part in Total Defence and our collective effort is needed to keep our nation strong. Click **[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/2019-total-defence-day)** to find out more!
 
 ![Total Defence Day (TDD) Commemoration (11 Feb 2019)](/images/TDD%20%202019.png)
+_Our Homeland, We Must Defend_ – a skit performed by our YCKPS students. The skit contains Two Scenes: The Fall of Singapore and The Fight for Independence.
+
+P6 Dragon Boating Experience (10 - 11 January)
+----------------------------------------------
+
+Sun, sea and lots of sunblock! The whole P6 cohort spent a morning at Kallang Basin enjoying a fun and confidence building dragon boating activity. They learnt the importance of hard work, teamwork and unity of class spirit. The form and co-form teachers sportingly joined the class students on water and paddled in unison. After the event, the P6s reflected on how they could apply the learning experiences in their daily life.
+
+![P6 Dragon Boating Experience (10 - 11 January)](/images/P6%20Dragon%20Boating_.png)
+
+![P6 Dragon Boating Experience (10 - 11 January)](/images/P6%20Dragon%20Boating_2.png)
+
+![P6 Dragon Boating Experience (10 - 11 January)](/images/P6%20Dragon%20Boating_3.png)
+
+![P6 Dragon Boating Experience (10 - 11 January)](/images/P6%20Dragon%20Boating_4.jpg)
