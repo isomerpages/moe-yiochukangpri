@@ -97,14 +97,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Nur%20Quraisyah.jpg" alt="Nur Quraisyah" style="width:60%;">  
+<body><img src="/images/Mdm%20Priya%20Jairam.jpg" alt="Mdm Priya Jairam" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Nur Quraisyah
+<h4 style="color:black" align="center">Mdm Priya Jairam
 </h4>
-<h6 style="color:black" align="center"> Resilience 4</h6>
-<p style="text-align:center;">I like to dance at home, so I decided to join the Malay Dance CCA. I will sometimes even sing along as I dance! I get along very well with the other Malay Dance members, and we always have a good time talking and practising our routines during CCA sessions. One thing I am proud of is our preparation for this year’s Hari Raya virtual concert. Due to Covid-19 safe management measures, we could not perform “live”. However, my friends and I managed to celebrate Hari Raya with the whole school through a recorded performance. It was very fun and we even got to choose our own costumes! I would definitely recommend my juniors to join the Malay Dance CCA as they will create great memories!</p>
+<h6 style="color:black" align="center">Assitant Year Head / Primary 1</h6>
+<p style="text-align:center;">“Intelligence plus character - that is the goal of true education.” - Martin Luther King, Jr. I consciously build good character by using teachable moments to allow students to internalise our school values. I share my personal experiences and provide opportunities for students to learn from their mistakes. To support the different strengths and interests of my students, I empower them by creating a self- directed learning environment in my classroom. I provide the students with a range of learning activities and trust them to take ownership of their own learning. I gradually equip my young learners with the skills and routines required to be confident independent learners. As an Assistant Year Head (AYH), I spend time understanding and advocating for the needs of my level students. I see my role as a bridge that connects the school, teachers, parents and external partners together for the well being of the child. My favourite part of the day is pre-assembly and recess when I get to listen to students’ stories and hear their concerns. This enables me to better support them.</p>
 
 ---
 
