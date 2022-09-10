@@ -244,13 +244,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Benjamin%20Yeo.jpg" alt="Benjamin Yeo" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
+<h4 style="color:black" align="center">Benjamin Yeo
+</h4>
 <h6 style="color:black" align="center"> Class of 2021</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<p style="text-align:center;">My CCA is soccer. I enjoy playing on the school soccer team with my friends and training with them. When I play, I get to know more people from the team, and at the same time, improve my soccer skills. I enjoy the soccer CCA as there are fun games as part of the training, and the coach makes funny jokes. During soccer tournaments, I can prove that I have learned the skills and perform them during the game. I also feel proud representing my school to win.</p>
+
+---
 
 <style>  
 img {  
@@ -259,10 +262,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Naomie%20Lara%20Lim.jpg" alt="Naomie Lara Lim" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
+<h4 style="color:black" align="center">Naomie Lara Lim
+</h4>
 <h6 style="color:black" align="center"> Class of 2021</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<p style="text-align:center;">My CCA is Chinese Dance. I love to dance and I will perform on stage at least once a year. I have done many different types of dance, including Hip Hop, Ballet, Tap and Gymnastics. My favourite memory in YCKPS so far is participating in 2019 YCKPS Got Talent. In the talent competition, every participant will get to show off their talent. As for me, I did a dance and gymnastic routine. It was so fun and I loved to be on stage. Through dance, I have learnt how to use my hands and face to tell a story.</p>
