@@ -35,7 +35,7 @@ img {
 
 <h4 style="color:black" align="center">Mdm Ramachandra Suguna</h4>
 <h6 style="color:black" align="center">Vice-Principal</h6>
-<p style="text-align:center;">I enjoy PAL (Programme for Active Learning) because we get to do a lot of activities like running around, playing sports and games and learning outdoors. I learn how to notice other people’s feelings through the activities that we do.</p>
+<p style="text-align:center;">When I started my journey as a newly appointed School Leader in Dec 2019, I was filled with a lot of aspirations and ideas. However with COVID -19, things took a different turn and days were filled with data collection and submission. A positive outcome through these events was the bonds I have forged with parents as I worked with them hand in hand. In the last few months, my relationships with parents have strengthened and I am able to garner their support for the school. I now have an intimate knowledge of which child has a sibling in which class and what their parents do for a living. What I enjoy most in my current capacity is the time I get to spend with the students, getting to know them as individuals. I love listening to their account of their day in school and what they like and look forward to.</p>
 
 ---
 
