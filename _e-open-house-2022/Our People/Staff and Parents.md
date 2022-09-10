@@ -46,14 +46,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ong%20Jia%20Wei.jpg" alt="Ong Jia Wei" style="width:60%;">  
+<body><img src="![](/images/Mdm%20Siti%20Hadzzier%20Binte%20Hamzah.jpg)" alt="Mdm Siti Hadzzier Binte Hamzah" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Ong Jia Wei
-</h4>
-<h6 style="color:black" align="center"> Integrity 2</h6>
-<p style="text-align:center;">I enjoy using my iPad for lessons as my teachers create fun activities for us. My favourite activity is Time to Climb on Nearpod because I get to challenge my friends and it is a fun way to revise what I had learnt. It is also easier to do group activities with my friends using my iPad. We get to create mind-maps and word clouds, and I like that because we can see what everyone’s responses.</p>
+<h4 style="color:black" align="center">Mdm Siti Hadzzier Binte Hamzah</h4>
+<h6 style="color:black" align="center"> Lower Primary Teacher<br>Learning Support Coordinator</h6>
+<p style="text-align:center;">In order to create a safe learning environment for my students, I impart and incorporate the school values, such as respect and care, in my daily teaching. By doing so, my students are encouraged to share their ideas and take risks. They are also not fearful of asking questions and making mistakes. They understand that making mistakes is part of learning. Hence, they are not afraid to keep trying.</p>
 
 ---
 
