@@ -99,13 +99,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Nur%20Quraisyah.jpg" alt="Nur Quraisyah" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Nur Quraisyah
+</h4>
+<h6 style="color:black" align="center"> Resilience 4</h6>
+<p style="text-align:center;">I like to dance at home, so I decided to join the Malay Dance CCA. I will sometimes even sing along as I dance! I get along very well with the other Malay Dance members, and we always have a good time talking and practising our routines during CCA sessions. One thing I am proud of is our preparation for this year’s Hari Raya virtual concert. Due to Covid-19 safe management measures, we could not perform “live”. However, my friends and I managed to celebrate Hari Raya with the whole school through a recorded performance. It was very fun and we even got to choose our own costumes! I would definitely recommend my juniors to join the Malay Dance CCA as they will create great memories!</p>
+
+---
 
 <style>  
 img {  
