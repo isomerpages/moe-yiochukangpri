@@ -80,13 +80,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Isabelle%20Siow%20Hui%20Xuan.jpg" alt="Isabelle Siow Hui Xuan" style="width:60%;">  
+<body><img src="/images/Mdm%20Norhafizah%20Bte%20Samsudin.jpg" alt="Mdm Norhafizah Bte Samsudin" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Isabelle Siow Hui Xuan</h4>
-<h6 style="color:black" align="center"> Resilience 4</h6>
-<p style="text-align:center;">I enjoy being an Eco Monitor because I get to encourage friends to recycle and to do so correctly, such as putting the recyclables into the correct bins. I also like designing posters to spread the recycling message and to promote recycling efforts. When we first started as Eco Monitors, we attended a training course where the teachers taught us how to become confident leaders. I feel that being an Eco Monitor is an important role because I lead by example and guide my schoolmates to be more environmentally responsible.</p>
+<h4 style="color:black" align="center">Mdm Norhafizah Bte Samsudin</h4>
+<h6 style="color:black" align="center">Malay Language Teacher</h6>
+<p style="text-align:center;">10 years being in the service has given me the opportunity to witness the power of education; the way it uplifts and nurtures, inspires and empowers our students. It is, I believe, the single most important influence on the future of humanity. To be a teacher is to hold that future in your hands. As teachers, we do not just teach content—we teach children. They are at the center of everything we do as teachers, and every day is a new opportunity to make sure they feel valued and uplifted. In order to influence what students know, we must first understand and nurture who they are. Students must know that we care, and that we value the interests and backgrounds they bring to the table.</p>
 
 ---
 
