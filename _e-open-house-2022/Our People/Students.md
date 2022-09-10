@@ -56,6 +56,8 @@ img {
 <h6 style="color:black" align="center"> Integrity 2</h6>
 <p style="text-align:center;">I enjoy using my iPad for lessons as my teachers create fun activities for us. My favourite activity is Time to Climb on Nearpod because I get to challenge my friends and it is a fun way to revise what I had learnt. It is also easier to do group activities with my friends using my iPad. We get to create mind-maps and word clouds, and I like that because we can see what everyone’s responses.</p>
 
+---
+
 <style>  
 img {  
   display: block;  
@@ -63,13 +65,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Sathish%20Krishna%20Ankita.jpg" alt="Sathish Krishna Ankita" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Sathish Krishna Ankita</h4>
+<h6 style="color:black" align="center"> Integrity 5</h6>
+<p style="text-align:center;">During my P2 PAL lessons, I created a robot with my group mates. We had to win games in order to earn fake money, which we could then use to buy items to build a robot. My group bought many toilet paper rolls to build our robot. I had a lot of fun because I liked working together with my classmates and we learnt how to work together well and not fight with one another.</p>
 
 <style>  
 img {  
