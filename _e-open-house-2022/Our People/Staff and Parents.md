@@ -115,14 +115,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Amy%20Matthew.jpg" alt="Amy Matthew" style="width:60%;">  
+<body><img src="/images/Mr%20Georgy%20Mathew%20Kurien.jpg" alt="Mr Georgy Mathew Kurien" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Amy Matthew
-</h4>
-<h6 style="color:black" align="center"> Excellence 2</h6>
-<p style="text-align:center;">I have been interested in football since I was in Primary 1. I especially admire Christiano Ronaldo. I love playing in football matches with friends; we get to appreciate each others’ unique skills. The most memorable experience was when out team won a soccer competition this year! During Foootball CCA sessions, we practise out positioning and ball footwork, and time passes by so quickly because we all have so much fun! I would like to tell my juniors that CCA is a time for them to explore their interests and to pick up new skills. Through my CCA, I’ve learnt how important teamwork is. Victory can never depend on just one player; and the whole team must work together to achieve success.
+<h4 style="color:black" align="center">Mr Georgy Mathew Kurien</h4>
+<h6 style="color:black" align="center">English and Mathematics Teacher</h6>
+<p style="text-align:center;">As an English and Mathematics teacher, I often seek new and creative methodologies to spark the joy of learning in my students. Students are encouraged to share their views, experiences and ideas, to create a learning environment where students learn from each other regardless of their ability or knowledge. Apart from teaching the contents of the syllabus, I believe that it is also important to nurture my students to be individuals of great character – students who will grow up and continue to uphold the school values of care, respect, responsibility, integrity, resilience and excellence.
 </p>
 
 ---
