@@ -133,14 +133,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ha%20Vinh%20Phat.jpg" alt="Ha Vinh Phat" style="width:60%;">  
+<body><img src="/images/Ms%20Leong%20Kit%20Chun.jpg" alt="Ms Leong Kit Chun" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Ha Vinh Phat
+<h4 style="color:black" align="center">Ms Leong Kit Chun
 </h4>
-<h6 style="color:black" align="center"> Head Prefect<br> Excellence 2</h6>
-<p style="text-align:center;">My experience at YCKPS has been very rich. My defining moment was watching our school’s YCKPS Got Talent contest where my fellow schoolmates showcased a wide range of talents. It made me realise that as a student, it is not just about studying; I can learn more skills and contribute in different ways. I love being in the Student Leadership team as everyone is respectful and encouraging towards each other. As the Head Prefect, I help train the prefects for morning assembly commands and announcements and introduced a suggestion box that collects feedback from students on how we can improve their school experience. I also lead the other prefects by seeking their opinions and making sure they are heard. My motto is; if anything goes wrong in your life, always ask friends or trusted adults to help you. Everyone in YCKPS will help one another - like a family!</p>
+<h6 style="color:black" align="center">Support Staff</h6>
+<p style="text-align:center;">I enjoy working at Yio Chu Kang Primary School because I feel a tremendous sense of achievement in my six years of service here. For one, I am able to experience various aspects of school life, which I did not get a chance to when I was young. For example, I am proud to be involved in the preparation for the daily flag raising ceremony. I also find joy in interacting with the staff and students while ensuring a smooth operations flow for the school. My favourite place in the school is the koi pond, as taking care of the koi gives me a sense of peace.</p>
 
 ---
 
@@ -151,11 +151,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Wang%20Jingtian.jpg" alt="Wang Jingtian" style="width:60%;">  
+<body><img src="/images/Mr%20Alex%20Leong.jpg" alt="Mr Alex Leong" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Wang Jingtian
+<h4 style="color:black" align="center">Mr Alex Leong
 </h4>
-<h6 style="color:black" align="center"> Excellence 2</h6>
-<p style="text-align:center;">I was at a school in China before coming to YCKPS. When I first came here, I was very surprised as there were so many differences between YCKPS and my previous school. However, I was able to record my feelings about these differences in an art journal that my art teacher encouraged me to draw in every day. I became better at drawing because of this and I also made many friends who enjoyed drawing like me.</p>
+<h6 style="color:black" align="center">Associate Member / Parent Support Group</h6>
+<p style="text-align:center;">I joined Parent Support Group (PSG) with the intention of wanting to understand more about the school and hopefully, be able to contribute something which is of value. I believe that anything that benefits the school will ultimately be beneficial for our children as well. PSG provides the platform to not only contribute to our children’s education, but also to spend more time with them. Through PSG, I have seen the dedication of the school staff in YCKPS and my wife and I are heartened to know that the school’s direction does not just focus on academic results, but the overall well-being of the students as well.</p>
