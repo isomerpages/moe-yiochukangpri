@@ -117,13 +117,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Amy%20Matthew.jpg" alt="Amy Matthew" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Amy Matthew
+</h4>
+<h6 style="color:black" align="center"> Excellence 2</h6>
+<p style="text-align:center;">I have been interested in football since I was in Primary 1. I especially admire Christiano Ronaldo. I love playing in football matches with friends; we get to appreciate each others’ unique skills. The most memorable experience was when out team won a soccer competition this year! During Foootball CCA sessions, we practise out positioning and ball footwork, and time passes by so quickly because we all have so much fun! I would like to tell my juniors that CCA is a time for them to explore their interests and to pick up new skills. Through my CCA, I’ve learnt how important teamwork is. Victory can never depend on just one player; and the whole team must work together to achieve success.
+</p>
+
+---
 
 <style>  
 img {  
