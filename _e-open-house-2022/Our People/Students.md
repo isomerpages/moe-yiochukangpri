@@ -136,13 +136,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Ha%20Vinh%20Phat.jpg" alt="Ha Vinh Phat" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Ha Vinh Phat
+</h4>
+<h6 style="color:black" align="center"> Head Prefect<br> Excellence 2</h6>
+<p style="text-align:center;">My experience at YCKPS has been very rich. My defining moment was watching our school’s YCKPS Got Talent contest where my fellow schoolmates showcased a wide range of talents. It made me realise that as a student, it is not just about studying; I can learn more skills and contribute in different ways. I love being in the Student Leadership team as everyone is respectful and encouraging towards each other. As the Head Prefect, I help train the prefects for morning assembly commands and announcements and introduced a suggestion box that collects feedback from students on how we can improve their school experience. I also lead the other prefects by seeking their opinions and making sure they are heard. My motto is; if anything goes wrong in your life, always ask friends or trusted adults to help you. Everyone in YCKPS will help one another - like a family!</p>
 
 <style>  
 img {  
