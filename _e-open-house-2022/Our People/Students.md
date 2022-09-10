@@ -191,12 +191,65 @@ img {
   margin-right: auto;  
 }  
 </style>  
+<body><img src="/images/Bianca%20Angeline%20Garcia%20Sales.jpg" alt="Bianca Angeline Garcia Sales" style="width:60%;">  
+  
+</body>
+
+<h4 style="color:black" align="center">Bianca Angeline Garcia Sales</h4>
+<h6 style="color:black" align="center"> Excellence 1</h6>
+<p style="text-align:center;">My favourite thing to do in YCKPS is having music lessons. I want to become a singer when I grow up. I decided to join Voices of Singapore and this encouraged me to sing and join the school choir as I wanted to learn more about music and sing more songs. In the school choir, I get to meet new people and perform on stage, which I love to do!</p>
+
+---
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Darshan%20Raj.jpg" alt="Darshan Raj" style="width:60%;">  
+  
+</body>
+
+<h4 style="color:black" align="center">Darshan Raj
+</h4>
+<h6 style="color:black" align="center"> Excellence 1</h6>
+<p style="text-align:center;">I joined the Scouts because I am interested in exploring the outdoors and camping. During my CCA sessions, I get to bond with my friends and learn new skills such as tying different types of knots. My favourite CCA experience is the Scouts camp when I was in Primary 3. We stayed in school, had a barbeque and sang campfire songs in the parade square. During the day, we went to a museum and played Captain’s Ball. I feel happy every Thursday because I get to go for Scouts CCA sessions. Sometimes, my fellow Scouts and I have disagreements, but we always remember to work as a team. Being in the Scouts taught me discipline, patience and how to work with others.</p>
+
+---
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Kenshin%20Yamazaki.jpg" alt="Kenshin Yamazaki" style="width:60%;">  
+  
+</body>
+
+<h4 style="color:black" align="center">Kenshin Yamazaki
+</h4>
+<h6 style="color:black" align="center"> Class of 2021</h6>
+<p style="text-align:center;">My favourite thing to do in YCKPS is talking to my friends and teachers. They have been so friendly from the day I first came to the school in 2018. I remember travelling on the aeroplane to Singapore and wondering if I would have any friends. Though I still miss my friends from my old school in England, I am still very grateful for the many friends I have here. My teachers are also very caring. They care for our well-being, making sure that we don't have any problems at school and that we are happy.</p>
+
+---
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
 <body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
   
 </body>
 
 <h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
+<h6 style="color:black" align="center"> Class of 2021</h6>
 <p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
 
 <style>  
@@ -211,50 +264,5 @@ img {
 </body>
 
 <h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
+<h6 style="color:black" align="center"> Class of 2021</h6>
 <p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
