@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mdm%20Siti%20Hadzzier%20Binte%20Hamzah.jpg)" alt="Mdm Siti Hadzzier Binte Hamzah" style="width:60%;">  
+<body><img src="/images/Mdm%20Siti%20Hadzzier%20Binte%20Hamzah.jpg" alt="Mdm Siti Hadzzier Binte Hamzah" style="width:60%;">  
   
 </body>
 
@@ -63,13 +63,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sathish%20Krishna%20Ankita.jpg" alt="Sathish Krishna Ankita" style="width:60%;">  
+<body><img src="/images/Mr%20Loo%20Kui-Jin,%20Louis.jpg" alt="Mr Loo Kui-Jin, Louis" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Sathish Krishna Ankita</h4>
-<h6 style="color:black" align="center"> Integrity 5</h6>
-<p style="text-align:center;">During my P2 PAL lessons, I created a robot with my group mates. We had to win games in order to earn fake money, which we could then use to buy items to build a robot. My group bought many toilet paper rolls to build our robot. I had a lot of fun because I liked working together with my classmates and we learnt how to work together well and not fight with one another.</p>
+<h4 style="color:black" align="center">Mr Loo Kui-Jin, Louis</h4>
+<h6 style="color:black" align="center">Year Head/Middle Primary</h6>
+<p style="text-align:center;">Taking on a new role in the Student Development Team, I am excited and grateful for the opportunity to work with a wider range of students from diverse backgrounds. Our work is not just about supporting our students academically, but also in other aspects such as the social and emotional domain and character and citizenship education. I hope that all our students will continue to learn earnestly throughout their lives and develop competencies that will serve them well in the future.</p>
 
 ---
 
