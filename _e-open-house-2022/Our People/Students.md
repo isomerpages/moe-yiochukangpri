@@ -145,6 +145,8 @@ img {
 <h6 style="color:black" align="center"> Head Prefect<br> Excellence 2</h6>
 <p style="text-align:center;">My experience at YCKPS has been very rich. My defining moment was watching our school’s YCKPS Got Talent contest where my fellow schoolmates showcased a wide range of talents. It made me realise that as a student, it is not just about studying; I can learn more skills and contribute in different ways. I love being in the Student Leadership team as everyone is respectful and encouraging towards each other. As the Head Prefect, I help train the prefects for morning assembly commands and announcements and introduced a suggestion box that collects feedback from students on how we can improve their school experience. I also lead the other prefects by seeking their opinions and making sure they are heard. My motto is; if anything goes wrong in your life, always ask friends or trusted adults to help you. Everyone in YCKPS will help one another - like a family!</p>
 
+---
+
 <style>  
 img {  
   display: block;  
@@ -161,6 +163,8 @@ img {
 <h6 style="color:black" align="center"> Excellence 2</h6>
 <p style="text-align:center;">I was at a school in China before coming to YCKPS. When I first came here, I was very surprised as there were so many differences between YCKPS and my previous school. However, I was able to record my feelings about these differences in an art journal that my art teacher encouraged me to draw in every day. I became better at drawing because of this and I also made many friends who enjoyed drawing like me.</p>
 
+---
+
 <style>  
 img {  
   display: block;  
@@ -168,13 +172,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Aw%20Yong%20Jun%20Ting,%20Chloe.jpg" alt="Aw Yong Jun Ting, Chloe" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Aw Yong Jun Ting, Chloe</h4>
+<h6 style="color:black" align="center"> Excellence 1</h6>
+<p style="text-align:center;">I have a background in ballet and Chinese Dance is my passion. I enjoy stretching and learning new and complex dance moves - I relish the opportunity to challenge myself. My most memorable experience of the Chinese Dance CCA thus far is staging last year’s Chinese New Year virtual concert. Our performance was recorded and we could not perform in front of a live audience, so it was a very different experience. It was also my first dance performance! I felt an adrenaline rush  because I had not been on stage for a long while due to the Covid-19 restrictions.  
+
+When I first joined the CCA, I did not know the other girls and did not communicate much, so there was not much teamwork. However, after many shared experiences, I forged many lasting bonds with my CCA members. We learned more about each other and have come to appreciate each other’s contributions to the team.</p>
+
+---
 
 <style>  
 img {  
