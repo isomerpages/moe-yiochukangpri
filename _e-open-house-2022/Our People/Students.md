@@ -17,7 +17,7 @@ img {
 
 <h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
 <h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping.</p>
 
 ---
 
@@ -47,13 +47,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Ong%20Jia%20Wei.jpg" alt="Ong Jia Wei" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Ong Jia Wei
+</h4>
+<h6 style="color:black" align="center"> Integrity 2</h6>
+<p style="text-align:center;">I enjoy using my iPad for lessons as my teachers create fun activities for us. My favourite activity is Time to Climb on Nearpod because I get to challenge my friends and it is a fun way to revise what I had learnt. It is also easier to do group activities with my friends using my iPad. We get to create mind-maps and word clouds, and I like that because we can see what everyone’s responses.</p>
 
 <style>  
 img {  
