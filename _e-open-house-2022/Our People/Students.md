@@ -4,7 +4,17 @@ permalink: /e-open-house-2022/our-people/students/
 description: ""
 third_nav_title: Our People
 ---
-![Joseph Asbrie Callen](/images/Joseph%20Asbrie%20Callen.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+  
+</body>
 
 <h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
 <h6 style="color:black" align="center"> Care 2</h6>
