@@ -1,6 +1,6 @@
 ---
 title: Our Principal
-permalink: /e-open-house-2022/our-principal
+permalink: /e-open-house-2022/our-principal/
 description: ""
 third_nav_title: Our Principal
 ---
@@ -10,7 +10,7 @@ An Educator's Message
 Mr Ng Aik Boon, Principal
 -------------------------
 
-<img src="/images/Mr%20Ng%20Aik%20Boon_01.png" style="width:183px;height:240px;margin-left:15px;" align = "left">
+<img src="/images/Mr%20Ng%20Aik%20Boon_01.png" style="width:180px;height:300px;margin-left:15px;" align = "left">
 
 As an educator, Mr Ng aims to make a difference in the lives of his students and teach children to prepare for life. He first joined teaching wanting to be a History teacher because he enjoyed History. However, he soon realised that he wanted to be more than just a teacher teaching a subject but to be an educator who can change and shape his students’ lives.
 
@@ -37,4 +37,4 @@ When prompted about his favourite place in the school, Mr Ng said that it is the
 
 Indeed, there is much that we can learn from the things around us. Learning may begin in school, but it certainly does not end there. Our dedicated teachers not only teach us subjects, but they also teach us about life and the importance of values. They point us in the right direction and set us on course to go through the rest of our lives in primary school and beyond. Even after graduation, what our teachers have taught us will forever be etched in our minds and will guide us to become better people with each passing day.
 
-<img src="/images/phan%20yi%20en%20updated.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/phan%20yi%20en%20updated.png" style="width:140px;height:240px;margin-left:15px;" align = "right">
