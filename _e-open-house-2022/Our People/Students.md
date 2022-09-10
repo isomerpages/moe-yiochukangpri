@@ -73,6 +73,8 @@ img {
 <h6 style="color:black" align="center"> Integrity 5</h6>
 <p style="text-align:center;">During my P2 PAL lessons, I created a robot with my group mates. We had to win games in order to earn fake money, which we could then use to buy items to build a robot. My group bought many toilet paper rolls to build our robot. I had a lot of fun because I liked working together with my classmates and we learnt how to work together well and not fight with one another.</p>
 
+---
+
 <style>  
 img {  
   display: block;  
@@ -80,13 +82,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<body><img src="/images/Isabelle%20Siow%20Hui%20Xuan.jpg" alt="Isabelle Siow Hui Xuan" style="width:60%;">  
   
 </body>
 
-<h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
-<p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping</p>
+<h4 style="color:black" align="center">Isabelle Siow Hui Xuan</h4>
+<h6 style="color:black" align="center"> Resilience 4</h6>
+<p style="text-align:center;">I enjoy being an Eco Monitor because I get to encourage friends to recycle and to do so correctly, such as putting the recyclables into the correct bins. I also like designing posters to spread the recycling message and to promote recycling efforts. When we first started as Eco Monitors, we attended a training course where the teachers taught us how to become confident leaders. I feel that being an Eco Monitor is an important role because I lead by example and guide my schoolmates to be more environmentally responsible.</p>
+
+---
 
 <style>  
 img {  
