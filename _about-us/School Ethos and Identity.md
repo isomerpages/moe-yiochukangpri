@@ -1,6 +1,6 @@
 ---
 title: School Ethos and Identity
-permalink: /about-us/school-ethos-and-identity
+permalink: /about-us/school-ethos-and-identity/
 description: ""
 ---
 School Flag, Emblem &amp; Motto

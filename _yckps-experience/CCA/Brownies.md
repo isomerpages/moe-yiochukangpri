@@ -1,6 +1,6 @@
 ---
 title: Brownies
-permalink: /yckps-experience/co-curricular-activities/uniformed-groups/brownies
+permalink: /yckps-experience/co-curricular-activities/uniformed-groups/brownies/
 description: ""
 third_nav_title: CCA
 ---

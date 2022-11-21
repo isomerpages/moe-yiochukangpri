@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /yckps-experience/mother-tongue-languages
+permalink: /yckps-experience/mother-tongue-languages/
 description: ""
 ---
 _Learning the Language, Living the Culture_  

@@ -1,6 +1,6 @@
 ---
 title: Handbells
-permalink: /yckps-experience/co-curricular-activities/performing-arts/handbells
+permalink: /yckps-experience/co-curricular-activities/performing-arts/handbells/
 description: ""
 third_nav_title: CCA
 ---

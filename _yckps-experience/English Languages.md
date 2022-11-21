@@ -1,6 +1,6 @@
 ---
 title: English Languages
-permalink: /yckps-experience/english-languages
+permalink: /yckps-experience/english-languages/
 description: ""
 ---
 _Developing Confident and Effective Communicators_  

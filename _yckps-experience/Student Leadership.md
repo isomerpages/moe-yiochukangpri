@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /yckps-experience/student-leadership
+permalink: /yckps-experience/student-leadership/
 description: ""
 ---
 Every YCKP-ian, a leader

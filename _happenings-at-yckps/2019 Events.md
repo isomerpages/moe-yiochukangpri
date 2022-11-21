@@ -1,6 +1,6 @@
 ---
 title: 2019 Events
-permalink: /happenings-at-yckps/2019-events
+permalink: /happenings-at-yckps/2019-events/
 description: ""
 ---
 Homecoming Day

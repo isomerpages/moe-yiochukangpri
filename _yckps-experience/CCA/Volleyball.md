@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /yckps-experience/co-curricular-activities/sports-and-games/volleyball
+permalink: /yckps-experience/co-curricular-activities/sports-and-games/volleyball/
 description: ""
 third_nav_title: CCA
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /yckps-experience/mathematics
+permalink: /yckps-experience/mathematics/
 description: ""
 ---
 _Building Numeracy & Nurturing Problem Solvers_

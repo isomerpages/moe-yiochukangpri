@@ -1,6 +1,6 @@
 ---
 title: Citizenship Education CCE
-permalink: /yckps-experience/citizenship-education-cce
+permalink: /yckps-experience/citizenship-education-cce/
 description: ""
 ---
 _Say it Right, Do it Right!_

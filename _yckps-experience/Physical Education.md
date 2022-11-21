@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /yckps-experience/physical-education
+permalink: /yckps-experience/physical-education/
 description: ""
 ---
 _Developing active and healthy living lifestyle._

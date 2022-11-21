@@ -1,6 +1,6 @@
 ---
 title: Visual Arts
-permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/visual-arts
+permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/visual-arts/
 description: ""
 third_nav_title: CCA
 ---

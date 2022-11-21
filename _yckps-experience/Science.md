@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /yckps-experience/science
+permalink: /yckps-experience/science/
 description: ""
 ---
 _Developing self-directed scientific inquirers and reflective thinkers_  

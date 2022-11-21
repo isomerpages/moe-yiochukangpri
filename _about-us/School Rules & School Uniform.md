@@ -1,6 +1,6 @@
 ---
 title: School Rules & School Uniform
-permalink: /about-us/school-rules-n-school-uniform
+permalink: /about-us/school-rules-n-school-uniform/
 description: ""
 ---
 All students are expected to abide by the school rules and regulations at all times and conduct themselves in a respectable manner that upholds the school values.

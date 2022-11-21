@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /about-us/school-management-committee
+permalink: /about-us/school-management-committee/
 description: ""
 ---
 <style type="text/css">

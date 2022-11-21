@@ -1,6 +1,6 @@
 ---
 title: Principal's Foreword
-permalink: /about-us/principals-foreword
+permalink: /about-us/principals-foreword/
 description: ""
 ---
 We have been running the Applied Learning Programme (ALP) in Environmental Science (ESTEM@YCKPS) since April 2018. Our teachers have worked hard to develop a good Integrated Project Work over the past few years which laid the foundation for our ALP to impact a much larger group of students. We hope to expose our students not only to the environmental issues affecting our world but to the science and technology of sustainability. Through the Environmental Project Work (EPW, the renamed Integrated Project Work), we want to train our Primary 4 to 6 students through a problem-based approach to learn how to solve real life environmental issues. As this is closely tied to their science curriculum, we hope to bring the joy of learning beyond the classroom to our students.  

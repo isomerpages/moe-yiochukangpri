@@ -1,6 +1,6 @@
 ---
 title: Student Care
-permalink: /for-parents/student-care
+permalink: /for-parents/student-care/
 description: ""
 ---
 About Raffles Student Care

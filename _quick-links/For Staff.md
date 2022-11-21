@@ -1,6 +1,6 @@
 ---
 title: For Staff
-permalink: /quick-links/for-staff
+permalink: /quick-links/for-staff/
 description: ""
 ---
 *   [Online Relief Form](https://go.gov.sg/yckpsrelief)

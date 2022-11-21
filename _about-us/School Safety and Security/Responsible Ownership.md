@@ -1,6 +1,6 @@
 ---
 title: Responsible Ownership
-permalink: /about-us/school-safety-n-security/responsible-ownership
+permalink: /about-us/school-safety-n-security/responsible-ownership/
 description: ""
 third_nav_title: School Safety and Security
 ---

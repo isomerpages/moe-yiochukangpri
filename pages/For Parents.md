@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /quick-links/for-parents
+permalink: /quick-links/for-parents/
 description: ""
 ---
 Check out our very own Newsletter for this term!
