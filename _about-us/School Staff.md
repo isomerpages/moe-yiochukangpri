@@ -1,6 +1,6 @@
 ---
 title: School Staff
-permalink: /about-us/school-staff
+permalink: /about-us/school-staff/
 description: ""
 ---
 **In this page, you will find information on:**  

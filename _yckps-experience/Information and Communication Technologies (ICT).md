@@ -1,6 +1,6 @@
 ---
 title: Information and Communication Technologies (ICT)
-permalink: /yckps-experience/information-and-communication-technologies-ict
+permalink: /yckps-experience/information-and-communication-technologies-ict/
 description: ""
 ---
 _Embrace Technology. Engage Learning._

@@ -1,6 +1,6 @@
 ---
 title: School Facilities
-permalink: /about-us/school-facilities
+permalink: /about-us/school-facilities/
 description: ""
 ---
 Have a view of our school's facilities!

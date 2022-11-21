@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /yckps-experience/co-curricular-activities/uniformed-groups/scouts
+permalink: /yckps-experience/co-curricular-activities/uniformed-groups/scouts/
 description: ""
 third_nav_title: CCA
 ---

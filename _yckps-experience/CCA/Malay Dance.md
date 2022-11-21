@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /yckps-experience/co-curricular-activities/performing-arts/malay-dance
+permalink: /yckps-experience/co-curricular-activities/performing-arts/malay-dance/
 description: ""
 third_nav_title: CCA
 ---

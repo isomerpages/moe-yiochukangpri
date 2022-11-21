@@ -1,6 +1,6 @@
 ---
 title: Athletics
-permalink: /yckps-experience/co-curricular-activities/sports-and-games/athletics
+permalink: /yckps-experience/co-curricular-activities/sports-and-games/athletics/
 description: ""
 third_nav_title: CCA
 ---

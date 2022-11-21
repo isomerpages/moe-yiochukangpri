@@ -1,6 +1,6 @@
 ---
 title: School Safety & Security
-permalink: /about-us/school-safety-n-security
+permalink: /about-us/school-safety-n-security/
 description: ""
 third_nav_title: School Safety and Security
 ---

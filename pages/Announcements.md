@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /announcements
+permalink: /announcements/
 description: ""
 ---
 [**Be A Parent who Affirms your child! Click here to find out more!**](https://yiochukangpri.moe.edu.sg/uniquely-yckps/parents-support-group-psg/activities-events-for-you-n-your-child)

@@ -1,6 +1,6 @@
 ---
 title: Mdm Salina Binte Akiak
-permalink: /e-open-house-2022/staff-spotlight/mdm-salina-binte-akiak
+permalink: /e-open-house-2022/staff-spotlight/mdm-salina-binte-akiak/
 description: ""
 third_nav_title: Staff Spotlight
 ---

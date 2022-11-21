@@ -1,6 +1,6 @@
 ---
 title: Football (Boys and Girls)
-permalink: /yckps-experience/co-curricular-activities/sports-and-games/football-boys-and-girls
+permalink: /yckps-experience/co-curricular-activities/sports-and-games/football-boys-and-girls/
 description: ""
 third_nav_title: CCA
 ---

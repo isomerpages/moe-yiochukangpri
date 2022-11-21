@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /yckps-experience/co-curricular-activities
+permalink: /yckps-experience/co-curricular-activities/
 description: ""
 third_nav_title: CCA
 ---

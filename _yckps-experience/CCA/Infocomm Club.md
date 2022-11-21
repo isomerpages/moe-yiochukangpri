@@ -1,6 +1,6 @@
 ---
 title: Infocomm Club
-permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club
+permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: CCA
 ---

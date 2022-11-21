@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /quick-links/for-students
+permalink: /quick-links/for-students/
 description: ""
 ---
 Full Home-Based Learning

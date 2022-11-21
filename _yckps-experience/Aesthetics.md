@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /yckps-experience/aesthetics
+permalink: /yckps-experience/aesthetics/
 description: ""
 ---
 _Developing appreciation for the Arts_

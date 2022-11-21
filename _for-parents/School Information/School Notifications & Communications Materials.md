@@ -1,6 +1,6 @@
 ---
 title: School Notifications & Communications Materials
-permalink: /for-parents/school-notifications-communications-materials
+permalink: /for-parents/school-notifications-communications-materials/
 description: ""
 third_nav_title: School Information
 ---
