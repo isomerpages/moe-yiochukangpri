@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-yiochukangpri-staging.netlify.app
-prod: https://moe-yiochukangpri-prod.netlify.app
+staging: https://staging.du64v7i2iovfe.amplifyapp.com
+prod: https://master.du64v7i2iovfe.amplifyapp.com
