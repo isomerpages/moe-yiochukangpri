@@ -1,0 +1,28 @@
+collections:
+  yckps-experience:
+    output: true
+    order:
+      - Aesthetics.md
+      - Citizenship Education CCE.md
+      - English Languages.md
+      - Information and Communication Technologies (ICT).md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
+      - Student Leadership.md
+      - CCA/.keep
+      - CCA/Co Curricular Activities.md
+      - CCA/Football (Boys and Girls).md
+      - CCA/Athletics.md
+      - CCA/Volleyball.md
+      - CCA/Angklung.md
+      - CCA/Choir.md
+      - CCA/Handbells.md
+      - CCA/Chinese Dance.md
+      - CCA/Indian Dance.md
+      - CCA/Malay Dance.md
+      - CCA/Scouts.md
+      - CCA/Brownies.md
+      - CCA/Infocomm Club.md
+      - CCA/Visual Arts.md
