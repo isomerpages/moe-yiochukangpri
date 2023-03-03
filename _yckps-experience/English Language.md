@@ -3,7 +3,6 @@ title: English Language
 permalink: /yckps-experience/english-languages/
 description: ""
 ---
-
 _Developing Confident and Effective Communicators_  
 
 Nurturing our students’ love for the English Language and developing them into effective communicators and users of the language as an empowered reader, engaged listener, effective writer and eloquent speaker is a long term enterprise of the school’s English Language Programme. In alignment with the 21st century competencies, emphasis has been placed on developing our students into confident learners, speakers and writers with robust efficacies in effective communication through being competent users of the language, anchored by a strong reading culture.
