@@ -43,12 +43,12 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Care 1</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Ms Phan Yi-Wen</td>
+    <td class="tg-dlfs">Mrs Jasmine Chan</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mr Mohd Bashir</td>
+    <td class="tg-ga19">Ms Lin Jianing</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Care 2</td>
