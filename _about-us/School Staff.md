@@ -53,20 +53,15 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Care 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mdm Priya</td>
+    <td class="tg-dlfs">Ms Siti Nuhuda Bte Akbar</td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Marissa Rose</td>
+    <td class="tg-ga19">Mdm Chia Fung Fung</td>
   </tr>
   <tr>
-    <td class="tg-tfxz"></td>
-    <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mrs Chiang Siew Lee</td>
-  </tr>
-  <tr>
-    <td class="tg-ga19">Care 3</td>
+  <td class="tg-ga19">Care 3</td>
     <td class="tg-ga19">Form Teacher</td>
     <td class="tg-ga19">Ms Siti Nurhuda</td>
   </tr>
