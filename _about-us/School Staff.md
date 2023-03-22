@@ -333,62 +333,52 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Integrity 1</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Jonathan Wong<br></td>
+    <td class="tg-dlfs">Shaneza Bte Jaafar<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mrs Grace Yang</td>
+    <td class="tg-ga19">Peng Xinyu</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Lip Chon Wai</td>
+    <td class="tg-dlfs">Gary Chan</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mdm Lu Yun</td>
+    <td class="tg-ga19">Shahizah</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 3</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mrs Esther Yeo</td>
+    <td class="tg-dlfs">Manisah Bte Osman</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mdm Manisah</td>
+    <td class="tg-ga19">Esther Yeo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 4</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Ms Yu Xin, Stella</td>
+    <td class="tg-dlfs">Andrea Lim</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mdm Turkha Devi</td>
+    <td class="tg-ga19">Louis Loo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 5</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Ms Shanita</td>
+    <td class="tg-dlfs">Shermaine Toh Li Min</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Chan Shu Hui</td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs">Integrity 6</td>
-    <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Alan Wong</td>
-  </tr>
-  <tr>
-    <td class="tg-8fvo"></td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Amelia Ong</td>
+    <td class="tg-ga19">Mrs Gopalan</td>
   </tr>
 </tbody>
 </table>
@@ -419,27 +409,22 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Resilience 1<br></td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Wong Chian Woon<br></td>
+    <td class="tg-dlfs">Janice Low<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Wang Tiying<br></td>
+    <td class="tg-ga19">Alan Wong Chee Yoong<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Resilience 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mdm Dasimah</td>
+    <td class="tg-dlfs">Chan Zi Xian</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Lin Jianing</td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs"></td>
-    <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Marcus Lim</td>
+    <td class="tg-ga19">Turkha Devi</td>
   </tr>
   <tr>
     <td class="tg-ga19">Resilience 3<br></td>
@@ -449,32 +434,42 @@ Our Teachers
   <tr>
     <td class="tg-dlfs"></td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Ms Syahida<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ga19">Resilience 4</td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Denise Heng<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs"></td>
-    <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Larry Lim</td>
-  </tr>
-  <tr>
-    <td class="tg-ga19">Resilience 5<br></td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mr Tan Yoke Wee<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs"></td>
-    <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-ga19"><span style="background-color:#FFF">Mdm Raynitha </span><br></td>
+    <td class="tg-dlfs">Grace Yang<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mr Ang Yew Yee</td>
+    <td class="tg-ga19">Lee Hwei Ling</td>
+  </tr>
+  <tr>
+    <td class="tg-ga19">Resilience 4</td>
+    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-ga19">Nicole Lim Chyi<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dlfs"></td>
+    <td class="tg-dlfs">Form Teacher<br></td>
+    <td class="tg-dlfs">Stella Yu</td>
+  </tr>
+  <tr>
+    <td class="tg-ga19">Resilience 5<br></td>
+    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-ga19">Melissa Wee<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dlfs"></td>
+    <td class="tg-dlfs">Form Teacher</td>
+    <td class="tg-ga19"><span style="background-color:#FFF">Cruz Lovino Villasin</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ga19">Resilience 6<br></td>
+    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-ga19">Alieen Tan Fei Ching<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dlfs"></td>
+    <td class="tg-dlfs">Form Teacher</td>
+    <td class="tg-ga19"><span style="background-color:#FFF">Neo Bee Geok</span><br></td>
   </tr>
 </tbody>
 </table>
@@ -505,57 +500,47 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Excellence 1<br></td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mrs Yean Sok Kheng <br></td>
+    <td class="tg-dlfs">Wong Chian Woon<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mrs Janice Low<br></td>
+    <td class="tg-ga19">Wang Tiying<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mr Chan Zi Xian</td>
+    <td class="tg-dlfs">Dasimah Bte Mohamed Daud</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mrs Sally Lim</td>
+    <td class="tg-ga19">Amanda Chow</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 3<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Mrs Wendy Hoe</td>
+    <td class="tg-dlfs">Nicole Ng</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher<br></td>
-    <td class="tg-ga19">Ms Yip Wei Ming<br></td>
+    <td class="tg-ga19">Raynitha D/O Rajoo<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 4<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Mr Tan Chee Keng<br></td>
+    <td class="tg-dlfs">Heng Zhen Yi Denise<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs">Ms Nicole Lim Chyi<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs"></td>
-    <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mrs Melissa Tan<br></td>
+    <td class="tg-dlfs">Larry Lim<br></td>
   </tr>
   <tr>
     <td class="tg-ga19">Excellence 5<br></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs">Mdm Salina Bte Akiak<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs"></td>
-    <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Ms Neo Bee Geok</td>
+    <td class="tg-dlfs">Salina Bte Akiak<br></td>
   </tr>
 </tbody>
 </table>
