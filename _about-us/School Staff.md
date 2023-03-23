@@ -103,7 +103,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19">Care 7<br></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs"><span style="background-color:#F1F8E9">Salina Bte Mohamad Shah</span><br></td>
+    <td class="tg-dlfs">Salina Bte Mohamad Shah</span><br></td>
   </tr>
   <tr>
     <td class="tg-tfxz"></td>
@@ -176,7 +176,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs"><span style="background-color:#F1F8E9">Ng Mei Ling</span><br></td>
+    <td class="tg-dlfs">Ng Mei Ling</span><br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 5<br></td>
@@ -252,7 +252,7 @@ Our Teachers
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs"><span style="background-color:#F1F8E9">Melissa Teo</span></td>
+    <td class="tg-dlfs">Melissa Teo</span></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 3</td>
@@ -429,7 +429,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19">Resilience 3<br></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs"><span style="background-color:#F1F8E9">Ms Nicole Ng</span><br></td>
+    <td class="tg-dlfs">Ms Nicole Ng</span><br></td>
   </tr>
   <tr>
     <td class="tg-dlfs"></td>
@@ -459,7 +459,7 @@ Our Teachers
   <tr>
     <td class="tg-dlfs"></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-ga19"><span style="background-color:#FFF">Cruz Lovino Villasin</span><br></td>
+    <td class="tg-ga19">Cruz Lovino Villasin</span><br></td>
   </tr>
   <tr>
     <td class="tg-ga19">Resilience 6<br></td>
@@ -469,7 +469,7 @@ Our Teachers
   <tr>
     <td class="tg-dlfs"></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-ga19"><span style="background-color:#FFF">Neo Bee Geok</span><br></td>
+    <td class="tg-ga19">Neo Bee Geok</span><br></td>
   </tr>
 </tbody>
 </table>
