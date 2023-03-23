@@ -252,7 +252,7 @@ Our Teachers
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs">Melissa Teo</span></td>
+    <td class="tg-dlfs">Melissa Teo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 3</td>
@@ -429,7 +429,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19">Resilience 3<br></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs">Ms Nicole Ng</span><br></td>
+    <td class="tg-dlfs">Ms Nicole Ng<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs"></td>
