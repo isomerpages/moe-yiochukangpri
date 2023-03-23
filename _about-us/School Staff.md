@@ -176,7 +176,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs">Ng Mei Ling</span><br></td>
+    <td class="tg-dlfs">Ng Mei Ling<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 5<br></td>
@@ -459,7 +459,7 @@ Our Teachers
   <tr>
     <td class="tg-dlfs"></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-ga19">Cruz Lovino Villasin</span><br></td>
+    <td class="tg-ga19">Cruz Lovino Villasin<br></td>
   </tr>
   <tr>
     <td class="tg-ga19">Resilience 6<br></td>
@@ -469,7 +469,7 @@ Our Teachers
   <tr>
     <td class="tg-dlfs"></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-ga19">Neo Bee Geok</span><br></td>
+    <td class="tg-ga19">Neo Bee Geok<br></td>
   </tr>
 </tbody>
 </table>
@@ -510,17 +510,17 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Excellence 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Dasimah Bte Mohamed Daud</td>
+    <td class="tg-dlfs">Dasimah Bte Mohamed Daud<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Amanda Chow</td>
+    <td class="tg-ga19">Amanda Chow<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 3<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Nicole Ng</td>
+    <td class="tg-dlfs">Nicole Ng<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
