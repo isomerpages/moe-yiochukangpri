@@ -103,7 +103,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19">Care 7<br></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-dlfs">Salina Bte Mohamad Shah</span><br></td>
+    <td class="tg-dlfs">Salina Bte Mohamad Shah<br></td>
   </tr>
   <tr>
     <td class="tg-tfxz"></td>
