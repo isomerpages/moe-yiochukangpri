@@ -30,9 +30,9 @@ Our Teachers
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 428px">
 <colgroup>
-<col style="width: 88.003906px">
-<col style="width: 151.003906px">
-<col style="width: 189.003906px">
+<col style="width: 133.003906px">
+<col style="width: 166.003906px">
+<col style="width: 207.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -128,9 +128,9 @@ Our Teachers
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 447px">
 <colgroup>
-<col style="width: 92.003906px">
-<col style="width: 158.003906px">
-<col style="width: 197.003906px">
+<col style="width: 133.003906px">
+<col style="width: 166.003906px">
+<col style="width: 207.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -224,9 +224,9 @@ Our Teachers
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 468px">
 <colgroup>
-<col style="width: 123.003906px">
-<col style="width: 153.003906px">
-<col style="width: 192.003906px">
+<col style="width: 133.003906px">
+<col style="width: 166.003906px">
+<col style="width: 207.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -480,11 +480,11 @@ Our Teachers
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-8fvo{background-color:#FFF;border-color:#c0c0c0;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 533px">
+<table class="tg" style="undefined;table-layout: fixed; width: 468px">
 <colgroup>
-<col style="width: 140.003906px">
-<col style="width: 175.003906px">
-<col style="width: 218.003906px">
+<col style="width: 133.003906px">
+<col style="width: 166.003906px">
+<col style="width: 207.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -547,13 +547,14 @@ Our Teachers
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-j6ov{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8fvo{background-color:#FFF;border-color:#c0c0c0;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 466px">
+<table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
-<col style="width: 191.003906px">
-<col style="width: 275.003906px">
+<col style="width: 189.003906px">
+<col style="width: 272.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -655,10 +656,10 @@ Executive, Administrative & Operation
 .tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 649px">
+<table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
-<col style="width: 266.003906px">
-<col style="width: 383.003906px">
+<col style="width: 189.003906px">
+<col style="width: 272.003906px">
 </colgroup>
 <thead>
   <tr>
