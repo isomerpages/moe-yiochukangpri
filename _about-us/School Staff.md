@@ -637,10 +637,6 @@ Allied Educators
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dlfs">School Counsellor</td>
-    <td class="tg-dlfs">Mr Jerry Ang</td>
-  </tr>
-  <tr>
     <td class="tg-ga19">Learning Behavioral Support</td>
     <td class="tg-ga19">Mdm Fiana Goh Swee Geo</td>
   </tr>
