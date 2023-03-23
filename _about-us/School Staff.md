@@ -554,7 +554,7 @@ Our Teachers
 <table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
 <col style="width: 189.003906px">
-<col style="width: 272.003906px">
+<col style="width: 317.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -629,7 +629,7 @@ Allied Educators
 <table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
 <col style="width: 189.003906px">
-<col style="width: 272.003906px">
+<col style="width: 317.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -659,7 +659,7 @@ Executive, Administrative & Operation
 <table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
 <col style="width: 189.003906px">
-<col style="width: 272.003906px">
+<col style="width: 317.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -728,10 +728,10 @@ Other Support Staff
 .tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<table class="tg" style="undefined;table-layout: fixed; width: 461px">
 <colgroup>
-<col style="width: 264.003906px">
-<col style="width: 380.003906px">
+<col style="width: 189.003906px">
+<col style="width: 317.003906px">
 </colgroup>
 <thead>
   <tr>
