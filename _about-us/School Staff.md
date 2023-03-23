@@ -61,9 +61,9 @@ Our Teachers
     <td class="tg-ga19">Chia Fung Fung</td>
   </tr>
   <tr>
-  <td class="tg-ga19">Care 3</td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Siti Hadzzier Binte Hamzah</td>
+  <td class="tg-dlfs">Care 3</td>
+    <td class="tg-dlfs">Form Teacher</td>
+    <td class="tg-dlfs">Siti Hadzzier Binte Hamzah</td>
   </tr>
   <tr>
     <td class="tg-tfxz"></td>
