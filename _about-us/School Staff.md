@@ -538,8 +538,8 @@ Our Teachers
     <td class="tg-dlfs">Larry Lim<br></td>
   </tr>
   <tr>
-    <td class="tg-ga19">Excellence 5<br></td>
-    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-dlfs">Excellence 5<br></td>
+    <td class="tg-dlfs">Form Teacher</td>
     <td class="tg-dlfs">Salina Bte Akiak<br></td>
   </tr>
 </tbody>
