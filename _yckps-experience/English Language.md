@@ -1,5 +1,5 @@
 ---
-title: English Languages
+title: English Language
 permalink: /yckps-experience/english-languages/
 description: ""
 ---
