@@ -68,7 +68,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dlfs">Science</td>
-    <td class="tg-dlfs">Mr Louis Loo Kui Jin</td>
+    <td class="tg-dlfs">Mdm Shahizah Mohd</td>
   </tr>
   <tr>
     <td class="tg-ga19">Mathematics</td>
@@ -79,7 +79,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ga19">Information &amp; Communication Technologies (ICT)</td>
-    <td class="tg-ga19">Mr Tan Chee Keng</td>
+    <td class="tg-ga19">Ms Melissa Teo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Character and Citizenship Education (CCE)</td>
@@ -124,10 +124,7 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-tndl">Aesthetic</td>
-    <td class="tg-tndl">Ms Yu Xin, Stella</td>
-  </tr>
+
   <tr>
     <td class="tg-6fv2">Discipline </td>
     <td class="tg-6fv2">Mdm Nadine</td>
@@ -145,8 +142,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-6fv2">Mathematics</td>
-    <td class="tg-6fv2">Mr Lip Chon Wai</td>
-  </tr>
+    <td class="tg-6fv2">Mr Lip Chon Wai
+
+Ms Calista Yong
+  </td></tr>
   <tr>
     <td class="tg-tndl">Science</td>
     <td class="tg-tndl">Ms Yip Wei Ming</td>
@@ -155,20 +154,20 @@ description: ""
     <td class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Assistant Year Head</span></td>
   </tr>
   <tr>
-    <td class="tg-tndl">Assistant Year Head (P1)</td>
+    <td class="tg-tndl">Assistant Year Head (P2)</td>
     <td class="tg-tndl">Mdm Priya</td>
   </tr>
   <tr>
-    <td class="tg-6fv2">Assistant Year Head (P4)</td>
+    <td class="tg-6fv2">Assistant Year Head (P3)</td>
     <td class="tg-6fv2">Ms Ong Huiyin, Amelia</td>
   </tr>
   <tr>
     <td class="tg-tndl">Assistant Year Head (P5)</td>
-    <td class="tg-tndl">Mr Larry Lim </td>
+    <td class="tg-tndl">Ms New Bee Geok </td>
   </tr>
   <tr>
     <td class="tg-6fv2">Assistant Year Head (P6)</td>
-    <td class="tg-6fv2">Ms Neo Bee Geok</td>
+    <td class="tg-6fv2">Mr Larry Lim</td>
   </tr>
 </tbody>
 </table>
