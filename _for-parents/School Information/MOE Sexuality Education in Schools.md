@@ -42,3 +42,14 @@ b.       Character and Citizenship Education (CCE)
 6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
 7\.   Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+        
+**At Yio Chu Kang Primary School, the following Sexuality Education lessons will be taught in 2023:**Please access the outline of the lessons to be conducted by clicking [here](/files/2023%20info%20on%20sed%20for%20schs%20website%20(primary%20schools)_yckps%20lessons.pdf) 
+
+**Information for Parents**
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20sed_yckps%20opt%20out%20form%20annex%20a.pdf). The completed opt-out form is to be submitted by 31/03/2023.
+
+10. Parents can contact the school at 6385 1365 or email [admin\_yckps@moe.edu.sg](mailto:admin_yckps@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.
