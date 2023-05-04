@@ -44,7 +44,9 @@ b.       Character and Citizenship Education (CCE)
 7\.   Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
         
-**At Yio Chu Kang Primary School, the following Sexuality Education lessons will be taught in 2023:**Please access the outline of the lessons to be conducted by clicking [here](/files/2023%20info%20on%20sed%20for%20schs%20website%20(primary%20schools)_yckps%20lessons.pdf) 
+**At Yio Chu Kang Primary School, the following Sexuality Education lessons will be taught in 2023:**
+
+Please access the [outline](/files/2023%20info%20on%20sed%20for%20schs%20website%20(primary%20schools)_yckps%20lessons.pdf) of the lessons to be conducted.
 
 **Information for Parents**
 
