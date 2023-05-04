@@ -51,10 +51,10 @@ description: ""
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-sgd5{background-color:#558b2f;border-color:#c0c0c0;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 585px">
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
 <colgroup>
-<col style="width: 321.003906px">
-<col style="width: 264.003906px">
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
 </colgroup>
 <thead>
   <tr>
@@ -182,10 +182,10 @@ Ms Calista Yong
 .tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 580px">
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
 <colgroup>
-<col style="width: 319.003906px">
-<col style="width: 261.003906px">
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
 </colgroup>
 <thead>
   <tr>
