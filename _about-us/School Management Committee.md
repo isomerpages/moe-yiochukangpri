@@ -119,6 +119,7 @@ description: ""
 <col style="width: 328.003906px">
 </colgroup>
 <thead>
+	
   <tr>
     <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Subject Head</span></th>
   </tr>
@@ -141,11 +142,12 @@ description: ""
     <td class="tg-tndl">Ms Nicole Samantha Ng Seow Wei</td>
   </tr>
   <tr>
-    <td class="tg-6fv2">Mathematics</td>
-    <td class="tg-6fv2">Mr Lip Chon Wai
-
-Ms Calista Yong
-  </td></tr>
+    <td class="tg-dlfs">Mathematics</td>
+    <td class="tg-dlfs">Mr Lip Chon Wai <br>
+			Ms Calista Yong</td>
+  </tr>
+  <tr>
+  </tr>
   <tr>
     <td class="tg-tndl">Science</td>
     <td class="tg-tndl">Ms Yip Wei Ming</td>
@@ -156,18 +158,19 @@ Ms Calista Yong
   <tr>
     <td class="tg-tndl">Assistant Year Head (P2)</td>
     <td class="tg-tndl">Mdm Priya</td>
-  </tr>
+		
+	  </tr>
   <tr>
-    <td class="tg-6fv2">Assistant Year Head (P3)</td>
-    <td class="tg-6fv2">Ms Ong Huiyin, Amelia</td>
+    <td class="tg-dlfs">Assistant Year Head (P3)</td>
+    <td class="tg-dlfs">Ms Ong Huiyin, Amelia</td>
   </tr>
   <tr>
     <td class="tg-tndl">Assistant Year Head (P5)</td>
     <td class="tg-tndl">Ms New Bee Geok </td>
   </tr>
   <tr>
-    <td class="tg-6fv2">Assistant Year Head (P6)</td>
-    <td class="tg-6fv2">Mr Larry Lim</td>
+    <td class="tg-dlfs">Assistant Year Head (P6)</td>
+    <td class="tg-dlfs">Mr Larry Lim</td>
   </tr>
 </tbody>
 </table>
@@ -212,6 +215,10 @@ Ms Calista Yong
   <tr>
     <td class="tg-dlfs">Malay Language</td>
     <td class="tg-dlfs">Mdm Manisah Bte Osman</td>
+		  </tr>
+  <tr>
+    <td class="tg-ga19">Science</td>
+    <td class="tg-ga19">Mr Alan Wong Chee Yoong</td>
   </tr>
 </tbody>
 </table>
