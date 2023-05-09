@@ -46,53 +46,72 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j6ov{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-sgd5{background-color:#558b2f;border-color:#c0c0c0;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-
-		'
-    <table class="tg" style="undefined;table-layout: fixed; width: 634px">
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
 <colgroup>
 <col style="width: 260.003906px">
 <col style="width: 374.003906px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Head Of Department (HOD)</span></th>
+    <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Head of Department (HOD)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ga19">English Language</td>
-    <td class="tg-ga19">Mrs Janice Low<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs">Science</td>
-    <td class="tg-dlfs">Mdm Shahizah Mohd</td>
+    <td class="tg-dlfs">English Language</td>
+    <td class="tg-dlfs">Mrs Janice Low</td>
   </tr>
   <tr>
     <td class="tg-ga19">Mathematics</td>
     <td class="tg-ga19">Mr Chan Zi Xian</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Aesthetics</td>
-    <td class="tg-dlfs">Ms Yu Xin, Stella</td>
+    <td class="tg-dlfs">Science</td>
+    <td class="tg-dlfs">Mdm Shahizah Mohd</td>
+  </tr>
+	  <tr>
+	    <td class="tg-ga19">Aesthetics</td>
+    <td class="tg-ga19">Ms Yu Xin, Stella</td>
   </tr>
   <tr>
-    <td class="tg-ga19">Character and Citizenship Education (CCE)</td>
-    <td class="tg-ga19">Mdm Amanda Chow</td>
+	    <td class="tg-dlfs">Character and Citizenship Education (CCE)</td>
+    <td class="tg-dlfs">Mdm Amanda Chow</td>
+  </tr>
+	  <tr>
+				    <td class="tg-ga19">School Staff Developer (SSD)</td>
+    <td class="tg-ga19">Mrs Chiang Siew Lee</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">School Staff Developer (SSD)s</td>
-    <td class="tg-dlfs">Mrs Chiang Siew Lee</td>
+</tr></tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
+<colgroup>
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Year Head</span></th>
   </tr>
-  <tr><td class="tg-j6ov" colspan="2">Year Head</td>
-  </tr>
+</thead>
+<tbody>
   <tr>
     <td class="tg-dlfs">Lower Primary</td>
-    <td class="tg-dlfs">Ms Thai Ee Lin Elaine<br></td>
+    <td class="tg-dlfs">Ms Thai Ee Lin Elaine</td>
   </tr>
   <tr>
     <td class="tg-ga19">Middle Primary</td>
@@ -107,73 +126,108 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tndl{background-color:#FFF;border-color:#c0c0c0;color:#231F20;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-6fv2{background-color:#F1F8E9;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 641px">
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
 <colgroup>
-<col style="width: 313.003906px">
-<col style="width: 328.003906px">
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
 </colgroup>
 <thead>
-	
   <tr>
     <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Subject Head</span></th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-dlfs">Discipline</td>
+    <td class="tg-dlfs">Mdm Nadine</td>
+  </tr>
+  <tr>
+    <td class="tg-ga19">Educational Support</td>
+    <td class="tg-ga19">Mrs Grace Yang</td>
+  </tr>
+  <tr>
+    <td class="tg-dlfs">Information &amp; Communication Technologies (ICT)</td>
+    <td class="tg-dlfs">Ms Melissa Teo</td>
+  </tr>
+</tbody>
+</table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
+<colgroup>
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
+</colgroup>
+<thead>
   <tr>
-    <td class="tg-6fv2">Discipline </td>
-    <td class="tg-6fv2">Mdm Nadine</td>
+    <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Level Head</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dlfs">English Language</td>
+    <td class="tg-dlfs">Ms Nicole Samantha Ng Seow Wei</td>
   </tr>
   <tr>
-    <td class="tg-tndl">Educational Support</td>
-    <td class="tg-tndl">Mrs Grace Yang</td>
+    <td class="tg-ga19">Mathematics</td>
+    <td class="tg-ga19">Mr Lip Chon Wai <br> Ms Calista Yong</td>
   </tr>
   <tr>
-		  </tr><tr>
-    <td class="tg-6fv2">Information &amp; Communication Technologies (ICT) </td>
-    <td class="tg-6fv2">Ms Melissa Teo</td>
+    <td class="tg-dlfs">Science</td>
+    <td class="tg-dlfs">Ms Yip Wei Ming</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 634px">
+<colgroup>
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Assistant Year Head</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dlfs">Assistant Year Head (P2)</td>
+    <td class="tg-dlfs">Ms Priya</td>
   </tr>
   <tr>
-    <td class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Level Head</span></td>
+    <td class="tg-ga19">Assistant Year Head (P3)</td>
+    <td class="tg-ga19">Ms Ong Huiyin, Amelia</td>
   </tr>
   <tr>
-    <td class="tg-tndl">English</td>
-    <td class="tg-tndl">Ms Nicole Samantha Ng Seow Wei</td>
+    <td class="tg-dlfs">Assistant Year Head (P5)</td>
+    <td class="tg-dlfs">Ms New Bee Geok</td>
   </tr>
-  <tr>
-    <td class="tg-dlfs">Mathematics</td>
-    <td class="tg-dlfs">Mr Lip Chon Wai <br>
-			Ms Calista Yong</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class="tg-tndl">Science</td>
-    <td class="tg-tndl">Ms Yip Wei Ming</td>
-  </tr>
-  <tr>
-    <td class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Assistant Year Head</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tndl">Assistant Year Head (P2)</td>
-    <td class="tg-tndl">Mdm Priya</td>
-		
-	  </tr>
-  <tr>
-    <td class="tg-dlfs">Assistant Year Head (P3)</td>
-    <td class="tg-dlfs">Ms Ong Huiyin, Amelia</td>
-  </tr>
-  <tr>
-    <td class="tg-tndl">Assistant Year Head (P5)</td>
-    <td class="tg-tndl">Ms New Bee Geok </td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs">Assistant Year Head (P6)</td>
-    <td class="tg-dlfs">Mr Larry Lim</td>
+	<tr>
+		    <td class="tg-ga19">Assistant Year Head (P6)</td>
+    <td class="tg-ga19">Mr Larry Lim</td>
   </tr>
 </tbody>
 </table>
