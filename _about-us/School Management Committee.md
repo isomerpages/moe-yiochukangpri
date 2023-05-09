@@ -51,7 +51,9 @@ description: ""
 .tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-sgd5{background-color:#558b2f;border-color:#c0c0c0;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 634px">
+
+		'
+    <table class="tg" style="undefined;table-layout: fixed; width: 634px">
 <colgroup>
 <col style="width: 260.003906px">
 <col style="width: 374.003906px">
@@ -75,22 +77,18 @@ description: ""
     <td class="tg-ga19">Mr Chan Zi Xian</td>
   </tr>
   <tr>
-    <td class="tg-sgd5" colspan="2">PE &amp; CCA</td>
+    <td class="tg-dlfs">Aesthetics</td>
+    <td class="tg-dlfs">Ms Yu Xin, Stella</td>
   </tr>
   <tr>
-    <td class="tg-ga19">Information &amp; Communication Technologies (ICT)</td>
-    <td class="tg-ga19">Ms Melissa Teo</td>
+    <td class="tg-ga19">Character and Citizenship Education (CCE)</td>
+    <td class="tg-ga19">Mdm Amanda Chow</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Character and Citizenship Education (CCE)</td>
-    <td class="tg-dlfs">Mdm Amanda Chow</td>
+    <td class="tg-dlfs">School Staff Developer (SSD)s</td>
+    <td class="tg-dlfs">Mrs Chiang Siew Lee</td>
   </tr>
-  <tr>
-    <td class="tg-ga19">School Staff Developer (SSD)</td>
-    <td class="tg-ga19">Mrs Chiang Siew Lee</td>
-  </tr>
-  <tr>
-    <td class="tg-j6ov" colspan="2">Year Head</td>
+  <tr><td class="tg-j6ov" colspan="2">Year Head</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Lower Primary</td>
@@ -133,6 +131,11 @@ description: ""
   <tr>
     <td class="tg-tndl">Educational Support</td>
     <td class="tg-tndl">Mrs Grace Yang</td>
+  </tr>
+  <tr>
+		  </tr><tr>
+    <td class="tg-6fv2">Information &amp; Communication Technologies (ICT) </td>
+    <td class="tg-6fv2">Ms Melissa Teo</td>
   </tr>
   <tr>
     <td class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Level Head</span></td>
