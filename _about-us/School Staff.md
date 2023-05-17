@@ -7,10 +7,10 @@ description: ""
 
 1.  Our Teachers at each level
 2.  Allied Educators (AED)
-3.  Executive, Administrative & Operation Staff
+3.  Executive, Administrative &amp; Operation Staff
 4.  Other Support Staff
 
-Please scroll down to find out.
+Please&nbsp;scroll down&nbsp;to find out.
 
 Our Teachers
 ------------
@@ -181,7 +181,7 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Respect 5<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">George Mathew Kurien<br></td>
+    <td class="tg-dlfs">Georgy Mathew Kurien<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
@@ -644,7 +644,7 @@ Allied Educators
 </tbody>
 </table>
 
-Executive, Administrative & Operation
+Executive, Administrative &amp; Operation
 -------------------------------------
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
