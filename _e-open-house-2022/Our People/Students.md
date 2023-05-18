@@ -11,12 +11,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
+<img src="/images/Joseph%20Asbrie%20Callen.jpg" alt="Joseph Asbrie Callen" style="width:60%;">  
   
-</body>
+
 
 <h4 style="color:black" align="center">Joseph Asbrie Callen</h4>
-<h6 style="color:black" align="center"> Care 2</h6>
+<h6 style="color:black" align="center"> Respect 2</h6>
 <p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping.</p>
 
 ---
@@ -28,14 +28,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Keian%20Ng.jpg" alt="Keian Ng
-" style="width:60%;">  
+<img src="/images/Keian%20Ng.jpg" alt="Keian Ng" style="width:60%;">  
   
-</body>
 
-<h4 style="color:black" align="center">Keian Ng
+
+<h4 style="color:black" align="center">Ng Xi En, Keien
 </h4>
-<h6 style="color:black" align="center">Responsibility 5</h6>
+<h6 style="color:black" align="center">Integrity 5</h6>
 <p style="text-align:center;">I enjoy PAL (Programme for Active Learning) because we get to do a lot of activities like running around, playing sports and games and learning outdoors. I learn how to notice other people’s feelings through the activities that we do.</p>
 
 ---
@@ -47,13 +46,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ong%20Jia%20Wei.jpg" alt="Ong Jia Wei" style="width:60%;">  
+<img src="/images/Ong%20Jia%20Wei.jpg" alt="Ong Jia Wei" style="width:60%;">  
   
-</body>
+
 
 <h4 style="color:black" align="center">Ong Jia Wei
 </h4>
-<h6 style="color:black" align="center"> Integrity 2</h6>
+<h6 style="color:black" align="center"> Resilience 5</h6>
 <p style="text-align:center;">I enjoy using my iPad for lessons as my teachers create fun activities for us. My favourite activity is Time to Climb on Nearpod because I get to challenge my friends and it is a fun way to revise what I had learnt. It is also easier to do group activities with my friends using my iPad. We get to create mind-maps and word clouds, and I like that because we can see what everyone’s responses.</p>
 
 ---
@@ -65,12 +64,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sathish%20Krishna%20Ankita.jpg" alt="Sathish Krishna Ankita" style="width:60%;">  
+<img src="/images/Sathish%20Krishna%20Ankita.jpg" alt="Sathish Krishna Ankita" style="width:60%;">  
   
-</body>
+
 
 <h4 style="color:black" align="center">Sathish Krishna Ankita</h4>
-<h6 style="color:black" align="center"> Integrity 5</h6>
+<h6 style="color:black" align="center"> Resilience 2</h6>
 <p style="text-align:center;">During my P2 PAL lessons, I created a robot with my group mates. We had to win games in order to earn fake money, which we could then use to buy items to build a robot. My group bought many toilet paper rolls to build our robot. I had a lot of fun because I liked working together with my classmates and we learnt how to work together well and not fight with one another.</p>
 
 ---
@@ -82,12 +81,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Isabelle%20Siow%20Hui%20Xuan.jpg" alt="Isabelle Siow Hui Xuan" style="width:60%;">  
+<img src="/images/Isabelle%20Siow%20Hui%20Xuan.jpg" alt="Isabelle Siow Hui Xuan" style="width:60%;">  
   
-</body>
+
 
 <h4 style="color:black" align="center">Isabelle Siow Hui Xuan</h4>
-<h6 style="color:black" align="center"> Resilience 4</h6>
+<h6 style="color:black" align="center"> Excellence 4</h6>
 <p style="text-align:center;">I enjoy being an Eco Monitor because I get to encourage friends to recycle and to do so correctly, such as putting the recyclables into the correct bins. I also like designing posters to spread the recycling message and to promote recycling efforts. When we first started as Eco Monitors, we attended a training course where the teachers taught us how to become confident leaders. I feel that being an Eco Monitor is an important role because I lead by example and guide my schoolmates to be more environmentally responsible.</p>
 
 ---
@@ -99,174 +98,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Nur%20Quraisyah.jpg" alt="Nur Quraisyah" style="width:60%;">  
+<img src="/images/Nur%20Quraisyah.jpg" alt="Nur Quraisyah" style="width:60%;">  
   
-</body>
+
 
 <h4 style="color:black" align="center">Nur Quraisyah
 </h4>
-<h6 style="color:black" align="center"> Resilience 4</h6>
+<h6 style="color:black" align="center"> Excellence 4</h6>
 <p style="text-align:center;">I like to dance at home, so I decided to join the Malay Dance CCA. I will sometimes even sing along as I dance! I get along very well with the other Malay Dance members, and we always have a good time talking and practising our routines during CCA sessions. One thing I am proud of is our preparation for this year’s Hari Raya virtual concert. Due to Covid-19 safe management measures, we could not perform “live”. However, my friends and I managed to celebrate Hari Raya with the whole school through a recorded performance. It was very fun and we even got to choose our own costumes! I would definitely recommend my juniors to join the Malay Dance CCA as they will create great memories!</p>
 
 ---
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Amy%20Matthew.jpg" alt="Amy Matthew" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Amy Matthew
-</h4>
-<h6 style="color:black" align="center"> Excellence 2</h6>
-<p style="text-align:center;">I have been interested in football since I was in Primary 1. I especially admire Christiano Ronaldo. I love playing in football matches with friends; we get to appreciate each others’ unique skills. The most memorable experience was when out team won a soccer competition this year! During Foootball CCA sessions, we practise out positioning and ball footwork, and time passes by so quickly because we all have so much fun! I would like to tell my juniors that CCA is a time for them to explore their interests and to pick up new skills. Through my CCA, I’ve learnt how important teamwork is. Victory can never depend on just one player; and the whole team must work together to achieve success.
-</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ha%20Vinh%20Phat.jpg" alt="Ha Vinh Phat" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Ha Vinh Phat
-</h4>
-<h6 style="color:black" align="center"> Head Prefect<br> Excellence 2</h6>
-<p style="text-align:center;">My experience at YCKPS has been very rich. My defining moment was watching our school’s YCKPS Got Talent contest where my fellow schoolmates showcased a wide range of talents. It made me realise that as a student, it is not just about studying; I can learn more skills and contribute in different ways. I love being in the Student Leadership team as everyone is respectful and encouraging towards each other. As the Head Prefect, I help train the prefects for morning assembly commands and announcements and introduced a suggestion box that collects feedback from students on how we can improve their school experience. I also lead the other prefects by seeking their opinions and making sure they are heard. My motto is; if anything goes wrong in your life, always ask friends or trusted adults to help you. Everyone in YCKPS will help one another - like a family!</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Wang%20Jingtian.jpg" alt="Wang Jingtian" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Wang Jingtian
-</h4>
-<h6 style="color:black" align="center"> Excellence 2</h6>
-<p style="text-align:center;">I was at a school in China before coming to YCKPS. When I first came here, I was very surprised as there were so many differences between YCKPS and my previous school. However, I was able to record my feelings about these differences in an art journal that my art teacher encouraged me to draw in every day. I became better at drawing because of this and I also made many friends who enjoyed drawing like me.</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Aw%20Yong%20Jun%20Ting,%20Chloe.jpg" alt="Aw Yong Jun Ting, Chloe" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Aw Yong Jun Ting, Chloe</h4>
-<h6 style="color:black" align="center"> Excellence 1</h6>
-<p style="text-align:center;">I have a background in ballet and Chinese Dance is my passion. I enjoy stretching and learning new and complex dance moves - I relish the opportunity to challenge myself. My most memorable experience of the Chinese Dance CCA thus far is staging last year’s Chinese New Year virtual concert. Our performance was recorded and we could not perform in front of a live audience, so it was a very different experience. It was also my first dance performance! I felt an adrenaline rush  because I had not been on stage for a long while due to the Covid-19 restrictions.  
-
-When I first joined the CCA, I did not know the other girls and did not communicate much, so there was not much teamwork. However, after many shared experiences, I forged many lasting bonds with my CCA members. We learned more about each other and have come to appreciate each other’s contributions to the team.</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Bianca%20Angeline%20Garcia%20Sales.jpg" alt="Bianca Angeline Garcia Sales" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Bianca Angeline Garcia Sales</h4>
-<h6 style="color:black" align="center"> Excellence 1</h6>
-<p style="text-align:center;">My favourite thing to do in YCKPS is having music lessons. I want to become a singer when I grow up. I decided to join Voices of Singapore and this encouraged me to sing and join the school choir as I wanted to learn more about music and sing more songs. In the school choir, I get to meet new people and perform on stage, which I love to do!</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Darshan%20Raj.jpg" alt="Darshan Raj" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Darshan Raj
-</h4>
-<h6 style="color:black" align="center"> Excellence 1</h6>
-<p style="text-align:center;">I joined the Scouts because I am interested in exploring the outdoors and camping. During my CCA sessions, I get to bond with my friends and learn new skills such as tying different types of knots. My favourite CCA experience is the Scouts camp when I was in Primary 3. We stayed in school, had a barbeque and sang campfire songs in the parade square. During the day, we went to a museum and played Captain’s Ball. I feel happy every Thursday because I get to go for Scouts CCA sessions. Sometimes, my fellow Scouts and I have disagreements, but we always remember to work as a team. Being in the Scouts taught me discipline, patience and how to work with others.</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Kenshin%20Yamazaki.jpg" alt="Kenshin Yamazaki" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Kenshin Yamazaki
-</h4>
-<h6 style="color:black" align="center"> Class of 2021</h6>
-<p style="text-align:center;">My favourite thing to do in YCKPS is talking to my friends and teachers. They have been so friendly from the day I first came to the school in 2018. I remember travelling on the aeroplane to Singapore and wondering if I would have any friends. Though I still miss my friends from my old school in England, I am still very grateful for the many friends I have here. My teachers are also very caring. They care for our well-being, making sure that we don't have any problems at school and that we are happy.</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Benjamin%20Yeo.jpg" alt="Benjamin Yeo" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Benjamin Yeo
-</h4>
-<h6 style="color:black" align="center"> Class of 2021</h6>
-<p style="text-align:center;">My CCA is soccer. I enjoy playing on the school soccer team with my friends and training with them. When I play, I get to know more people from the team, and at the same time, improve my soccer skills. I enjoy the soccer CCA as there are fun games as part of the training, and the coach makes funny jokes. During soccer tournaments, I can prove that I have learned the skills and perform them during the game. I also feel proud representing my school to win.</p>
-
----
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Naomie%20Lara%20Lim.jpg" alt="Naomie Lara Lim" style="width:60%;">  
-  
-</body>
-
-<h4 style="color:black" align="center">Naomie Lara Lim
-</h4>
-<h6 style="color:black" align="center"> Class of 2021</h6>
-<p style="text-align:center;">My CCA is Chinese Dance. I love to dance and I will perform on stage at least once a year. I have done many different types of dance, including Hip Hop, Ballet, Tap and Gymnastics. My favourite memory in YCKPS so far is participating in 2019 YCKPS Got Talent. In the talent competition, every participant will get to show off their talent. As for me, I did a dance and gymnastic routine. It was so fun and I loved to be on stage. Through dance, I have learnt how to use my hands and face to tell a story.</p>
