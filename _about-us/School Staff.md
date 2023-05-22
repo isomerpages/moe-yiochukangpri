@@ -588,27 +588,25 @@ Our Teachers
   </tr>
   <tr>
     <td class="tg-dlfs">Flexi Adjunct Teacher</td>
-    <td class="tg-dlfs">Ms Hee Pow Soo</td>
+    <td class="tg-dlfs">Ms Leong Shih Chia Claire</td>
   </tr>
   <tr>
     <td class="tg-ga19">Flexi Adjunct Teacher</td>
-    <td class="tg-ga19">Ms Leong Shih Chia Claire</td>
+    <td class="tg-ga19">Mr Abdul Manaf</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Flexi Adjunct Teacher</td>
-    <td class="tg-dlfs">Mr Abdul Manaf</td>
+    <td class="tg-dlfs">Mdm Koh Bee Kuan</td>
   </tr>
   <tr>
     <td class="tg-ga19">Flexi Adjunct Teacher</td>
-    <td class="tg-ga19">Mdm Koh Bee Kuan</td>
+    <td class="tg-ga19">Mrs June Song</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Flexi Adjunct Teacher</td>
-    <td class="tg-dlfs">Mrs June Song</td>
+    <td class="tg-dlfs">Ms Cynthia Khoo (School Counsellor)</td>
   </tr>
   <tr>
-    <td class="tg-ga19">Flexi Adjunct Teacher</td>
-    <td class="tg-ga19">Ms Cynthia Khoo (School Counsellor)</td>
   </tr>
 </tbody>
 </table>
@@ -641,7 +639,11 @@ Allied Educators
     <td class="tg-ga19">Learning Behavioral Support</td>
     <td class="tg-ga19">Mdm Fiana Goh Swee Geo</td>
   </tr>
-</tbody>
+	  
+  <tr>
+    <td class="tg-dlfs">Learning Behavioral Support</td>
+    <td class="tg-dlfs">Mr Chen Yeow Kong</td>
+</tr></tbody>
 </table>
 
 Executive, Administrative &amp; Operation
@@ -686,7 +688,7 @@ Executive, Administrative &amp; Operation
   </tr>
   <tr>
     <td class="tg-dlfs">ICT Manager</td>
-    <td class="tg-dlfs">Mr Sean Wong</td>
+    <td class="tg-dlfs">Mr Chin Wee Kuong</td>
   </tr>
   <tr>
     <td class="tg-ga19">CSO</td>
@@ -746,15 +748,15 @@ Other Support Staff
   </tr>
   <tr>
     <td class="tg-ga19">Librarian</td>
-    <td class="tg-ga19">Ms Nithiya d/o Ambualagan<br></td>
+    <td class="tg-ga19">TBC<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">ICT Trainer<br></td>
-    <td class="tg-dlfs">Mr Siah Boon Kwong Josiah<br></td>
+    <td class="tg-dlfs">TBC</td>
   </tr>
   <tr>
     <td class="tg-ga19">Desktop Engineer</td>
-    <td class="tg-ga19">Mr Tan Ji Hua, Ken</td>
+    <td class="tg-ga19">TBC</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Science Lab Assistant</td>
