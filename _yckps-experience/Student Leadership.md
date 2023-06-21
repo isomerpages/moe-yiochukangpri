@@ -12,7 +12,7 @@ In line with Yio Chu Kang Primary’s Mission statement of nurturing confident a
 
   
 
-Key Beliefs guiding student leadership development in YCKPS  
+Key Beliefs guiding student leadership development in YCKPS&nbsp;&nbsp;
 
 • Every student can be developed as a leader.
 
@@ -24,18 +24,18 @@ Student Leadership Framework (I-STEER ©)
 
 ![Student Leadership](/images/Student%20LS1.png)
 
-The student leadership framework is guided by six main pillars, namely 
+The student leadership framework is guided by six main pillars, namely&nbsp;
 
-*   I - Identification
+*   I -&nbsp;Identification
 *   S- Selection
 *   T- Training
 *   E- Empowering
 *   E- Evaluating
 *   R- Recognizing
 
-Through this framework, the student leadership team develops a structured and progressive programme in YCKPS. 
+Through this framework, the student leadership team develops a structured and progressive programme in YCKPS.&nbsp;
 
-Student Leaders are categorised based on 3 tiers. These tiers help in the formulation of customised programmes and training suited for each of these segments of student leaders.   
+Student Leaders are categorised based on 3 tiers. These tiers help in the formulation of customised programmes and training suited for each of these segments of student leaders.&nbsp;  
 
 ![Student Leadership](/images/Student%20Ls2.png)
 
@@ -45,9 +45,9 @@ In order to achieve the aims, student leaders will be;
 <table border="1" cellspacing="0" cellpadding="0" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(88, 89, 91); font-family: &quot;Nunito Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 632px; height: 363px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 36.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 290px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Specific objectives</u></strong></p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 18px;">&nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 323px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Supporting Programme</u></strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 10.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 207.4pt;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">1) Student Leaders to be equipped with leadership skills and school values</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 11.8pt;">&nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 229.85pt;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">Student leaders mass and individual training sessions.</em></li><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">On the job briefings by Teacher Mentors</em></li><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">Handbook for Prefects and Class Monitors on roles and responsibilities</em></li><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">Training Sessions for Prefects based on leadership modules</em></li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 78pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 207.4pt;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">2) Provided with the opportunity to be active contributors to the school and community</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 11.8pt;">&nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 229.85pt;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">School events, Learning Journeys, Social Change Outreach Programme (SOCH)and Community outreach</em><span>&nbsp;</span>activities</li></ul></td></tr></tbody></table>
 
 
-**Tier 1 : Class Leaders Training** 
+**Tier 1 : Class Leaders Training**&nbsp;
 
-Students are selected based on a rigorous nomination process. Each role is subject specific and teacher mentors are assigned to guide the respective student leaders to carry out their roles and responsibilities as effectively as possible. 
+Students are selected based on a rigorous nomination process. Each role is subject specific and teacher mentors are assigned to guide the respective student leaders to carry out their roles and responsibilities as effectively as possible.&nbsp;
 
 ![Student Leadership](/images/Student%20LS3.png)  
  
@@ -55,7 +55,7 @@ Students are selected based on a rigorous nomination process. Each role is subje
 Aesthetics Monitors
 
 ![Student Leadership](/images/Student%20LS5.jpg)
-PE Monitors 
+PE Monitors&nbsp;
 
 ![Student Leadership](/images/Student%20LS6.jpg)
 Eco-pals
