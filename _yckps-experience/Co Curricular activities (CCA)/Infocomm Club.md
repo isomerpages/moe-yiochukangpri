@@ -1,10 +1,9 @@
 ---
-title: Choir
-permalink: /yckps-experience/co-curricular-activities/performing-arts/choir/
+title: Infocomm Club
+permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -16,9 +15,9 @@ third_nav_title: CCA
 .tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 674px">
+<table class="tg" style="undefined;table-layout: fixed; width: 635px">
 <colgroup>
-<col style="width: 204.003906px">
+<col style="width: 165.003906px">
 <col style="width: 167.003906px">
 <col style="width: 134.003906px">
 <col style="width: 169.003906px">
@@ -33,19 +32,19 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Tan Jia Rong* <br>Mdm Kaiyisah <br>Ms Nicole Ng <br>Mrs Melissa Tan<br>Mr Jonathan Wong </td>
+    <td class="tg-12c9">Mdm Oi Poh Ling* <br>Mdm Dasimah<br>Mdm Amy Wang</td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 1 </td>
+    <td class="tg-qira">Computer Lab 2</td>
     <td class="tg-12c9">Nil </td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Providing memories through music_  
-  
-The Choir Group aims to develop the vocal and singing abilities of its members via fun and engaging activities. They will be taught to sing in pitch with expression. As the group performs in internal and external platforms, these provide opportunities to develop their confidence. Discipline and teamwork are displayed during their practices and performances.
+_Imagine the possibilities_  
+
+The Infocomm Club members are exposed to variety of digital medium. The club provides its members with opportunities to offer their skills and knowledge within the school and beyond. Members learn how to control drones and participate in robotics project. They also take part in external competitions to pit their skills against their counterparts from other schools.

@@ -1,14 +1,9 @@
 ---
-title: Visual Arts
-permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/visual-arts/
+title: Angklung
+permalink: /yckps-experience/co-curricular-activities/performing-arts/angklung/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
-  
-
-About
------
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -20,9 +15,9 @@ About
 .tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 635px">
+<table class="tg" style="undefined;table-layout: fixed; width: 674px">
 <colgroup>
-<col style="width: 165.003906px">
+<col style="width: 204.003906px">
 <col style="width: 167.003906px">
 <col style="width: 134.003906px">
 <col style="width: 169.003906px">
@@ -37,18 +32,19 @@ About
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mrs Dave* <br>Mr Chen Yeow Kong </td>
+    <td class="tg-12c9">Mdm Lu Yun* <br> Mrs Wendy Hoe</td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Art Rm 1 &amp; 2</td>
+    <td class="tg-qira">Music Rm 2 </td>
     <td class="tg-12c9">Nil </td>
   </tr>
 </tbody>
 </table>
-(*denotes the Overall-in-charge Teacher)   
+
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Embracing creativity_  
-
-Our Visual Arts members get to display and explore their creativity through the various art forms they go through during their CCA sessions. Students learnt to be resilient as they embarked on creating excellent pieces of art. Along the way, they learn to collaborate with one another. Opportunities are also provided to showcase their art pieces within and out of the school community.
+_Listen to the rhythm_  
+  
+The objectives of Angklung Programme are to enable YCKPS students to understand and apply basic Angklung techniques and create a range of dynamics using the instruments. It also aims to inculcate values such as discipline, resilience and teamwork. The students have performed during school events, as well as, external venues to celebrate various events.

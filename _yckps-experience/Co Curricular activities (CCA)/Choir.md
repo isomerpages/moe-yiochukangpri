@@ -1,10 +1,9 @@
 ---
-title: Athletics
-permalink: /yckps-experience/co-curricular-activities/sports-and-games/athletics/
+title: Choir
+permalink: /yckps-experience/co-curricular-activities/performing-arts/choir/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,19 +32,19 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Jaya* <br>Mr Wong Chian Woon <br>Mr Kenneth Seah<br>Mrs Esther Yeo  </td>
+    <td class="tg-12c9">Mr Tan Jia Rong* <br>Mdm Kaiyisah <br>Ms Nicole Ng <br>Mrs Melissa Tan<br>Mr Jonathan Wong </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Parade Square</td>
-    <td class="tg-12c9">Integrity 4 Class Rm</td>
+    <td class="tg-qira">Music Rm 1 </td>
+    <td class="tg-12c9">Nil </td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Faster, Higher, Stronger_  
-
-The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National Track and Field Championship.
+_Providing memories through music_  
+  
+The Choir Group aims to develop the vocal and singing abilities of its members via fun and engaging activities. They will be taught to sing in pitch with expression. As the group performs in internal and external platforms, these provide opportunities to develop their confidence. Discipline and teamwork are displayed during their practices and performances.

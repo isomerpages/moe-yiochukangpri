@@ -2,9 +2,8 @@
 title: Football (Boys and Girls)
 permalink: /yckps-experience/co-curricular-activities/sports-and-games/football-boys-and-girls/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -52,7 +51,7 @@ third_nav_title: CCA
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----

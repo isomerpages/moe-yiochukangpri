@@ -1,10 +1,9 @@
 ---
-title: Scouts
-permalink: /yckps-experience/co-curricular-activities/uniformed-groups/scouts/
+title: Indian Dance
+permalink: /yckps-experience/co-curricular-activities/performing-arts/indian-dance/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,19 +32,21 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Ms Mary Chia* <br>Mr Muhammad Syafiq<br>Ms Yip Wei Ming<br>Ms Tan Xuan Hong  </td>
+    <td class="tg-12c9">Mrs Gopalan* <br>Mdm Turkha Devi <br> </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Foyer/ Canteen</td>
-    <td class="tg-1hqx">Nil</td>
+    <td class="tg-qira">Music Rm 3</td>
+    <td class="tg-12c9">Nil </td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Be Prepared  
-_  
-Our Scouts CCA is one of the unformed groups CCA that the school offer. The CCA aims to offer to students, opportunities to develop life skills that can help them to face and overcome challenges. They are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting.
+_Feel the Rhythm_  
+
+  
+
+Our students will learn basic to complex dance techniques. They will also be taught to practise the school values as they go through their dance sequences during training and formal platforms. The CCA provides opportunities to put their knowledge and skills into practice through stage performances in the school and beyond.

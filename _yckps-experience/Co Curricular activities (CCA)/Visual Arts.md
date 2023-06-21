@@ -1,10 +1,11 @@
 ---
-title: Brownies
-permalink: /yckps-experience/co-curricular-activities/uniformed-groups/brownies/
+title: Visual Arts
+permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/visual-arts/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
+About
+-----
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,19 +34,18 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Ms Lim Huey Ling* <br>Ms Amelia Ong <br>Ms Emily Ee </td>
+    <td class="tg-12c9">Mrs Dave* <br>Mr Chen Yeow Kong </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Foyer/ Canteen</td>
-    <td class="tg-1hqx">Nil</td>
+    <td class="tg-qira">Art Rm 1 &amp; 2</td>
+    <td class="tg-12c9">Nil </td>
   </tr>
 </tbody>
 </table>
-
-(\*denotes the Overall-in-charge Teacher)   
+(*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_To explore and discover the world  
-_  
-The Brownies Mission is to enable girls to develop their fullest potential as responsible citizens of the world. The Brownies get a sense of achievement by earning proficiency badges through tests, field work and other activities within the CCA. They develop a sense of camaraderie through variety of games and group activities.
+_Embracing creativity_  
+
+Our Visual Arts members get to display and explore their creativity through the various art forms they go through during their CCA sessions. Students learnt to be resilient as they embarked on creating excellent pieces of art. Along the way, they learn to collaborate with one another. Opportunities are also provided to showcase their art pieces within and out of the school community.

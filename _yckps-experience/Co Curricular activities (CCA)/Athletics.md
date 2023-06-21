@@ -1,10 +1,9 @@
 ---
-title: Malay Dance
-permalink: /yckps-experience/co-curricular-activities/performing-arts/malay-dance/
+title: Athletics
+permalink: /yckps-experience/co-curricular-activities/sports-and-games/athletics/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -16,9 +15,9 @@ third_nav_title: CCA
 .tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 635px">
+<table class="tg" style="undefined;table-layout: fixed; width: 674px">
 <colgroup>
-<col style="width: 165.003906px">
+<col style="width: 204.003906px">
 <col style="width: 167.003906px">
 <col style="width: 134.003906px">
 <col style="width: 169.003906px">
@@ -33,19 +32,19 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Rahidah* <br>Ms Nazihah<br>Mdm Manisah </td>
+    <td class="tg-12c9">Mr Jaya* <br>Mr Wong Chian Woon <br>Mr Kenneth Seah<br>Mrs Esther Yeo  </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Band Rm 2</td>
-    <td class="tg-12c9">Nil </td>
+    <td class="tg-qira">Parade Square</td>
+    <td class="tg-12c9">Integrity 4 Class Rm</td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Move to the beat  
-_  
-Our Malay Dance Group has performed during school events and they have also been invited to perform outside the school setting during special events. Through these experiences, its members have gained valuable lessons and also developed their confidence. They continue to explore the traditional dance form while adding a modern twist into their sequences.
+_Faster, Higher, Stronger_  
+
+The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National Track and Field Championship.

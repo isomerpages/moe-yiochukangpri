@@ -223,7 +223,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dlfs">Assistant Year Head (P5)</td>
-    <td class="tg-dlfs">Ms New Bee Geok</td>
+    <td class="tg-dlfs">Ms Neo Bee Geok</td>
   </tr>
 	<tr>
 		    <td class="tg-ga19">Assistant Year Head (P6)</td>

@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Aesthetics.md
-      - Citizenship Education CCE.md
+      - Character and Citizenship Education (CCE).md
       - English Language.md
       - Information and Communication Technologies (ICT).md
       - Mathematics.md
@@ -11,18 +11,18 @@ collections:
       - Physical Education.md
       - Science.md
       - Student Leadership.md
-      - CCA/.keep
-      - CCA/Co Curricular Activities.md
-      - CCA/Football (Boys and Girls).md
-      - CCA/Athletics.md
-      - CCA/Volleyball.md
-      - CCA/Angklung.md
-      - CCA/Choir.md
-      - CCA/Handbells.md
-      - CCA/Chinese Dance.md
-      - CCA/Indian Dance.md
-      - CCA/Malay Dance.md
-      - CCA/Scouts.md
-      - CCA/Brownies.md
-      - CCA/Infocomm Club.md
-      - CCA/Visual Arts.md
+      - Co Curricular activities (CCA)/.keep
+      - Co Curricular activities (CCA)/Co Curricular Activities.md
+      - Co Curricular activities (CCA)/Football (Boys and Girls).md
+      - Co Curricular activities (CCA)/Athletics.md
+      - Co Curricular activities (CCA)/Volleyball.md
+      - Co Curricular activities (CCA)/Angklung.md
+      - Co Curricular activities (CCA)/Choir.md
+      - Co Curricular activities (CCA)/Handbells.md
+      - Co Curricular activities (CCA)/Chinese Dance.md
+      - Co Curricular activities (CCA)/Indian Dance.md
+      - Co Curricular activities (CCA)/Malay Dance.md
+      - Co Curricular activities (CCA)/Scouts.md
+      - Co Curricular activities (CCA)/Brownies.md
+      - Co Curricular activities (CCA)/Infocomm Club.md
+      - Co Curricular activities (CCA)/Visual Arts.md

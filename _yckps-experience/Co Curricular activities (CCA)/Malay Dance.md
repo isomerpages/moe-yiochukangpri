@@ -1,10 +1,9 @@
 ---
-title: Indian Dance
-permalink: /yckps-experience/co-curricular-activities/performing-arts/indian-dance/
+title: Malay Dance
+permalink: /yckps-experience/co-curricular-activities/performing-arts/malay-dance/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,21 +32,19 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mrs Gopalan* <br>Mdm Turkha Devi <br> </td>
+    <td class="tg-12c9">Mdm Rahidah* <br>Ms Nazihah<br>Mdm Manisah </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 3</td>
+    <td class="tg-qira">Band Rm 2</td>
     <td class="tg-12c9">Nil </td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Feel the Rhythm_  
-
-  
-
-Our students will learn basic to complex dance techniques. They will also be taught to practise the school values as they go through their dance sequences during training and formal platforms. The CCA provides opportunities to put their knowledge and skills into practice through stage performances in the school and beyond.
+_Move to the beat  
+_  
+Our Malay Dance Group has performed during school events and they have also been invited to perform outside the school setting during special events. Through these experiences, its members have gained valuable lessons and also developed their confidence. They continue to explore the traditional dance form while adding a modern twist into their sequences.

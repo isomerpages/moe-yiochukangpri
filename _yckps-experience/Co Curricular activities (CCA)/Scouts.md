@@ -1,10 +1,9 @@
 ---
-title: Infocomm Club
-permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club/
+title: Scouts
+permalink: /yckps-experience/co-curricular-activities/uniformed-groups/scouts/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,19 +32,19 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Oi Poh Ling* <br>Mdm Dasimah<br>Mdm Amy Wang</td>
+    <td class="tg-12c9">Ms Mary Chia* <br>Mr Muhammad Syafiq<br>Ms Yip Wei Ming<br>Ms Tan Xuan Hong  </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Computer Lab 2</td>
-    <td class="tg-12c9">Nil </td>
+    <td class="tg-qira">Foyer/ Canteen</td>
+    <td class="tg-1hqx">Nil</td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Imagine the possibilities_  
-
-The Infocomm Club members are exposed to variety of digital medium. The club provides its members with opportunities to offer their skills and knowledge within the school and beyond. Members learn how to control drones and participate in robotics project. They also take part in external competitions to pit their skills against their counterparts from other schools.
+_Be Prepared  
+_  
+Our Scouts CCA is one of the unformed groups CCA that the school offer. The CCA aims to offer to students, opportunities to develop life skills that can help them to face and overcome challenges. They are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting.

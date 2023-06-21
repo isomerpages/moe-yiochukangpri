@@ -1,10 +1,9 @@
 ---
-title: Angklung
-permalink: /yckps-experience/co-curricular-activities/performing-arts/angklung/
+title: Handbells
+permalink: /yckps-experience/co-curricular-activities/performing-arts/handbells/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular activities (CCA)
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,19 +32,19 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Lu Yun* <br> Mrs Wendy Hoe</td>
+    <td class="tg-12c9"><span style="background-color:initial">Mr Alan Wong* </span><br>Mdm Lim Kar Hoon Joell</td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 2 </td>
-    <td class="tg-12c9">Nil </td>
+    <td class="tg-qira">Band Rm 1 </td>
+    <td class="tg-12c9">Nil  </td>
   </tr>
 </tbody>
 </table>
 
-(\*denotes the Overall-in-charge Teacher)   
+(\*denotes the Overall-in-charge Teacher)&nbsp;  
 
 About
 -----
 
-_Listen to the rhythm_  
-  
-The objectives of Angklung Programme are to enable YCKPS students to understand and apply basic Angklung techniques and create a range of dynamics using the instruments. It also aims to inculcate values such as discipline, resilience and teamwork. The students have performed during school events, as well as, external venues to celebrate various events.
+_Our music, our melody  
+_  
+The Handbells Ensemble provides its members with opportunities to develop their musical skills and knowledge. They also learn teamwork and discipline in their pursuit of musical excellence. Opportunities are provided for the members to display their talent through internal and external platforms
