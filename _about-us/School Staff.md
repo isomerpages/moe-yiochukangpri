@@ -636,10 +636,12 @@ Allied Educators
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ga19">Learning Behavioral Support</td>
-    <td class="tg-ga19">Mdm Fiana Goh Swee Geo</td>
+    <td class="tg-dlfs">School Counsellor</td>
+    <td class="tg-dlfs">Mrs Jazlyn Lim</td>
   </tr>
-	  
+	   <tr><td class="tg-ga19">Learning Behavioral Support</td>
+    <td class="tg-ga19">Mdm Fiana Goh Swee Geok</td>
+  </tr>
   <tr>
     <td class="tg-dlfs">Learning Behavioral Support</td>
     <td class="tg-dlfs">Mr Chen Yeow Kong</td>
