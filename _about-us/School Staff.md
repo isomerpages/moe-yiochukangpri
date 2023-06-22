@@ -690,7 +690,7 @@ Executive, Administrative &amp; Operation
   </tr>
   <tr>
     <td class="tg-dlfs">ICT Manager</td>
-    <td class="tg-dlfs">Mr Chin Wee Kuong</td>
+    <td class="tg-dlfs">TBC</td>
   </tr>
   <tr>
     <td class="tg-ga19">CSO</td>
