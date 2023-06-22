@@ -502,47 +502,47 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Excellence 1<br></td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Wong Chian Woon<br></td>
+    <td class="tg-dlfs">Mr Wong Chian Woon<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Wang Tiying<br></td>
+    <td class="tg-ga19">Ms Wang Tiying<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Dasimah Bte Mohamed Daud<br></td>
+    <td class="tg-dlfs">Mdm Dasimah Bte Mohamed Daud<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Amanda Chow<br></td>
+    <td class="tg-ga19">Mdm Amanda Chow<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 3<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Nicole Ng<br></td>
+    <td class="tg-dlfs">Ms Nicole Ng<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher<br></td>
-    <td class="tg-ga19">Raynitha D/O Rajoo<br></td>
+    <td class="tg-ga19">Mdm Raynitha D/O Rajoo<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 4<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Heng Zhen Yi Denise<br></td>
+    <td class="tg-dlfs">Ms Heng Zhen Yi Denise<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Larry Lim<br></td>
+    <td class="tg-ga19">Mr Larry Lim<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 5<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Salina Bte Akiak<br></td>
+    <td class="tg-dlfs">Mdm Salina Bte Akiak<br></td>
   </tr>
 </tbody>
 </table>
