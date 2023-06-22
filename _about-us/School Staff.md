@@ -524,7 +524,7 @@ Our Teachers
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mdm Amanda Chow<br></td>
+    <td class="tg-ga19">Ms Yip Wei Ming<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Excellence 3<br></td>
