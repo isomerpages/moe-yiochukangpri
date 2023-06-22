@@ -23,13 +23,16 @@ The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 
 # Our Structure & Approach
 The 3 tiers of student leadership
+
 **Tier 1: Personal Leadership**
 
 This is a baseline student leadership development programme that includes all students from P1-P6. The school **EDUCATES** students on Personal leadership through CCE and school-wide value education programmes where the Social Emotional competencies of Self-Management and Responsible Decision-Making are strengthened.
+
 **Tier 2: Class Leadership**
  
 Tier 2 is made up of class committee leaders that include Class Monitors and Subject Monitors. As students take up class committee roles, they **ENRICH** their student experiences by applying responsible deciding making skills as well as putting into action the 6 school values. The Tier 2 leaders are Class Monitor, Reading Activist, Math Monitor, Science Monitor, MT Monitor, Aesthetics Monitor, PE Monitor, Eco Monitor and Cyber-wellness Monitor. 
 Development of Tier 2 leaders include a student leader Start-of-Year Training by the Student Leadership committee and Subject Teachers-in-charge as well as on-the-job training.
+
 **Tier 3: School Leadership**
 
 Student Leaders in Tier 3 forms the YCKPS Student Council which include the following group of student leaders:
