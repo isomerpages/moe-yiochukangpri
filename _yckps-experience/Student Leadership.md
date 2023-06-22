@@ -43,33 +43,11 @@ Cyber-wellness Monitors getting trained on the class ICT equipment.
 ![](/images/2023/picture%202.jpeg)
 Eco Monitors trying their hand at upcycling
 
+![](/images/2023/picture%203.JPG)
+A teamwork activity with CCA leaders
 
+![](/images/2023/picture%204.JPG)
+A moment of reflection by prefects
 
-**Tier 1 : Class Leaders Training**&nbsp;
-
-Students are selected based on a rigorous nomination process. Each role is subject specific and teacher mentors are assigned to guide the respective student leaders to carry out their roles and responsibilities as effectively as possible.&nbsp;
-
-![Student Leadership](/images/Student%20LS3.png)  
- 
-![Student Leadership](/images/Student%20LS4.jpg)
-Aesthetics Monitors
-
-![Student Leadership](/images/Student%20LS5.jpg)
-PE Monitors&nbsp;
-
-![Student Leadership](/images/Student%20LS6.jpg)
-Eco-pals
-
-![Student Leadership](/images/Student%20LS7.jpg)
-Cyberwellness Warriors
-
-![Student Leadership](/images/Student%20LS8.jpg)
-Reading Activists
-
-**Tier 2 and 3 : Prefects Training Sessions**
-
-Students who show further leadership potential are interviewed by the student leadership team teachers as well as our school leaders. They are then placed as trainee prefects on a probation of 6 months, before they are confirmed as prefects. Prefects who show keen interest in their roles are given the opportunity to assume EXCO roles within the prefectural board, after campaigning and an interview conducted by the school leaders
-
-  
-![prefects](/images/prefects.png) 
-Prefects honing their presentation and communication skills
+![](/images/2023/picture%205.jpeg)
+As we nurture self-directed student leaders, we aim for our students to develop the ability to reflect on one’s actions and be caring individuals. This undergirds the school’s student development efforts to develop students who will have the heart to initiate change and ultimately give back to the school community and beyond.
