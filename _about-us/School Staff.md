@@ -340,47 +340,47 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Integrity 1</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Shaneza Bte Jaafar<br></td>
+    <td class="tg-dlfs">Ms Shaneza Bte Jaafar<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Peng Xinyu</td>
+    <td class="tg-ga19">Ms Peng Xinyu</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Gary Chan</td>
+    <td class="tg-dlfs">Mr Gary Chan</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Shahizah</td>
+    <td class="tg-ga19">Mdm Shahizah</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 3</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Manisah Bte Osman</td>
+    <td class="tg-dlfs">Mdm Manisah Bte Osman</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Esther Yeo</td>
+    <td class="tg-ga19">Mdm Esther Yeo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 4</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Andrea Lim</td>
+    <td class="tg-dlfs">Ms Andrea Lim</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Louis Loo</td>
+    <td class="tg-ga19">Mr Louis Loo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Integrity 5</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Shermaine Toh Li Min</td>
+    <td class="tg-dlfs">Ms Shermaine Toh Li Min</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
