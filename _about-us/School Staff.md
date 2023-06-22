@@ -274,17 +274,24 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Responsibility 4</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Ms Phua Hui Xin</td>
+    <td class="tg-dlfs">Mdm Amanda Chow</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Amelia Ong</td>
+    <td class="tg-ga19">Ms Geraldine Goh</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 5</td>
     <td class="tg-dlfs">Form Teacher<br></td>
     <td class="tg-dlfs">Ms Liu JiangShan<br></td>
+		</tr>
+  <tr>
+    <td class="tg-ga19"></td>
+    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-ga19">Ms Marilyn Soh</td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
