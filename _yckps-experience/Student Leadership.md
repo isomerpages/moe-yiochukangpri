@@ -12,13 +12,13 @@ In line with Yio Chu Kang Primary’s Mission statement of nurturing confident a
 
   
 
-Key Beliefs guiding student leadership development in YCKPS&nbsp;&nbsp;
+The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 
-• Every student can be developed as a leader.
+* Every student can be a leader.
 
-• Every student should be developed as a leader.
+* Every student is responsible for his or her learning as a student leader.
 
-• Student Leadership Development needs to be intentional.
+* Every student can serve as a student leader.
 
 Student Leadership Framework (I-STEER ©)
 
