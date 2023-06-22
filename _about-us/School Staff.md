@@ -618,7 +618,7 @@ Our Teachers
   </tr>
   <tr>
     <td class="tg-dlfs">Flexi Adjunct Teacher</td>
-    <td class="tg-dlfs">Ms Cynthia Khoo (School Counsellor)</td>
+    <td class="tg-dlfs">Ms Cynthia Khoo</td>
 		</tr>
   <tr>
     <td class="tg-ga19">Flexi Adjunct Teacher</td>
