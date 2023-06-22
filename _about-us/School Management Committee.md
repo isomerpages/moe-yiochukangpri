@@ -77,12 +77,12 @@ description: ""
     <td class="tg-ga19">Mdm Shahizah Mohd</td>
   </tr>
 	  <tr>
-	    <td class="tg-dlfs">Aesthetics</td>
-    <td class="tg-dlfs">Ms Yu Xin, Stella</td>
+	    <td class="tg-dlfs">PE &amp; CCA</td>
+    <td class="tg-dlfs">Mr Cruz Lovino Villasin</td>
   </tr>
   <tr>
-<td class="tg-ga19">PE &amp; CCA</td>
-    <td class="tg-ga19">Mr Cruz Lovino Villasin</td>
+<td class="tg-ga19">Aesthetics</td>
+    <td class="tg-ga19">Ms Yu Xin, Stella</td>
   </tr>
   <tr>
 	    <td class="tg-dlfs">Character and Citizenship Education (CCE)</td>
