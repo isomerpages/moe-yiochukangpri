@@ -20,9 +20,7 @@ The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 
 * Every student can serve as a student leader.
 
-Student Leadership Framework (I-STEER ©)
-
-![Student Leadership](/images/Student%20LS1.png)
+![](/images/2023/student%20leadership%20framework.jpg)
 
 The student leadership framework is guided by six main pillars, namely&nbsp;
 
