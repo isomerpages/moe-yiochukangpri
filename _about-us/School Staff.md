@@ -416,32 +416,32 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Resilience 1<br></td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Janice Low<br></td>
+    <td class="tg-dlfs">Mrs Janice Low<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Alan Wong Chee Yoong<br></td>
+    <td class="tg-ga19">Mr Alan Wong Chee Yoong<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Resilience 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Chan Zi Xian</td>
+    <td class="tg-dlfs">Mr Chan Zi Xian</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Turkha Devi</td>
+    <td class="tg-ga19">Mdm Turkha Devi</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Resilience 3<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Grace Yang<br></td>
+    <td class="tg-dlfs">Mrs Grace Yang<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Lee Hwei Ling</td>
+    <td class="tg-ga19">Mdm Lee Hwei Ling</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Resilience 4</td>
