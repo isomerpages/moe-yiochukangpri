@@ -262,8 +262,6 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dlfs">Science</td>
-    <td class="tg-dlfs">Mrs Yean Sok Kheng</td>
   </tr>
   <tr>
     <td class="tg-ga19">English Language </td>
