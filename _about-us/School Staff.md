@@ -750,15 +750,15 @@ Other Support Staff
   </tr>
   <tr>
     <td class="tg-ga19">Librarian</td>
-    <td class="tg-ga19">TBC<br></td>
+    <td class="tg-ga19">Wong Oi Lin, Irene</td>
   </tr>
   <tr>
     <td class="tg-dlfs">ICT Trainer<br></td>
-    <td class="tg-dlfs">TBC</td>
+    <td class="tg-dlfs">Ong Jun Qi, Victor</td>
   </tr>
   <tr>
     <td class="tg-ga19">Desktop Engineer</td>
-    <td class="tg-ga19">TBC</td>
+    <td class="tg-ga19">Kumaran Palani</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Science Lab Assistant</td>
