@@ -3,10 +3,9 @@ title: Student Leadership
 permalink: /yckps-experience/student-leadership/
 description: ""
 ---
-**Every YCKP-ian, a leader**
+# EVERY YCKP-IAN, A LEADER
 
-Our Approach
-------------
+**Our Beliefs**
 
 In line with Yio Chu Kang Primary’s Mission statement of nurturing confident and self-directed learners who are keen to serve, the student leadership team has put in place programmes that are aimed to develop and nurture the leader in every pupil in our school.
 
