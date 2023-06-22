@@ -22,7 +22,7 @@ The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 ![](/images/2023/student%20leadership%20framework.jpg)
 
 # Our Structure & Approach
-***The 3 tiers of student leadership***
+*The 3 tiers of student leadership*
 **Tier 1: Personal Leadership**
 
 This is a baseline student leadership development programme that includes all students from P1-P6. The school **EDUCATES** students on Personal leadership through CCE and school-wide value education programmes where the Social Emotional competencies of Self-Management and Responsible Decision-Making are strengthened.
