@@ -181,32 +181,39 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Respect 5<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Georgy Mathew Kurien<br></td>
+    <td class="tg-dlfs">Mr Georgy Mathew Kurien<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Tan Xuan Hong</td>
+    <td class="tg-ga19">Ms Tan Xuan Hong</td>
+  </tr>
+  <tr>
+		 </tr>
+  <tr>
+    <td class="tg-ga19"></td>
+    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-ga19">Ms Sharon Teo Teng Lai @ Nardine Teo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 6<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Chia Hui Yi<br></td>
+    <td class="tg-dlfs">Ms Chia Hui Yi<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Chen Li Fen</td>
+    <td class="tg-ga19">Mdm Chen Li Fen</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 7<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Lim Huey Ling</td>
+    <td class="tg-dlfs">Ms Lim Huey Ling</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Chen Xi<br></td>
+    <td class="tg-ga19">Ms Chen Xi<br></td>
   </tr>
 </tbody>
 </table>
