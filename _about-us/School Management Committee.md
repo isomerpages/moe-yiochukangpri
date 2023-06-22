@@ -301,12 +301,10 @@ description: ""
     <td class="tg-ga19">Ms Peng Xinyu</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Malay Language</td>
-    <td class="tg-dlfs">Mdm Manisah Bte Osman</td>
+    <td class="tg-dlfs">Science</td>
+    <td class="tg-dlfs">Mr Alan Wong Chee Yoong</td>
 		  </tr>
   <tr>
-    <td class="tg-ga19">Science</td>
-    <td class="tg-ga19">Mr Alan Wong Chee Yoong</td>
   </tr>
 </tbody>
 </table>
