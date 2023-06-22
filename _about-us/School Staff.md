@@ -244,72 +244,72 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Responsibility 1<br></td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Kana Inoue<br></td>
+    <td class="tg-dlfs">Ms Kana Inoue<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mohd Bashir</td>
+    <td class="tg-ga19">Mr Mohd Bashir</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Lu Yun<br></td>
+    <td class="tg-dlfs">Mdm Lu Yun<br></td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Melissa Teo</td>
+    <td class="tg-ga19">Ms Melissa Teo</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 3</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Shanita D/O Thanaseelan</td>
+    <td class="tg-dlfs">Ms Shanita D/O Thanaseelan</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Tan Yoke Wee</td>
+    <td class="tg-ga19">Mr Tan Yoke Wee</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 4</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Phua Hui Xin</td>
+    <td class="tg-dlfs">Ms Phua Hui Xin</td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Amelia Ong</td>
+    <td class="tg-ga19">Ms Amelia Ong</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 5</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Liu JiangShan<br></td>
+    <td class="tg-dlfs">Ms Liu JiangShan<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Lip Chon Wai</td>
+    <td class="tg-ga19">Mr Lip Chon Wai</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 6</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Sally Poh Zhi Lei<br></td>
+    <td class="tg-dlfs">Ms Sally Poh Zhi Lei<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Muhammad Syafiq Bin Hashim</td>
+    <td class="tg-ga19">Mr Muhammad Syafiq Bin Hashim</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 7</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Norliza Binti Sukri<br></td>
+    <td class="tg-dlfs">Ms Norliza Binti Sukri<br></td>
   </tr>
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Yip Wei Ming</td>
+    <td class="tg-ga19">Ms Yip Wei Ming</td>
   </tr>
 </tbody>
 </table>
