@@ -40,7 +40,11 @@ Tier 3 student leaders exemplifies the heartbeat of student leadership in YCKPS 
 ![](/images/2023/picture%201.jpeg)
 Cyber-wellness Monitors getting trained on the class ICT equipment.
 
-  
+![](/images/2023/picture%202.jpeg)
+Eco Monitors trying their hand at upcycling
+
+
+
 **Tier 1 : Class Leaders Training**&nbsp;
 
 Students are selected based on a rigorous nomination process. Each role is subject specific and teacher mentors are assigned to guide the respective student leaders to carry out their roles and responsibilities as effectively as possible.&nbsp;
