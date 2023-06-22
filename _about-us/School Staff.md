@@ -177,6 +177,13 @@ Our Teachers
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
     <td class="tg-ga19">Mdm Ng Mei Ling<br></td>
+		</tr>
+  <tr>
+    <td class="tg-ga19"></td>
+    <td class="tg-ga19">Form Teacher</td>
+    <td class="tg-ga19">Mr Nevin Ho Jun Hui</td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 5<br></td>
@@ -189,14 +196,7 @@ Our Teachers
     <td class="tg-ga19">Ms Tan Xuan Hong</td>
   </tr>
   <tr>
-		 </tr>
-  <tr>
-    <td class="tg-ga19"></td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Sharon Teo Teng Lai @ Nardine Teo</td>
-  </tr>
-  <tr>
-    <td class="tg-dlfs">Respect 6<br></td>
+ <td class="tg-dlfs">Respect 6<br></td>
     <td class="tg-dlfs">Form Teacher</td>
     <td class="tg-dlfs">Ms Chia Hui Yi<br></td>
   </tr>
