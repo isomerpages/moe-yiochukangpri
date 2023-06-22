@@ -316,7 +316,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Yip Wei Ming</td>
+    <td class="tg-ga19">Ms Nadine Teo</td>
   </tr>
 </tbody>
 </table>
