@@ -65,16 +65,24 @@ description: ""
     <td class="tg-dlfs">Mrs Janice Low</td>
   </tr>
   <tr>
-    <td class="tg-ga19">Mathematics</td>
-    <td class="tg-ga19">Mr Chan Zi Xian</td>
+		<td class="tg-ga19">Mother Tongue Language</td>
+    <td class="tg-ga19">Mr Jason Lin</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Science</td>
-    <td class="tg-dlfs">Mdm Shahizah Mohd</td>
+    <td class="tg-dlfs">Mathematics</td>
+    <td class="tg-dlfs">Mr Chan Zi Xian</td>
+  </tr>
+  <tr>
+    <td class="tg-ga19">Science</td>
+    <td class="tg-ga19">Mdm Shahizah Mohd</td>
   </tr>
 	  <tr>
-	    <td class="tg-ga19">Aesthetics</td>
-    <td class="tg-ga19">Ms Yu Xin, Stella</td>
+	    <td class="tg-dlfs">Aesthetics</td>
+    <td class="tg-dlfs">Ms Yu Xin, Stella</td>
+  </tr>
+  <tr>
+<td class="tg-ga19">PE &amp; CCA</td>
+    <td class="tg-ga19">Mr Cruz Lovino Villasin</td>
   </tr>
   <tr>
 	    <td class="tg-dlfs">Character and Citizenship Education (CCE)</td>
