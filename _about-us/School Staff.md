@@ -43,72 +43,72 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Care 1</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Jasmine Chan Kit Foong</td>
+    <td class="tg-dlfs">Ms Jasmine Chan Kit Foong</td>
   </tr>
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Lin Jianing</td>
+    <td class="tg-ga19">Ms Lin Jianing</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Care 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Siti Nuhuda Bte Akbar</td>
+    <td class="tg-dlfs">Ms Siti Nuhuda Bte Akbar</td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Chia Fung Fung</td>
+    <td class="tg-ga19">Ms Chia Fung Fung</td>
   </tr>
   <tr>
   <td class="tg-dlfs">Care 3</td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Siti Hadzzier Binte Hamzah</td>
+    <td class="tg-dlfs">Mdm Siti Hadzzier Binte Hamzah</td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher<br></td>
-    <td class="tg-ga19">Elaine Thai</td>
+    <td class="tg-ga19">Ms Elaine Thai</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Care 4</td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Nur Farhanah Binte Abdul Rahim</td>
+    <td class="tg-dlfs">Ms Nur Farhanah Binte Abdul Rahim</td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ong Siew Lee</td>
+    <td class="tg-ga19">Mdm Ong Siew Lee</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Care 5</td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Leong Bao Ru</td>
+    <td class="tg-dlfs">Ms Leong Bao Ru</td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Nur Syahida Binte Jamaluddin<br></td>
+    <td class="tg-ga19">Ms Nur Syahida Binte Jamaluddin<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Care 6</td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Calista Yong Fah Wui<br></td>
+    <td class="tg-dlfs">Ms Calista Yong Fah Wui<br></td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Norhafizah Bte Samsudin<br></td>
+    <td class="tg-ga19">Mdm Norhafizah Bte Samsudin<br></td>
   </tr>
   <tr>
     <td class="tg-dlfs">Care 7<br></td>
     <td class="tg-dlfs">Form Teacher</td>
-    <td class="tg-dlfs">Salina Bte Mohamad Shah<br></td>
+    <td class="tg-dlfs">Mdm Salina Bte Mohamad Shah<br></td>
   </tr>
   <tr>
     <td class="tg-tv98"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Koh Bee Kuan</td>
+    <td class="tg-ga19">Mdm Koh Bee Kuan</td>
   </tr>
 </tbody>
 </table>
