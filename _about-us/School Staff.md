@@ -612,6 +612,48 @@ Our Teachers
   <tr>
     <td class="tg-dlfs">Flexi Adjunct Teacher</td>
     <td class="tg-dlfs">Ms Cynthia Khoo (School Counsellor)</td>
+		</tr>
+  <tr>
+    <td class="tg-ga19">Flexi Adjunct Teacher</td>
+    <td class="tg-ga19">Mdm Ng Lee Chu</td>
+  </tr>
+  <tr>
+		</tr>
+  <tr>
+    <td class="tg-dlfs">Flexi Adjunct Teacher</td>
+    <td class="tg-dlfs">Mrs Yean Sok Kheng</td>
+  </tr>
+  <tr>
+		</tr>
+  <tr>
+    <td class="tg-ga19">Flexi Adjunct Teacher</td>
+    <td class="tg-ga19">Mdm Leng Sze Chah</td>
+  </tr>
+  <tr>
+		</tr>
+  <tr>
+    <td class="tg-dlfs">Flexi Adjunct Teacher</td>
+    <td class="tg-dlfs">Mdm Ng Cheng Tze</td>
+  </tr>
+  <tr>
+		</tr>
+  <tr>
+    <td class="tg-ga19">Flexi Adjunct Teacher</td>
+    <td class="tg-ga19">Mdm Song Gek Kin Lilian</td>
+  </tr>
+  <tr>
+		</tr>
+  <tr>
+    <td class="tg-dlfs">Flexi Adjunct Teacher</td>
+    <td class="tg-dlfs">Mdm Sing Hung Ne</td>
+  </tr>
+  <tr>
+		</tr>
+  <tr>
+    <td class="tg-ga19">Flexi Adjunct Teacher</td>
+    <td class="tg-ga19">Mr Sim Wei Ming Christopher</td>
+  </tr>
+  <tr>
   </tr>
   <tr>
   </tr>
