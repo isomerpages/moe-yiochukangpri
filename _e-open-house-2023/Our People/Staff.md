@@ -4,38 +4,10 @@ permalink: /e-open-house-2022/our-people/staff-and-parents/
 description: ""
 third_nav_title: Our People
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Mr%20Martin%20Chan.jpg" alt="Mr Martin Chan" style="width:60%;">  
-  
-
-
-<h4 style="color:black" align="center">Mr Martin Chan
-</h4>
-<h6 style="color:black" align="center"> Vice-Principal</h6>
-<p style="text-align:center;">One fundamental value that we wish to develop in all YCKPS students is grit. Learning is a lifelong journey so we want our students to develop the resilience to overcome whatever challenges they may face in the process of learning. They must be adaptable and develop the relevant skills and competencies in the new future. My vision of a YCKPS student after six years in the school would be a confident person who maximises his or her strengths. The school will provide the opportunities and platforms for our students by providing them with a myriad of learning experiences. We will continually strive to provide the best for our students, to cultivate the seeds of learning in them and most importantly, igniting the spark in them to discover, develop and deepen their learning.</p>
+![](/images/2023/E%20open%20house%202023/1%20mr%20martin%20chan.jpg)
 
 ---
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Mdm%20Ramachandra%20Suguna.jpg" alt="Mdm Ramachandra Suguna" style="width:60%;">  
-  
-
-
-<h4 style="color:black" align="center">Mdm Ramachandra Suguna</h4>
-<h6 style="color:black" align="center">Vice-Principal</h6>
-<p style="text-align:center;">When I started my journey as a newly appointed School Leader in Dec 2019, I was filled with a lot of aspirations and ideas. However with COVID -19, things took a different turn and days were filled with data collection and submission. A positive outcome through these events was the bonds I have forged with parents as I worked with them hand in hand. In the last few months, my relationships with parents have strengthened and I am able to garner their support for the school. I now have an intimate knowledge of which child has a sibling in which class and what their parents do for a living. What I enjoy most in my current capacity is the time I get to spend with the students, getting to know them as individuals. I love listening to their account of their day in school and what they like and look forward to.</p>
+![](/images/2023/E%20open%20house%202023/2%20mdm%20ramachandra%20suguna.jpg)
 
 ---
 
