@@ -6,7 +6,8 @@ third_nav_title: Our People
 ---
 
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
-	<p style="text-align:justify;">
+
+<p style="text-align:justify;">
 Amy: My CCA was Football (Girls). I once participated in National School Games (NSG), and I would say it was not easy because we were facing many strong opponents. However, my whole team really learned about teamwork, and we tried to work together to score by passing the ball to each other without being selfish. My fondest memory would be the match against Westwood Primary School. My teammates and I were really serious about preparing for and winning the match. We worked hard to maintain our strong defence, thus preventing the opponents from crossing the midfield. Our team was also very determined to break through their defence line to score goals. Thus, we were very happy when we reaped the rewards with a score of six to zero.</p>
 	
 **Q: What values did you learn from YCKPS, and how have those values supported your learning in your personal life?**
