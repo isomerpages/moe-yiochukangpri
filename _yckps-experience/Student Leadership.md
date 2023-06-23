@@ -22,7 +22,7 @@ The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 ![](/images/2023/student%20leadership%20framework.jpg)
 
 # Our Structure & Approach
-The 3 tiers of student leadership
+**THE 3 TIERS OF STUDENT LEADERSHIP**
 
 **Tier 1: Personal Leadership**
 
