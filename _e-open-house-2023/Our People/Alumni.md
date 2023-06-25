@@ -4,6 +4,17 @@ permalink: /e-open-house-2023/our-people/permalink/
 description: ""
 third_nav_title: Our People
 ---
+<style>
+
+    .resized-image {
+      width: 50px;  !important; /\* Set the desired width \*/
+      height: auto; /\* Automatically adjust the height to maintain aspect ratio \*/
+
+    }
+  </style>
+
+&nbsp; <img alt="Amy Mathews" src="" class="resized-image">
+
 
 
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
