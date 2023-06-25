@@ -15,6 +15,8 @@ third_nav_title: Our People
 
 &nbsp; <img alt="Amy Mathews" src="" class="resized-image">
 
+![](/images/2023/E%20open%20house%202023/amy%20mathews%20(2).jpg)
+
 
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
 
