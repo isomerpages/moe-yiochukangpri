@@ -4,7 +4,6 @@ permalink: /e-open-house-2023/our-people/permalink/
 description: ""
 third_nav_title: Our People
 ---
-
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
 
 <p style="text-align:justify;">
