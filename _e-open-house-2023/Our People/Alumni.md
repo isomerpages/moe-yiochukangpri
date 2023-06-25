@@ -37,7 +37,7 @@ Yun Zhe: Set up a personal timetable. Do not leave your work to the last minute 
 
 ---
 
-![](/images/2023/E%20open%20house%202023/krishnamurthy%20jeevajothika.png)
+<img src="/images/2023/E%20open%20house%202023/krishnamurthy%20jeevajothika.png" style="width:400px;height:auto;" align="center">
 
 **Q: Share a memorable experience or event that took place during your time in the school**
 
@@ -56,7 +56,7 @@ Jeeva: I would say to never give up and to believe in yourself. Certain subjects
 
 ---
 
-![](/images/2023/E%20open%20house%202023/leong%20yan%20hoi.png)
+<img src="/images/2023/E%20open%20house%202023/leong%20yan%20hoi.png" style="width:400px;height:auto;" align="center">
 
 **Q: What was your favourite subject in YCKPS, and why did you enjoy it?**
 
@@ -75,8 +75,7 @@ The school had invited a few secondary schools in the vicinity to give talks in 
 
 ---
 
-![](/images/2023/E%20open%20house%202023/lok%20hiu%20fung.png)
-
+<img src="/images/2023/E%20open%20house%202023/lok%20hiu%20fung.png" style="width:400px;height:auto;" align="center">
 	
 **Q: What was your favourite subject in YCKPS, and why did you enjoy it?**
 
@@ -95,7 +94,7 @@ Hiu Fung: I think resilience is the value that impacted me the most because thro
 
 --- 
 
-![](/images/2023/E%20open%20house%202023/nur%20iryssa.png)
+<img src="/images/2023/E%20open%20house%202023/nur%20iryssa.png" style="width:400px;height:auto;" align="center">
 
 **Q: Share a memorable experience or event that took place during your time in the school**
 
@@ -114,7 +113,7 @@ Iryssa: The value that really supported me is resilience. To me, resilience mean
 
 --- 
 
-![](/images/2023/E%20open%20house%202023/phan%20yi%20en.png)
+<img src="/images/2023/E%20open%20house%202023/phan%20yi%20en.png" style="width:400px;height:auto;" align="center">
 	
 **Q: Share a memorable experience or event that took place during your time in the school**
 
@@ -138,7 +137,7 @@ Yi En: I think one piece of advice I would give is to not dwell on or fixate on 
 
 ---
 
-![](/images/2023/E%20open%20house%202023/zhang%20xinyi.png)
+<img src="/images/2023/E%20open%20house%202023/zhang%20xinyi.png" style="width:400px;height:auto;" align="center">
 	
 **Q: What was your favourite subject in YCKPS, and why did you enjoy it?**
 
