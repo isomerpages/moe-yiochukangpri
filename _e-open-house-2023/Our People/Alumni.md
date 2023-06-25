@@ -18,7 +18,7 @@ Amy: From YCKPS, I have learned the values of resilience. There had been a few t
 
 ---
 
-![](/images/2023/E%20open%20house%202023/cai%20yunzhe.png)
+<img src="/images/2023/E%20open%20house%202023/cai%20yunzhe.png" style="width:400px;height:auto;" align="center">
 
 **Q: Share a memorable experience or event that took place during your time in the school**
 
