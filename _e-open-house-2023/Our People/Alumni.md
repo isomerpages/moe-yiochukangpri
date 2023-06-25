@@ -7,15 +7,13 @@ third_nav_title: Our People
 <style>
 
     .resized-image {
-      width: 50px;  !important; /\* Set the desired width \*/
+      width: 540px;  !important; /\* Set the desired width \*/
       height: auto; /\* Automatically adjust the height to maintain aspect ratio \*/
 
     }
   </style>
 
-&nbsp; <img alt="Amy Mathews" src="" class="resized-image">
-
-![](/images/2023/E%20open%20house%202023/amy%20mathews%20(2).jpg)
+&nbsp; <img alt="Amy Mathews" src="/images/2023/E%20open%20house%202023/amy%20mathews.png" class="resized-image">
 
 
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
