@@ -4,7 +4,7 @@ permalink: /e-open-house-2022/our-people/students/
 description: ""
 third_nav_title: Our People
 ---
-<img src="/images/2023/E%20open%20house%202023/joseph%20asbrie%20callen%20(respect%202).jpg" style="width:400px;height:auto;" align="center">
+<img src="/images/2023/E%20open%20house%202023/joseph%20asbrie%20callen%20(respect%202).jpg" style="width:300px;height:auto;" align="center">
 
 <p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping.</p>
 
