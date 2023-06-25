@@ -16,7 +16,6 @@ third_nav_title: Our People
 &nbsp; <img alt="Amy Mathews" src="" class="resized-image">
 
 
-
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
 
 <p style="text-align:justify;">
