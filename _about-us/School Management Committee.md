@@ -77,7 +77,7 @@ description: ""
     <td class="tg-ga19">Mdm Shahizah Mohd</td>
   </tr>
 	  <tr>
-	    <td class="tg-dlfs">PE &amp; CCA</td>
+	    <td class="tg-dlfs">Physical Education &amp; Co-Curricular Activities (CCA)</td>
     <td class="tg-dlfs">Mr Cruz Lovino Villasin</td>
   </tr>
   <tr>
@@ -308,7 +308,7 @@ description: ""
   </tr>
 	  
   <tr>
-    <td class="tg-ga19">SEN</td>
+    <td class="tg-ga19">Special Educational Needs (SEN)</td>
     <td class="tg-ga19">Mdm Siti Hadzzier Binte Hamzah</td>
   </tr>
   <tr>
