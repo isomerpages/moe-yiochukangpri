@@ -4,6 +4,12 @@ permalink: /e-open-house-2022/our-people/students/
 description: ""
 third_nav_title: Our People
 ---
+<img src="" style="width:300px;height:auto;" align="center">
+
+<p style="text-align:center;"> I enjoy art lesson because I can show my creativity through my drawings. I have learnt to use the different colouring and drawing techniques for my drawings.</p>
+
+---
+
 <img src="/images/2023/E%20open%20house%202023/joseph%20asbrie%20callen%20(respect%202).jpg" style="width:300px;height:auto;" align="center">
 
 <p style="text-align:center;">I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some bad times. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping.</p>
@@ -12,7 +18,7 @@ third_nav_title: Our People
 
 <img src="/images/2023/E%20open%20house%202023/keian%20ng%20(integrity%205).jpg" style="width:300px;height:auto;" align="center">
 
-<p style="text-align:center;">I enjoy PAL (Programme for Active Learning) because we get to do a lot of activities like running around, playing sports and games and learning outdoors. I learn how to notice other people’s feelings through the activities that we do.</p>
+<p style="text-align:center;"> The Applied Learning Programme eSTEM@YCKPS taught me how to contribute to a greener Singapore. My classmates and I got to go on a learning journey to an urban farm. I really enjoyed it because I got to learn how to grow various types of vegetables and even helped the urban farmers to plant some of them.</p>
 
 ---
 
