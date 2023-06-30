@@ -45,13 +45,13 @@ Tier 3 student leaders exemplifies the heartbeat of student leadership in YCKPS 
 <p style="text-align:center;">Cyber-wellness Monitors getting trained on the class ICT equipment.</p>
 
 <img src="/images/2023/picture%202.jpeg" style="width:300px;height:auto;" align="center">
-Eco Monitors trying their hand at upcycling
+<p style="text-align:center;">Eco Monitors trying their hand at upcycling</p>
 
 <img src="/images/2023/picture%203.JPG" style="width:300px;height:auto;" align="center">
-A teamwork activity with CCA leaders
+<p style="text-align:center;">A teamwork activity with CCA leaders</p>
 
 <img src="/images/2023/picture%204.JPG" style="width:300px;height:auto;" align="center">
-A moment of reflection by prefects
+<p style="text-align:center;">A moment of reflection by prefects</p>
 
 <img src="/images/2023/picture%205.jpeg" style="width:300px;height:auto;" align="center">
 
