@@ -4,7 +4,7 @@ permalink: /e-open-house-2022/our-people/students/
 description: ""
 third_nav_title: Our People
 ---
-<img src="" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/E%20open%20house%202023/sasha%20rajkumar%20(care%206).jpg" style="width:300px;height:auto;" align="center">
 
 <p style="text-align:center;"> I enjoy art lesson because I can show my creativity through my drawings. I have learnt to use the different colouring and drawing techniques for my drawings.</p>
 
