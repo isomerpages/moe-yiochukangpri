@@ -2,9 +2,9 @@ collections:
   e-open-house-2023:
     output: true
     order:
-      - Fireside Chat with P/.keep
-      - Fireside Chat with P/Our Principal.md
-      - Fireside Chat with P/Fireside Chat With Our Principal.md
+      - Fireside Chat With Our P/.keep
+      - Fireside Chat With Our P/Our Principal.md
+      - Fireside Chat With Our P/Fireside Chat With Our Principal.md
       - Our People/Alumni.md
       - Our People/.keep
       - Our People/Students.md
