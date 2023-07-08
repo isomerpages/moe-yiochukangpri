@@ -4,23 +4,32 @@ permalink: /yckps-experience/science/
 description: ""
 ---
 _Developing self-directed scientific inquirers and reflective thinkers_  
-  
 
-YCKPS Science Department aims to develop self-directed students who are scientific inquirers and reflective thinkers. To achieve this, we focus on the ICES approach, which is the acronym for **I**nquiry, **C**ommunication, **E**xperiential and **S**elf-directedness.
+YCKPS Science Department aims to develop **_self-directed students_** who are **_scientific inquirers_** and **_reflective thinkers_**. To achieve this, we adopt the ICES approach:<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **I**nquiry<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C**ommunication<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **E**xperiential<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **S**elf-directedness<br>
 
-  
+**I**nquiry<br>
+Students inquire and apply scientific knowledge, concepts, skills and attitudes in authentic settings through Science investigative activities. These activities are designed as part of the Science classroom experience as well as enrichment programmes like the Excellence 2000 (E2K) programme. Selected students also participate in investigation-based Science competitions like the Elementz Science Project competition.
 
-Some of our key programmes under the ICES approach are as follow:
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img width="289" height="254"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes">Learning together using a board game about life cycles</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img width="265" height="251"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes">Observing air occupies space</span></p></td></tr></tbody></table>
 
-  
 
-**Inquiry**
-
-  
-
-All our Primary 3 to Primary 6 students participate in Science investigative activities where they will learn to inquire and apply their scientific knowledge, skills and attitudes in authentic settings. To further hone their investigative skills, selected students will conduct scientific investigation projects and present their findings at the annual Elementz Science Project Competition and Exhibition and the biennial Singapore Youth Science Fair.
-
-  
+ 
 
 **Communication**
 
