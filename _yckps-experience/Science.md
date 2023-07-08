@@ -37,7 +37,7 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img width="281" height="211" src="/images/2023/Science/science%204a%20investigating%20the%20properties%20of%20light.jpeg"><img width="212" height="268" src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img width="281" height="211" src="/images/2023/Science/science%204a%20investigating%20the%20properties%20of%20light.jpeg"><br><img width="212" height="268" src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Investigating the properties of light</span></p></td></tr></tbody></table>
 
 **Communication**
