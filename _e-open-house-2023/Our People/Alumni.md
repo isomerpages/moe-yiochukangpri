@@ -23,7 +23,7 @@ Amy: From YCKPS, I have learned the values of resilience. There had been a few t
 **Q: Share a memorable experience or event that took place during your time in the school**
 
 <p style="text-align:justify;">
-Yun Zhe: It was Chinese lesson. I had a very funny Chinese teacher who taught us in a fun way. For something that was hard for us to remember, she would use meme or something relatable to us to teach us, making it easy for us to remember and memorise. She also prepared a lot of notes for us especially for composition.</p>
+Yun Zhe: It was Chinese lesson. I had a very engaging Chinese teacher, Ms Peng Xinyu, who taught us in a fun way. For concepts that was hard for us to remember, she would use meme or something relatable to teach us, making it easy for us to remember and memorise. She also prepared a lot of notes for us especially for composition.</p>
 	
 **Q: What values did you learn from YCKPS, and how have those values supported your learning in your personal life?**
 
