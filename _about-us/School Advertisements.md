@@ -61,17 +61,7 @@ description: ""
 *   Possess catering experience or experience operating in a school environment.
     
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
-    
 
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
 
 * * *
-
-[](mailto:?Subject=School%20Advertisements&amp;Body=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F)
-
-[](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F)
-
-[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F&amp;title=School%20Advertisements)
-
-[  
-](https://www.delasalle.moe.edu.sg/about-us/sch-info/)
