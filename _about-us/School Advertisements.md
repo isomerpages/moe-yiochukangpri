@@ -7,15 +7,15 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Western/Fusion/Japanese | 16 June 2023 | Western or Fusion or Japanese is acceptable |
+| Malay Food Stall | 31 Oct 2023 | Rice or noodle is acceptable |
 
 **Application Procedure**
-
-**1.** Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+<br>
+**1.**&nbsp;Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 *   [Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)
 
-**2.** Attached the following documents together with the application form:
+**2.**&nbsp;Attached the following documents together with the application form:
 
 *   Photocopy of the NRIC (front and back)
     
@@ -24,7 +24,7 @@ description: ""
 *   Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
     
 
-**3.** Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+**3.**&nbsp;Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
 *   Address: 11, Choa Chu Kang Street 52, Singapore 689285
     
@@ -45,7 +45,7 @@ description: ""
     
 *   Able to provide good service and quality food with prices determined in consultation with the school.
     
-*   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+*   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see&nbsp;[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
     
 *   Able to maintain high standard of food safety and personal hygiene.
     
@@ -65,11 +65,11 @@ Shortlisted applicants will be notified for an interview and will be required to
 
 * * *
 
-[](mailto:?Subject=School%20Advertisements&Body=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F)
+[](mailto:?Subject=School%20Advertisements&amp;Body=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F)
 
 [](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F)
 
-[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F&title=School%20Advertisements)
+[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.delasalle.moe.edu.sg%2Fabout-us%2Fschooladvert%2F&amp;title=School%20Advertisements)
 
 [  
 ](https://www.delasalle.moe.edu.sg/about-us/sch-info/)
