@@ -12,8 +12,9 @@ description: ""
 **Application Procedure**
 <br>
 **1.**&nbsp;Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+<br>
 
-[](/files/formbf7_canteen%20application%20form%20(yio%20chu%20kang%20primary%20school).pdf)
+[Canteen Vendor Application Form](/files/formbf7_canteen%20application%20form%20(yio%20chu%20kang%20primary%20school).pdf)
 
 **2.**&nbsp;Attached the following documents together with the application form:
 
@@ -26,18 +27,19 @@ description: ""
 
 **3.**&nbsp;Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
-*   Address: 11, Choa Chu Kang Street 52, Singapore 689285
+*   Address: 1 Hougang Street 51, Singapore 538720
     
-*   Contact No: 67667675
+*   Contact No: 6385 1365
     
-*   Email: dlss@moe.edu.sg
+*   Email: admin_yckps@moe.edu.sg
     
-*   Contact Person: Mdm Gwee Rong Rong
+*   Contact Person: Mr Tan Seng Hock/ Operation Manager
     
 
 **How to get there?**
 
-*   Nearest MRT: Yew Tee MRT (NS5 line) – minutes walking distance
+*   Nearest MRT: Buangkok (NE15) – 20 minutes walking distance
+*   Bus number: 109, 159, 159A, 161 – 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 
