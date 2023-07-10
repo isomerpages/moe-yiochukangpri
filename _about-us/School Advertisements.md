@@ -13,7 +13,7 @@ description: ""
 <br>
 **1.**&nbsp;Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-*   [Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)
+[](/files/formbf7_canteen%20application%20form%20(yio%20chu%20kang%20primary%20school).pdf)
 
 **2.**&nbsp;Attached the following documents together with the application form:
 
