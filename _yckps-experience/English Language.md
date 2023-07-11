@@ -20,7 +20,6 @@ The YCKPS English Department aims to nurture our students’ love for the Englis
 * P5 Public Speaking Skills Workshop – Developing our students’ confidence in expressing themselves verbally to a target audience 
 * KidsREAD – Collaborating with the National Library Board and secondary school student volunteers to promote independent reading via weekly sessions. 
 
-
 <img src="/images/2023/English/kidsread%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
 <img src="/images/2023/English/reading%20mums%20&amp;%20dads%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
 <img src="/images/2023/English/p6%20oral%20conversation%20workshop%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
@@ -39,4 +38,3 @@ The YCKPS English Department aims to nurture our students’ love for the Englis
 *   P3 &amp; P4: Reading Remediation Programme (RRP) and/or School-based Dyslexia Remediation Programme (SDR)
 
 \*Selection of students are based on assessment through diagnostic tests to ascertain suitability for the above programmes
-
