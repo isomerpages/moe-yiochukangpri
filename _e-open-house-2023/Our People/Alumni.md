@@ -9,12 +9,12 @@ third_nav_title: Our People
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
 
 <p style="text-align:justify;">
-Amy: My CCA was Football (Girls). I once participated in National School Games (NSG), and I would say it was not easy because we were facing many strong opponents. However, my whole team really learned about teamwork, and we tried to work together to score by passing the ball to each other without being selfish. My fondest memory would be the match against Westwood Primary School. My teammates and I were really serious about preparing for and winning the match. We worked hard to maintain our strong defence, thus preventing the opponents from crossing the midfield. Our team was also very determined to break through their defence line to score goals. Thus, we were very happy when we reaped the rewards with a score of six to zero.</p>
+Amy: My CCA was Football (Girls). I once participated in National School Games (NSG), and I would say it was not easy because we were facing many strong opponents. However, my whole team really learned about teamwork and we tried to work together to score by passing the ball to each other without being selfish. My fondest memory would be the matches played against different schools. We worked hard to maintain our strong defence, thus preventing our opponents from crossing the midfield. Our team was also very determined to break through their defence line to score goals.</p>
 	
 **Q: What values did you learn from YCKPS, and how have those values supported your learning in your personal life?**
 
 <p style="text-align:justify;">
-Amy: From YCKPS, I have learned the values of resilience. There had been a few times when I was faced with some challenges, such as difficult matches during NSG. However, I encouraged myself to push past my limits and to do more than what I thought I could, especially for the match against Haig Girls’ School which has a reputation for being one of the top ten schools for football. We were losing three to one at first, and it seemed like there was no chance of a victory for us. However, we still encouraged each other to press on. Hence, we were able to score one more goal. Although we didn't win, I felt that the match was a valuable experience.</p>
+Amy: From YCKPS, I have learned the values of resilience. There had been a few times when I was faced with some challenges, such as difficult matches during National School Games. However, I encouraged myself to push past my limits and to do more than what I thought I could.</p>
 
 ---
 
@@ -42,7 +42,7 @@ Yun Zhe: Set up a personal timetable. Do not leave your work to the last minute 
 **Q: Share a memorable experience or event that took place during your time in the school**
 
 <p style="text-align:justify;">
-Jeeva: There was one Mathematics competition that was held last year, called the Raffles Institution Primary Mathematics World Contest (RIPMWC). I took part in it and I got a distinction. I found it quite memorable because I think that was one of the first times in YCKPS that I went on stage since I joined the school only in P4. Up till then, I did not go up on stage to collect something and it was because of Math, I could do so. I felt very happy about it.</p>
+Jeeva: There was one Mathematics competition that was held last year, called the Raffles Institution Primary Mathematics World Contest (RIPMWC). I took part in it and I got a distinction. I found it quite memorable because I think that was &nbsp;the first time I went on stage in YCKPS.</p>
 	
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
 
@@ -52,7 +52,7 @@ Jeeva: My CCA was Indian Dance. I used to learn dance before P1 as I had an inte
 **Q: Looking back, what advice would you give to the current students studying in YCKPS?**
 
 <p style="text-align:justify;">
-Jeeva: I would say to never give up and to believe in yourself. Certain subjects may be difficult and challenging, and that may cause us to feel that we won’t be able to do well. As long as we believe in ourselves and put in our best efforts, even the impossible can be possible!</p>
+Jeeva: I would say to never give up and to believe in yourself. Certain subjects may be difficult and challenging, and that may cause us to feel that we won’t be able to do well. As long as we believe in ourselves and put in our best effort, even the impossible can be possible!</p>
 
 ---
 
@@ -61,7 +61,7 @@ Jeeva: I would say to never give up and to believe in yourself. Certain subjects
 **Q: What was your favourite subject in YCKPS, and why did you enjoy it?**
 
 <p style="text-align:justify;">
-Yan Hoi: My favourite was Mathematics because I thought the Mathematics topics we were learning were interesting. I think it was also due to my teacher, Mr Chan. He made the lessons quite interesting. For example, he would frequently ask us to participate in a few activities before starting a new topic. At the end, he would explain to us what the topic and concepts were about. I really enjoyed the idea of using activities to introduce each topic. </p>
+Yan Hoi: My favourite subject was Mathematics because I thought the Mathematics topics we were learning were interesting. I think it was also due to my teacher, Mr Chan Zi Xian. He made the lessons quite interesting. For example, he would frequently ask us to participate in a few activities before starting a new topic. At the end, he would explain to us what the topic and concepts were about. I quite enjoyed the idea of using activities to introduce each topic.</p>
 	
 **Q: How did your teachers and classmates support you during your time in YCKPS?**
 
@@ -70,8 +70,7 @@ Yan Hoi: The teachers were very supportive. If I encountered any obstacles or ne
 
 **Q: In what ways did the school prepare you for your success/secondary school?**
 
-<p style="text-align:justify;">
-The school had invited a few secondary schools in the vicinity to give talks in our school. They also invited some of the students there to share about their experiences in their respective schools, so all of us could have a rough idea of what to expect in secondary school. Post-PSLE, they also organised some talks about how to choose our secondary schools. After we collected our results, there was also a speech from Mr Ng, our principal. He emphasised how PSLE is not the sole determinant of who we are in the future, so that was encouraging for all of us.</p>
+<p style="text-align:justify;">YCKPS had invited a few secondary schools in the vicinity to give talks in our school. They also invited some of the students there to share about their experiences in their respective schools, so all of us could have a rough idea of what to expect in secondary school. Post-PSLE, they also organised some talks about how to choose our secondary schools. Our principal, Mr Ng, has also emphasised how PSLE is not the sole determinant of who we are in the future, and that was encouraging for all of us.</p>
 
 ---
 
@@ -80,7 +79,7 @@ The school had invited a few secondary schools in the vicinity to give talks in 
 **Q: What was your favourite subject in YCKPS, and why did you enjoy it?**
 
 <p style="text-align:justify;">
-Hiu Fung: My favorite subject was Science because my Science teacher, Mrs Yean, was very caring and she always looked out for us. She was a very special teacher because she would go the extra mile for all her students. For example, once I did quite badly for exam and she believed that I could do better. So, she asked me to take a retest to prove that I had the ability to answer those questions. I also like Science because it is very interesting, it allows me to explore more about the world and about how things work around us. I enjoyed doing all the experiments as well.</p>
+Hiu Fung: My favourite subject was Science because my Science teacher, Mrs Yean Sok Kheng, was very caring and she always looked out for us. She was a very special teacher because she would go the extra mile for all her students. I also like Science because it is very interesting, it allows me to explore more about the world and about how things work around us. I enjoyed doing all the experiments as well.</p>
 
 **Q: Share a memorable experience or event that took place during your time in the school**
 
@@ -109,7 +108,7 @@ Iryssa: My teachers and classmates encouraged me and told me not to give up. The
 **Q: What values did you learn from YCKPS, and how have those values supported your learning in your personal life?**
 
 <p style="text-align:justify;">
-Iryssa: The value that really supported me is resilience. To me, resilience means to not give up easily. Even today, I always tell myself not to give up easily. Sometimes I felt like I wanted to give up because I was scared that I would fail my PSLE again. However, I just kept revising every day, and I told my mum to sign me up for tuition, so she signed me up for it. In the end, I managed to do well for my PSLE because I did not give up and the people around me also did not give up on me</p>
+Iryssa: The value that really supported me is resilience. To me, resilience means to not give up easily. I managed to do well for my PSLE because I did not give up and the people around me also did not give up on me. &nbsp;I will continue to carry this value with me to overcome any challenges ahead.</p>
 
 --- 
 
@@ -142,12 +141,12 @@ Yi En: I think one piece of advice I would give is to not dwell on or fixate on 
 **Q: What was your favourite subject in YCKPS, and why did you enjoy it?**
 
 <p style="text-align:justify;">
-Xinyi: Mother Tongue was my favourite subject in YCKPS. I would say it was my Mother Tongue teacher who made the subject enjoyable because she is a very humorous and encouraging teacher. She often engaged us in a lot of group work and this made the lessons more lively. She also had an organized way of helping us with revision and this took a huge load off my shoulders.</p>
+Xinyi: Mother Tongue was my favourite subject in YCKPS. I would say it was my Mother Tongue teacher, Ms Peng Xinyu, who made the subject enjoyable because she is a very humorous and encouraging teacher. She often engaged us in a lot of group work and this made the lessons more lively. She also had an organized way of helping us with revision and this took a huge load off my shoulders.</p>
 
 **Q: What curricular activities did you participate in and what did you learn from those experiences?**
 
 <p style="text-align:justify;">
-Xinyi: My CCA was Volleyball, where I learnt the value of resilience. Our training sessions were really tiring and it was very hard to look up at the ceiling all day. Can you imagine being in that position for one and a half hours? Through playing Volleyball, I learned to persevere and not give up when the going gets tough. I’m now in a different CCA as my current school does not offer Volleyball and I really miss Volleyball.</p>
+Xinyi: My CCA was Volleyball, where I learned the value of resilience. Through playing Volleyball, I learned to persevere and not to give up when the going gets tough. I am now in a different CCA as my current school does not offer Volleyball and I really miss Volleyball.</p>
 
 **Q: Looking back, what advice would you give to the current students studying in YCKPS?**
 
