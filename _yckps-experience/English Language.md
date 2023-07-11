@@ -14,7 +14,7 @@ The YCKPS English Department aims to nurture our students’ love for the Englis
 * Modified Language Experience Approach – Learning through experiences
 * Making Thinking Visible (MTV) Routines – Enhancing critical thinking and language skills
 * Making Articulation Great In Classroom (MAGIC) – Whole-school approach to developing and enhancing oral presentation skills
-* Reading Mums & Dads – Collaborating with parent volunteers to inculcate the joy of reading in our students 
+* Reading Mums &amp; Dads – Collaborating with parent volunteers to inculcate the joy of reading in our students 
 * P1-P3 Show-and-Tell – Sparking the joy of reading and presenting with intention and purpose
 * P6 Oral Conversation Workshop – Equipping our students with the requisite skills in preparation for the Oral Examination  
 * P5 Public Speaking Skills Workshop – Developing our students’ confidence in expressing themselves verbally to a target audience 
@@ -27,7 +27,13 @@ The YCKPS English Department aims to nurture our students’ love for the Englis
 
 **Learning Support:**
 
-*   P1 & P2: Learning Support Programme (LSP)
-*   P3 & P4: Reading Remediation Programme (RRP) and/or School-based Dyslexia Remediation Programme (SDR)
+*   P1 &amp; P2: Learning Support Programme (LSP)
+*   P3 &amp; P4: Reading Remediation Programme (RRP) and/or School-based Dyslexia Remediation Programme (SDR)
 
 \*Selection of students are based on assessment through diagnostic tests to ascertain suitability for the above programmes
+
+<img src="/images/2023/English/book%20cover%20design%20competition%20-%20n%20ng.PNG" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/English/authors'%20talk%20&amp;%20book%20signing%20session%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/English/kidsread%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/English/reading%20mums%20&amp;%20dads%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/English/p6%20oral%20conversation%20workshop%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
