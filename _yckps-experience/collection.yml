@@ -2,6 +2,7 @@ collections:
   yckps-experience:
     output: true
     order:
+      - Social Studies.md
       - Aesthetics.md
       - Character and Citizenship Education (CCE).md
       - English Language.md
