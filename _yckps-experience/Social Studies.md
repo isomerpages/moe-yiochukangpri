@@ -9,5 +9,5 @@ Our school’s Social Studies team endeavours to shape our students into becomin
 <img src="/images/2023/Social%20Studies/p3%20learning%20journey%20to%20nnthe%20sustainable%20singapore%20gallery%20-%20n%20ng.jpg" style="width:300px;height:auto;" align="center">
 
 <img src="/images/2023/Social%20Studies/p4%20learning%20journey%20to%20kampong%20glam%20-%20n%20ng.jpg" style="width:300px;height:auto;" align="center">
-
+<br>
 <img src="/images/2023/Social%20Studies/p6%20learning%20journey%20to%20the%20asian%20civilisations%20museum%20-%20n%20ng.png" style="width:300px;height:auto;" align="center">
