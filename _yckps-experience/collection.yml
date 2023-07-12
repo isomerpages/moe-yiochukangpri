@@ -2,7 +2,6 @@ collections:
   yckps-experience:
     output: true
     order:
-      - Social Studies.md
       - Aesthetics.md
       - Character and Citizenship Education (CCE).md
       - English Language.md
@@ -12,6 +11,7 @@ collections:
       - Physical Education.md
       - Science.md
       - Student Leadership.md
+      - Social Studies.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities.md
       - Co Curricular Activities (CCA)/Football (Boys and Girls).md
