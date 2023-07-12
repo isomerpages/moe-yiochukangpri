@@ -20,7 +20,7 @@ Our school’s Social Studies team endeavours to shape our students into becomin
   padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes"><img width="351" height="201" src="/images/2023/Social%20Studies/p3%20learning%20journey%20to%20nnthe%20sustainable%20singapore%20gallery%20-%20n%20ng.jpg"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P3 Learning journey to Sustainable Singapore Gallery</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P3 Learning Journey to Sustainable Singapore Gallery</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
