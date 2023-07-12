@@ -14,13 +14,14 @@ The highlight for the week was when we went through a school-wide lockdown exerc
 
 During CCE (FTGP) lessons on the same day after the exercise, our students also conducted the various TDD related lessons to learn about the roles they could play to prepare for future threats and challenges. Our students were also engaged in the various TDD activities in the Kindsville Times to further learn about how we could strengthen our resolve to keep Singapore strong.
 
-![](/images/2023/Events/tdd%20assembly%201.jpeg)
+<img src="/images/2023/Events/tdd%20assembly%201.jpeg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/tdd%20ftgp.jpeg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/tdd%20lockdown.jpeg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/tdd%20lockdown%202.jpeg" style="width:300px;height:auto;" align="center">
 
-![](/images/2023/Events/tdd%20ftgp.jpeg)
-
-![](/images/2023/Events/tdd%20lockdown.jpeg)
-
-![](/images/2023/Events/tdd%20lockdown%202.jpeg)
 ***
 
 #### **Nurture Programme**
