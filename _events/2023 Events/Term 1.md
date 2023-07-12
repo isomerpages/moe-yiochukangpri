@@ -14,8 +14,15 @@ The highlight for the week was when we went through a school-wide lockdown exerc
 
 During CCE (FTGP) lessons on the same day after the exercise, our students also conducted the various TDD related lessons to learn about the roles they could play to prepare for future threats and challenges. Our students were also engaged in the various TDD activities in the Kindsville Times to further learn about how we could strengthen our resolve to keep Singapore strong.
 
+![](/images/2023/Events/tdd%20assembly%201.jpeg)
+
+![](/images/2023/Events/tdd%20ftgp.jpeg)
+
+![](/images/2023/Events/tdd%20lockdown.jpeg)
+
+![](/images/2023/Events/tdd%20lockdown%202.jpeg)
+***
 
 #### **Nurture Programme**
-
 
 Selected Primary 2 to Primary 4 students started their Nurture Programme on 17 February 2023. The Nurture Programme is conducted weekly in partnership with the Central Singapore CDC with the aim to develop our students as effective communicators, problem-solvers and self- directed learners. The lessons are designed to be activity-based. In the first lesson, students set Nurture class rules aligned to our school values. They were also given opportunities to share their thoughts and feelings on topics of interest. The students had a fruitful and engaging lesson, and they are looking forward to their weekly sessions with their lead teachers from the CDC and student volunteers from the Singapore Management University (SMU).
