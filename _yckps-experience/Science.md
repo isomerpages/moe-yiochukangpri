@@ -18,13 +18,14 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img width="289" height="254" src="/images/2023/Science/science%201%20-%20learning%20together%20using%20a%20board%20game%20about%20life%20cycles.jpeg"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%201%20-%20learning%20together%20using%20a%20board%20game%20about%20life%20cycles.jpeg" style="width:250px;height:auto;" align="center">
+</span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Learning together using a board game about life cycles</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img width="265" height="251" src="/images/2023/Science/science%202%20-%20observing%20air%20occupies%20space.jpeg"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%202%20-%20observing%20air%20occupies%20space.jpeg" style="width250px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Observing air occupies space</span></p></td></tr></tbody></table>
 
@@ -32,12 +33,13 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img width="206" height="319" src="/images/2023/Science/science%203%20-%20measuring%20volume%20using%20a%20measuring%20cylinder.jpeg"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%203%20-%20measuring%20volume%20using%20a%20measuring%20cylinder.jpeg" style="width250px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Measuring volume using a measuring cylinder</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img width="281" height="211" src="/images/2023/Science/science%204a%20investigating%20the%20properties%20of%20light.jpeg"><br><img width="212" height="268" src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%204a%20investigating%20the%20properties%20of%20light.jpeg" style="width250px;height:auto;" align="center"><br>
+<img src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg" style="width250px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Investigating the properties of light</span></p></td></tr></tbody></table>
 
 <table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
