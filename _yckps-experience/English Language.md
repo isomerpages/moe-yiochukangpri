@@ -21,7 +21,9 @@ The YCKPS English Department aims to nurture our students’ love for the Englis
 * KidsREAD – Collaborating with the National Library Board and secondary school student volunteers to promote independent reading via weekly sessions. 
 
 <img src="/images/2023/English/kidsread%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
+
 <img src="/images/2023/English/reading%20mums%20&amp;%20dads%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
+
 <img src="/images/2023/English/p6%20oral%20conversation%20workshop%20-%20n%20ng.jpeg" style="width:300px;height:auto;" align="center">
 
 **Department Events:**
