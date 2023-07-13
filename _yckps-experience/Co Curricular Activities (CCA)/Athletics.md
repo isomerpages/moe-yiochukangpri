@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Wong Chian Woon<br>Mrs Esther Yeo  </td>
+    <td class="tg-12c9">Mr Wong Chian Woon*<br>Mrs Esther Yeo  </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Parade Square</td>
     <td class="tg-12c9">Integrity 4 Class Rm</td>
