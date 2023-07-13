@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Miss Chan Shu Hui* <br>Miss Peng Xinyu <br>Mdm Liang Qi</td>
+    <td class="tg-12c9">Miss Peng Xinyu*</td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Dance Studio</td>
     <td class="tg-12c9">Nil </td>
