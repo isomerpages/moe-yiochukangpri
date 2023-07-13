@@ -34,7 +34,7 @@ About
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mrs Dave* <br>Mr Chen Yeow Kong </td>
+    <td class="tg-12c9">Ms Amalina* <br>Ms Chen Lifen<br>Ms Chia Huiyi </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Art Rm 1 &amp; 2</td>
     <td class="tg-12c9">Nil </td>
