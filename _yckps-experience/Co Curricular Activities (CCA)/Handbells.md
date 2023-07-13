@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9"><span style="background-color:initial">Mr Alan Wong* </span><br>Mdm Lim Kar Hoon Joell</td>
+    <td class="tg-12c9"><span style="background-color:initial">Ms Nicole Lim*<br>Ms Leong Bao Ru<br>Ms Kana Inoue</span></td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Band Rm 1 </td>
     <td class="tg-12c9">Nil  </td>
