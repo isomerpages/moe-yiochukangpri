@@ -65,15 +65,23 @@ description: ""
     <td class="tg-dlfs">Mrs Janice Low</td>
   </tr>
   <tr>
-    <td class="tg-ga19">Mathematics</td>
-    <td class="tg-ga19">Mr Chan Zi Xian</td>
+		<td class="tg-ga19">Mother Tongue Language</td>
+    <td class="tg-ga19">Mr Jason Lin</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Science</td>
-    <td class="tg-dlfs">Mdm Shahizah Mohd</td>
+    <td class="tg-dlfs">Mathematics</td>
+    <td class="tg-dlfs">Mr Chan Zi Xian</td>
+  </tr>
+  <tr>
+    <td class="tg-ga19">Science</td>
+    <td class="tg-ga19">Mdm Shahizah Mohd</td>
   </tr>
 	  <tr>
-	    <td class="tg-ga19">Aesthetics</td>
+	    <td class="tg-dlfs">Physical Education &amp; Co-Curricular Activities (CCA)</td>
+    <td class="tg-dlfs">Mr Cruz Lovino Villasin</td>
+  </tr>
+  <tr>
+<td class="tg-ga19">Aesthetics</td>
     <td class="tg-ga19">Ms Yu Xin, Stella</td>
   </tr>
   <tr>
@@ -249,13 +257,36 @@ description: ""
 </colgroup>
 <thead>
   <tr>
+    <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Lead Teacher</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dlfs">Malay Language</td>
+    <td class="tg-dlfs">Mdm Manisah Bte Osman</td>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ga19{background-color:#FFF;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zgkh{background-color:#558B2F;border-color:#c0c0c0;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dlfs{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+</tr></tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 634px">
+<colgroup>
+<col style="width: 260.003906px">
+<col style="width: 374.003906px">
+</colgroup>
+<thead>
+  <tr>
     <th class="tg-zgkh" colspan="2"><span style="color:#FFF;background-color:#558B2F">Senior Teachers</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dlfs">Science</td>
-    <td class="tg-dlfs">Mrs Yean Sok Kheng</td>
   </tr>
   <tr>
     <td class="tg-ga19">English Language </td>
@@ -270,12 +301,16 @@ description: ""
     <td class="tg-ga19">Ms Peng Xinyu</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Malay Language</td>
-    <td class="tg-dlfs">Mdm Manisah Bte Osman</td>
+    <td class="tg-dlfs">Science</td>
+    <td class="tg-dlfs">Mr Alan Wong Chee Yoong</td>
 		  </tr>
   <tr>
-    <td class="tg-ga19">Science</td>
-    <td class="tg-ga19">Mr Alan Wong Chee Yoong</td>
   </tr>
-</tbody>
+	  
+  <tr>
+    <td class="tg-ga19">Special Educational Needs (SEN)</td>
+    <td class="tg-ga19">Mdm Siti Hadzzier Binte Hamzah</td>
+  </tr>
+  <tr>
+</tr></tbody>
 </table>

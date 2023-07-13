@@ -3,73 +3,56 @@ title: Student Leadership
 permalink: /yckps-experience/student-leadership/
 description: ""
 ---
-Every YCKP-ian, a leader
+# EVERY YCKP-IAN, A LEADER
 
-Our Approach
-------------
+**Our Beliefs**
 
 In line with Yio Chu Kang Primary’s Mission statement of nurturing confident and self-directed learners who are keen to serve, the student leadership team has put in place programmes that are aimed to develop and nurture the leader in every pupil in our school.
 
   
 
-Key Beliefs guiding student leadership development in YCKPS&nbsp;&nbsp;
+The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 
-• Every student can be developed as a leader.
+* Every student can be a leader.
 
-• Every student should be developed as a leader.
+* Every student is responsible for his or her learning as a student leader.
 
-• Student Leadership Development needs to be intentional.
+* Every student can serve as a student leader.
 
-Student Leadership Framework (I-STEER ©)
+![](/images/2023/student%20leadership%20framework.jpg)
 
-![Student Leadership](/images/Student%20LS1.png)
+# Our Structure &amp; Approach
+**THE 3 TIERS OF STUDENT LEADERSHIP**
 
-The student leadership framework is guided by six main pillars, namely&nbsp;
+**Tier 1: Personal Leadership**
 
-*   I -&nbsp;Identification
-*   S- Selection
-*   T- Training
-*   E- Empowering
-*   E- Evaluating
-*   R- Recognizing
+This is a baseline student leadership development programme that includes all students from P1-P6. The school **EDUCATES** students on Personal leadership through CCE and school-wide value education programmes where the Social Emotional competencies of Self-Management and Responsible Decision-Making are strengthened.
 
-Through this framework, the student leadership team develops a structured and progressive programme in YCKPS.&nbsp;
-
-Student Leaders are categorised based on 3 tiers. These tiers help in the formulation of customised programmes and training suited for each of these segments of student leaders.&nbsp;  
-
-![Student Leadership](/images/Student%20Ls2.png)
-
-In order to achieve the aims, student leaders will be;  
-  
-
-<table border="1" cellspacing="0" cellpadding="0" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(88, 89, 91); font-family: &quot;Nunito Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 632px; height: 363px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 36.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 290px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Specific objectives</u></strong></p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 18px;">&nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 323px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Supporting Programme</u></strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 10.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 207.4pt;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">1) Student Leaders to be equipped with leadership skills and school values</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 11.8pt;">&nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 229.85pt;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">Student leaders mass and individual training sessions.</em></li><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">On the job briefings by Teacher Mentors</em></li><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">Handbook for Prefects and Class Monitors on roles and responsibilities</em></li><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">Training Sessions for Prefects based on leadership modules</em></li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 78pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 207.4pt;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">2) Provided with the opportunity to be active contributors to the school and community</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 11.8pt;">&nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 229.85pt;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><em style="margin: 0px; outline: 0px; padding: 0px;">School events, Learning Journeys, Social Change Outreach Programme (SOCH)and Community outreach</em><span>&nbsp;</span>activities</li></ul></td></tr></tbody></table>
-
-
-**Tier 1 : Class Leaders Training**&nbsp;
-
-Students are selected based on a rigorous nomination process. Each role is subject specific and teacher mentors are assigned to guide the respective student leaders to carry out their roles and responsibilities as effectively as possible.&nbsp;
-
-![Student Leadership](/images/Student%20LS3.png)  
+**Tier 2: Class Leadership**
  
-![Student Leadership](/images/Student%20LS4.jpg)
-Aesthetics Monitors
+Tier 2 is made up of class committee leaders that include Class Monitors and Subject Monitors. As students take up class committee roles, they **ENRICH** their student experiences by applying responsible deciding making skills as well as putting into action the 6 school values. The Tier 2 leaders are Class Monitor, Reading Activist, Math Monitor, Science Monitor, MT Monitor, Aesthetics Monitor, PE Monitor, Eco Monitor and Cyber-wellness Monitor. 
+Development of Tier 2 leaders include a student leader Start-of-Year Training by the Student Leadership committee and Subject Teachers-in-charge as well as on-the-job training.
 
-![Student Leadership](/images/Student%20LS5.jpg)
-PE Monitors&nbsp;
+**Tier 3: School Leadership**
 
-![Student Leadership](/images/Student%20LS6.jpg)
-Eco-pals
+Student Leaders in Tier 3 forms the YCKPS Student Council which include the following group of student leaders:
+* Prefectorial Board
+* CCA leaders
 
-![Student Leadership](/images/Student%20LS7.jpg)
-Cyberwellness Warriors
+Tier 3 student leaders exemplifies the heartbeat of student leadership in YCKPS and are the main drivers of school-wide initiatives and programmes. The programme and experiences for Tier 3 student leaders are geared towards **EMPOWERING** them to develop initiative to find solutions and give back to the school community. As Tier 3 student leaders, they will be guided to look within, from their thoughts to their action, before exploring how they can be a positive change to others.
 
-![Student Leadership](/images/Student%20LS8.jpg)
-Reading Activists
+<img src="/images/2023/picture%201.jpeg" style="width:300px;height:auto;" align="center">
+<p style="text-align:center;">Cyber-wellness Monitors getting trained on the class ICT equipment.</p>
 
-**Tier 2 and 3 : Prefects Training Sessions**
+<img src="/images/2023/picture%202.jpeg" style="width:300px;height:auto;" align="center">
+<p style="text-align:center;">Eco Monitors trying their hand at upcycling</p>
 
-Students who show further leadership potential are interviewed by the student leadership team teachers as well as our school leaders. They are then placed as trainee prefects on a probation of 6 months, before they are confirmed as prefects. Prefects who show keen interest in their roles are given the opportunity to assume EXCO roles within the prefectural board, after campaigning and an interview conducted by the school leaders
+<img src="/images/2023/picture%203.JPG" style="width:300px;height:auto;" align="center">
+<p style="text-align:center;">A teamwork activity with CCA leaders</p>
 
-  
-![prefects](/images/prefects.png) 
-Prefects honing their presentation and communication skills
+<img src="/images/2023/picture%204.JPG" style="width:300px;height:auto;" align="center">
+<p style="text-align:center;">A moment of reflection by prefects</p>
+
+<img src="/images/2023/picture%205.jpeg" style="width:300px;height:auto;" align="center">
+
+As we nurture self-directed student leaders, we aim for our students to develop the ability to reflect on one’s actions and be caring individuals. This undergirds the school’s student development efforts to develop students who will have the heart to initiate change and ultimately give back to the school community and beyond.
