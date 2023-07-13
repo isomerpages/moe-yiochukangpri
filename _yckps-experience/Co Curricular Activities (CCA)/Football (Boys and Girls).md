@@ -36,14 +36,14 @@ third_nav_title: Co Curricular Activities (CCA)
 <tbody>
   <tr>
     <td class="tg-12c9">Football (Boys)</td>
-    <td class="tg-12c9">Mr Liu Huaqing*<br>Mr Khusairi<br>Mdm Sudriyanti <br>Mdm Raynitha </td>
+    <td class="tg-12c9">Mdm Raynitha </td>
     <td class="tg-qira">Thursday 7.30am – 9.00am </td>
     <td class="tg-1hqx">Field</td>
     <td class="tg-12c9">Integrity 1 &amp; 2 Class Rm</td>
   </tr>
   <tr>
     <td class="tg-12c9">Football (Girls)</td>
-    <td class="tg-12c9">Mr Tan Yoke Wee* <br>Mdm Norhafizah <br>Ms Phoebe Wong</td>
+    <td class="tg-12c9">Mr Tan Yoke Wee* <br>Mdm Norhafizah </td>
     <td class="tg-qira">Thursday <br>7.30am – 9.00am </td>
     <td class="tg-qira">Field</td>
     <td class="tg-12c9">Integrity 3 Class Rm</td>
