@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Tan Jia Rong* <br>Mdm Kaiyisah <br>Ms Nicole Ng <br>Mrs Melissa Tan<br>Mr Jonathan Wong </td>
+    <td class="tg-12c9">Mr Jonathan Wong* </td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Music Rm 1 </td>
     <td class="tg-12c9">Nil </td>
