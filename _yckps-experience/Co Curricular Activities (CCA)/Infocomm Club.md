@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Oi Poh Ling* <br>Mdm Dasimah<br>Mdm Amy Wang</td>
+    <td class="tg-12c9">Mr Alan Wong*<br>Mdm Dasimah</td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Computer Lab 2</td>
     <td class="tg-12c9">Nil </td>
