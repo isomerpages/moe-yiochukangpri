@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Ms Mary Chia* <br>Mr Muhammad Syafiq<br>Ms Yip Wei Ming<br>Ms Tan Xuan Hong  </td>
+    <td class="tg-12c9">Mr Muhammad Syafiq<br>Ms Tan Xuan Hong<br>Ms Jasmine Chan<br>Mr Georgy Mathew</td>
     <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Foyer/ Canteen</td>
     <td class="tg-1hqx">Nil</td>
