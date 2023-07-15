@@ -25,7 +25,7 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%202%20-%20observing%20air%20occupies%20space.jpeg" style="width250px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%202%20-%20observing%20air%20occupies%20space.jpeg" style="width150px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Observing air occupies space</span></p></td></tr></tbody></table>
 
