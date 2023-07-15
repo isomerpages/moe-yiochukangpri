@@ -36,6 +36,18 @@ The Polya’s 4 Steps (Understand, Plan, Do, Check) Approach is used to help stu
 <br>
 Students learn best when they can apply their learning to everyday situations. The Mathematics Department organises Math Trails around the school for our students to experience mathematics in real-life. &nbsp;Students will get to solve authentic tasks at various parts of our school by applying the mathematics concepts and skills that they have learnt. In this way, our students will be able to see the applicability of the mathematical knowledge they have acquired.
 
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/Mathematics/math%20trails%201.jfif" style="width:300px;height:auto;" align="center">
+</span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/Mathematics/math%20trails%204.jpg" style="width200px;height:auto;" align="center"></span></p><p></p></td></tr></tbody></table>
+
 **Math Xcite!**
 
 Under the Math Xcite! programme, the Mathematics Department also organises mathematics-related games and puzzles every term for all students to participate. These activities allow our students to experience the joy and fun of learning mathematics.
