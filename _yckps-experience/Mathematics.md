@@ -46,7 +46,7 @@ Students learn best when they can apply their learning to everyday situations. T
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Mathematics/math%20trails%204.jpg" style="width200px;height:auto;" align="center"></span></p><p></p></td></tr></tbody></table>
+  yes"><img src="/images/2023/Mathematics/math%20trails%204.jpg" style="width100px;height:auto;" align="center"></span></p><p></p></td></tr></tbody></table>
 
 **Math Xcite!**
 
@@ -67,6 +67,18 @@ Under the Math Xcite! programme, the Mathematics Department also organises mathe
 **Enrichment – Mathematics Olympiad and E2K Mathematics**
 
 For students who demonstrated aptitude and interest for mathematics, our school organises Olympiad training workshops and E2K Mathematics Enrichment lessons to equip these students with concepts and skills that are beyond the confines of the syllabus. Students would have the opportunity to hone their problem-solving skills, as well as develop confidence and independence in carrying out mathematical inquiry.
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/Mathematics/e2k%20pic1.jpg" style="width:300px;height:auto;" align="center">
+</span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/Mathematics/olympiad%202.jpeg" style="width200px;height:auto;" align="center"></span></p><p></p></td></tr></tbody></table>
 
 **Mathematics Competitions**
 
