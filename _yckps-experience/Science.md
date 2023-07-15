@@ -25,7 +25,7 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%202%20-%20observing%20air%20occupies%20space.jpeg" style="width150px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%202%20-%20observing%20air%20occupies%20space.jpeg" style="width50px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Observing air occupies space</span></p></td></tr></tbody></table>
 
@@ -33,29 +33,29 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%203%20-%20measuring%20volume%20using%20a%20measuring%20cylinder.jpeg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%203%20-%20measuring%20volume%20using%20a%20measuring%20cylinder.jpeg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Measuring volume using a measuring cylinder</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes"><img src="/images/2023/Science/science%204a%20investigating%20the%20properties%20of%20light.jpeg" style="width150px;height:auto;" align="center"><br>
-<img src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+<img src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Investigating the properties of light</span></p></td></tr></tbody></table>
 
 <table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:52.44%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="52%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%205%20-%20making%20a%20model%20of%20the%20human%20lungs.jpeg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%205%20-%20making%20a%20model%20of%20the%20human%20lungs.jpeg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Making a model of the human lungs</span></p></td><td style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="47%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%206%20-%20investigating%20how%20stems%20transport%20coloured%20water%20to%20the%20flowers.jpeg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%206%20-%20investigating%20how%20stems%20transport%20coloured%20water%20to%20the%20flowers.jpeg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Investigating how stems transport coloured water to the flowers</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:52.44%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="52%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><img src="/images/2023/Science/science%207%20-%20investigating%20the%20rate%20of%20photosynthesis%20of%20water%20plants.jpeg" style="width150px;height:auto;" align="center"></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><img src="/images/2023/Science/science%207%20-%20investigating%20the%20rate%20of%20photosynthesis%20of%20water%20plants.jpeg" style="width50px;height:auto;" align="center"></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Investigating the rate of photosynthesis of water plants</span></p></td><td style="width:47.56%;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -71,26 +71,26 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%209%20-%20investigating%20how%20different%20surfaces%20affect%20the%20amount%20of%20friction.jpeg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%209%20-%20investigating%20how%20different%20surfaces%20affect%20the%20amount%20of%20friction.jpeg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Investigating how different surfaces affect the amount of friction</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2010%20-%20learning%20about%20the%20garden%20habitat%20in%20the%20school%20eco-garden.jpeg" style="width150px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2010%20-%20learning%20about%20the%20garden%20habitat%20in%20the%20school%20eco-garden.jpeg" style="width50px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Learning about the garden habitat in the school Eco-garden</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2011%20-%20planning%20an%20investigative%20experiment%20during%20an%20e2k%20enrichment%20lesson.jpg" style="width150px;height:auto;" align="center"></span></p><span style="font-family:&quot;Lato&quot;,sans-serif"></span><p></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2011%20-%20planning%20an%20investigative%20experiment%20during%20an%20e2k%20enrichment%20lesson.jpg" style="width50px;height:auto;" align="center"></span></p><span style="font-family:&quot;Lato&quot;,sans-serif"></span><p></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span lang="EN-SG" style="font-family:&quot;Lato&quot;,sans-serif;
   mso-ansi-language:EN-SG">Planning an investigative experiment during an E2K enrichment lesson</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td><td width="47%" valign="top" style="width:47.56%;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2012%20-%20measuring%20the%20distance%20travelled%20by%20a%20boat%20made%20during%20an%20e2k%20enrichment%20lesson.jpg" style="width150px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2012%20-%20measuring%20the%20distance%20travelled%20by%20a%20boat%20made%20during%20an%20e2k%20enrichment%20lesson.jpg" style="width50px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Measuring the distance travelled by a boat made </span><span lang="EN-SG" style="font-family:&quot;Lato&quot;,sans-serif;mso-ansi-language:EN-SG">during an E2K enrichment lesson</span><span lang="EN-SG" style="font-family:&quot;Lato&quot;,sans-serif;
   mso-no-proof:yes"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr></tbody></table>
@@ -99,7 +99,7 @@ Students inquire and apply scientific knowledge, concepts, skills and attitudes 
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:52.44%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="52%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2013a%20-%20investigating%20the%20effect%20of%20acid%20on%20seed%20germination%20for%20elementz%20sci%20proj%20competition.jpeg" style="width150px;height:auto;" align="center"></span><br><img src="/images/2023/Science/science%2013b%20-%20investigating%20the%20effect%20of%20acid%20on%20seed%20germination%20for%20elementz%20sci%20proj%20competition.jpeg" style="width150px;height:auto;" align="center"></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2013a%20-%20investigating%20the%20effect%20of%20acid%20on%20seed%20germination%20for%20elementz%20sci%20proj%20competition.jpeg" style="width100px;height:auto;" align="center"></span><br><img src="/images/2023/Science/science%2013b%20-%20investigating%20the%20effect%20of%20acid%20on%20seed%20germination%20for%20elementz%20sci%20proj%20competition.jpeg" style="width100px;height:auto;" align="center"></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Investigating the effect of acid on seed germination for Elementz Science Project competition</span></p></td><td style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -136,22 +136,22 @@ Learning journeys are planned for each level from Primary 3 to Primary 6 to comp
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P3 learning journey to the Zoo</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P4 learning journey to an Urban Farm</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P5 learning journey to NEWater Visitor Centre</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width150px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P6 learning journey to the Science Centre</span></p></td></tr></tbody></table>
 
 **S**elf-directedness<br>
