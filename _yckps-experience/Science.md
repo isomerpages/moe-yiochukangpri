@@ -132,14 +132,14 @@ Science Booklets and Science Word Cards are used to provide opportunities for st
 **E**xperiential<br>
 Learning journeys are planned for each level from Primary 3 to Primary 6 to complement students’ learning in class. Through these learning journeys, students experience real-life applications of scientific knowledge and concepts. In addition, students learn more about environmental sustainability during these learning journeys as part of the school’s signature Applied Learning Programme.
 
-<img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width200px;height:auto;" align="center"><p style="text-align:center;">
-P3 learning journey to the Zoo</p> 
+<img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width50px;height:auto;" align="center">
+<p style="text-align:center;">P3 learning journey to the Zoo</p>
 
-<img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width200px;height:auto;" align="center"><p style="text-align:center;">
-P4 learning journey to an Urban Farm</p> 
+<img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width50px;height:auto;" align="center">
+<p style="text-align:center;">P4 learning journey to an Urban Farm</p>
 
-<img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width200px;height:auto;" align="center"><p style="text-align:center;">
-P5 learning journey to NEWater Visitor Centre</p> 
+<img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width50px;height:auto;" align="center">
+<p style="text-align:center;">P5 learning journey to NEWater Visitor Centre</p>
 
 <img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width50px;height:auto;" align="center">
 <p style="text-align:center;">P6 learning journey to the Science Centre</p>
