@@ -134,13 +134,15 @@ Learning journeys are planned for each level from Primary 3 to Primary 6 to comp
 
 <img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width200px;height:auto;" align="center"><p style="text-align:center;">
 P3 learning journey to the Zoo</p> 
+
 <img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width200px;height:auto;" align="center"><p style="text-align:center;">
 P4 learning journey to an Urban Farm</p> 
 
 <img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width200px;height:auto;" align="center"><p style="text-align:center;">
 P5 learning journey to NEWater Visitor Centre</p> 
 
-<img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width50px;height:auto;" align="center"><p style="text-align:center;">P6 learning journey to the Science Centre</p>
+<img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width50px;height:auto;" align="center">
+<p style="text-align:center;">P6 learning journey to the Science Centre</p>
 
 **S**elf-directedness<br>
 To build students’ self-directedness and curiosity in Science, the Science Reading Programme encourages students to read Science books and magazines, which are made available in every class, at their own free time to extend their learning in Science.
