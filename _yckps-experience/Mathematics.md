@@ -4,18 +4,7 @@ permalink: /yckps-experience/mathematics/
 description: ""
 ---
 In Yio Chu Kang Primary School, learning mathematics is an active process where students engage in meaningful activities and learning experiences to explore and learn mathematical concepts and skills. Through activity-based and inquiry-based learning, our teachers provide opportunities for students to apply what they have learnt, articulate their thinking and mathematical reasoning, hence allowing them to construct understandings of abstract mathematical concepts.
-
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Mathematics/inquiry-based%20learning%202.png" style="width:300px;height:auto;" align="center">
-</span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Mathematics/activity-based%20learning%201.jpeg" style="width200px;height:auto;" align="center"></span></p><p></p></td></tr></tbody></table>
+<img style="/images/2023/Mathematics/inquiry-based%20learning%202.png" align="center"><br><img style="/images/2023/Mathematics/activity-based%20learning%201.jpeg" align="center">
 
 **Critical thinking in Problem Solving**
 <br>
