@@ -132,27 +132,15 @@ Science Booklets and Science Word Cards are used to provide opportunities for st
 **E**xperiential<br>
 Learning journeys are planned for each level from Primary 3 to Primary 6 to complement students’ learning in class. Through these learning journeys, students experience real-life applications of scientific knowledge and concepts. In addition, students learn more about environmental sustainability during these learning journeys as part of the school’s signature Applied Learning Programme.
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P3 learning journey to the Zoo</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P4 learning journey to an Urban Farm</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P5 learning journey to NEWater Visitor Centre</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="100%" valign="top" style="width:100.0%;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width50px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
-  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">P6 learning journey to the Science Centre</span></p></td></tr></tbody></table>
+<img src="/images/2023/Science/science%2017%20-%20p3%20learning%20journey%20to%20the%20zoo.png" style="width200px;height:auto;" align="center"><p style="text-align:center;">
+P3 learning journey to the Zoo</p> 
+<img src="/images/2023/Science/science%2018%20-%20p4%20learning%20journey%20to%20an%20urban%20farm.png" style="width200px;height:auto;" align="center"><p style="text-align:center;">
+P4 learning journey to an Urban Farm</p> 
+
+<img src="/images/2023/Science/science%2019%20-%20p5%20learning%20journey%20to%20newater%20visitor%20centre.jpg" style="width200px;height:auto;" align="center"><p style="text-align:center;">
+P5 learning journey to NEWater Visitor Centre</p> 
+
+<img src="/images/2023/Science/science%2020%20-%20p6%20learning%20journey%20to%20the%20science%20centre.jpg" style="width50px;height:auto;" align="center"><p style="text-align:center;">P6 learning journey to the Science Centre</p>
 
 **S**elf-directedness<br>
 To build students’ self-directedness and curiosity in Science, the Science Reading Programme encourages students to read Science books and magazines, which are made available in every class, at their own free time to extend their learning in Science.
