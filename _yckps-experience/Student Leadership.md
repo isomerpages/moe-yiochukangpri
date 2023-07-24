@@ -19,7 +19,7 @@ The YCK student leadership structure is premised on the beliefs that&nbsp;&nbsp;
 
 * Every student can serve as a student leader.
 
-![](/images/2023/student%20leadership%20framework.jpg)
+![](/images/2023/Student%20Leaderhip/student%20leadership%20framework.jpg)
 
 # Our Structure &amp; Approach
 **THE 3 TIERS OF STUDENT LEADERSHIP**
@@ -41,18 +41,18 @@ Student Leaders in Tier 3 forms the YCKPS Student Council which include the foll
 
 Tier 3 student leaders exemplifies the heartbeat of student leadership in YCKPS and are the main drivers of school-wide initiatives and programmes. The programme and experiences for Tier 3 student leaders are geared towards **EMPOWERING** them to develop initiative to find solutions and give back to the school community. As Tier 3 student leaders, they will be guided to look within, from their thoughts to their action, before exploring how they can be a positive change to others.
 
-<img src="/images/2023/picture%201.jpeg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/Student%20Leaderhip/picture%201.jpeg" style="width:300px;height:auto;" align="center">
 <p style="text-align:center;">Cyber-wellness Monitors getting trained on the class ICT equipment.</p>
 
-<img src="/images/2023/picture%202.jpeg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/Student%20Leaderhip/picture%202.jpeg" style="width:300px;height:auto;" align="center">
 <p style="text-align:center;">Eco Monitors trying their hand at upcycling</p>
 
-<img src="/images/2023/picture%203.JPG" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/Student%20Leaderhip/picture%203.JPG" style="width:300px;height:auto;" align="center">
 <p style="text-align:center;">A teamwork activity with CCA leaders</p>
 
-<img src="/images/2023/picture%204.JPG" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/Student%20Leaderhip/picture%204.JPG" style="width:300px;height:auto;" align="center">
 <p style="text-align:center;">A moment of reflection by prefects</p>
 
-<img src="/images/2023/picture%205.jpeg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/Student%20Leaderhip/picture%205.jpeg" style="width:300px;height:auto;" align="center">
 
 As we nurture self-directed student leaders, we aim for our students to develop the ability to reflect on one’s actions and be caring individuals. This undergirds the school’s student development efforts to develop students who will have the heart to initiate change and ultimately give back to the school community and beyond.
