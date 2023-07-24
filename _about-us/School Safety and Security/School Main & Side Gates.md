@@ -4,10 +4,9 @@ permalink: /about-us/school-safety-n-security/school-main-n-side-gates/
 description: ""
 third_nav_title: School Safety and Security
 ---
-
 Our School Main & Side Gates are painted different colours.  
   
-The School Main Gate (**black**) will be opened from 6.30am to 6.30pm.  
+The School Main Gate will be opened from 6.30am to 6.30pm.  
   
 There are 4 Side Gates, namely:  
 
