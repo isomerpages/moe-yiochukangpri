@@ -18,8 +18,8 @@ Our school gates are painted in different colours and their opening hours are as
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 410px">
 <colgroup>
-<col style="width: 210.003906px">
-<col style="width: 338.003906px">
+<col style="width: 250.003906px">
+<col style="width: 378.003906px">
 </colgroup>
 <thead>
   <tr>
