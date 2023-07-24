@@ -29,7 +29,9 @@ Our school gates are painted in different colours and their opening hours are as
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gmq1"><span style="color:#222;background-color:#F1F8E9">Pedestrian Gate (Blue Gate)</span></td>
+    <td class="tg-gmq1"><span style="color:#222;background-color:#F1F8E9">Pedestrian Gate (Blue Gate)
+			<img src="/images/2023/blue%20gate.JPG" style="width:400px;height:auto;" align="center">
+			</span></td>
     <td class="tg-gmq1"><span style="color:#222;background-color:#F1F8E9">6.30 a.m. to 7.00 p.m.</span></td>
   </tr>
   <tr>
@@ -39,14 +41,18 @@ Our school gates are painted in different colours and their opening hours are as
 			2.00 p.m. to 7.00 p.m. </span><br></td>
   </tr>
   <tr>
-    <td class="tg-gmq1"><span style="color:#222;background-color:#F1F8E9">Hougang Street 51 (Yellow Gate)</span></td>
+    <td class="tg-gmq1"><span style="color:#222;background-color:#F1F8E9">Hougang Street 51 (Yellow Gate)
+						<img src="/images/2023/yellow%20gate.JPG" style="width:400px;height:auto;" align="center">
+			</span></td>
     <td class="tg-gmq1"><span style="color:#222;background-color:#F1F8E9">1.25 p.m. to 2.15 p.m.</span></td>
   </tr>
   <tr>
-    <td class="tg-tv98"><span style="color:#222;background-color:#FFF">Hougang Avenue 4 (Red Gate)</span></td>
+    <td class="tg-tv98"><span style="color:#222;background-color:#FFF">Hougang Avenue 4 (Red Gate)
+<img src="/images/2023/red%20gate.JPG" style="width:400px;height:auto;" align="center">
+			</span></td>
     <td class="tg-tv98"><span style="color:#222;background-color:#FFF">6.50 a.m. to 7.30 a.m.<br>
 1.25 p.m. to 2.15 p.m.<br>
-			4.30 p.m. to 4.50 p.m. (only on CCA day)
+			4.30 p.m. to 4.50 p.m. (only on CCA days)
 			</span></td>
   </tr>
   <tr>
