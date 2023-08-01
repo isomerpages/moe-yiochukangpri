@@ -30,14 +30,13 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Turkha Devi* 
-Mr Jonathan Maximilian Wong Jia Sheng
-Ms Shermaine Toh Li Min
+    <td class="tg-12c9">Mdm Turkha Devi*<br>
+Mr Jonathan Maximilian Wong Jia Sheng<br>
+Ms Shermaine Toh Li Min<br>
 Ms Liu Jiangshan
 </td>
 		 <td class="tg-1hqx">Music Room 1</td>
-    </tr>
-</tbody>
+</tr></tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
