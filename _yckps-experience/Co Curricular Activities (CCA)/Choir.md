@@ -38,9 +38,14 @@ third_nav_title: Co Curricular Activities (CCA)
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-*Providing memories through music*  
+### **Providing memories through music** 
   
 The Choir Group aims to develop the vocal and singing abilities of its members via fun and engaging activities. They will be taught to sing in pitch with expression. As the group performs in internal and external platforms, these provide opportunities to develop their confidence. Discipline and teamwork are displayed during their practices and performances.
+
+<img src="/images/2023/CCA/choir%202%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/choir%203%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
