@@ -43,7 +43,7 @@ Ms Goh Yong Xiang Geraldine
 
 About Us
 --------
-#### Expressing emotions through movement
+#### **Expressing emotions through movement**
 
 The Chinese Dance CCA programme allows our students to apply fundamental techniques of Chinese Dance. It provides them with platforms to develop their confidence as they perform within and outside the school. It also aims to inculcate to its members, discipline, teamwork and resilience.
 
