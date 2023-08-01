@@ -25,18 +25,17 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Miss Peng Xinyu*</td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Dance Studio</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Mdm Lee Hwei Ling*<br>
+Ms Lin Jianing<br>Ms Peng Xinyu<br>
+Ms Goh Yong Xiang Geraldine
+</td>
+    <td class="tg-1hqx">Dance Studio </td>
+    </tr>
 </tbody>
 </table>
 
