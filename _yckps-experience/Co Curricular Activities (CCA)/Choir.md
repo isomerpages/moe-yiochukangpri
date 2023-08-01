@@ -52,3 +52,5 @@ The Choir Group aims to develop the vocal and singing abilities of its members v
 <br>
 <img src="/images/2023/CCA/choir%203%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
 <br>
+<img src="/images/2023/CCA/choir%204%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
