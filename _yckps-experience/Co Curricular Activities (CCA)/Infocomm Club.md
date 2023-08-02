@@ -29,7 +29,7 @@ third_nav_title: Co Curricular Activities (CCA)
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Alan Wong*<br>Mdm Dasimah</td>
+    <td class="tg-12c9">Mr Alan Wong*<br>Mdm Chia Fung Fung</td>
     <td class="tg-1hqx">Computer Lab 2 </td>
     </tr>
 </tbody>
