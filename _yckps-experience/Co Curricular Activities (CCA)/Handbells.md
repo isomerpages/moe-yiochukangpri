@@ -44,3 +44,10 @@ About Us
 #### **Our music, our melody**  
 
 The Handbells Ensemble provides its members with opportunities to develop their musical skills and knowledge. They also learn teamwork and discipline in their pursuit of musical excellence. Opportunities are provided for the members to display their talent through internal and external platforms.
+
+<img src="/images/2023/CCA/handbell%20-%20cyd%202022%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/handbell%204%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/handbell%201%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
