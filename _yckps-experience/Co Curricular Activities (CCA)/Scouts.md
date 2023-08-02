@@ -46,5 +46,5 @@ About Us
 -----
 
 ### **Be Prepared**  
-_  
-Our Scouts CCA is one of the unformed groups CCA that the school offer. The CCA aims to offer to students, opportunities to develop life skills that can help them to face and overcome challenges. They are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting.
+
+Our Scouts CCA aims to develop life skills that can help them to face and overcome challenges. The scouts are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting. As they are engaged in group activities, they develop critical thinking and their communication skills. Leadership qualities are developed along the way and they participate in programmes such as Sixers Camp and the Combined Uniform Group Camp, to complement the CCA’s activities.
