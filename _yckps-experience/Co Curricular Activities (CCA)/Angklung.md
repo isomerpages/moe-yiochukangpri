@@ -44,7 +44,7 @@ Ms Chen Xi
 About Us
 -----
 
- Listen to the rhythm
+ ### **Listen to the rhythm** 
   
 The objectives of Angklung Programme are to enable YCKPS students to understand and apply basic Angklung techniques and create a range of dynamics using the instruments. It also aims to inculcate values such as discipline, resilience and teamwork. The students have performed during school events, as well as, external venues to celebrate various events.
 
