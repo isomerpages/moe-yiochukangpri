@@ -25,24 +25,19 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td class="tg-12c9">Mr Alan Wong*<br>Mdm Dasimah</td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Computer Lab 2</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-1hqx">Computer Lab 2 </td>
+    </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
 _Imagine the possibilities_  
