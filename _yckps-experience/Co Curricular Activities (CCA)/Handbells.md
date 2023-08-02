@@ -42,9 +42,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Our music, our melody  
+#### **Our music, our melody**  
 _  
 The Handbells Ensemble provides its members with opportunities to develop their musical skills and knowledge. They also learn teamwork and discipline in their pursuit of musical excellence. Opportunities are provided for the members to display their talent through internal and external platforms
