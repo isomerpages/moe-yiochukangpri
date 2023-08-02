@@ -25,18 +25,14 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-12c9"><span style="background-color:initial">Ms Nicole Lim*<br>Ms Leong Bao Ru<br>Ms Kana Inoue</span></td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Band Rm 1 </td>
-    <td class="tg-12c9">Nil  </td>
-  </tr>
+    <td class="tg-1hqx">Band Room 1 </td>
+    </tr>
 </tbody>
 </table>
 
@@ -46,5 +42,5 @@ About Us
 -----
 
 #### **Our music, our melody**  
-_  
+
 The Handbells Ensemble provides its members with opportunities to develop their musical skills and knowledge. They also learn teamwork and discipline in their pursuit of musical excellence. Opportunities are provided for the members to display their talent through internal and external platforms.
