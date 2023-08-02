@@ -45,6 +45,6 @@ Mdm Salina Bte Mohamad Shah
 About Us
 -----
 
-_Move to the beat  
-_  
+### **Move to the beat**  
+
 Our Malay Dance Group has performed during school events and they have also been invited to perform outside the school setting during special events. Through these experiences, its members have gained valuable lessons and also developed their confidence. They continue to explore the traditional dance form while adding a modern twist into their sequences.
