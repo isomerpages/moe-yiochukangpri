@@ -43,8 +43,7 @@ Ms Shanita d/o Thanaseelan
 About Us
 -----
 
-_Feel the Rhythm_  
+ ### **Feel the rhythm** 
 
-  
 
 Our students will learn basic to complex dance techniques. They will also be taught to practise the school values as they go through their dance sequences during training and formal platforms. The CCA provides opportunities to put their knowledge and skills into practice through stage performances in the school and beyond.
