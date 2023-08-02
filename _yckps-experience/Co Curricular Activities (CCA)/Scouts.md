@@ -25,18 +25,17 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
-    <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+     <th class="tg-lh01">Venue </th>
+     </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Muhammad Syafiq<br>Ms Tan Xuan Hong<br>Ms Jasmine Chan<br>Mr Georgy Mathew</td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Foyer/ Canteen</td>
-    <td class="tg-1hqx">Nil</td>
-  </tr>
+    <td class="tg-12c9">Ms Tan Xuan Hong*<br>
+Mr Georgy Mathew Kurien<br>
+Mr Muhammad Syafiq B Hashim<br>
+Mrs Jasmine Tan</td>
+    <td class="tg-1hqx">Foyer/Canteen </td>
+    </tr>
 </tbody>
 </table>
 
