@@ -30,10 +30,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Ms Tan Xuan Hong*<br>
-Mr Georgy Mathew Kurien<br>
-Mr Muhammad Syafiq B Hashim<br>
-Mrs Jasmine Tan
+    <td class="tg-12c9">Ms Lim Huey Ling*<br>
+Ms Lim Shi En Andrea<br>
+Ms Heng Zhen Yi Denise<br>
+Ms Shaneza Bte Jaafar
+
  </td>
     <td class="tg-1hqx">Foyer/ Canteen </td>
     </tr>
