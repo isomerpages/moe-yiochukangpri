@@ -50,4 +50,3 @@ The Handbells Ensemble provides its members with opportunities to develop their 
 <img src="/images/2023/CCA/handbell%204%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
 <br>
 <img src="/images/2023/CCA/handbell%201%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
-<br>
