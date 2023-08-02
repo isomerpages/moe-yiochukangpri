@@ -30,7 +30,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Ms Amalina* <br>Ms Chen Lifen<br>Ms Chia Huiyi </td>
+    <td class="tg-12c9">Ms Marissa Rose Binte Dino*<br>
+Ms Siti Nur Amalina Binte Kamalazami<br>
+Mdm Chen Li Fen<br>
+Ms Chia Hui Yi<br>
+Mr Ang Yew Yee</td>
     <td class="tg-1hqx">Art Room 1 &amp; 2</td>
    </tr>
 </tbody>
