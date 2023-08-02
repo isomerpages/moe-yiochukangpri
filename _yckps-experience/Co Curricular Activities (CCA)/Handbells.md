@@ -47,4 +47,4 @@ About Us
 
 #### **Our music, our melody**  
 _  
-The Handbells Ensemble provides its members with opportunities to develop their musical skills and knowledge. They also learn teamwork and discipline in their pursuit of musical excellence. Opportunities are provided for the members to display their talent through internal and external platforms
+The Handbells Ensemble provides its members with opportunities to develop their musical skills and knowledge. They also learn teamwork and discipline in their pursuit of musical excellence. Opportunities are provided for the members to display their talent through internal and external platforms.
