@@ -25,24 +25,24 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Manisah*</td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Band Rm 2</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Mdm Norliza Binti Sukri*<br>
+Mdm Manisah Bte Osman<br>
+Ms Nur Farhanah Binte Abdul Rahim<br>
+Mdm Salina Bte Mohamad Shah
+</td>
+    <td class="tg-1hqx">PAL Room </td>
+   </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
 _Move to the beat  
