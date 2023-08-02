@@ -56,4 +56,3 @@ Our Malay Dance Group has performed during school events and they have also been
 <img src="/images/2023/CCA/malay%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg" style="width:300px;height:auto;" align="center">
 <br>
 <img src="/images/2023/CCA/malay%20dance%201%20-%20yu%20xin%20stella.jpeg" style="width:300px;height:auto;" align="center">
-<br>
