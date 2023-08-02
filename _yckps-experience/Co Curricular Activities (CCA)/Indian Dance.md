@@ -47,3 +47,10 @@ About Us
 
 
 Our students will learn basic to complex dance techniques. They will also be taught to practise the school values as they go through their dance sequences during training and formal platforms. The CCA provides opportunities to put their knowledge and skills into practice through stage performances in the school and beyond.
+
+<img src="/images/2023/CCA/indian%20dance%20-%202023%20(3)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/indian%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/indian%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg" style="width:300px;height:auto;" align="center">
+<br>
