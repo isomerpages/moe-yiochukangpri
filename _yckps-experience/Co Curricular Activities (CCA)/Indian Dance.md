@@ -25,24 +25,22 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mrs Gopalan* <br>Mdm Turkha Devi <br> </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 3</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Mdm Raynitha d/o Rajoo*<br>
+Ms Shanita d/o Thanaseelan
+ <br>
+    </td><td class="tg-1hqx">Band Room 2 </td>
+    </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
 _Feel the Rhythm_  
