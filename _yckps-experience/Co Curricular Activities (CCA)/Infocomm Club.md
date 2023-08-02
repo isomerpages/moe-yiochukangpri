@@ -40,6 +40,6 @@ third_nav_title: Co Curricular Activities (CCA)
 About Us
 -----
 
-_Imagine the possibilities_  
+### **### Imagine the possibilities** 
 
 The Infocomm Club members are exposed to variety of digital medium. The club provides its members with opportunities to offer their skills and knowledge within the school and beyond. Members learn how to control drones and participate in robotics project. They also take part in external competitions to pit their skills against their counterparts from other schools.
