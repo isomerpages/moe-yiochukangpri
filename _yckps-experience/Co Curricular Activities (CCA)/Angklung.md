@@ -25,26 +25,25 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Lu Yun* <br></td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 2 </td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Mdm Lu Yun*Mdm Siti Hadzzier Binte Hamzah<br>
+Ms Phan Yi-Wen<br>
+Ms Chen Xi
+ <br></td>
+    <td class="tg-1hqx">Music Room 2 </td>
+   </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Listen to the rhythm_  
+## Listen to the rhythm
   
 The objectives of Angklung Programme are to enable YCKPS students to understand and apply basic Angklung techniques and create a range of dynamics using the instruments. It also aims to inculcate values such as discipline, resilience and teamwork. The students have performed during school events, as well as, external venues to celebrate various events.
