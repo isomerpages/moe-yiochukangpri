@@ -42,9 +42,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Faster, Higher, Stronger_  
+ ### **Faster,Higher,Stronger** 
 
 The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National Track and Field Championship.
