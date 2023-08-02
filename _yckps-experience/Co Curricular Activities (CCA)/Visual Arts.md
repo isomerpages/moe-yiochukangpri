@@ -44,6 +44,6 @@ Mr Ang Yew Yee</td>
 About Us
 -----
 
-_Embracing creativity_  
+### **Embracing creativity** 
 
 Our Visual Arts members get to display and explore their creativity through the various art forms they go through during their CCA sessions. Students learnt to be resilient as they embarked on creating excellent pieces of art. Along the way, they learn to collaborate with one another. Opportunities are also provided to showcase their art pieces within and out of the school community.
