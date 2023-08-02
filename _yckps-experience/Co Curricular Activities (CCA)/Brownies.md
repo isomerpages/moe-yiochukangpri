@@ -49,3 +49,5 @@ About Us
 ### **To explore and discover the world** 
 
 The Brownies Mission is to enable girls to develop their fullest potential as responsible citizens of the world. The Brownies get a sense of achievement by earning proficiency badges through tests, field work and other activities within the CCA. They develop a sense of camaraderie through variety of games and group activities. Participation in activities such as North Division Day and Combined Uniform Group Camp help to develop the girls’ Global Awareness and Communication Skills.
+
+<img src="/images/2023/CCA/angklung%204%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
