@@ -42,9 +42,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Be Prepared  
+### **Be Prepared**  
 _  
 Our Scouts CCA is one of the unformed groups CCA that the school offer. The CCA aims to offer to students, opportunities to develop life skills that can help them to face and overcome challenges. They are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting.
