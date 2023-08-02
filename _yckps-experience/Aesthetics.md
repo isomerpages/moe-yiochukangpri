@@ -15,3 +15,11 @@ The Aesthetics Department strives to build a vibrant arts culture in the school 
 <img src="/images/2023/Aesthetics/img20220805131622%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
 <img src="/images/2023/Aesthetics/img20220805131852%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
 <img src="/images/2023/Aesthetics/zoom%20virtual%20background%20_2%20-%20yu%20xin%20stella.png" style="width:300px;height:auto;" align="center">
+
+Focussed on exposing our students to the various art forms and providing platforms for students to display their talents in art and music, the wide range of Aesthetics programmes in YCKPS include:
+- School-based Visual Art &amp; Music Curriculum
+- Aesthetics Week
+- YCKPS Got Talent
+- P6 Graduation Art Exhibition
+- Museum-Based Learning
+- Theatre Experience Programme
