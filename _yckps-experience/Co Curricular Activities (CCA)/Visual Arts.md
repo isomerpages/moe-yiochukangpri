@@ -4,8 +4,6 @@ permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/visual
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-About
------
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,23 +25,19 @@ About
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-12c9">Ms Amalina* <br>Ms Chen Lifen<br>Ms Chia Huiyi </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Art Rm 1 &amp; 2</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-1hqx">Art Room 1 &amp; 2</td>
+   </tr>
 </tbody>
 </table>
 (*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
 _Embracing creativity_  
