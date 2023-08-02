@@ -11,3 +11,6 @@ The Aesthetics Department strives to build a vibrant arts culture in the school 
 -	Engage in the Arts with both head and heart
 -	Express themselves confidently through the Arts
 -	Be exposed to the local Arts scene
+
+<img src="/images/2023/Asthetics/img20220805131622%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/Asthetics/img20220805131852%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
