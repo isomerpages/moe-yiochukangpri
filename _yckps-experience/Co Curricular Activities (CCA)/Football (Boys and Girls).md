@@ -38,7 +38,7 @@ Mdm Norhafizah Bte Samsudin<br>
 Mdm Dasimah Bte Mohamed Daud<br>
 Mdm Siti Nurhuda Bte Akbar
  </td>
-    <td class="tg-qira">Field</td>
+    <td class="tg-1hqx">Field </td>
     </tr>
   <tr>
    </tr></tbody>
