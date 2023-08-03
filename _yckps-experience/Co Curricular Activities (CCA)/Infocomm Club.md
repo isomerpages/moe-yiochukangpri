@@ -29,8 +29,8 @@ third_nav_title: Co Curricular Activities (CCA)
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Alan Wong*<br>Mdm Chia Fung Fung</td>
-    <td class="tg-1hqx">Computer Lab 2 </td>
+    <td class="tg-12c9">Ms Sally Poh*<br>Mdm Chia Fung Fung<br>Mr Alan Wong
+    </td><td class="tg-1hqx">Computer Lab 2 </td>
     </tr>
 </tbody>
 </table>
@@ -40,6 +40,6 @@ third_nav_title: Co Curricular Activities (CCA)
 About Us
 -----
 
-### **### Imagine the possibilities** 
+### **Imagine the possibilities** 
 
 The Infocomm Club members are exposed to variety of digital medium. The club provides its members with opportunities to offer their skills and knowledge within the school and beyond. Members learn how to control drones and participate in robotics project. They also take part in external competitions to pit their skills against their counterparts from other schools.
