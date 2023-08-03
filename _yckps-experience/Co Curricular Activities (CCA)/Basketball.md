@@ -53,5 +53,5 @@ About Us
 
 The Basketball CCA aims to develop the members’ fundamental skills and concepts of the game. They will go through practice routines to work on their dribbling, passing and shooting abilities. They will also learn to work on team dynamics when placed in game situations.
 
-<img src="/images/2023/CCA/football1%20-%20lovino%20villasin%20cruz.JPG" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/CCA/football2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<img src="/images/2023/CCA/basketball1%20-%20lovino%20villasin%20cruz.JPG" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/CCA/basketball2%20-%20lovino%20villasin%20cruz.JPG" style="width:300px;height:auto;" align="center">
