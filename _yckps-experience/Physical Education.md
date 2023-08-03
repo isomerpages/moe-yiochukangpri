@@ -21,3 +21,9 @@ The PE Department aims to develop students’ overall development by providing o
 - Swimming – P5
 - Sports Education Programme
 <br> Exposure to sports beyond the school’s PE curriculum
+
+<img src="/images/2023/PE/pe5%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/PE/pe6%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/PE/pe7%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
