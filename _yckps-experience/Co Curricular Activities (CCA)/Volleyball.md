@@ -42,9 +42,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Play from the heart_  
+ ### **Play from the heart**  
 
 The Volleyball (Girls) CCA offers students the chance to develop values such as sportsmanship, teamwork and excellence. The coach, together with the teachers, help to inculcate the necessary skills and knowledge for students to enhance their competencies in the sport. Platforms for them to display their learning include competitions such as the National School Games Volleyball Championship and friendly games with other school teams.
