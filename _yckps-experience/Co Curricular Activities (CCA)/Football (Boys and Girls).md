@@ -26,29 +26,22 @@ third_nav_title: Co Curricular Activities (CCA)
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-lh01">CCA </th>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-8hqj">Wet Weather Venue+ </th>
+   
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Football</td>
-    <td class="tg-12c9">Mdm Raynitha </td>
-    <td class="tg-qira">Thursday 7.30am – 9.00am </td>
-    <td class="tg-1hqx">Field</td>
-    <td class="tg-12c9">Integrity 1 &amp; 2 Class Rm</td>
-  </tr>
-  <tr>
-    <td class="tg-12c9">Football (Girls)</td>
-    <td class="tg-12c9">Mr Tan Yoke Wee* <br>Mdm Norhafizah </td>
-    <td class="tg-qira">Thursday <br>7.30am – 9.00am </td>
+    <td class="tg-12c9">Mr Tan Yoke Wee*<br>
+Mdm Norhafizah Bte Samsudin<br>
+Mdm Dasimah Bte Mohamed Daud<br>
+Mdm Siti Nurhuda Bte Akbar
+ </td>
     <td class="tg-qira">Field</td>
-    <td class="tg-12c9">Integrity 3 Class Rm</td>
-  </tr>
-</tbody>
+    </tr>
+  <tr>
+   </tr></tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
