@@ -33,12 +33,12 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Tan Yoke Wee*<br>
-Mdm Norhafizah Bte Samsudin<br>
-Mdm Dasimah Bte Mohamed Daud<br>
-Mdm Siti Nurhuda Bte Akbar
+    <td class="tg-12c9">Mr Gary Chan*<br>
+Ms Nur Syahida Binte Jamaluddin<br>
+Mr Ho Jun Hui Nevin<br>
+Ms Marilyn Song Yi Ying
  </td>
-    <td class="tg-1hqx">Field </td>
+    <td class="tg-1hqx">Basketball Court </td>
     </tr>
   <tr>
    </tr></tbody>
@@ -46,10 +46,10 @@ Mdm Siti Nurhuda Bte Akbar
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
- ### **Go for Goal**
+ ### **Through the hoop**
 
 The Football CCA aims to instill teamwork, discipline and respect to its members. They undergo a structured training programme that will help them progress from attaining individual skills to team tactics. Through the activities, they learn to collaborate with one another and work as a team to achieve their goals. The members are exposed to competitive football by taking part annually in the National School Games Football Championships for both boys and girls and other football events or friendly matches against other teams.
 
