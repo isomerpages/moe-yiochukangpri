@@ -47,3 +47,6 @@ About Us
  ### **Play from the heart**  
 
 The Volleyball (Girls) CCA offers students the chance to develop values such as sportsmanship, teamwork and excellence. The coach, together with the teachers, help to inculcate the necessary skills and knowledge for students to enhance their competencies in the sport. Platforms for them to display their learning include competitions such as the National School Games Volleyball Championship and friendly games with other school teams.
+
+<img src="/images/2023/CCA/volleyball1%20-%20lovino%20villasin%20cruz.jpeg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/CCA/volleyball2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
