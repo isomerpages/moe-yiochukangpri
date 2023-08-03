@@ -46,7 +46,7 @@ Mdm Siti Nurhuda Bte Akbar
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
  ### **Go for Goal**
