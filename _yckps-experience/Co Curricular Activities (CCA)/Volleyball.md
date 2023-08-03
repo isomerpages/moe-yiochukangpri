@@ -30,8 +30,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Salina Akiak* <br>Ms Neo Bee Geok<br>Miss Nur Syahida  </td>
-    <td class="tg-qira">Indoor Sports Hall</td>
+    <td class="tg-12c9">Mdm Salina Bte Akiak*<br>
+Mrs Esther Yeo<br>
+Ms Wang Ti Ying<br>
+Ms Aileen Tan Fei Ching
+    </td><td class="tg-1hqx">Indoor Sports Hall</td>
     </tr>
 </tbody>
 </table>
