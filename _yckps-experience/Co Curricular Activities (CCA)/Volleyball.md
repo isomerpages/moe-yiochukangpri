@@ -25,18 +25,14 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-12c9">Mdm Salina Akiak* <br>Ms Neo Bee Geok<br>Miss Nur Syahida  </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
     <td class="tg-qira">Indoor Sports Hall</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    </tr>
 </tbody>
 </table>
 
