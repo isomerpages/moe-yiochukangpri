@@ -52,3 +52,6 @@ About
  ### **Go for Goal**
 
 The Football CCA aims to instill teamwork, discipline and respect to its members. They undergo a structured training programme that will help them progress from attaining individual skills to team tactics. Through the activities, they learn to collaborate with one another and work as a team to achieve their goals. The members are exposed to competitive football by taking part annually in the National School Games Football Championships for both boys and girls and other football events or friendly matches against other teams.
+
+<img src="/images/2023/CCA/football1%20-%20lovino%20villasin%20cruz.JPG" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/CCA/football2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
