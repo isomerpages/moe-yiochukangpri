@@ -33,3 +33,12 @@ Selected Primary 2 to Primary 4 students started their Nurture Programme on 17 F
 <img src="/images/2023/Events/2_communicating%20our%20thoughts%20-%20priya%20jairam%20(1).png" style="width:300px;height:auto;" align="center">
 <br>
 <img src="/images/2023/Events/3_participating%20actively%20-%20priya%20jairam%20(1).png" style="width:300px;height:auto;" align="center">
+
+#### **P4 E2K Sessions**
+<br>
+As part of the Mathematics department’s efforts to nurture young Mathematical talents, a group of Primary 4 students were selected to participate in the Excellence-2000 (E2K) programme for Mathematics. Using stories, games and puzzles, students get to practise and hone their problem-solving skills, as well as develop confidence and independence in carrying out mathematical inquiry. For instance, in one of the E2K sessions, students explored and learnt various strategies to win a memory game. Through role playing and analysing different strategies put forth, students had the opportunity to construct their own strategy to win the game.
+
+<img src="/images/2023/Events/p4%20e2k%202023_1.jpeg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/p4%20e2k%202023_2.jpeg" style="width:300px;height:auto;" align="center">
+
