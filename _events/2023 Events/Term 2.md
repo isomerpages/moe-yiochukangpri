@@ -25,6 +25,14 @@ For students who demonstrated aptitude and interest in Mathematics, our school o
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p5%20olympiad%202023_2.jpeg">
 
+#### **P3 Conversation Chinese and Malay (CCM)**
+<br>
+The Primary 3 students participated in a one-day Conversational Chinese and Malay (CCM) Programme Beginners Module on 23 May 2023. The purpose of CCM is to strengthen bonds among students of different races; at the same time helping them acquire the languages that would enable them to operate comfortably in the region. Our students were engaged in their learning through various activities such as conversation while marketing in supermarket, group works, games, sing-along, dialogues and role-playing. They were also taught to engage in simple daily conversations, such as the different practices in greeting the elderly and their peers through the different intonation and gestures. 
+
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p3%20ccm01%20-%20fajie%20lin.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p3%20ccm02%20-%20fajie%20lin.jpg">
+
 #### **Participation in the Singapore and Asian Schools Math Olympiad (SASMO)** 
 <br>
 In term 2, a selected group of Primary 4 students participated in the Singapore and Asian Schools Math Olympiad (SASMO). This is part of the department’s efforts to stretch our Mathematical talents and exposing them to the experience of taking part in an Olympiad competition. We are pleased to share that two of our students clinched the Silver Award and three students were awarded the Bronze award. Congratulations to the award winners!
