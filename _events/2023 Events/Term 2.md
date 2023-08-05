@@ -6,6 +6,7 @@ third_nav_title: 2023 Events
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ck9vXAbZ3hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+#### **P5 CL Cultural Performance Exposure Scheme (CPES)**
 The Cultural Performance Exposure Scheme (CPES 文化随意门) is aimed at enhancing our students’ understanding and knowledge of the Chinese Language and the Chinese Culture beyond the school. In support of this initiative, our Chinese Language Department organized a learning journey for our P5 Chinese Language students to watch a Chinese drama performance **‘Bao Xiao Long Zhua Zei Ji (包小龙抓贼记)** by the Singapore Hokkien Huay Kuan Arts and Cultural Troupe on 31 March 2023. The cast of the performance engaged the audience with their animated and humorous performance. The actors from the drama interacted with the audience to get their opinions on the identity of the thief in the show! After the up-close interaction with the characters, our students left the performance armed with some new Chinese idioms like _‘水落石出’、’丢三落四’、’路不拾遗’_ _and_ _‘物归原主’._ All students then completed a post-performance activity ‘四页书’ which requires them to create a mini comic comprising of four pages, capturing what they have learnt. This activity was aligned to our school MTL department’s aim of “Learning the Language, Living the Culture”.
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p5cl%20cpes03%20-%20fajie%20lin.jpg">
@@ -24,6 +25,21 @@ A short quiz segment and the screening of the Hari Raya well-wishes video clip w
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/hari%20raya%20(1).jpeg">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/hari%20raya%20(2).jpeg">
+
+#### **Writer's Festival cum Author's Talk**
+Sherlock Sam came to Yio Chu Kang Primary to help launch the English Department’s Writer’s Festival! 
+
+On 28 April 2023, we welcomed our local renowned writers, Adan Jimenez and Felicia Low (A.J. Low), who is a husband-and-wife writing team of the award winning “Sherlock Sam” series. 
+
+The author’s talk during assembly created quite a buzz of excitement in the hall. Everyone was all ears when the local writers shared their book-writing experience of their best-selling Sherlock Sam series and the techniques of writing a story with setting and structure to captivate writers. The event ended with the duo staying on to meet their fans with a ‘Meet the Authors’ cum book-autograph session at the canteen during the recesses. Our local writers were engaged in conversations with both our teachers and students who are lovers of detective mysteries. 
+
+What a memorable writers’ engagement day!
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/writer's%20festival%201.JPG">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/writer's%20festival%202.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/writer's%20festival%203%20.jpg">
 
 #### **P5 Mathematics Olympiad Training**
 <br>
