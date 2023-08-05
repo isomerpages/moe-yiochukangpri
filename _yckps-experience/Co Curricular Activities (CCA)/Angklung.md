@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Lu Yun*Mdm Siti Hadzzier Binte Hamzah<br>
+    <td class="tg-12c9">Mdm Lu Yun*<br>Mdm Siti Hadzzier Binte Hamzah<br>
 Ms Phan Yi-Wen<br>
 Ms Chen Xi
  <br></td>
