@@ -42,3 +42,11 @@ As part of the Mathematics department’s efforts to nurture young Mathematical 
 <br>
 <img src="/images/2023/Events/p4%20e2k%202023_2.jpeg" style="width:300px;height:auto;" align="center">
 
+#### **P3 Learning Journey to the Zoo**
+<br>
+On 6 and 7 March, the P3 level went on an exciting learning journey to the Singapore Zoo. The students explored the different exhibits and learnt about the various animals. They also had the opportunity to apply interdisciplinary skills they had learnt in school such as calculating ticket prices, identifying animals by their physical characteristics, drawing their favourite animal and journaling their experience. Throughout the day, the students were engaged and enthusiastic, asking questions and sharing their observations.
+
+<img src="/images/2023/Events/ry2%20-%20wei%20ming%20yip.JPG" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/ry3%20-%20wei%20ming%20yip.jpeg" style="width:300px;height:auto;" align="center">
+
