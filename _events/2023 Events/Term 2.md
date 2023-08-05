@@ -41,6 +41,17 @@ The Primary 3 students participated in a one-day Conversational Chinese and Mala
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p3%20ccm02%20-%20fajie%20lin.jpg">
 
+#### **Chinese Language Digital Learning Trail (CDLT)**
+     
+Our Chinese Language students embarked on a collaborative and engaging digital learning experience through the Chinese Language Digital Learning Trail (CDLT). The main objective of the CDLT is to cultivate students’ interest in learning the Chinese Language and develop a reading culture. This year’s theme was ‘Chinese Classic Fables’.&nbsp; Three different trails were curated for the various levels to participate in: ‘Kong Rong Giving Up Pears’_《孔融让梨》__, ‘Grinding an Iron Pestle into a Needle’_ _《铁杵磨成针》and ‘Cang Jie, The Legendary Inventor of Chinese Characters’《仓颉造字》. Differentiated instruction was also incorporated in the three trails.
+
+Students visited various learning stations to participate in interactive hands-on and digital activities in groups. The learning activities were designed based on the four language macro-skills - listening, speaking, reading and writing. Through this digital learning trail, students were motivated and engaged to improve their self-study and collaboration learning skills. It also replaced the traditional classroom learning to using multimedia to create a novel channel. 
+
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20cl%20cdlt%2003%20-%20fajie%20lin.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20cl%20cdlt%2005%20-%20fajie%20lin.jpg">
+
 #### **Participation in the Singapore and Asian Schools Math Olympiad (SASMO)** 
 <br>
 In term 2, a selected group of Primary 4 students participated in the Singapore and Asian Schools Math Olympiad (SASMO). This is part of the department’s efforts to stretch our Mathematical talents and exposing them to the experience of taking part in an Olympiad competition. We are pleased to share that two of our students clinched the Silver Award and three students were awarded the Bronze award. Congratulations to the award winners!
