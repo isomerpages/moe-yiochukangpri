@@ -6,6 +6,14 @@ third_nav_title: 2023 Events
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ck9vXAbZ3hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+The Cultural Performance Exposure Scheme (CPES 文化随意门) is aimed at enhancing our students’ understanding and knowledge of the Chinese Language and the Chinese Culture beyond the school. In support of this initiative, our Chinese Language Department organized a learning journey for our P5 Chinese Language students to watch a Chinese drama performance **‘Bao Xiao Long Zhua Zei Ji (包小龙抓贼记)** by the Singapore Hokkien Huay Kuan Arts and Cultural Troupe on 31 March 2023. The cast of the performance engaged the audience with their animated and humorous performance. The actors from the drama interacted with the audience to get their opinions on the identity of the thief in the show! After the up-close interaction with the characters, our students left the performance armed with some new Chinese idioms like _‘水落石出’、’丢三落四’、’路不拾遗’_ _and_ _‘物归原主’._ All students then completed a post-performance activity ‘四页书’ which requires them to create a mini comic comprising of four pages, capturing what they have learnt. This activity was aligned to our school MTL department’s aim of “Learning the Language, Living the Culture”.
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p5cl%20cpes03%20-%20fajie%20lin.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p5cl%20cpes04%20-%20fajie%20lin.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20p5cl%20cpes05%20-%20fajie%20lin.jpg">
+
 #### **Hari Raya Celebration**
 Our school’s Hari Raya Concert was lined up with a series of performances. The two emcees engaged the audience through their interaction and sharing of their experiences of Hari Raya Eve on stage.
 
