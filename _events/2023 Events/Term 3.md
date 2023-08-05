@@ -21,3 +21,13 @@ The Tamil Language Department held our annual school based Tamil Literacy Compet
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20tl%20literacy%20competion%2001%20-%20fajie%20lin.png">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/2023%20yckps%20tl%20literacy%20competion%2006%20-%20fajie%20lin.png">
+
+#### **P4 Cultural Camp**
+
+To create an immersive environment for the learning and appreciation of the cultures of our Mother Tongue Languages, our school’s Mother Tongue Languages (MTL) Department organised a Cultural Camp for our P4 MTL students on 19 July. During the P4 MTL Cultural Camp, our students had a chance to explore and experience different MTL language-related cultural activities. It provided opportunities for students to experience the different MTL cultures in an authentic setting. Students gained a deeper understanding of their culture and heritage through a Chinese Language exhibition titled ‘A Journey to The West’, hands-on activities such as Warli Art painting and a learning journey to Kampong Lorong Buangkok. 
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20mtl%20culcural%20camp_cl04%20-%20fajie%20lin.jfif">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20mtl%20culcural%20camp_ml04%20-%20fajie%20lin.jfif">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20mtl%20culcural%20camp_tl04%20-%20fajie%20lin.jfif">
