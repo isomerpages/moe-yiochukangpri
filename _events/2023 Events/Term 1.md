@@ -6,6 +6,16 @@ third_nav_title: 2023 Events
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/EahNzMLxBCk" height="315" width="560"></iframe>
 
+#### **Chinese New Year Celebration** 
+
+As a school, we celebrated Chinese New Year (CNY) this year on 20 January 2023 with the return of a live concert in the hall. Students donned Chinese traditional outfits and had a wonderful time singing along to classic CNY songs. Our student emcees shared the meaning behind some of the CNY customs and our Chinese Dance students put up a dance performance to bring in the festive mood. A wonderful song and dance item about the Chinese Zodiac was also performed by a group of Primary 2 students. The highlight of the concert was undoubtedly the lion dance performance. The troupe pranced their way down the centre of the hall, entertaining the students up close and bringing the concert to a rousing finale.
+
+<img src="/images/2023/Events/cny%202023%201.jpeg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/cny%202023%202.jpeg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/cny%202023%203.jpeg" style="width:300px;height:auto;" align="center">
+
 #### **Total Defence Day** 
 
 Our school commemorated Total Defence in Term 1 Week 7, in remembrance of Singapore’s fall to the Japanese in 1942. We were reminded that everyone of us has an important role to play in defending our homeland in times of disruption and crisis. Focusing on the theme, “Together We Keep Singapore Strong”, our students learnt during the assembly talk on Monday (13 February) the different ways we can put Total Defence into action in our everyday lives, with the focus this year on how we deal with food security issues in Singapore.
@@ -49,4 +59,3 @@ On 6 and 7 March, the P3 level went on an exciting learning journey to the Singa
 <img src="/images/2023/Events/ry2%20-%20wei%20ming%20yip.JPG" style="width:300px;height:auto;" align="center">
 <br>
 <img src="/images/2023/Events/ry3%20-%20wei%20ming%20yip.jpeg" style="width:300px;height:auto;" align="center">
-
