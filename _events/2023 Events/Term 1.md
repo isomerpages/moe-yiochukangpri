@@ -27,3 +27,9 @@ During CCE (FTGP) lessons on the same day after the exercise, our students also 
 #### **Nurture Programme**
 
 Selected Primary 2 to Primary 4 students started their Nurture Programme on 17 February 2023. The Nurture Programme is conducted weekly in partnership with the Central Singapore CDC with the aim to develop our students as effective communicators, problem-solvers and self- directed learners. The lessons are designed to be activity-based. In the first lesson, students set Nurture class rules aligned to our school values. They were also given opportunities to share their thoughts and feelings on topics of interest. The students had a fruitful and engaging lesson, and they are looking forward to their weekly sessions with their lead teachers from the CDC and student volunteers from the Singapore Management University (SMU).
+
+<img src="/images/2023/Events/1_presenting%20our%20ideas%20-%20priya%20jairam%20(1).png" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/2_communicating%20our%20thoughts%20-%20priya%20jairam%20(1).png" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/Events/3_participating%20actively%20-%20priya%20jairam%20(1).png" style="width:300px;height:auto;" align="center">
