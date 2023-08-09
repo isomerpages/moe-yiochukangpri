@@ -4,7 +4,10 @@ permalink: /events/2023-events/2023term3/
 description: ""
 third_nav_title: 2023 Events
 ---
-#### **MTL Fortnight**
+#### **National Day 2023**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PAh5OVioWtQ" height="315" width="560"></iframe>
+
+#### **MTL Fortnight 2023**
 
 Our school’s Mother Tongue Languages (MTL) Department organised our annual MTL Fortnight 2023 from 4 July to 14 July. MTL Fortnight aims to create an environment that encourages students to use and appreciate the heritage and culture associated with our three official Mother Tongue languages (Chinese, Malay and Tamil). During the MTL Fortnight, our students experienced specially curated thematic enrichment programmes conducted by vendors and our own MTL teachers. They had a chance to explore and experience MTL-related cultural activities such as clay modelling, making rod puppet, Malay customs and Martial Arts and hands-on experience of feeling and smelling different herbs and spices. It was an enriching week for our students to learn more about the cultural traditions unique to each Mother Tongue language and developed interest in their Mother Tongue languages. This programme is line aligned with our school MTL department’s aim of “Learning the Language, Living the Culture”. 
 <br>
