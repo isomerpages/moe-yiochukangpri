@@ -68,6 +68,7 @@ Yio Chu Kang Primary School created our Values Ambassadors, depicted by four sch
 School Song
 -----------
 
+
 The lyrics of the School Song were written by the Principal of the School, Mr. S. Ratnagopal in July 1970.
 
   
