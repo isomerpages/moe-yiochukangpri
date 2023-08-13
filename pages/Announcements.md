@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-<img src="/images/2023/2023%20homecoming%20banner_design%203.jpg" style="width:500px;height:auto;" align="center">
+<img src="/images/2023/2023%20homecoming%20banner_design%203.jpg" style="width:800px;height:auto;" align="center">
 
 📣 A shoutout to all the ex-students of YCKPS!
 
