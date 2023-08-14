@@ -25,26 +25,25 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Wong Chian Woon*<br>Mrs Esther Yeo  </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Parade Square</td>
-    <td class="tg-12c9">Integrity 4 Class Rm</td>
-  </tr>
+    <td class="tg-12c9">Mr Mohd Bashir Bin Mammad*<br>
+Mr Wong Chian Woon<br>
+Mdm Lee Yuen Chee, Nancy
+  </td>
+    <td class="tg-1hqx">Parade Square</td>
+    </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Faster, Higher, Stronger_  
+ ### **Faster, Higher, Stronger** 
 
-The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National Track and Field Championship.
+The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National School Games Track and Field Championship.

@@ -25,26 +25,26 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
-    <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+     <th class="tg-lh01">Venue </th>
+     </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Muhammad Syafiq<br>Ms Tan Xuan Hong<br>Ms Jasmine Chan<br>Mr Georgy Mathew</td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Foyer/ Canteen</td>
-    <td class="tg-1hqx">Nil</td>
-  </tr>
+    <td class="tg-12c9">Ms Tan Xuan Hong*<br>
+Mr Georgy Mathew Kurien<br>
+Mr Muhammad Syafiq B Hashim<br>
+Mrs Jasmine Tan
+    </td><td class="tg-1hqx">Foyer/Canteen </td>
+    </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
------
+# About Us
 
-_Be Prepared  
-_  
-Our Scouts CCA is one of the unformed groups CCA that the school offer. The CCA aims to offer to students, opportunities to develop life skills that can help them to face and overcome challenges. They are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting.
+### **Be Prepared**  
+
+Our Scouts CCA aims to develop life skills that can help them to face and overcome challenges. The scouts are engaged in fun and meaningful activities, that will see them pick up individual skills such as camp craft and first aid, as well as, learn to work in a group setting. As they are engaged in group activities, they develop critical thinking and their communication skills. Leadership qualities are developed along the way and they participate in programmes such as Sixers Camp and the Combined Uniform Group Camp, to complement the CCA’s activities.
+
+<img src="/images/2023/CCA/scout1%20-%20lovino%20villasin%20cruz.jpeg" style="width:300px;height:auto;" align="center">

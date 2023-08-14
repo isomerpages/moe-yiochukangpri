@@ -25,26 +25,31 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mr Jonathan Wong* </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 1 </td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
-</tbody>
+    <td class="tg-12c9">Mdm Turkha Devi*<br>
+Mr Jonathan Maximilian Wong Jia Sheng<br>
+Ms Shermaine Toh Li Min<br>
+Ms Liu Jiangshan
+</td>
+		 <td class="tg-1hqx">Music Room 1</td>
+</tr></tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Providing memories through music_  
+### **Providing memories through music** 
   
 The Choir Group aims to develop the vocal and singing abilities of its members via fun and engaging activities. They will be taught to sing in pitch with expression. As the group performs in internal and external platforms, these provide opportunities to develop their confidence. Discipline and teamwork are displayed during their practices and performances.
+
+<img src="/images/2023/CCA/choir%202%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/choir%203%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/choir%204%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">

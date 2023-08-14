@@ -4,8 +4,6 @@ permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/visual
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-About
------
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,25 +25,31 @@ About
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Ms Amalina* <br>Ms Chen Lifen<br>Ms Chia Huiyi </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Art Rm 1 &amp; 2</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Ms Marissa Rose Binte Dino*<br>
+Ms Siti Nur Amalina Binte Kamalazami<br>
+Mdm Chen Li Fen<br>
+Ms Chia Hui Yi<br>
+Mr Ang Yew Yee</td>
+    <td class="tg-1hqx">Art Room 1 &amp; 2</td>
+   </tr>
 </tbody>
 </table>
 (*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Embracing creativity_  
+### **Embracing creativity** 
 
 Our Visual Arts members get to display and explore their creativity through the various art forms they go through during their CCA sessions. Students learnt to be resilient as they embarked on creating excellent pieces of art. Along the way, they learn to collaborate with one another. Opportunities are also provided to showcase their art pieces within and out of the school community.
+
+<img src="/images/2023/CCA/creative%20bins%20(1)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/creative%20bines%20(2)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/va%20-%202023%20(2)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">

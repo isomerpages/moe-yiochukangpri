@@ -25,26 +25,28 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mdm Salina Akiak* <br>Ms Neo Bee Geok<br>Miss Nur Syahida  </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Indoor Sports Hall</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Mdm Salina Bte Akiak*<br>
+Mrs Esther Yeo<br>
+Ms Wang Ti Ying<br>
+Ms Aileen Tan Fei Ching
+    </td><td class="tg-1hqx">Indoor Sports Hall</td>
+    </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Play from the heart_  
+ ### **Play from the heart**  
 
 The Volleyball (Girls) CCA offers students the chance to develop values such as sportsmanship, teamwork and excellence. The coach, together with the teachers, help to inculcate the necessary skills and knowledge for students to enhance their competencies in the sport. Platforms for them to display their learning include competitions such as the National School Games Volleyball Championship and friendly games with other school teams.
+
+<img src="/images/2023/CCA/volleyball1%20-%20lovino%20villasin%20cruz.jpeg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/CCA/volleyball2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">

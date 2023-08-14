@@ -3,35 +3,27 @@ title: Aesthetics
 permalink: /yckps-experience/aesthetics/
 description: ""
 ---
-_Developing appreciation for the Arts_
+## Developing appreciation for the Arts
 
-The Aesthetics Department strive to provide exposure to the various art forms and platforms for students to display their aesthetics talents. These are achieved through the different programmes that they go through at their respective levels.  
+Developing appreciation for the Arts
+The Aesthetics Department strives to build a vibrant arts culture in the school by providing personal, meaningful and impactful experiences for all our students. Through the Aesthetics programmes, we aim for our students to:
+-	Enjoy and be inspired by the Arts
+-	Engage in the Arts with both head and heart
+-	Express themselves confidently through the Arts
+-	Be exposed to the local Arts scene
 
-  
+<img src="/images/2023/Aesthetics/img20220805131622%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/Aesthetics/img20220805131852%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/Aesthetics/zoom%20virtual%20background%20_2%20-%20yu%20xin%20stella.png" style="width:300px;height:auto;" align="center">
 
-*   School-based Innovative Curriculum
+Focussed on exposing our students to the various art forms and providing platforms for students to display their talents in art and music, the wide range of Aesthetics programmes in YCKPS include:
+- School-based Visual Art &amp; Music Curriculum
+- Aesthetics Week
+- YCKPS Got Talent
+- P6 Graduation Art Exhibition
+- Museum-Based Learning
+- Theatre Experience Programme
 
-*   To provide exposure to various visual art forms, music instruments and performance types.
-*   School-based Visual Art Modules
-
-*   Colours; Texture; Mixed Media; Digital Art; Ceramics; Graduation Art Exhibition Painting
-
-*   School-based Music Modules
-
-*   Boom Whackers; Hand Chimes; Show Choir; Cajon; Ukelele
-
-*   School Musical Production
-
-*   To enable students with strong passion and talent in the Arts to expand their talents.
-
-*   Aesthetics Week & YCKPS GOT Talent
-
-*   Celebration of the culture of Arts in the school.
-
-*   Museum Education Programme
-
-*   To experience integrated learning of Art, English and Social Studies through their interaction with museum artefacts in a museum setting.
-
-*   Theatre Experience Programme
-
-*   Appreciating art performances while practising theatre etiquette and learning values through the performances
+<img src="/images/2023/Aesthetics/mobile%20stage%201%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/Aesthetics/music%20-%20p1%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/Aesthetics/yckps%20got%20talent%202023%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">

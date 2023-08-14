@@ -26,36 +26,32 @@ third_nav_title: Co Curricular Activities (CCA)
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-lh01">CCA </th>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-8hqj">Wet Weather Venue+ </th>
+   
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Football (Boys)</td>
-    <td class="tg-12c9">Mdm Raynitha </td>
-    <td class="tg-qira">Thursday 7.30am – 9.00am </td>
-    <td class="tg-1hqx">Field</td>
-    <td class="tg-12c9">Integrity 1 &amp; 2 Class Rm</td>
-  </tr>
+    <td class="tg-12c9">Mr Tan Yoke Wee*<br>
+Mdm Norhafizah Bte Samsudin<br>
+Mdm Dasimah Bte Mohamed Daud<br>
+Mdm Siti Nurhuda Bte Akbar
+ </td>
+    <td class="tg-1hqx">Field </td>
+    </tr>
   <tr>
-    <td class="tg-12c9">Football (Girls)</td>
-    <td class="tg-12c9">Mr Tan Yoke Wee* <br>Mdm Norhafizah </td>
-    <td class="tg-qira">Thursday <br>7.30am – 9.00am </td>
-    <td class="tg-qira">Field</td>
-    <td class="tg-12c9">Integrity 3 Class Rm</td>
-  </tr>
-</tbody>
+   </tr></tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Go for Goal_  
+ ### **Go for Goal**
 
-The Football CCA aims to instill teamwork, discipline and respect to its members. They undergo a structured training programme that will help them progress from attaining individual skills to team tactics. Through the activities, they learn to collaborate with one another and work as a team to achieve their goals. The members are exposed to competitive football by taking part annually in the North Zone Football Championships (boys division), FAS/SPSSC Football Girls Tournament (girls division), other football events and friendly matches with other teams.
+The Football CCA aims to instill teamwork, discipline and respect to its members. They undergo a structured training programme that will help them progress from attaining individual skills to team tactics. Through the activities, they learn to collaborate with one another and work as a team to achieve their goals. The members are exposed to competitive football by taking part annually in the National School Games Football Championships for both boys and girls and other football events or friendly matches against other teams.
+
+<img src="/images/2023/CCA/football1%20-%20lovino%20villasin%20cruz.JPG" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/CCA/football2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">

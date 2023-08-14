@@ -16,10 +16,10 @@ Our school gates are painted in different colours and their opening hours are as
 .tg .tg-gmq1{background-color:#F1F8E9;border-color:#c0c0c0;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-tv98{background-color:#FFF;border-color:#c0c0c0;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 402px">
+<table class="tg" style="undefined;table-layout: fixed; width: 410px">
 <colgroup>
-<col style="width: 137.003906px">
-<col style="width: 265.003906px">
+<col style="width: 250.003906px">
+<col style="width: 378.003906px">
 </colgroup>
 <thead>
   <tr>

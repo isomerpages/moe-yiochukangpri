@@ -25,28 +25,31 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">In Curriculum </th>
     <th class="tg-lh01">Venue </th>
-    <th class="tg-lh01">Wet Weather Venue+ </th>
-  </tr>
+    </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-12c9">Mrs Gopalan* <br>Mdm Turkha Devi <br> </td>
-    <td class="tg-1hqx">Thursday 7.30am – 9.00am </td>
-    <td class="tg-qira">Music Rm 3</td>
-    <td class="tg-12c9">Nil </td>
-  </tr>
+    <td class="tg-12c9">Mdm Raynitha d/o Rajoo*<br>
+Ms Shanita d/o Thanaseelan
+ <br>
+    </td><td class="tg-1hqx">Band Room 2 </td>
+    </tr>
 </tbody>
 </table>
 
 (\*denotes the Overall-in-charge Teacher)&nbsp;  
 
-About
+About Us
 -----
 
-_Feel the Rhythm_  
+ ### **Feel the rhythm** 
 
-  
 
 Our students will learn basic to complex dance techniques. They will also be taught to practise the school values as they go through their dance sequences during training and formal platforms. The CCA provides opportunities to put their knowledge and skills into practice through stage performances in the school and beyond.
+
+<img src="/images/2023/CCA/indian%20dance%20-%202023%20(3)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/indian%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/indian%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg" style="width:300px;height:auto;" align="center">
