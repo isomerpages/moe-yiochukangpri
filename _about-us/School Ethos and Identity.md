@@ -71,6 +71,7 @@ School Song
 
 The lyrics of the School Song were written by the Principal of the School, Mr. S. Ratnagopal in July 1970.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zKMOecr1JiE" height="315" width="560"></iframe>
   
 
 We are happy boys and girls at school
@@ -81,7 +82,6 @@ To work, to serve without a sigh
 
 E'er we maintain our standards high.
 
-  
 
 **Chorus**
 
@@ -94,7 +94,6 @@ We're youths of character keen to serve
 The name of our school we'll ever preserve.
 
   
-
 Our Yio Chu Kang School forever
 
 Success in our endeavour
@@ -103,7 +102,6 @@ Onwards, upward we will strive
 
 To serve our Singapore with pride
 
-  
 
 ### The Original Version of the School Song
 
