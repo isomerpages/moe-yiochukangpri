@@ -34,3 +34,11 @@ To create an immersive environment for the learning and appreciation of the cult
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20mtl%20culcural%20camp_ml04%20-%20fajie%20lin.jfif">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20mtl%20culcural%20camp_tl04%20-%20fajie%20lin.jfif">
+
+#### **Science Competitions**
+
+Selected Primary 4 and 5 students participated in the Investigative Science Competition – The 21st Elementz Science Project Competition. Through investigative-type projects and by providing a platform for schools to share their findings, the competition aims to promote science research and develop students’ scientific research skills.
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/investigating%20the%20effect%20of%20acid%20on%20seed%20germination%20for%20elementz%20science%20project%20competition%20.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p5%20elementz%20.jpg">
