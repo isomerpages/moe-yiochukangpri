@@ -71,3 +71,12 @@ Team Drumming complements the current school curriculum and extends learning bey
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/team%20drumming%202.jpeg">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/team%20drumming%203.jpeg">
+
+#### **Racial Harmony Day**
+Our school commemorated Racial Harmony Day on 21 July 2023. School staff and students came dressed in a variety of vibrant ethnic costumes to commemorate this important day which reminds all Singaporeans about the importance of racial harmony and social cohesion. This year's theme, ‘Our Multicultural Mosaic’, underlines the appreciation of Singapore’s cultural and religious diversity and how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to weave a unique cultural tapestry that characterises Singaporean life.
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/racial%20harmony%20day%201.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/racial%20harmony%20day%202.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/racial%20harmony%20day%203.JPG">
