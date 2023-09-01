@@ -60,3 +60,14 @@ During the E2K Science Enrichment sessions, selected P4 and P5 students had the 
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/11%20planning%20an%20investigative%20experiment%20during%20an%20e2k%20enrichment%20lesson.jpg">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/12%20measuring%20the%20distance%20travelled%20by%20a%20boat%20made%20during%20an%20e2k%20enrichment%20lesson.jpg">
+
+#### **Team Drumming**
+Team drumming is part of school support for students with special educational needs. The objectives of this programme are 1) to bolster the attention and focus spans of our students; 2) to strengthen social skills and 3) to build confidence. Sessions are led by an MOE-approved drum instructor. 
+
+Team Drumming complements the current school curriculum and extends learning beyond the classroom. The drummers have great fun learning to listen to one another and to play in harmony.
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/team%20drumming%201%20.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/team%20drumming%202.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/team%20drumming%203.jpeg">
