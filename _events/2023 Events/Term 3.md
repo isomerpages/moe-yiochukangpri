@@ -42,3 +42,13 @@ Selected Primary 4 and 5 students participated in the Investigative Science Comp
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/investigating%20the%20effect%20of%20acid%20on%20seed%20germination%20for%20elementz%20science%20project%20competition%20.jpeg">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p5%20elementz%20.jpg">
+
+Some Primary 3 and 4 student-representatives participated in the Singapore Science Buskers competition where they presented science concepts in fun and engaging ways. This helps to strengthen students’ scientific knowledge and concepts as well as build effective communication skills.
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p3%20busking%20audition%20-%20wei%20ming%20yip.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p3%20busking%20prep%20-%20wei%20ming%20yip.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20busking%20audition%20-%20wei%20ming%20yip.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20busking%20prep%20-%20wei%20ming%20yip.jpeg">
