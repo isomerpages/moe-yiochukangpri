@@ -45,10 +45,18 @@ Selected Primary 4 and 5 students participated in the Investigative Science Comp
 
 Some Primary 3 and 4 student-representatives participated in the Singapore Science Buskers competition where they presented science concepts in fun and engaging ways. This helps to strengthen students’ scientific knowledge and concepts as well as build effective communication skills.
 <br>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p3%20busking%20audition%20-%20wei%20ming%20yip.jpeg">
-<br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p3%20busking%20prep%20-%20wei%20ming%20yip.jpg">
 <br>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20busking%20audition%20-%20wei%20ming%20yip.jpeg">
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p3%20busking%20audition%20-%20wei%20ming%20yip.jpeg">
 <br>
 <img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20busking%20prep%20-%20wei%20ming%20yip.jpeg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/p4%20busking%20audition%20-%20wei%20ming%20yip.jpeg">
+
+#### **E2K Science Enrichment Programme**
+
+During the E2K Science Enrichment sessions, selected P4 and P5 students had the opportunity to inquire and apply scientific knowledge, concepts, skills and attitudes in authentic settings through science investigative activities. They learnt how to design and carry out experiments to investigate real-world phenomena and evaluate the validity and reliability of their findings.
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/11%20planning%20an%20investigative%20experiment%20during%20an%20e2k%20enrichment%20lesson.jpg">
+<br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/Events/12%20measuring%20the%20distance%20travelled%20by%20a%20boat%20made%20during%20an%20e2k%20enrichment%20lesson.jpg">
