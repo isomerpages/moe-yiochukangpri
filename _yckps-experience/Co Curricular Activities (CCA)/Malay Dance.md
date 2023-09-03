@@ -47,7 +47,7 @@ About Us
 
 ### **Move to the beat**  
 
-Our Malay Dance Group has performed during school events and they have also been invited to perform outside the school setting during special events. Through these experiences, its members have gained valuable lessons and also developed their confidence. They continue to explore the traditional dance form while adding a modern twist into their sequences.
+Our Malay Dance Group has performed during school events and have also been invited to perform outside the school setting during special events. Through these experiences, its members gain valuable lessons and also develop confidence. They continue to explore the traditional dance form while adding a modern twist into their sequences.
 
 <img src="/images/2023/CCA/malay%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
 <br>
