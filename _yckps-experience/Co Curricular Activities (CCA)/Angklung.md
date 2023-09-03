@@ -47,5 +47,9 @@ About Us
  ### **Listen to the rhythm** 
   
 The objectives of Angklung Programme are to enable YCKPS students to understand and apply basic Angklung techniques and create a range of dynamics using the instruments. It also aims to inculcate values such as discipline, resilience and teamwork. The students have performed during school events, as well as, external venues to celebrate various events.
-
+<br>
 <img src="/images/2023/CCA/angklung%204%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/angklung%203%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<br>
+<img src="/images/2023/CCA/0a1a8925%20-%20yu%20xin%20stella.JPG" style="width:300px;height:auto;" align="center">
