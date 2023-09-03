@@ -178,11 +178,6 @@ Our Teachers
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
     <td class="tg-ga19">Mdm Ng Mei Ling<br></td>
-		</tr>
-  <tr>
-    <td class="tg-ga19"></td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mr Nevin Ho Jun Hui</td>
   </tr>
   <tr>
   </tr>
@@ -857,7 +852,7 @@ Other Support Staff
   </tr>
   <tr>
     <td class="tg-ga19">Science Lab Assistant</td>
-    <td class="tg-ga19">Mrs Rahel Bte Raja Malzah</td>
+    <td class="tg-ga19">Mdm Sushela Vartharajoo</td>
   </tr>
 </tbody>
 </table>
