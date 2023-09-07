@@ -147,17 +147,12 @@ Our Teachers
   <tr>
     <td class="tg-8fvo"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Siti Nur Amalina Binte Kamalazami</td>
+    <td class="tg-ga19">Mr Tan Yoke Wee</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 2</td>
     <td class="tg-dlfs">Form Teacher<br></td>
-    <td class="tg-dlfs">Mdm Priya D/O Jairam</td>
-  </tr>
-  <tr>
-    <td class="tg-tv98"></td>
-    <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Ms Marissa Rose Binte Dino</td>
+    <td class="tg-dlfs">Ms Marissa Rose Binte Dino</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Respect 3</td>
@@ -265,7 +260,7 @@ Our Teachers
   <tr>
     <td class="tg-ga19"></td>
     <td class="tg-ga19">Form Teacher</td>
-    <td class="tg-ga19">Mr Tan Yoke Wee</td>
+    <td class="tg-ga19">Mrs Yean Sok Kheng</td>
   </tr>
   <tr>
     <td class="tg-dlfs">Responsibility 4</td>
@@ -659,6 +654,10 @@ Our Teachers
   <tr>
     <td class="tg-ga19">Flexi Adjunct Teacher</td>
     <td class="tg-ga19">Mr Sim Wei Ming Christopher</td>
+  </tr>
+	  <tr>
+    <td class="tg-dlfs">Flexi Adjunct Teacher</td>
+    <td class="tg-dlfs">Ms Lim Su Xin</td>
   </tr>
   <tr>
   </tr>
