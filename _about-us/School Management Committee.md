@@ -222,20 +222,16 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dlfs">Assistant Year Head (P2)</td>
-    <td class="tg-dlfs">Ms Priya</td>
+    <td class="tg-dlfs">Assistant Year Head (P3)</td>
+    <td class="tg-dlfs">Ms Ong Huiyin, Amelia</td>
   </tr>
   <tr>
-    <td class="tg-ga19">Assistant Year Head (P3)</td>
-    <td class="tg-ga19">Ms Ong Huiyin, Amelia</td>
+    <td class="tg-ga19">Assistant Year Head (P5)</td>
+    <td class="tg-ga19">Ms Neo Bee Geok</td>
   </tr>
   <tr>
-    <td class="tg-dlfs">Assistant Year Head (P5)</td>
-    <td class="tg-dlfs">Ms Neo Bee Geok</td>
-  </tr>
-	<tr>
-		    <td class="tg-ga19">Assistant Year Head (P6)</td>
-    <td class="tg-ga19">Mr Larry Lim</td>
+    <td class="tg-dlfs">Assistant Year Head (P6)</td>
+    <td class="tg-dlfs">Mr Larry Lim</td>
   </tr>
 </tbody>
 </table>
