@@ -35,7 +35,6 @@ third_nav_title: Co Curricular Activities (CCA)
   <tr>
     <td class="tg-12c9">Mr Gary Chan*<br>
 Ms Nur Syahida Binte Jamaluddin<br>
-Mr Ho Jun Hui Nevin<br>
 Ms Marilyn Song Yi Ying
  </td>
     <td class="tg-1hqx">Basketball Court </td>

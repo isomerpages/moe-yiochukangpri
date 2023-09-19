@@ -46,7 +46,7 @@ About Us
 
 ### **Embracing creativity** 
 
-Our Visual Arts members get to display and explore their creativity through the various art forms they go through during their CCA sessions. Students learnt to be resilient as they embarked on creating excellent pieces of art. Along the way, they learn to collaborate with one another. Opportunities are also provided to showcase their art pieces within and out of the school community.
+Our Visual Arts members get to display and explore their creativity through the various art forms they go through during their CCA sessions. Students learnt to be resilient as they embarked on creating excellent pieces of art. Along the way, they learn to collaborate with one another. Opportunities are also provided for them to showcase their art pieces within and out of the school community.
 
 <img src="/images/2023/CCA/creative%20bins%20(1)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
 <br>
