@@ -21,8 +21,19 @@ We aim to develop skills and values through our daily PE lessons. The framework 
 **SPORTS EDUCATION PROGRAMME**
 
 In addition to regular PE classes, the PE Department also organizes a range of programs and events to further broaden and enrich the students’ learning experiences. These initiatives are designed for the P3-P6 students to expose the students to sports beyond the school’s PE curriculum. The chosen sports aim to enhance their physical, social, and emotional development, promoting a lifelong love of physical activity and healthy living.
-<img src="/images/2023/PE/1pe_sep_archery.jpg" style="width:300px;height:auto;" align="center">
-<p></p>Archery (P3)<p></p>
+<table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:52.44%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="52%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img align="center" style="width:250px;height:auto;" src="/images/2023/PE/1pe_sep_archery.jpg" span=""></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes">Archery (Primary 3)</span></p></td><td style="width:47.56%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="47%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/2pe_sep_bowling.jpg" span=""></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes">Bowling (Primary 4)</span></p></td></tr></tbody></table>
 
 - **Level Camp - P5**
 <br> To inculcate the school values through Outdoor Education
@@ -32,8 +43,8 @@ In addition to regular PE classes, the PE Department also organizes a range of p
 - **Sports Education Programme**
 <br> Exposure to sports beyond the school’s PE curriculum
 
-<img src="/images/2023/PE/pe5%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/pe5%20-%20lovino%20villasin%20cruz.jpg">
 <br>
-<img src="/images/2023/PE/pe6%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/pe6%20-%20lovino%20villasin%20cruz.jpg">
 <br>
-<img src="/images/2023/PE/pe7%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/pe7%20-%20lovino%20villasin%20cruz.jpg">
