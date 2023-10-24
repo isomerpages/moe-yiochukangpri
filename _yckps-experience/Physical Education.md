@@ -34,7 +34,8 @@ In addition to regular PE classes, the PE Department also organizes a range of p
   yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/2pe_sep_bowling.jpg" span=""></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Bowling (Primary 4)</span></p></td></tr></tbody></table>
-
+<img src="/images/2023/PE/3pe_sep_dragonboating.jpeg" style="width:300px;height:auto;" align="center">
+<p style="text-align:center;">Primary 6 Dragon boating</p>
 
 - **OLYMPIC CARNIVAL**
 
@@ -51,4 +52,3 @@ The SwimSafer 2.0 programme is designed to teach participants how to manage wate
 - **HEALTH AND FITNESS WEEK**
 
 Our students go through a variety of activities, with the aims of displaying the school values and being more aware of the different aspects of health. Students will complete challenges within their respective levels, and they will have lessons on healthy eating and living habits.
-
