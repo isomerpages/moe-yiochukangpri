@@ -34,7 +34,7 @@ In addition to regular PE classes, the PE Department also organizes a range of p
   yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/2pe_sep_bowling.jpg" span=""></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Bowling (Primary 4)</span></p></td></tr></tbody></table>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/3pe_sep_dragonboating.jpeg">
+
 
 - **Level Camp - P5**
 <br> To inculcate the school values through Outdoor Education
