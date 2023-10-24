@@ -21,6 +21,9 @@ We aim to develop skills and values through our daily PE lessons. The framework 
 **SPORTS EDUCATION PROGRAMME**
 
 In addition to regular PE classes, the PE Department also organizes a range of programs and events to further broaden and enrich the students’ learning experiences. These initiatives are designed for the P3-P6 students to expose the students to sports beyond the school’s PE curriculum. The chosen sports aim to enhance their physical, social, and emotional development, promoting a lifelong love of physical activity and healthy living.
+<img src="/images/2023/PE/1pe_sep_archery.jpg" style="width:300px;height:auto;" align="center">
+<br>
+
 - **Level Camp - P5**
 <br> To inculcate the school values through Outdoor Education
 - **Interclass Games**
