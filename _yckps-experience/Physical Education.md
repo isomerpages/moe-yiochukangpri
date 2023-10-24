@@ -3,17 +3,24 @@ title: Physical Education
 permalink: /yckps-experience/physical-education/
 description: ""
 ---
-## Developing active and healthy living lifestyle
+## To Develop Active and Physically Competent Individuals
 
-The PE Department aims to develop students’ overall development by providing opportunities in various sports and physical activities.  We strive to develop a foundation for an active and healthy living lifestyle amongst our students.
+The YCKPS PE Department aims to develop students’ overall holistic development by providing learning opportunities in various sports and physical activities. We strive to develop a strong foundation for an active and healthy lifestyle, with hopes to promote lifelong participation.
 
-#### PE Programmes
+#### Our Signature PE Programmes
 
-- **Developing skills and values through T.E.A.M. Sports@YCK**
-<br>- Anchoring students in key school values for life-long learning and development through team sports.
-<br>- Mastery of skills for personal development and sports excellence.
-- **Olympic Carnival**
-<br> Providing opportunities to learn, understand and display the Olympic Values and relate them to everyday life.
+- **T.E.A.M. SPORTS@YCK**
+
+We aim to develop skills and values through our daily PE lessons. The framework provides students to build character and leadership skills through sports.
+* **T**eam building, social interaction and integration through collaborative learning.
+* **E**ngagement of students in adopting a healthy lifestyle and mindset.
+* **A**nchoring students in key school values for life-long learning and development through team sports.
+* **M**astery of skills for personal development and sports excellence.
+
+
+**SPORTS EDUCATION PROGRAMME**
+
+In addition to regular PE classes, the PE Department also organizes a range of programs and events to further broaden and enrich the students’ learning experiences. These initiatives are designed for the P3-P6 students to expose the students to sports beyond the school’s PE curriculum. The chosen sports aim to enhance their physical, social, and emotional development, promoting a lifelong love of physical activity and healthy living.
 - **Level Camp - P5**
 <br> To inculcate the school values through Outdoor Education
 - **Interclass Games**
