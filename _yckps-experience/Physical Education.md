@@ -27,15 +27,14 @@ In addition to regular PE classes, the PE Department also organizes a range of p
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes"><img align="center" style="width:250px;height:auto;" src="/images/2023/PE/1pe_sep_archery.jpg" span=""></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes">Archery (Primary 3)</span></p></td><td style="width:47.56%;border:solid windowtext 1.0pt;
+  yes">Primary 3 Archery</span></p></td><td style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="47%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/2pe_sep_bowling.jpg" span=""></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes">Bowling (Primary 4)</span></p></td></tr></tbody></table>
-<img src="/images/2023/PE/3pe_sep_dragonboating.jpeg" style="width:300px;height:auto;" align="center">
-<p style="text-align:center;">Primary 6 Dragon boating</p>
+  yes">Primary 4 Bowling</span></p></td></tr></tbody></table>
+<img src="/images/2023/PE/3pe_sep_dragonboating.jpeg" style="width:300px;height:auto;" align="center"><p style="text-align:center;">Primary 6 Dragon boating</p>
 
 - **OLYMPIC CARNIVAL**
 
