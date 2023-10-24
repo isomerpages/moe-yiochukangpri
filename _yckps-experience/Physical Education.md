@@ -36,16 +36,19 @@ In addition to regular PE classes, the PE Department also organizes a range of p
   yes">Bowling (Primary 4)</span></p></td></tr></tbody></table>
 
 
-- **Level Camp - P5**
-<br> To inculcate the school values through Outdoor Education
-- **Interclass Games**
-<br>Platforms to display PE skills and knowledge and collaborate effectively with peers.
-- **Swimming – P5**
-- **Sports Education Programme**
-<br> Exposure to sports beyond the school’s PE curriculum
+- **OLYMPIC CARNIVAL**
 
+The Olympic Carnival is held every year as part of the Children’s Day Celebrations. This programme aims to provide opportunities to learn, understand and displaying of the Olympic Values while participating in the games. The lower primary students (P1-P3) will be participating in game stations and the upper primary students (P4-P6) will play small-sided modified sports such as Handball, Floorball and Frisbee. They will compete in an inter-class tournament format. The winners of the games will be going home with a medal to celebrate their efforts and successes.
+
+- **PRIMARY 5 COHORT CAMP**
+
+The P5 level camp is an extension of the Outdoor Education in the PE syllabus. The camp provides opportunities for the students to apply their outdoor knowledge and skills in developing a sense of adventure and exploration. The camp activities planned are also aligned to help students inculcate the school values through Outdoor Education.
+- **SWIMSAFER (P5)**
+
+The SwimSafer 2.0 programme is designed to teach participants how to manage water safety for water-based activities. The programme aims to teach swimming proficiency and water survival skills in a fun manner. The swimming sessions will be held during PE periods, within the curriculum time.
 <img align="center" style="width:300px;height:auto;" src="/images/2023/PE/pe5%20-%20lovino%20villasin%20cruz.jpg">
-<br>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/pe6%20-%20lovino%20villasin%20cruz.jpg">
-<br>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/pe7%20-%20lovino%20villasin%20cruz.jpg">
+
+- **HEALTH AND FITNESS WEEK**
+
+Our students go through a variety of activities, with the aims of displaying the school values and being more aware of the different aspects of health. Students will complete challenges within their respective levels, and they will have lessons on healthy eating and living habits.
+
