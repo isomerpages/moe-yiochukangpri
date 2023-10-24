@@ -40,6 +40,18 @@ In addition to regular PE classes, the PE Department also organizes a range of p
 
 The Olympic Carnival is held every year as part of the Children’s Day Celebrations. This programme aims to provide opportunities to learn, understand and displaying of the Olympic Values while participating in the games. The lower primary students (P1-P3) will be participating in game stations and the upper primary students (P4-P6) will play small-sided modified sports such as Handball, Floorball and Frisbee. They will compete in an inter-class tournament format. The winners of the games will be going home with a medal to celebrate their efforts and successes.
 
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="52%" valign="top" style="width:52.44%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/PE/4pe_oc_pic%201.jpeg" style="width:300px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Measuring volume using a measuring cylinder</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/Science/science%204a%20investigating%20the%20properties%20of%20light.jpeg" style="width:300px;height:auto;" align="center"><br>
+<img src="/images/2023/Science/science%204b%20-%20investigating%20the%20properties%20of%20light.jpeg" style="width:300px;height:auto;" align="center"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif">Investigating the properties of light</span></p></td></tr></tbody></table>
 - **PRIMARY 5 COHORT CAMP**
 
 The P5 level camp is an extension of the Outdoor Education in the PE syllabus. The camp provides opportunities for the students to apply their outdoor knowledge and skills in developing a sense of adventure and exploration. The camp activities planned are also aligned to help students inculcate the school values through Outdoor Education.
