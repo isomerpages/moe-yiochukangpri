@@ -56,6 +56,19 @@ The Olympic Carnival is held every year as part of the Children’s Day Celebrat
 - **PRIMARY 5 COHORT CAMP**
 
 The P5 level camp is an extension of the Outdoor Education in the PE syllabus. The camp provides opportunities for the students to apply their outdoor knowledge and skills in developing a sense of adventure and exploration. The camp activities planned are also aligned to help students inculcate the school values through Outdoor Education.
+<table style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:52.44%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="52%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img src="/images/2023/PE/7pe_camp_pic%201.JPG"></span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"></p></td><td style="width:47.56%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="47%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/8pe_camp_pic%202.jpg"><br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/9pe_camp_pic%203.jpg" span=""><span style="font-family:&quot;Lato&quot;,sans-serif"></span></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"></p></td></tr></tbody></table>
+
 - **SWIMSAFER (P5)**
 
 The SwimSafer 2.0 programme is designed to teach participants how to manage water safety for water-based activities. The programme aims to teach swimming proficiency and water survival skills in a fun manner. The swimming sessions will be held during PE periods, within the curriculum time.
