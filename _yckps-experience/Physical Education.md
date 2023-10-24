@@ -34,7 +34,8 @@ In addition to regular PE classes, the PE Department also organizes a range of p
   yes"><img span="" src="/images/2023/PE/2pe_sep_bowling.jpg" style="width:300px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes">Primary 4 Bowling</span></p></td></tr></tbody></table>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/3pe_sep_dragonboating.jpeg"><p style="text-align:center;">Primary 6 Dragon boating</p>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/3pe_sep_dragonboating.jpeg">
+<p style="text-align:center;">Primary 6 Dragon boating</p>
 
 - **OLYMPIC CARNIVAL**
 
