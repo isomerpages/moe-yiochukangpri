@@ -87,6 +87,6 @@ Our students go through a variety of activities, with the aims of displaying the
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="47%"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/12pe_hf_pic%202.jpeg"><br>
-<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/13pe_hf_pic%203.jpeg" span=""><span style="font-family:&quot;Lato&quot;,sans-serif"></span></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  yes"><img align="center" style="width:300px;height:auto;" src="/images/2023/PE/12pe_hf_pic%203.jpeg"><br>
+<img align="center" style="width:300px;height:auto;" src="/images/2023/PE/13pe_hf_pic%202.jpeg" span=""><span style="font-family:&quot;Lato&quot;,sans-serif"></span></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"></p></td></tr></tbody></table>
