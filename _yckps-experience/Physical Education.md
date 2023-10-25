@@ -27,7 +27,9 @@ In addition to regular PE classes, the PE Department also organizes a range of p
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
   yes"><img span="" src="/images/2023/PE/1pe_sep_archery.jpg" style="width:250px;height:auto;" align="center"></span></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
-  yes">Primary 3 Archery</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
+  yes">Primary 3 Archery</span><img span="" src="/images/2023/PE/3pe_sep_dragonboating.jpeg" style="width:250px;height:auto;" align="center"></p><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+  0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
+  yes">Primary 6 Dragon boating</span></p></td><td width="47%" valign="top" style="width:47.56%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
   0in;line-height:115%"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-no-proof:
