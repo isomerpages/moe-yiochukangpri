@@ -44,6 +44,6 @@ Mdm Lee Yuen Chee, Nancy
 About Us
 -----
 
- ### **Faster, Higher, Stronger** 
+### **Faster, Higher, Stronger** 
 
 The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National School Games Track and Field Championship.

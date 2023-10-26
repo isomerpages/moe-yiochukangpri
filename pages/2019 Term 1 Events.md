@@ -1,8 +1,7 @@
 ---
-title: Term 1
+title: 2019 Term 1 Events
 permalink: /events/2019-events/term-1/
 description: ""
-third_nav_title: 2019 Events
 ---
 #### **P6 Dragon Boating Experience (10 - 11 January)**
 
@@ -18,8 +17,7 @@ Sun, sea and lots of sunblock! The whole P6 cohort spent a morning at Kallang Ba
 
 ![All oars on deck](/images/P6%20Dragon%20Boating5.png)
 
-<img src="/images/P6%20Dragon%20Boating6.jpg"  
-style="width:60%">
+<img src="/images/P6%20Dragon%20Boating6.jpg" style="width:60%">
 
 #### **Total Defence Day (TDD) Commemoration (11 Feb 2019)**
 
@@ -28,7 +26,7 @@ Singapore has remained safe and peaceful over the past 53 years because of all S
 In living out the TDD theme for this year – “Together We Keep Singapore Strong”, a slew of activities were organised on 11 February 2019. The activities aimed to drive across the key messages that every pupil can play his/her part in Total Defence and our collective effort is needed to keep our nation strong. Click [here](/departments/character-n-citizenship-education-cce/2019-total-defence-day) to find out more!
 
 ![Our Homeland, We Must Defend – a skit performed by our YCKPS students](/images/TDD%202019.png)
-_Our Homeland, We Must Defend_ – a skit performed by our YCKPS students. The skit contains Two Scenes: The Fall of Singapore and The Fight for Independence.
+_Our Homeland, We Must Defend_&nbsp;– a skit performed by our YCKPS students.&nbsp;The skit contains Two Scenes: The Fall of Singapore and The Fight for Independence.
 
 #### **P4 Traffic Games @Road Safety Community Park**
 
@@ -47,7 +45,7 @@ Keeping a proper distance from the vehicle in front
 Observe the rules or the marshals will stop to remind you
   
 ![A souvenir booklet to help remember the traffic rules learnt](/images/P4%20traffic%20games5.png)
-A souvenir booklet to help remember the traffic rules learnt
+A&nbsp;souvenir booklet to help remember the traffic rules learnt
   
 
 #### **P4 Code for Fun**
@@ -81,5 +79,4 @@ Our P6 students had a wonderful time at Science Centre Singapore in the last wee
 
 ![P6 Learning Journey to Science Centre Singapore](/images/P6%20Learning%20Journey%20to%20Science%20Centre%20Singapore.png)
 
-<img src="/images/P6%20Learning%20Journey%20to%20Science%20Centre%20Singapore.png"  
-style="width:75%">
+<img src="/images/P6%20Learning%20Journey%20to%20Science%20Centre%20Singapore.png" style="width:75%">

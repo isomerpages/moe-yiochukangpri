@@ -1,8 +1,7 @@
 ---
-title: Term 1
+title: 2018 Term 1 Events
 permalink: /events/2018-events/term-1/
 description: ""
-third_nav_title: 2018 Events
 ---
 #### **Lab On Wheels**  
 

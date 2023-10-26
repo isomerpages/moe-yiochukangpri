@@ -1,8 +1,7 @@
 ---
-title: Term 4
+title: 2018 Term 4 events
 permalink: /events/2018-events/term-4/
 description: ""
-third_nav_title: 2018 Events
 ---
 #### **2018 Children’s Day concert**  
   

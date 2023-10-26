@@ -1,8 +1,7 @@
 ---
-title: Term 2
+title: 2018 Term 2 Events
 permalink: /events/2018-events/term-2/
 description: ""
-third_nav_title: 2018 Events
 ---
 #### **Commemoration of International Friendship Day 2018**  
 
@@ -15,8 +14,7 @@ Click&nbsp;[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citiz
   
 #### **Drag, Aim, Sphero! Father-Child Bonding Event**  
   
-<img src="/images/Father%20Child%20Bonding%20Event.png"  
-style="width:65%">
+<img src="/images/Father%20Child%20Bonding%20Event.png" style="width:65%">
 
 On 14 April Saturday, 20 of our students and their Dads participated in our “Drag, Aim, Sphero!” father-child bonding event. They learnt basic block programming skills to programme a spherical robot, called “Sphero”. This FamilyMatters@School event was jointly organized by our Parent Support Group (PSG) and the school.
 
@@ -26,7 +24,7 @@ Please click onto this link&nbsp;**[here](https://yiochukangpri.moe.edu.sg/uniqu
   
 #### **2018 Primary 5 Cohort Camp**  
   
-<img src="/images/2018%20Primary%205%20Cohort%20Camp1.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">	
+<img src="/images/2018%20Primary%205%20Cohort%20Camp1.jpg" style="width:183px;height:240px;margin-left:15px;" align="left">	
 The P5 students attended a 3D2N Residential Camp at the Dairy Farm Outdoor Adventure Learning Centre (DFOALC) from 9 – 11 April 2018. The Camp provided a rich learning experience outside the classroom setting where students were given opportunities to develop holistically and build up their resilience and ruggedness. Students went through various activities such as challenging oneself in the Challenge Rope Course (CRC), hikes and buddy night walk. They were able to strengthen their camaraderie by working and overcoming obstacles together.
 
 ![](/images/2018%20Primary%205%20Cohort%20Camp2.png)
@@ -37,8 +35,7 @@ Click&nbsp;**[here](/departments/physical-education-health-education/key-program
   
 YCKPS commemorated both the Earth Day and Earth Hour on 9th April 2018, to show our support in environment conservation.
 
-<img src="/images/Earth%20Day%202018.jpg"  
-style="width:50%">
+<img src="/images/Earth%20Day%202018.jpg" style="width:50%">
 Assembly talk by Mr Low, Chairman of the Earth Society
 
 Click&nbsp;**[here](https://yiochukangpri.moe.edu.sg/departments/character-n-citizenship-education-cce/earth-day-2018)**&nbsp;to find out more details!
@@ -89,21 +86,20 @@ These students wanted to learn how to converse better with their friends of othe
   
 ![2018 Conversational Chinese and Malay Programme (CCM) Session 1](/images/2018%20Conversational%20Chinese%20and%20Malay%20Programme%20(CCM)%20Session%201.jpg)
 
-Come **[here](https://yiochukangpri.moe.edu.sg/events/2018-events)** to find out more!
+Come&nbsp;**[here](https://yiochukangpri.moe.edu.sg/events/2018-events)**&nbsp;to find out more!
 
   
   
 #### **Primary 5 Social Studies Learning Journey**  
   
 ![The P5 classes visited Chinatown on 14th and 15th May 2018.  
-They visited sites of historical significance such as the Thian Hock Keng Temple.](/images/Primary%205%20Social%20Studies%20Learning%20Journey.png)
-The P5 classes visited Chinatown on 14th and 15th May 2018. They visited sites of historical significance such as the Thian Hock Keng Temple.
+They visited sites of historical significance such as the&nbsp;Thian Hock Keng Temple.](/images/Primary%205%20Social%20Studies%20Learning%20Journey.png)
+The P5 classes visited Chinatown on 14th and 15th May 2018. They visited sites of historical significance such as the&nbsp;Thian Hock Keng Temple.
 
 ![The last remaining well in Singapore.](/images/Primary%205%20Social%20Studies%20Learning%20Journey2.jpg)
 The last remaining well in Singapore.
 
-<img src="/images/Primary%205%20Social%20Studies%20Learning%20Journey3.jpg"  
-style="width:50%">
+<img src="/images/Primary%205%20Social%20Studies%20Learning%20Journey3.jpg" style="width:50%">
 The students had to complete a digital trail of the journey on iPad. They discovered statues at Telok Ayer Green depicting early Singapore.
 
 ![It certainly was a fun and informative learning journey!](/images/Primary%205%20Social%20Studies%20Learning%20Journey4.jpg)

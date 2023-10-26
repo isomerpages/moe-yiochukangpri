@@ -1,8 +1,7 @@
 ---
-title: Term 3
+title: 2018 Term 3 Events
 permalink: /events/2018-events/term-3/
 description: ""
-third_nav_title: 2018 Events
 ---
 #### **2018 Immersion Trip to Shanghai, China**  
   

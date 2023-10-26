@@ -49,7 +49,7 @@ Mdm Siti Nurhuda Bte Akbar
 About Us
 -----
 
- ### **Go for Goal**
+### **Go for Goal**
 
 The Football CCA aims to instill teamwork, discipline and respect to its members. They undergo a structured training programme that will help them progress from attaining individual skills to team tactics. Through the activities, they learn to collaborate with one another and work as a team to achieve their goals. The members are exposed to competitive football by taking part annually in the National School Games Football Championships for both boys and girls and other football events or friendly matches against other teams.
 

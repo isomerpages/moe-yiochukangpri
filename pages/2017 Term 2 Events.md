@@ -1,8 +1,7 @@
 ---
-title: Term 2
+title: 2017 Term 2 Events
 permalink: /events/20172017-events/term-2/
 description: ""
-third_nav_title: 2017 Events
 ---
 #### **Earth Hour @ YCKPS**  
 

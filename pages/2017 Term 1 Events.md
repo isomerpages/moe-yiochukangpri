@@ -1,8 +1,7 @@
 ---
-title: Term 1
+title: 2017 Term 1 Events
 permalink: /events/2017-events/term-1/
 description: ""
-third_nav_title: 2017 Events
 ---
 #### **Chinese New Year Celebration 2017**  
   

@@ -1,8 +1,7 @@
 ---
-title: Term 4
+title: 2017 Term 4 Events
 permalink: /events/2017-events/term-4/
 description: ""
-third_nav_title: 2017 Events
 ---
 #### **Nanogirl Science Show @ YCKPS**  
   

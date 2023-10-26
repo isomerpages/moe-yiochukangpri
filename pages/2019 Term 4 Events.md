@@ -1,8 +1,7 @@
 ---
-title: Term 4
+title: 2019 Term 4 Events
 permalink: /events/2019-events/term-4/
 description: ""
-third_nav_title: 2019 Events
 ---
 #### **P6 Encouragement Stationery Kits**
 

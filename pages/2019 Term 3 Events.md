@@ -1,8 +1,7 @@
 ---
-title: Term 3
+title: 2019 Term 3 Events
 permalink: /events/2019-events/term-3/
 description: ""
-third_nav_title: 2019 Events
 ---
 #### **Primary 4 Camp**
 
@@ -10,17 +9,14 @@ On 5th July 2019, the Primary 4 students experienced a fun-filled day of activit
 
 The camp was an eventful one as students tried various outdoor elements such as bouldering and rock walls, challenge rope courses and also the low elements. Students were able to appreciate the activities for the day and got a taste of high and low elements, which would be present in the residential Primary 5 camp the following year.
 
-<img src="/images/Team%20Bonding%20games%20in%20YCKPS.jpg"  
-style="width:65%">
+<img src="/images/Team%20Bonding%20games%20in%20YCKPS.jpg" style="width:65%">
 Team Bonding games in YCKPS.
 
-<img src="/images/observing%20safety%20while.png"  
-style="width:70%">
+<img src="/images/observing%20safety%20while.png" style="width:70%">
 Observing safety while bouldering. Students challenged themselves to complete the high elements.
 
 
-<img src="/images/having%20lunch%20before.png"  
-style="width:70%">
+<img src="/images/having%20lunch%20before.png" style="width:70%">
 Having lunch before heading out for high elements. Keeping the ball in the air as a group.
 
 #### **Visit to MK@Fernvale on 12 July 2019 By Lower Primary Teachers** 
@@ -31,16 +27,14 @@ Some of the teachers shared that the students learn through play and authentic e
 
 ![Visit to MK@Fernvale on 12 July 2019 By Lower Primary Teachers](/images/visit%20to%20MK1.png)
 
-<img src="/images/visit%20to%20MK2.png"  
-style="width:60%">
+<img src="/images/visit%20to%20MK2.png" style="width:60%">
   
 
 #### **Science QQ Programme** 
 
 The Science Department has been running the Quality and Quantity (QQ) Programme for our P6 students since Term 2 to better support them in their journey towards PSLE. The main objectives of this programme are to have more targeted revision for the P6 students based on the main PSLE topics and to help them further improve their grades. The science teachers came together at the start of the year to design topical worksheets on identified topics after analysing the PSLE papers for the past few years. The P6 teachers also work with a selected group of students on certain Thursday afternoons to aid them in their revision.
 
-<img src="/images/Science%20QQ%20Programme.png"  
-style="width:75%">
+<img src="/images/Science%20QQ%20Programme.png" style="width:75%">
 
 #### **Science Buskers Festival 2019**
 
@@ -59,7 +53,7 @@ The Science&nbsp;Department took part in the 18th&nbsp;ElementzScience Project C
 
 The teams investigated on natural cures to fungal infections, ways to make eco-friendly bioplastics and approaches to improve the quality of recycled papers, and presented their projects to a panel of judges. They did us proud as they achieved a Gold Award, Silver Award and Bronze Award. The awards are a recognition of the depth of investigative design, conciseness of poster display and good oral presentation skills.
 
-![18th Elementz Science Project Competition & Exhibition](/images/18th%20Elementz%20Science%20Project%20Competition%20&%20Exhibition.png)
+![18th Elementz Science Project Competition &amp; Exhibition](/images/18th%20Elementz%20Science%20Project%20Competition%20&amp;%20Exhibition.png)
 
 #### **Global Sustainable Development Programme 2019**
 
