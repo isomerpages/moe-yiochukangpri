@@ -48,7 +48,7 @@ Ms Marilyn Song Yi Ying
 About Us
 -----
 
- ### **Through the hoop**
+### **Through the hoop**
 
 The Basketball CCA aims to develop the members’ fundamental skills and concepts of the game. They will go through practice routines to work on their dribbling, passing and shooting abilities. They will also learn to work on team dynamics when placed in game situations.
 
