@@ -11,15 +11,6 @@ Come over [here](https://yiochukangpri.moe.edu.sg/for-parents/parent-support-gr
 We love our PSG!  
   
 
-Useful Forms and Documents
---------------------------
-
-  
-
-
-*   [School Uniform Price List](/files/2019_Uniform.pdf)
-*   [School Counselling - Parents' Guide](https://docs.google.com/a/yckps.edu.sg/viewer?a=v&pid=sites&srcid=eWNrcHMuZWR1LnNnfHlja3BzLWxlYXZlZm9ybXxneDo3YTNjNmQ4OTY2YWY0OTA1)
-
 Useful Links
 ------------
 
