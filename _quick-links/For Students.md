@@ -3,14 +3,6 @@ title: For Students
 permalink: /quick-links/for-students/
 description: ""
 ---
-Full Home-Based Learning
-------------------------
-
-  
-Dear Students,  
-  
-Please click on **[this link](https://yiochukangpri.moe.edu.sg/quick-links/for-students/home-based-learning-hbl-during-school-closure)** for more information on home-based learning. You can also find access to this page on the side tab.
-
 Useful Links
 ------------
 
