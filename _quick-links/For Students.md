@@ -8,7 +8,7 @@ Useful Links
 
   
 
-*   [Choosing a Secondary School and E-Open house dates](https://www.schoolbag.edu.sg/story/online-open-house-for-secondary-schools-2021-v2) 
+*   [Choosing a Secondary School and E-Open house dates](https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023) 
 *   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
 *   [Google Workspace](https://workspace.google.com/dashboard)  
 *   [Travel Declaration Forms](https://docs.google.com/a/yckps.edu.sg/viewer?a=v&pid=sites&srcid=eWNrcHMuZWR1LnNnfHlja3BzLWxlYXZlZm9ybXxneDo0NmQ2MzJhNzc0ZGJjY2Ni)
