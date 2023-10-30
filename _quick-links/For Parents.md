@@ -7,7 +7,7 @@ Parents Support Group (PSG)
 ---------------------------
 
   
-Come over [here](https://yiochukangpri.moe.edu.sg/partners/parent-support-group-psg) to find out more about our PSG and the events they organized for our pupils!   
+Come over [here](https://yiochukangpri.moe.edu.sg/for-parents/parent-support-group-psg) to find out more about our PSG and the events they organized for our pupils!   
 We love our PSG!  
   
 
