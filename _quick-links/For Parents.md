@@ -14,9 +14,6 @@ We love our PSG!
 Useful Links
 ------------
 
-*   [Choosing a Secondary School](https://www.schoolbag.sg/story/the-next-phase-choosing-a-secondary-school?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Oct)
-
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [School Bag - The Education News Site for Parents](https://www.schoolbag.sg/)
 *   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
-
