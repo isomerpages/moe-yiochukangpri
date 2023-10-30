@@ -19,7 +19,6 @@ Useful Links
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [School Bag - The Education News Site for Parents](https://www.schoolbag.sg/)
 *   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
-*   [Information on Primary School Education](https://www.moe.gov.sg/education/primary) (MOE Website)
 
 Useful Articles
 ---------------
