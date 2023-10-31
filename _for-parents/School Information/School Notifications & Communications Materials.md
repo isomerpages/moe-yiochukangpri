@@ -23,4 +23,3 @@ Useful Forms and Documents
 *   [The Straits Times School Pocket Money Fund 2024 Application Form (For Primary 1 only)](/files/annex%20a%20-%202024%20stspmf%20application%20form%20for%20schools.pdf)
 *   [The Straits Times School Pocket Money Fund 2024 Income Declaration Form](/files/annex%20b%20-%20income%20declaration%20form.pdf)
 *   [The Straits Times School Pocket Money Fund 2024 Direct Credit Authorisation Form](/files/annex%20f%20-%20direct%20credit%20authorisation%20form.pdf)
-   
