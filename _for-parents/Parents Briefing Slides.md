@@ -4,7 +4,7 @@ permalink: /for-parents/permalink/
 variant: markdown
 description: ""
 ---
-Parents Briefing Slides
+2023 Parents Briefing 
 --------------------------
 
-(/files/P4_Parents_Briefing_9_Nov_2023_Final___Website.pdf)
+[Primary 4 Briefing Slides](/files/P4_Parents_Briefing_9_Nov_2023_Final___Website.pdf)
