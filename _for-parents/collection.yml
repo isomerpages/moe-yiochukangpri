@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - 2024 Booklists.md
       - Parent Support Group (PSG).md
       - School Information/.keep
       - School Information/School Notifications & Communications Materials.md
       - School Information/MOE Sexuality Education in Schools.md
+      - 2024 Booklists.md
       - Student Care.md
       - School Transport.md
