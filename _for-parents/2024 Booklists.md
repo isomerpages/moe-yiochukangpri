@@ -12,6 +12,7 @@ Please click on the following links for the booklists of the respective levels.
 * [Primary 5 (3S1FMA)](/files/YCKPS_P5_3S1F_MA_09_11_2023.pdf)
 * [Primary 5 (2S2F Maths and Science)](/files/YCKPS_P5_2S_FMA_SC_09_11_2023.pdf)
 * [Primary 5 (2S2F Maths and MT)](/files/YCKPS_P5_2S_FMA_MT_09_11_2023.pdf)
+* [Primary 5 (1S3F)](/files/YCKPS_P5_1S3F_09_11_2023.pdf)
 * 
 
 
