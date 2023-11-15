@@ -1,6 +1,8 @@
 ---
 title: 2024 Booklists
 permalink: /for-parents/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+Please click on the following links for the booklists of the respective levels.
+
