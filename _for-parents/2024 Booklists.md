@@ -6,7 +6,13 @@ description: ""
 ---
 Please click on the following links for the booklists of the respective levels.
 
+[Primary 1](/files/YCKPS_P1_09_11_2023.pdf)
 
+[Primary 2](/files/YCKPS_P2_09_11_2023.pdf)
+
+[Primary 3](/files/YCKPS_P3_09_11_2023.pdf)
+
+[Primary 4](/files/YCKPS_P4_09_11_2023.pdf)
 
 **Primary 5**
 *  [Primary 5](/files/YCKPS_P5_09_11_2023.pdf)
