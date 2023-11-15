@@ -6,7 +6,10 @@ description: ""
 ---
 Please click on the following links for the booklists of the respective levels.
 
+* [Primary 6](/files/YCKPS_P6_09_11_2023.pdf)
 * [Primary 6 (3S1F)](/files/YCKPS_P6_3S1F_09_11_2023.pdf)
 * [Primary 6 (3S1FMT)](/files/YCKPS_P6_3S1F_MT_09_11_2023.pdf)
 * [Primary 6 (3S1FMA)](/files/YCKPS_P6_3S1F_MA_09_11_2023.pdf)
+* [Primary 6 (2S2F Maths and Science)](/files/YCKPS_P6_2S_FMA_SC_09_11_2023.pdf)
+* [Primary 6 (2S2F Maths and MT)](/files/YCKPS_P6_2S_FMA_MT_09_11_2023.pdf)
 * 
