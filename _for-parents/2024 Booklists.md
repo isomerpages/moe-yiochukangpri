@@ -24,7 +24,6 @@ Please click on the following links for the booklists of the respective levels.
 * [Primary 5 (1S3F)](/files/YCKPS_P5_1S3F_09_11_2023.pdf)
 * [Primary 5 Foundation](/files/YCKPS_P5_FDN_09_11_2023.pdf)
 
-
 **Primary 6**
 * [Primary 6 ](/files/YCKPS_P6_09_11_2023.pdf)
 * [Primary 6 (3S1F)](/files/YCKPS_P6_3S1F_09_11_2023.pdf)
