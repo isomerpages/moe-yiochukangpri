@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: School Information
 ---
+**2024 Booklists**
+
 Please click on the following links for the booklists of the respective levels.
 
 [Primary 1](/files/YCKPS_P1_09_11_2023.pdf)
