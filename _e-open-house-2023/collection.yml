@@ -2,7 +2,6 @@ collections:
   e-open-house-2023:
     output: true
     order:
-      - Our Principal/.keep
       - Our People/Alumni.md
       - Our People/.keep
       - Our People/Students.md
