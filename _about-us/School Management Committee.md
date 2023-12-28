@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,7 +27,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-dlfs">Principal</td>
-    <td class="tg-dlfs">Mr Ng Aik Boon</td>
+    <td class="tg-dlfs">Ms Poh Hwee Thing</td>
   </tr>
   <tr>
     <td class="tg-ga19">Vice-Principal</td>
