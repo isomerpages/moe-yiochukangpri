@@ -1,0 +1,6 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Applied Learning Programme (ALP) eSTEM@YCKPS.md
+      - Learning for Life Programme (LLP) CREATE@YCKPS.md

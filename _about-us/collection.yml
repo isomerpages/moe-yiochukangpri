@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - School Management Committee.md
+      - School Staff.md
+      - School History.md
+      - School Ethos and Identity.md
+      - School Information/.keep
+      - School Information/School Information & Related Services.md
+      - School Safety and Security/.keep
+      - School Safety and Security/School Safety & Security.md
+      - School Safety and Security/School Main & Side Gates.md
+      - School Safety and Security/Responsible Ownership.md
+      - School Rules & School Uniform.md
+      - School Facilities.md
+      - School Advertisements.md
+      - Contact Us.md
