@@ -1,5 +1,5 @@
 collections:
-  e-open-house-2023:
+  spotlight:
     output: true
     order:
       - Our People/Alumni.md
