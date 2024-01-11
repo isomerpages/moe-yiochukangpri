@@ -3,6 +3,7 @@ title: Students
 permalink: /e-open-house-2022/our-people/students/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <img src="/images/2023/E%20open%20house%202023/sasha%20rajkumar%20(care%206).jpg" style="width:300px;height:auto;" align="center">
 
@@ -63,3 +64,4 @@ third_nav_title: Our People
 <p style="text-align:center;">I joined Volleyball because I can participate actively in a game that I really like. The love for Volleyball runs in my family, with my grandmother and mother being Volleyball players as well! Volleyball has given me leadership opportunities, such leading the members for our warm-up routines. These opportunities have helped me to understand the importance of clear and respectful communication with my members, thus helping me to grow as a leader. In addition, I also love participating in competitions. Competitions motivate me to be resilient. Even when we do not win, I believe that it is important to keep going and continue training hard. Our members also encourage each other a lot, which helps to boost the team morale.</p>
 
 ---
+***Class of 2023**
