@@ -2,12 +2,13 @@
 title: School Advertisements
 permalink: /about-us/school-advertisements/
 description: ""
+variant: markdown
 ---
 **School Canteen**
 
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Malay Food Stall | 31 Oct 2023 | Rice or noodle is acceptable |
+| Malay Food Stall | 31 Dec 2024 | Rice or noodle is acceptable |
 
 **Application Procedure**
 <br>
