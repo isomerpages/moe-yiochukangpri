@@ -307,17 +307,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Serene Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Respect 7
 <br>
 </p>
@@ -374,7 +363,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Chen</p>
+<p>Mr Gary Chan</p>
 </td>
 </tr>
 <tr>
@@ -588,7 +577,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stella Yu</p>
+<p>Ms Yu Xin, Stella</p>
 </td>
 </tr>
 <tr>
@@ -599,7 +588,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sally Poh Zhi Lei</p>
+<p>Mrs Sally Lim</p>
 </td>
 </tr>
 <tr>
@@ -989,7 +978,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazeha'A Binte Dawood</p>
+<p>Mdm Nazeha'a Binte Dawood</p>
 </td>
 </tr>
 <tr>
@@ -999,7 +988,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peace Jeevaratnam D O V Muthu</p>
+<p>Mdm Peace Jeevaratnam D/O V Muthu</p>
 </td>
 </tr>
 <tr>
