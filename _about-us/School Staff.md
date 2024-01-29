@@ -588,7 +588,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sally Lim</p>
+<p>Ms Sally Poh</p>
 </td>
 </tr>
 <tr>
