@@ -172,9 +172,9 @@ with staff.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u><br></u></strong>: School Term Tuesday &amp; Thursday (8am
-to 5.30pm)
-<br>: 12.30pm to 1.30pm
+<p><strong><u><br></u></strong>: School Term Tuesday &amp; Thursday (8.00
+a.m. to 5.30 p.m.)
+<br>: 12.30 p.m. to 1.30 p.m.
 <br>: 63854154
 <br>
 </p>
@@ -208,7 +208,7 @@ to 5.30pm)
 <p>
 <br>
 </p>
-<p>: Monday to Friday (2pm to 3.30pm)
+<p>: Monday to Friday (2.00 p.m. to 3.30 p.m.)
 <br>: 62436884
 <br>
 </p>
@@ -216,7 +216,7 @@ to 5.30pm)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Ace @ Work Student Care Centre (SCC)</u></strong>
+<p><strong><u>Ace @ Work Student Care Centre (SCC)</u></strong> 
 <br>Ace@Work
 <br>Contact No
 <br>Email
