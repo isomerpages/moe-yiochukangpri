@@ -15,7 +15,7 @@ are as follows:</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Gate Opening Hours
-<br>Monday to Friday</p>
+<br>Mondays to Fridays</p>
 </th>
 </tr>
 <tr>
