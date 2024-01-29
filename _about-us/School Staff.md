@@ -363,7 +363,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Chen</p>
+<p>Mr Gary Chan</p>
 </td>
 </tr>
 <tr>
