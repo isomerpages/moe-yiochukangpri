@@ -978,7 +978,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazeha'A Binte Dawood</p>
+<p>Mdm Nazeha'a Binte Dawood</p>
 </td>
 </tr>
 <tr>
@@ -988,7 +988,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peace Jeevaratnam D O V Muthu</p>
+<p>Mdm Peace Jeevaratnam D/O V Muthu</p>
 </td>
 </tr>
 <tr>
