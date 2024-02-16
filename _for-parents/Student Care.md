@@ -19,5 +19,5 @@ as positive attitudes towards the ways of life.&nbsp;</p>
 </p>
 <p>Centre Supervisor: Mr Neo Kai Chong (KC)</p>
 <p>Contact: 8022 5576</p>
-<p>Complete registration from at: <a href="https://www.aceatwork.com.sg/ace538720" rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace53872</a>
+<p>Complete registration form at: <a href="https://www.aceatwork.com.sg/ace538720" rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace53872</a>
 </p>
