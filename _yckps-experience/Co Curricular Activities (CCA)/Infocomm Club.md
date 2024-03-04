@@ -3,43 +3,43 @@ title: Infocomm Club
 permalink: /yckps-experience/co-curricular-activities/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-12c9{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qira{background-color:#FFF;border-color:#c0c0c0;color:#58595B;text-align:center;vertical-align:middle}
-.tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 635px">
-<colgroup>
-<col style="width: 165.003906px">
-<col style="width: 167.003906px">
-<col style="width: 134.003906px">
-<col style="width: 169.003906px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">Venue </th>
-  </tr></thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-12c9">Ms Sally Poh*<br>Mdm Chia Fung Fung<br>Mr Alan Wong
-    </td><td class="tg-1hqx">Computer Lab 2 </td>
-    </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher -In- Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sally Poh*
+<br>Mrs Ng Guat Hoon
+<br>Mr Alan Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Geraldine Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-(\*denotes the Overall-in-charge Teacher)&nbsp;  
-
-About Us
------
-
-### **Imagine the possibilities** 
-
-The Infocomm Club members are exposed to variety of digital medium. The club provides its members with opportunities to offer their skills and knowledge within the school and beyond. Members learn how to control drones and participate in robotics project. They also take part in external competitions to pit their skills against their counterparts from other schools.
+<p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
+<h2>About Us</h2>
+<h3><strong>Imagine the possibilities</strong></h3>
+<p>The Infocomm Club members are exposed to variety of digital medium. The
+club provides its members with opportunities to offer their skills and
+knowledge within the school and beyond. Members learn how to control drones
+and participate in robotics project. They also take part in external competitions
+to pit their skills against their counterparts from other schools.</p>

@@ -3,47 +3,43 @@ title: Athletics
 permalink: /yckps-experience/co-curricular-activities/sports-and-games/athletics/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-12c9{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qira{background-color:#FFF;border-color:#c0c0c0;color:#58595B;text-align:center;vertical-align:middle}
-.tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 674px">
-<colgroup>
-<col style="width: 204.003906px">
-<col style="width: 167.003906px">
-<col style="width: 134.003906px">
-<col style="width: 169.003906px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">Venue </th>
-    </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-12c9">Mr Mohd Bashir Bin Mammad*<br>
-Mr Wong Chian Woon<br>
-Mdm Lee Yuen Chee, Nancy
-  </td>
-    <td class="tg-1hqx">Parade Square</td>
-    </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher -In- Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Syahida*
+<br>Mr Wong Chian Woon
+<br>Mdm Lee Yuen Chee, Nancy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parade Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Lay Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-(\*denotes the Overall-in-charge Teacher)&nbsp;  
-
-About Us
------
-
-### **Faster, Higher, Stronger** 
-
-The Athletics CCA programme aims to instil values such as excellence and resilience to its members. The students undergo trainings in their pursuit of sporting excellence, providing them with exposure in the different track and field events. Annually, its members participate in the National School Games Track and Field Championship.
+<p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
+<h2>About Us</h2>
+<h3><strong>Faster, Higher, Stronger</strong></h3>
+<p>The Athletics CCA programme aims to instil values such as excellence and
+resilience to its members. The students undergo trainings in their pursuit
+of sporting excellence, providing them with exposure in the different track
+and field events. Annually, its members participate in the National School
+Games Track and Field Championship.</p>
