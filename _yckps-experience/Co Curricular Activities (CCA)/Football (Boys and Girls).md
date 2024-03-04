@@ -3,55 +3,57 @@ title: Football (Boys and Girls)
 permalink: /yckps-experience/co-curricular-activities/sports-and-games/football-boys-and-girls/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-12c9{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qira{background-color:#FFF;border-color:#c0c0c0;color:#58595B;text-align:center;vertical-align:middle}
-.tg .tg-8hqj{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 846px">
-<colgroup>
-<col style="width: 165.003906px">
-<col style="width: 170.003906px">
-<col style="width: 136.003906px">
-<col style="width: 172.003906px">
-<col style="width: 203.003906px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">Venue </th>
-   
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-12c9">Mr Tan Yoke Wee*<br>
-Mdm Norhafizah Bte Samsudin<br>
-Mdm Dasimah Bte Mohamed Daud<br>
-Mdm Siti Nurhuda Bte Akbar
- </td>
-    <td class="tg-1hqx">Field </td>
-    </tr>
-  <tr>
-   </tr></tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher -In- Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yoke Wee*
+<br>Mdm Norhafizah Bte Samsudin
+<br>Mdm Dasimah Bte Mohamed Daud
+<br>Mdm Siti Nurhuda Bte Akbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Syafiq B Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
-
-(\*denotes the Overall-in-charge Teacher)&nbsp;  
-
-About Us
------
-
-### **Go for Goal**
-
-The Football CCA aims to instill teamwork, discipline and respect to its members. They undergo a structured training programme that will help them progress from attaining individual skills to team tactics. Through the activities, they learn to collaborate with one another and work as a team to achieve their goals. The members are exposed to competitive football by taking part annually in the National School Games Football Championships for both boys and girls and other football events or friendly matches against other teams.
-
-<img src="/images/2023/CCA/football1%20-%20lovino%20villasin%20cruz.JPG" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/CCA/football2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
+<h2>About Us</h2>
+<h3><strong>Go for Goal</strong></h3>
+<p>The Football CCA aims to instill teamwork, discipline and respect to its
+members. They undergo a structured training programme that will help them
+progress from attaining individual skills to team tactics. Through the
+activities, they learn to collaborate with one another and work as a team
+to achieve their goals. The members are exposed to competitive football
+by taking part annually in the National School Games Football Championships
+for both boys and girls and other football events or friendly matches against
+other teams.</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/football1%20-%20lovino%20villasin%20cruz.JPG">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/football2%20-%20lovino%20villasin%20cruz.jpg">
+</div>
+<p></p>
