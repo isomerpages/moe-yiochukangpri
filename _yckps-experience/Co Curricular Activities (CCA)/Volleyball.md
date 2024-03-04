@@ -3,50 +3,46 @@ title: Volleyball
 permalink: /yckps-experience/co-curricular-activities/sports-and-games/volleyball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-12c9{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qira{background-color:#FFF;border-color:#c0c0c0;color:#58595B;text-align:center;vertical-align:middle}
-.tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 674px">
-<colgroup>
-<col style="width: 204.003906px">
-<col style="width: 167.003906px">
-<col style="width: 134.003906px">
-<col style="width: 169.003906px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">Venue </th>
-    </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-12c9">Mdm Salina Bte Akiak*<br>
-Mrs Esther Yeo<br>
-Ms Wang Ti Ying<br>
-Ms Aileen Tan Fei Ching
-    </td><td class="tg-1hqx">Indoor Sports Hall</td>
-    </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher -In- Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Salina Bte Akiak*
+<br>Ms Wang Ti Ying
+<br>Ms Aileen Tan Fei Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-(\*denotes the Overall-in-charge Teacher)&nbsp;  
-
-About Us
------
-
-### **Play from the heart**  
-
-The Volleyball (Girls) CCA offers students the chance to develop values such as sportsmanship, teamwork and excellence. The coach, together with the teachers, help to inculcate the necessary skills and knowledge for students to enhance their competencies in the sport. Platforms for them to display their learning include competitions such as the National School Games Volleyball Championship and friendly games with other school teams.
-
-<img src="/images/2023/CCA/volleyball1%20-%20lovino%20villasin%20cruz.jpeg" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/CCA/volleyball2%20-%20lovino%20villasin%20cruz.jpg" style="width:300px;height:auto;" align="center">
+<p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
+<h2>About Us</h2>
+<h3><strong>Play from the heart</strong></h3>
+<p>The Volleyball (Girls) CCA offers students the chance to develop values
+such as sportsmanship, teamwork and excellence. The coach, together with
+the teachers, help to inculcate the necessary skills and knowledge for
+students to enhance their competencies in the sport. Platforms for them
+to display their learning include competitions such as the National School
+Games Volleyball Championship and friendly games with other school teams.</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/volleyball1%20-%20lovino%20villasin%20cruz.jpeg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/volleyball2%20-%20lovino%20villasin%20cruz.jpg">
+</div>
+<p></p>
