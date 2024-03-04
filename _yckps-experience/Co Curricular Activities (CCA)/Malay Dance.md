@@ -3,56 +3,66 @@ title: Malay Dance
 permalink: /yckps-experience/co-curricular-activities/performing-arts/malay-dance/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-12c9{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qira{background-color:#FFF;border-color:#c0c0c0;color:#58595B;text-align:center;vertical-align:middle}
-.tg .tg-lh01{background-color:#2A2A2A;border-color:#c0c0c0;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1hqx{background-color:#FFF;border-color:#c0c0c0;color:#58595B;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 635px">
-<colgroup>
-<col style="width: 165.003906px">
-<col style="width: 167.003906px">
-<col style="width: 134.003906px">
-<col style="width: 169.003906px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-lh01">Teacher -In- Charge </th>
-    <th class="tg-lh01">Venue </th>
-    </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-12c9">Mdm Norliza Binti Sukri*<br>
-Mdm Manisah Bte Osman<br>
-Ms Nur Farhanah Binte Abdul Rahim<br>
-Mdm Salina Bte Mohamad Shah
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher -In- Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliza Binti Sukri*
+<br>Mdm Manisah Bte Osman
+<br>Ms Nur Farhanah Binte Abdul Rahim
+<br>Mdm Salina Bte Mohamad Shah</p>
 </td>
-    <td class="tg-1hqx">PAL Room </td>
-   </tr>
+<td rowspan="1" colspan="1">
+<p>PAL Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ruhaidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-(\*denotes the Overall-in-charge Teacher)&nbsp;  
-
-About Us
------
-
-### **Move to the beat**  
-
-Our Malay Dance Group has performed during school events and have also been invited to perform outside the school setting during special events. Through these experiences, its members gain valuable lessons and also develop confidence. They continue to explore the traditional dance form while adding a modern twist into their sequences.
-
-<img src="/images/2023/CCA/malay%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
+<h2>About Us</h2>
+<h3><strong>Move to the beat</strong></h3>
+<p>Our Malay Dance Group has performed during school events and have also
+been invited to perform outside the school setting during special events.
+Through these experiences, its members gain valuable lessons and also develop
+confidence. They continue to explore the traditional dance form while adding
+a modern twist into their sequences.</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg">
+</div>
+<p>
 <br>
-<img src="/images/2023/CCA/malay%20dance%20-%20esplanade%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%20-%20esplanade%20-%20yu%20xin%20stella.jpg">
+</div>
+<p>
 <br>
-<img src="/images/2023/CCA/malay%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg" style="width:300px;height:auto;" align="center">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg">
+</div>
+<p>
 <br>
-<img src="/images/2023/CCA/malay%20dance%201%20-%20yu%20xin%20stella.jpeg" style="width:300px;height:auto;" align="center">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%201%20-%20yu%20xin%20stella.jpeg">
+</div>
+<p></p>
