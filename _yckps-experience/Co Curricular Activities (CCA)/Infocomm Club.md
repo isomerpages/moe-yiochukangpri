@@ -21,9 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sally Poh*
-<br>Ms Nur Farhanah
-<br>Mr Alan Wong</p>
+<p>Ms Sally Poh*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Lab 2</p>
@@ -32,6 +30,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Geraldine Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alan Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Farhanah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
