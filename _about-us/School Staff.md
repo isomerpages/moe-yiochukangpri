@@ -25,7 +25,12 @@ variant: tiptap
 </ol>
 <p>Please&nbsp;scroll down&nbsp;to find out.</p>
 <h2>Our Teachers</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -172,7 +177,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -216,17 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nurhuda Bte Akbar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Fung Fung</p>
 </td>
 </tr>
 <tr>
@@ -307,6 +306,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Calista Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Respect 7
 <br>
 </p>
@@ -320,7 +330,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -453,7 +468,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -626,7 +646,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -722,7 +747,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -899,7 +929,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1004,7 +1037,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>School Counsellor/ Special Education Needs Officer</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -1038,7 +1075,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Student Welfare Education Officer</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -1056,7 +1097,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Executive, Administrative &amp; Operation</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1165,7 +1210,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Other Support Staff</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
