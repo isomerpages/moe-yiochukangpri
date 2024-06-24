@@ -517,17 +517,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Esther Yeo (on ML)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Integrity 2</p>
 </td>
 <td rowspan="1" colspan="1">
