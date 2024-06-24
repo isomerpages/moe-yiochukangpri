@@ -950,12 +950,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Guat Hoon</p>
+<p>Ms Daphne Low Hoon Nie</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Yew Yee</p>
+<p>Ms Tan Baona</p>
 </td>
 </tr>
 <tr>
@@ -975,7 +975,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Manaf B Ahmad</p>
+<p>Ms Wong Soo Mei</p>
 </td>
 </tr>
 <tr>
@@ -985,7 +985,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs June Song</p>
+<p>Ms Rebecca Seow</p>
 </td>
 </tr>
 <tr>
@@ -1005,12 +1005,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Cheng Tze</p>
+<p>Ms Ang Bee Ngoh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Song Gek Kin Lilian</p>
+<p>Mr Lim TiKlang</p>
 </td>
 </tr>
 <tr>
@@ -1035,12 +1035,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Lue Chong</p>
+<p>Ms Sharifah Shama Binte Syed Ahmad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Raime Bin Ra’Ai</p>
+<p>Ms Sarvesvary D/O Nadarajah (Mrs Moorthy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Swee Meng, Aaron</p>
 </td>
 </tr>
 </tbody>
