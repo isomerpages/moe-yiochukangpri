@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,19 +23,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Norliza Binti Sukri*
 <br>Mdm Manisah Bte Osman
-<br>Ms Nur Farhanah Binte Abdul Rahim
+<br>Mrs Ruhaidah
 <br>Mdm Salina Bte Mohamad Shah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ruhaidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
