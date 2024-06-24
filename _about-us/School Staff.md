@@ -389,7 +389,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Putri</p>
+<p>Ms Putri Qurratu’Aini</p>
 </td>
 </tr>
 <tr>
