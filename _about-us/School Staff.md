@@ -523,7 +523,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Yeo</p>
+<p>Mrs Esther Yeo (on ML)</p>
 </td>
 </tr>
 <tr>
@@ -547,7 +547,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Yang</p>
+<p>Mr Ang Yew Yee</p>
 </td>
 </tr>
 <tr>
@@ -619,7 +619,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Xin, Stella</p>
+<p>Mdm Nadine Teo</p>
 </td>
 </tr>
 <tr>
@@ -697,6 +697,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm N M Parvathi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -705,7 +716,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Zhen Yi Denise</p>
+<p>Mr Daljit Singh</p>
 </td>
 </tr>
 <tr>
