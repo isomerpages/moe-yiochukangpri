@@ -23,18 +23,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nicole Lim*
 <br>Ms Leong Bao Ru
-<br>Ms Kana Inoue</p>
+<br>Ms Kana Inoue
+<br>Ms Mayce Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Mayce Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
