@@ -2,6 +2,7 @@
 title: School Ethos and Identity
 permalink: /about-us/school-ethos-and-identity/
 description: ""
+variant: markdown
 ---
 School Flag, Emblem &amp; Motto
 ---------------------------
@@ -72,36 +73,12 @@ School Song
 The lyrics of the School Song were written by the Principal of the School, Mr. S. Ratnagopal in July 1970.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zKMOecr1JiE" height="315" width="560"></iframe>
-  
 
-We are happy boys and girls at school
+**Music Arrangement**: Mr Jonathan Wong &amp; Mr Eric Wong<br>
+**Video Director &amp; Producer**: Mr Eric Wong
 
-Our days with knowledge bright and full
-
-To work, to serve without a sigh
-
-E'er we maintain our standards high.
-
-
-**Chorus**
-
-Yio Chu Kang our very own
-
-The seeds of learning here are sown
-
-We're youths of character keen to serve
-
-The name of our school we'll ever preserve.
-
-  
-Our Yio Chu Kang School forever
-
-Success in our endeavour
-
-Onwards, upward we will strive
-
-To serve our Singapore with pride
-
+**Performed by**: Abigail Hasugian, Aleeza Tangalin, Alysa Bombita, Christine Lwin, Diane Braudel, Harith Qaseh, Jayden Liau, Kandaswamy Sudharshini, Summer Yeo, Mr Jonathan Wong &amp; Mr Syafiq
+ 
 
 ### The Original Version of the School Song
 

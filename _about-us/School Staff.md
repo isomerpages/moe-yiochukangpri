@@ -25,7 +25,12 @@ variant: tiptap
 </ol>
 <p>Please&nbsp;scroll down&nbsp;to find out.</p>
 <h2>Our Teachers</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -172,7 +177,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -216,17 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nurhuda Bte Akbar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Fung Fung</p>
 </td>
 </tr>
 <tr>
@@ -307,6 +306,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Calista Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Respect 7
 <br>
 </p>
@@ -320,7 +330,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -364,6 +379,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gary Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Putri Qurratu’Aini</p>
 </td>
 </tr>
 <tr>
@@ -451,9 +477,25 @@ variant: tiptap
 <p>Mdm Dasimah Bte Mohamed Daud</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mayce Neo</p>
+</td>
+</tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -481,7 +523,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Yeo</p>
+<p>Mrs Esther Yeo (on ML)</p>
 </td>
 </tr>
 <tr>
@@ -505,7 +547,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Yang</p>
+<p>Mr Ang Yew Yee</p>
 </td>
 </tr>
 <tr>
@@ -577,7 +619,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Xin, Stella</p>
+<p>Mdm Nadine Teo</p>
 </td>
 </tr>
 <tr>
@@ -626,7 +668,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -650,6 +697,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm N M Parvathi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -658,7 +716,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Zhen Yi Denise</p>
+<p>Mr Daljit Singh</p>
 </td>
 </tr>
 <tr>
@@ -722,7 +780,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -794,19 +857,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Cruz Lovino V</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Excellence 4
 <br>
 </p>
@@ -816,17 +866,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marissa Rose Binte Dino</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Cruz Lovino V</p>
 </td>
 </tr>
 <tr>
@@ -899,7 +938,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -908,12 +950,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Guat Hoon</p>
+<p>Ms Daphne Low Hoon Nie</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Yew Yee</p>
+<p>Ms Tan Baona</p>
 </td>
 </tr>
 <tr>
@@ -933,7 +975,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Manaf B Ahmad</p>
+<p>Ms Wong Soo Mei</p>
 </td>
 </tr>
 <tr>
@@ -943,7 +985,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs June Song</p>
+<p>Ms Rebecca Seow</p>
 </td>
 </tr>
 <tr>
@@ -963,12 +1005,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Cheng Tze</p>
+<p>Ms Ang Bee Ngoh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Song Gek Kin Lilian</p>
+<p>Mr Lim TiKlang</p>
 </td>
 </tr>
 <tr>
@@ -993,18 +1035,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Lue Chong</p>
+<p>Ms Sharifah Shama Binte Syed Ahmad</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Raime Bin Ra’Ai</p>
+<p>Ms Sarvesvary D/O Nadarajah (Mrs Moorthy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Swee Meng, Aaron</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>School Counsellor/ Special Education Needs Officer</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -1038,7 +1089,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Student Welfare Education Officer</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -1056,7 +1111,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Executive, Administrative &amp; Operation</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1096,22 +1155,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chloe Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Irianah Binte Ibrahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurashima Binte Kamal</p>
 </td>
 </tr>
 <tr>
@@ -1165,7 +1208,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Other Support Staff</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
