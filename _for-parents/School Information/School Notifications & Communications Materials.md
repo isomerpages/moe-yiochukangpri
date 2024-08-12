@@ -3,6 +3,7 @@ title: School Notifications & Communications Materials
 permalink: /for-parents/school-notifications-communications-materials/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 Useful Links
 ------------
@@ -20,6 +21,6 @@ Useful Forms and Documents
 *   [NEU PC (For Non-MOE FAS) Application Form](/files/NPP%20Application%20Form%20v12-4%201Jun21%20for%20NON%20MOE-SPED%20FAS.pdf)
 *   [Home Access Programme (For MOE FAS)](/files/HA%203%20App%20Form%20v2%20HOMES_AutoInclude%205%20Apr%2021.pdf)
 *   [Home Access Programme (For Non-MOE FAS)](/files/HA%203%20App%20Form%20v2%20HOMES_FINAL%205%20Apr.pdf)
-*   [The Straits Times School Pocket Money Fund 2024 Application Form (For Primary 1 only)](/files/annex%20a%20-%202024%20stspmf%20application%20form%20for%20schools.pdf)
-*   [The Straits Times School Pocket Money Fund 2024 Income Declaration Form](/files/annex%20b%20-%20income%20declaration%20form.pdf)
-*   [The Straits Times School Pocket Money Fund 2024 Direct Credit Authorisation Form](/files/annex%20f%20-%20direct%20credit%20authorisation%20form.pdf)
+*   [The Straits Times School Pocket Money Fund 2025 Application Form (For Primary 1 only)](/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf)
+*   [The Straits Times School Pocket Money Fund 2025 Income Declaration Form](/files/Annex_B___Income_declaration_form__2025_.pdf)
+*   [The Straits Times School Pocket Money Fund 2025 Direct Credit Authorisation Form](/files/Annex_F___DIRECT_CREDIT_AUTHORISATION_FORMv__2025_.pdf)
