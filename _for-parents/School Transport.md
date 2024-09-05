@@ -2,6 +2,7 @@
 title: School Transport
 permalink: /for-parents/permalink/
 description: ""
+variant: markdown
 ---
 Bus Operator
 --------
@@ -13,4 +14,4 @@ Tel/Mobile Number: 8620 0600
 
 Email Address: keominbus@gmail.com
 
-Please click [here](/files/school%20bus%20operator%20information%20sheet%20%20not-to-exceed%20prices%20(yckps).pdf) for school bus information sheet.
+Please click [here] [](/files/School_Bus_Operator_Information_Sheet___Not_to_Exceed_Prices__YCKPS_.pdf)  for school bus information sheet.
