@@ -85,7 +85,7 @@ levels.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/YCKPS___Uniform_Order_Form.pdf" rel="noopener nofollow" target="_blank">Price list</a>
+<p><a href="/files/YCKPS___Uniform_Order_Form.pdf" rel="noopener nofollow" target="_blank">Price list (Updated)</a>
 </p>
 </li>
 <li>
