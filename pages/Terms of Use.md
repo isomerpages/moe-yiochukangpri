@@ -25,7 +25,7 @@ the Contents are owned by, licensed to or controlled by Yio Chu Kang Primary
 School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click <a href="" rel="noopener nofollow" target="_blank">here</a> to
+<p>5. Click <a href="/privacy" rel="noopener nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
