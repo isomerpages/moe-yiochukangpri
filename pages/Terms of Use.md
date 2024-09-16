@@ -4,9 +4,8 @@ permalink: /terms-of-use/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p>Thank you for visiting <a rel="noopener noreferrer nofollow" target="_blank">www.yiochukangpri.moe.edu.sg</a>.
-By accessing and using this Web Site, you shall be deemed to have accepted
+<p>1. Thank you for visiting <a href="www.yiochukangpri.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.yiochukangpri.moe.edu.sg</a>. By
+accessing and using this Web Site, you shall be deemed to have accepted
 to be legally bound by these Terms of Use. If you do not agree to these
 Terms of Use, please do not use this Web Site.</p>
 <p><strong>General</strong>
@@ -26,7 +25,8 @@ the Contents are owned by, licensed to or controlled by Yio Chu Kang Primary
 School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click here to review this Web Site Privacy Statement.</p>
+<p>5. Click <a href="" rel="noopener nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
