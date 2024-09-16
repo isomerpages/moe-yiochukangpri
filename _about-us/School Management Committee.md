@@ -110,10 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT (covering)</p>
+<p>ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Loo</p>
+<p>Mr Louis Loo (covering duty)</p>
 </td>
 </tr>
 </tbody>
