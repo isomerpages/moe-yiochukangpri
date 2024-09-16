@@ -944,11 +944,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Baona</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Hairuneesa D/O Mohamed Yusoff</p>
 </td>
 </tr>
@@ -964,17 +959,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Soo Mei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Koh Bee Kuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rebecca Seow</p>
 </td>
 </tr>
 <tr>
@@ -990,11 +975,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Leng Sze Chah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Bee Ngoh</p>
 </td>
 </tr>
 <tr>
@@ -1019,22 +999,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peace Jeevaratnam D/O V Muthu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sharifah Shama Binte Syed Ahmad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sarvesvary D/O Nadarajah (Mrs Moorthy)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Swee Meng, Aaron</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Calvin Tan</p>
 </td>
 </tr>
 </tbody>
@@ -1124,10 +1099,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operation Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wiliem Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Michael Chua</p>
 </td>
 </tr>
 <tr>
@@ -1136,14 +1119,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Roston She</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chloe Tan</p>
 </td>
 </tr>
 <tr>
@@ -1229,16 +1204,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Trainer
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shawn Seow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1258,7 +1223,7 @@ variant: tiptap
 <p>Science Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sushela Vartharajoo</p>
+<p>Ms Michelle Tan</p>
 </td>
 </tr>
 </tbody>
