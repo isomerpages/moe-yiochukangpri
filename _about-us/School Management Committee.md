@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT (covering)</p>
+<p>ICT (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Louis Loo</p>
