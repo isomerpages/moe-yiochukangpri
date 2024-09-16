@@ -4,10 +4,10 @@ permalink: /terms-of-use/
 variant: tiptap
 description: ""
 ---
-<p>1. Thank you for visiting <a href="www.yiochukangpri.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.yiochukangpri.moe.edu.sg</a>. By
-accessing and using this Web Site, you shall be deemed to have accepted
-to be legally bound by these Terms of Use. If you do not agree to these
-Terms of Use, please do not use this Web Site.</p>
+<p>1. Thank you for visiting <a href="/homepage" rel="noopener noreferrer nofollow" target="_blank">www.yiochukangpri.moe.edu.sg</a>. By accessing and using
+this Web Site, you shall be deemed to have accepted to be legally bound
+by these Terms of Use. If you do not agree to these Terms of Use, please
+do not use this Web Site.</p>
 <p><strong>General</strong>
 </p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
