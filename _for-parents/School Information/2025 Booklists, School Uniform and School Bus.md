@@ -25,11 +25,11 @@ levels.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P5_3S1F__FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1FMTL)</a>
+<p><a href="/files/2025 Booklist/P5_3S1F__FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1F MTL)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_3S1F__FMA_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1FMaths)</a>
+<p><a href="/files/2025 Booklist/P6_3S1F__FMA_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1F Maths)</a>
 </p>
 </li>
 <li>
@@ -50,11 +50,11 @@ levels.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_3S1F__FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3S1FMTL)</a>
+<p><a href="/files/2025 Booklist/P6_3S1F__FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3S1F MTL)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_3S1F__FMA_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3S1FMaths)</a>
+<p><a href="/files/2025 Booklist/P6_3S1F__FMA_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3S1F Maths)</a>
 </p>
 </li>
 <li>
