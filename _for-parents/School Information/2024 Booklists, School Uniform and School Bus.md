@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: School Information
 ---
-<p><strong>2024 Booklists</strong>
+<p><strong>2025 Booklists</strong>
 </p>
 <p>Please click on the following links for the booklists of the respective
 levels.</p>
-<p><a href="/files/YCKPS_P1_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="/files/2025 Booklist/P1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
 <p><a href="/files/YCKPS_P2_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
