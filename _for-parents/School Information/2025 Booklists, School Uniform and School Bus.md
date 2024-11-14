@@ -21,32 +21,25 @@ levels.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/YCKPS_P5_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
+<p><a href="/files/2025 Booklist/P5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/YCKPS_P5_3S1F_MT_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (3S1FMT)</a>
+<p><a href="/files/2025 Booklist/P5_3S1F__FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1FMTL)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/YCKPS_P5_3S1F_MA_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (3S1FMA)</a>
+<p><a href="/files/2025 Booklist/P6_3S1F__FMA_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1FMaths)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/YCKPS_P5_2S_FMA_SC_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (2S2F Maths and Science)</a>
+<p><a href="/files/2025 Booklist/P5_2S2F__FMA_FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (2S2F Maths and MTL)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/YCKPS_P5_2S_FMA_MT_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (2S2F Maths and MT)</a>
+<p><a href="/files/2025 Booklist/P5_2S2F__FMA_FSC_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (2S2F Maths and Science)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/YCKPS_P5_1S3F_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (1S3F)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/YCKPS_P5_FDN_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Primary 6</strong>
