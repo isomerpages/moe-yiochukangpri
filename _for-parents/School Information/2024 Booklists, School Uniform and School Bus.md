@@ -11,7 +11,7 @@ third_nav_title: School Information
 levels.</p>
 <p><a href="/files/2025 Booklist/P1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
-<p><a href="/files/YCKPS_P2_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="/files/2025 Booklist/P2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
 </p>
 <p><a href="/files/YCKPS_P3_09_11_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
