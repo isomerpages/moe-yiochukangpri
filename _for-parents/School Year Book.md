@@ -11,8 +11,5 @@ description: ""
 <p>To prioritize the privacy and security of our students and their families,
 the 2024 yearbook is password-protected. We kindly ask that the password
 be kept confidential to protect the integrity and security of its contents.</p>
-<p>Enjoy the memories!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_20241115_155116_Xodo.jpg">
-</div>
+<p>Enjoy the memories!</p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/obrr/ioud/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_20241115_155116_Xodo.jpg"></a>
 <p></p>
