@@ -979,22 +979,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim TiKlang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Sing Hung Ne</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazeha'a Binte Dawood</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Yi Ling Eleanor</p>
 </td>
 </tr>
 <tr>
@@ -1123,6 +1113,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Zhi Han Kelly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1216,6 +1214,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Baihaqi B Noor Azmishah Nud-Din</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Louis Poh</p>
 </td>
 </tr>
 <tr>
