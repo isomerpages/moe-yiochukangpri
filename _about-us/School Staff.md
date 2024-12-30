@@ -363,7 +363,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Zhi Cong</p>
+<p>Ms Tan Xuan Hong</p>
 </td>
 </tr>
 <tr>
@@ -374,7 +374,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur Amalina</p>
+<p>Ms Marissa Rose Binte Dino</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Chan</p>
+<p>Mr Lim Swee Leng, Larry</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +398,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Putri Qurratu’Aini</p>
+<p>Ms Nicole Lim Yu Tong</p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Georgy Mathew Kurien</p>
+<p>Ms Geraldine Goh Yong Xiang</p>
 </td>
 </tr>
 <tr>
@@ -422,7 +422,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Larry Lim</p>
+<p>Mdm Manisah Bte Osman</p>
 </td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yoke Wee</p>
+<p>Ms Nur Farhanah Binte Abdul Rahim</p>
 </td>
 </tr>
 <tr>
@@ -446,7 +446,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Andrea Lim</p>
+<p>Ms Mayce Neo Mei Sze</p>
 </td>
 </tr>
 <tr>
@@ -459,7 +459,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syahida</p>
+<p>Ms Poh Zhi Lei Sally</p>
 </td>
 </tr>
 <tr>
@@ -470,7 +470,18 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Lin</p>
+<p>Mr Loo Kui-Jin, Louis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pereira Cherly Natasha</p>
 </td>
 </tr>
 <tr>
@@ -483,7 +494,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dasimah Bte Mohamed Daud</p>
+<p>Ms Chia Hui Yi</p>
 </td>
 </tr>
 <tr>
@@ -494,7 +505,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mayce Neo</p>
+<p>Mrs Esther Yeo (Esther Wong Hui Yen)</p>
 </td>
 </tr>
 </tbody>
