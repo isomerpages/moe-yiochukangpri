@@ -846,7 +846,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Wong Chee Yoong</p>
+<p>Ms Wang Tiying</p>
 </td>
 </tr>
 <tr>
@@ -857,7 +857,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janice Low</p>
+<p>Ms Ong Huiyin, Amelia</p>
 </td>
 </tr>
 <tr>
@@ -870,7 +870,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Turkha Devi</p>
+<p>Ms Shahizah Bte Mohd</p>
 </td>
 </tr>
 <tr>
@@ -881,7 +881,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Zi Xian</p>
+<p>Mdm Wong Lee Choo, Janice</p>
 </td>
 </tr>
 <tr>
@@ -894,7 +894,18 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hwei Ling</p>
+<p>Mdm Lu Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daljit Singh</p>
 </td>
 </tr>
 <tr>
@@ -907,20 +918,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marissa Rose Binte Dino</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Excellence 5
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Xuan Hong</p>
+<p>Ms Peng Xinyu</p>
 </td>
 </tr>
 <tr>
@@ -931,12 +929,14 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amelia Ong</p>
+<p>Mr Ahmad Zohri Bin Bakri</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Excellence 6</p>
+<p>Excellence 5
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -953,29 +953,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amelia Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Excellence 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aileen Tan Fei Ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amelia Ong</p>
+<p>Ms Ong Huiyin, Amelia</p>
 </td>
 </tr>
 </tbody>
