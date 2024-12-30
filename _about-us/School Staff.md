@@ -995,7 +995,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cynthia Khoo</p>
+<p>Mdm Cynthia Khoo Bee Lan</p>
 </td>
 </tr>
 <tr>
@@ -1030,7 +1030,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Calvin Tan</p>
+<p>Mr Calvin Tan Choon Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yu Sin Khim, Edwin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Zhen Yi Denise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Wei Ming, Christopher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Keiji Low</p>
 </td>
 </tr>
 </tbody>
