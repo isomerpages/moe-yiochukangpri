@@ -1073,28 +1073,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Student Welfare Education Officer</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Role</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SWEO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Shimin</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h2>Executive, Administrative &amp; Operation</h2>
 <table style="minWidth: 50px">
 <colgroup>
