@@ -36,9 +36,9 @@ School Vision
 
   
 
-Empowering Mind
+Empowering Minds
 
-Engaging Heart
+Engaging Hearts
 
 Extending Hands
 
