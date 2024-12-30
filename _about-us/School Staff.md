@@ -532,7 +532,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kana Inoue</p>
+<p>Mr Neo Zhi Cong</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Soong Yang</p>
+<p>Mr Chan Chee Keong Gary</p>
 </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Yew Yee</p>
+<p>Ms Putri Qurratuaini Binte Yusri</p>
 </td>
 </tr>
 <tr>
@@ -569,7 +569,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanita d/o Thanaseelan</p>
+<p>Mr Georgy Mathew Kurien</p>
 </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Manisah Bte Osman</p>
+<p>Ms Nur Syahida Binte Jamaluddin</p>
 </td>
 </tr>
 <tr>
@@ -593,7 +593,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Goh</p>
+<p>Mr Tan Yoke Wee</p>
 </td>
 </tr>
 <tr>
@@ -604,7 +604,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Loo Kui-Jin</p>
+<p>Ms Lim Shi En Andrea</p>
 </td>
 </tr>
 <tr>
@@ -617,7 +617,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Hui Yi</p>
+<p>Ms Kana Inoue</p>
 </td>
 </tr>
 <tr>
@@ -628,7 +628,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadine Teo</p>
+<p>Mr Lin Fajie, Jason</p>
 </td>
 </tr>
 <tr>
@@ -639,7 +639,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sally Poh</p>
+<p>Mdm Dasimah Bte Mohamed Daud</p>
 </td>
 </tr>
 <tr>
@@ -650,29 +650,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lip Chon Wai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Integrity 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norliza Binti Sukri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Chian Woon</p>
+<p>Ms Lin Jianing</p>
 </td>
 </tr>
 </tbody>
