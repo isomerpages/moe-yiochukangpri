@@ -9,7 +9,11 @@ variant: tiptap
 <p><strong>Curriculum Hours:</strong>&nbsp;7:30 a.m. - 1:30 p.m.&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Recess:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -32,7 +36,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. to 9.30 a.m.</p>
+<p>8.30 a.m. to 9.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +44,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00 a.m. to 11.30 a.m.</p>
+<p>9.00 a.m. to 9.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +52,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30 a.m. to 11.00 a.m.</p>
+<p>9.00 a.m. to 9.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +75,11 @@ variant: tiptap
 </table>
 <p><strong>Snack Break:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -94,7 +102,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.50 a.m.</p>
+<p>11.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +110,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.20 a.m.</p>
+<p>11.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +118,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.20 a.m.</p>
+<p>11.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +126,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.50 a.m.</p>
+<p>8.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +134,7 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.50 a.m.</p>
+<p>11.00 a.m.</p>
 </td>
 </tr>
 </tbody>
@@ -144,7 +152,11 @@ with staff.</p>
 </li>
 </ul>
 <h2>School Related Services</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
