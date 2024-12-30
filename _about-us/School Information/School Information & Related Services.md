@@ -60,7 +60,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 a.m. to 10.00 a.m.</p>
+<p>10.00 a.m. to 10.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. to 10.30 a.m.</p>
+<p>9.30 a.m. to 10.00 a.m.</p>
 </td>
 </tr>
 </tbody>
