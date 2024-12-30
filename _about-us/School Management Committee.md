@@ -86,6 +86,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Zohri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,10 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT</p>
+<p>EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Loo (covering duty)</p>
+<p>Ms Tang Hui Huang</p>
 </td>
 </tr>
 </tbody>
@@ -160,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Discipline</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nadine</p>
