@@ -84,19 +84,15 @@ and the events we organize, feel free to drop us an email at&nbsp;<strong>psg.yc
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>Character and Citizenship Education (CCE)</p>
+<p>SH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Larry Lim
-<br>
-</p>
+<p>Mr Larry Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
-<p>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Amelia Ong</p>
