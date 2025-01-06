@@ -84,7 +84,8 @@ and the events we organize, feel free to drop us an email at&nbsp;<strong>psg.yc
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
+<p>Subject Head</p>
+<p>Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Larry Lim
