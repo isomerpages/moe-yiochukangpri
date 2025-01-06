@@ -48,76 +48,21 @@ protective factors (psycho-social-emotional support)</p>
 and the events we organize, feel free to drop us an email at&nbsp;<strong>psg.yckps@gmail.com.</strong>
 </p>
 <h2>PSG Core Committee</h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Role</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name of Parent</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Mdm Audrey Chew</p>
 <p>Mdm Farhanah Mohd Kassim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jaan Hussin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Fathmath Amaanee Shaahid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jane Khor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muthukumaran Ganesan
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Diane Lee Fang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Associate Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alex Leong</p>
+<p>Mr Michael Gilbert</p>
+<p>Mr Mohamed Asath S/O Sahul Hameed</p>
+<p>Mdm Radhika Ramachandran</p>
+<p>Mdm Suzanne Liaw</p>
+<p>Mdm Wu Sihui</p>
 </td>
 </tr>
 </tbody>
