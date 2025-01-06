@@ -95,9 +95,8 @@ and the events we organize, feel free to drop us an email at&nbsp;<strong>psg.yc
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>
-</p>
+<p>Year Head</p>
+<p>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Amelia Ong</p>
