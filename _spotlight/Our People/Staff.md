@@ -19,10 +19,6 @@ variant: markdown
 
 ---
 
-![](/images/2023/E%20open%20house%202023/6%20mdm%20priya%20jairam.jpg)
-
----
-
 ![](/images/2023/E%20open%20house%202023/7%20mdm%20norhafizah.jpg)
   
 ---
