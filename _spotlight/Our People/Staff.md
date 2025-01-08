@@ -3,9 +3,7 @@ title: Staff
 permalink: /e-open-house-2022/our-people/staff-and-parents/
 description: ""
 third_nav_title: Our People
----
-![](/images/2023/E%20open%20house%202023/1%20mr%20martin%20chan.jpg)
-
+variant: markdown
 ---
 ![](/images/2023/E%20open%20house%202023/2%20mdm%20ramachandra%20suguna.jpg)
 
@@ -18,10 +16,6 @@ third_nav_title: Our People
 
 ---
 ![](/images/2023/E%20open%20house%202023/5%20mdm%20siti%20hadzzier.jpg)
-
----
-
-![](/images/2023/E%20open%20house%202023/6%20mdm%20priya%20jairam.jpg)
 
 ---
 
