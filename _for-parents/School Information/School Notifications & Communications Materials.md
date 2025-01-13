@@ -22,5 +22,5 @@ Useful Forms and Documents
 *   [Home Access Programme (For MOE FAS)](/files/HA%203%20App%20Form%20v2%20HOMES_AutoInclude%205%20Apr%2021.pdf)
 *   [Home Access Programme (For Non-MOE FAS)](/files/HA%203%20App%20Form%20v2%20HOMES_FINAL%205%20Apr.pdf)
 * [The Straits Times School Pocket Money Fund 2025](/files/Annex_A___2025_STSPMF_Application_Form_for_schoolsUpdated.pdf)
-*   [The Straits Times School Pocket Money Fund 2025 Income Declaration Form](/files/Annex_B___Income_declaration_form__2025_.pdf)
+*   [The Straits Times School Pocket Money Fund 2025 Income Declaration Form](/files/Annex_B___Income_declaration_formUpdated.pdf)
 *   [The Straits Times School Pocket Money Fund 2025 Direct Credit Authorisation Form](/files/Annex_F___DIRECT_CREDIT_AUTHORISATION_FORMv__2025_.pdf)
