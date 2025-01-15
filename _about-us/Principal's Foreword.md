@@ -13,7 +13,7 @@ to develop generations of students over her 75 founding years.</p>
 holistically through the ‘head’, ‘heart’ and ‘hands’ as espoused by our
 school’s vision, <strong>‘Empowering Minds, Engaging Hearts and Extending Hands’</strong> which
 has recently updated for 2025 onwards to pluralise the words ‘Minds’ and
-‘Hearts’ to emphasis the importance of impacting every student’s learning
+‘Hearts’ to emphasise the importance of impacting every student’s learning
 and development in YCKPS.</p>
 <p>Apart from building a strong foundation in students’ literacy and numeracy
 skills, our focus in YCKPS is to provide a school experience to develop
