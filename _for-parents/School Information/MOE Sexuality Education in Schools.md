@@ -83,7 +83,7 @@ Education programmes by MOE-approved external providers.</p>
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/2024_Parent_Opt_Out_Form__Pri__YCKPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 31/03/2024.</p>
+The completed opt-out form is to be submitted by 31/03/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at Tel: 63851365 or E-mail: <a rel="noopener noreferrer nofollow" target="_blank">admin_yckps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
