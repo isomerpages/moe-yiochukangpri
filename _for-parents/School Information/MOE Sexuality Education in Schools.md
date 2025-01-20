@@ -68,7 +68,7 @@ they can respond with discernment to the sexual messages in the media and
 other sources.</p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
-<a href="/files/Schedule_for_P5_and_P6_SEd_YCKPS.pdf" rel="noopener noreferrer nofollow" target="_blank">lessons</a>, students will learn healthy ways to manage the physiological,
+<a href="/files/List_of_SEd_Lessons_for_P5_and_P5__2025_.pdf" rel="noopener nofollow" target="_blank">lessons</a>, students will learn healthy ways to manage the physiological,
 social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
@@ -82,8 +82,8 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/2024_Parent_Opt_Out_Form__Pri__YCKPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 31/03/2025.</p>
+of the year and is also downloadable <a href="/files/2025_Parent_Opt_Out_Form__Pri____Hardcopy.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+completed opt-out form is to be submitted by 31/03/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at Tel: 63851365 or E-mail: <a rel="noopener noreferrer nofollow" target="_blank">admin_yckps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
