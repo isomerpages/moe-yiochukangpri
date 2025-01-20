@@ -41,7 +41,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Yio Chu Kang Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Yio Chu Kang Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -83,7 +83,7 @@ Education programmes by MOE-approved external providers.</p>
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/2024_Parent_Opt_Out_Form__Pri__YCKPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 31/03/2024.</p>
+The completed opt-out form is to be submitted by 31/03/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at Tel: 63851365 or E-mail: <a rel="noopener noreferrer nofollow" target="_blank">admin_yckps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
