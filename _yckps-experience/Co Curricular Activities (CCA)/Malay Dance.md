@@ -23,8 +23,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Norliza Binti Sukri*
 <br>Mdm Manisah Bte Osman
-<br>Mrs Ruhaidah
-<br>Mdm Salina Bte Mohamad Shah</p>
+<br>Mrs Ruhaidah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
