@@ -14,7 +14,6 @@ variant: markdown
 *   [iEXAMS](https://iexams.moe.gov.sg/)
 *   [SSOE2 Portal](http://ssoe2.moe.edu.sg/navpage.do)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
-*   [ICT Connection](https://ictconnection.moe.edu.sg/)
 *   [Singapore Student Learning Space](http://learning.moe.edu.sg/)
 *   [SCMobile](https://scmobile.moe.edu.sg/login)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
