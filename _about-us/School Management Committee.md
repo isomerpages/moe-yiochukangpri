@@ -89,7 +89,7 @@ variant: tiptap
 <p>PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mr Ahmad Zohri Bin Bakri</p>
+<p>Mr Ahmad Zohri Bin Bakri</p>
 </td>
 </tr>
 <tr>
