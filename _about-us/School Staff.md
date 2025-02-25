@@ -481,7 +481,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pereira Cherly Natasha</p>
+<p>Ms Pereira Cheryl Natasha</p>
 </td>
 </tr>
 <tr>
