@@ -7,7 +7,7 @@ third_nav_title: School Information
 ---
 <p><strong>MTL SOAR</strong>
 </p>
-<p>Please click on the following links for the Parents' Guides for<strong> </strong>Mother
+<p>Please click on the following links for the Parents' Guide for<strong> </strong>Mother
 Tongue Language Reading for Lower Primary.</p>
 <p><a href="/files/MTL SOAR/p1 el_guide__compressed.pdf" rel="noopener nofollow" target="_blank">P1 MTL SOAR EL Guide</a>
 </p>
