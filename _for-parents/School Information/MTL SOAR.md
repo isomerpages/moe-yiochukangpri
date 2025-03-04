@@ -19,3 +19,7 @@ Tongue Language Reading for Lower Primary.</p>
 </p>
 <p><a href="/files/MTL SOAR/P2A_CL_Gudie.pdf" rel="noopener nofollow" target="_blank">P2A MTL SOAR CL Guide</a>
 </p>
+<p><a href="/files/MTL SOAR/Parent_Guide_for_MTL_Reading__ML___P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">P1P2 MTL SOAR ML Guide</a>
+</p>
+<p><a href="/files/MTL SOAR/Parent_Guide_for_MTL_Reading__TL___P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">P1P2 MTL SOAR TL Guide</a>
+</p>
