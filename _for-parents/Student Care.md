@@ -17,7 +17,7 @@ of school values, social-emotional competencies, eco-stewardship, as well
 as positive attitudes towards the ways of life.&nbsp;</p>
 <p><strong>Contact Details</strong>
 </p>
-<p>Centre Supervisor: Mr Neo Kai Chong (KC)</p>
-<p>Contact: 8022 5576</p>
+<p>Centre Supervisor: Tan Sui Xin (Cluster Manager)</p>
+<p>Contact: 9658 4853 / 84189633</p>
 <p>Complete registration form at: <a href="https://www.aceatwork.com.sg/ace538720" rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace53872</a>
 </p>
