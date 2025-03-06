@@ -25,10 +25,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ramachandra Suguna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Teck Ming</p>
 </td>
 </tr>
 </tbody>
