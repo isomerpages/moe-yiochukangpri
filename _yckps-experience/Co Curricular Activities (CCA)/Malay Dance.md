@@ -39,25 +39,21 @@ been invited to perform outside the school setting during special events.
 Through these experiences, its members gain valuable lessons and also develop
 confidence. They continue to explore the traditional dance form while adding
 a modern twist into their sequences.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Malay_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Malay_Dance_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%20-%20esplanade%20-%20yu%20xin%20stella.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/malay%20dance%201%20-%20yu%20xin%20stella.jpeg">
-</div>
 <p></p>
