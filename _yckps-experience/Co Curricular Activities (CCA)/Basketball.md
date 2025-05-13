@@ -45,13 +45,15 @@ variant: tiptap
 concepts of the game. They will go through practice routines to work on
 their dribbling, passing and shooting abilities. They will also learn to
 work on team dynamics when placed in game situations.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/basketball1%20-%20lovino%20villasin%20cruz.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Basketball_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Basketball_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/basketball2%20-%20lovino%20villasin%20cruz.JPG">
-</div>
 <p></p>
