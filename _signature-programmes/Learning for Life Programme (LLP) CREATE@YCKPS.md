@@ -84,18 +84,16 @@ At the end of each year, Primary 6 students put up a Graduation Art Exhibition t
 In addition to the Graduation Art Exhibition, our P6 students also put up a class performance at their Graduation Concert at the end of the year. In preparing for their concert items, our students work together with their classmates and apply their learning in Performing Arts. On the day of the Concert, they display their talents and skills on stage, at the same time showcase the confidence and socio-emotional skills they have developed over their Primary School years. 
 
 ![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/P6_Graduation_Performances_2024.png)
+
 #### **Tier 3 – Excellence in the Arts**
 
-Students with strong passion and relevant dispositions in the arts will platforms to further develop and refine their skills. They will be encouraged to strive for excellence in the Arts through external performances (such as the school musical), exhibitions in collaboration with external agencies and competitions.
+Tier 3 targets students with strong passion and are keen to strive for **Excellence** in the Arts through involvement in external performances, exhibitions and competitions. Tier 3 programmes provide students with opportunities to deepen their understanding of the arts and further develop school values and emerging 21st Century Competencies through experiential learning in authentic contexts.  
 
-Students not only polish their artistic skills in these months of preparation. The preparation process teaches students resilience, self and social awareness, self-management and care for self and others. Students further develop leadership and life skills throughout this unique learning platform and grow into a more independent and reliable individual. In 2017, the school put up Disney’s&nbsp;_Mulan The Musical_&nbsp;at Agape Concert Hall, which involved 50 students in the cast and 103 students from Performing Arts groups.![](/images/LLP24.png)
+Y**CKPS Got Talent – Finals Showcase**
 
-![](/images/LLP23.png)
+YCKPS Got Talent – Finals Showcase is a platform for our students to perform on stage for the whole school. The student performers develop the value of excellence as they put in their best effort to put up a confident and high-quality performance; they also develop the value of resilience when they find ways to overcome the various challenges faced during rehearsals and practices. It is not an easy feat for many of our young students and we are really proud of them for their courage and perseverance!
 
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/YCKPS_Got_Talent_2023.jpg)
   
 
   
-
-  
-
-\*Photos without masks were taken before COVID-19
