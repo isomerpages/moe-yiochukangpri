@@ -51,12 +51,13 @@ games and group activities. Participation in activities such as North Division
 Day and Combined Uniform Group Camp help to develop the girls’ Global Awareness
 and Communication Skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/brownies1%20-%20lovino%20villasin%20cruz.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Brownies_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Brownies_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/brownies2%20-%20lovino%20villasin%20cruz.JPG">
-</div>
 <p></p>
