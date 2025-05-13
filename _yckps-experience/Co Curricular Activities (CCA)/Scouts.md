@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -39,7 +43,17 @@ in group activities, they develop critical thinking and their communication
 skills. Leadership qualities are developed along the way and they participate
 in programmes such as Sixers Camp and the Combined Uniform Group Camp,
 to complement the CCA’s activities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/scout1%20-%20lovino%20villasin%20cruz.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Scouts_1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Scouts_Young_Mariner_Badgework_with_Maritime_Gallery_Tour.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Scouts3.jpg">
+</div>
+<p></p>
 <p></p>
