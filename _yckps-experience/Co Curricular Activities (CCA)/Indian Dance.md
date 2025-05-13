@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,19 +40,18 @@ be taught to practise the school values as they go through their dance
 sequences during training and formal platforms. The CCA provides opportunities
 to put their knowledge and skills into practice through stage performances
 in the school and beyond.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/indian%20dance%20-%202023%20(3)%20-%20yu%20xin%20stella.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Indian_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Indian_Dance_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/indian%20dance%20-%202023%20(1)%20-%20yu%20xin%20stella.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/indian%20dance%20-%20ndd%202022%20-%20yu%20xin%20stella.jpeg">
-</div>
 <p></p>
