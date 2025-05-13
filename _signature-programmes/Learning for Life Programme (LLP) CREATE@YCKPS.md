@@ -46,86 +46,44 @@ Launched in 2024, the YCKPS Art Space is a new learning space in the school whic
 ![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/Art_Space.jpg)
 
 
-**Tuesday Busking**
 
-&nbsp;In 2019, the school introduced a more frequent busking platform where students of all classes share with the students&nbsp;masses their musical and dance skills during recess. Students feel proud to showcase their skills and talents and student audience&nbsp;**practice performance etiquette and appreciation**&nbsp;while watching these busking performances.&nbsp;_(Busking is suspended due to COVID-19)_
+#### **Tier 2 – Exploration of the Arts (Level Programmes)**
 
-![](/images/LLP08.jpg)
-  
+Tier 2 programmes are customised level-based programmes that allow students to Explore their interests and enables them to develop skills and competencies in the Arts.
 
-![](/images/LLP09.jpg)
-  
+**P1 & P2: Arts-based PAL Programme**
 
-![](/images/LLP10.jpg)
+As part of the school’s Programme for Active Learning (PAL) lessons, all P1 – P2 students will experience Arts-based activities based on the diverse cultures of Singapore. The PAL modules in Performing Arts and Visual Arts allow our students to demonstrate a lively curiosity and find joy in the people and things around us, they also help our students learn to work in a respectful manner with others. In addition, the lessons provide platforms for our students to learn and exhibit the school values of Care, Respect, Responsibility, Integrity, Resilience and Excellence.
 
-**Theatre Experience Programme**  
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/PAL_Lessons_2025.png)
 
-All our Primary 3 students go on a learning journey to experience viewing a performance at an external professional venue. They learn to&nbsp;**appreciate the performance while practising theatre etiquette and learning values**&nbsp;through the performances. Although we were not able to bring students out due to the COVID-19 pandemic, we managed to continue the programme with a digital performance for a virtual theatre experience!
+**P2: Theatre Experience Programme**
 
-![](/images/LLP11.png)
+All our Primary 2 students go on a learning journey to experience viewing a performance at an external venue. They learn to appreciate the performance while practising theatre etiquette and learning values through the performances.
+      
+**P3: Recess Busking @ YCKPS**
 
-**Museum Education Programme&nbsp;**
+Recess busking @ YCKPS is returning in 2025 where students are provided with a platform to showcase their musical and dance talents to their peers. Both student performers and student audience have the opportunity practice performance etiquette and demonstrate the school values during the busking performances.
+      
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/P3_Recess_Busking.png)
 
-The key outcome for Museum Education Programme is for our students to experience integrated learning of Art, English and Social Studies through their interaction with museum artefacts in a museum setting. Prior to 2020, Primary 2 students would go to the Philatelic Museum and Primary 5 students would go to Asian Civilisation Museum to&nbsp;**discover new learning and make connections**&nbsp;to what they have learnt in class.
+**P4: Museum-based Learning**
 
-![llp2](/images/llp2.png)
-  
-**Primary 6 Graduation Art Exhibition**
+The key outcome for our Museum Education Programme is to deepen our students’ understanding of the arts through visual observation and active discussions. Our students learn more about our culture and traditions by examining the work of artists in the past; they also examine how artists make use of a wide range of materials to express their ideas. 
 
-At the end of each year, Primary 6 students put up a Graduation Art Exhibition to showcase the culmination of our students’ art education journey after six years of primary school life. Each student would have&nbsp;**developed sound social emotional skills, life skills and artistic skills to be able to create such meaningful Art.**&nbsp;&nbsp;
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/P4_MBL_2024.png)
 
-In 2021, the theme for the Graduation Art Exhibition was Time. Students ideate and create works of art that show the past, present and future. There is also an e-Exhibition to allow for greater access to the Exhibition and for more students’ works to be displayed.
+**P6: Graduation Art Exhibition**
 
-  
-![](/images/LLP14.png)
+At the end of each year, Primary 6 students put up a Graduation Art Exhibition to showcase the culmination of our students’ art education journey after six years of primary school life. Each student would have developed sound social emotional skills, life skills and artistic skills to be able to create such meaningful Art.  
 
-![](/images/LLP15updated.png)
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/P6_Art_Exhibition.png)
 
-**Aesthetics Week**
+**P6: Graduation Concert**
 
-Aesthetics Week is a regular feature in the school calendar with special Arts events and activities organized to expose our students to different art forms and artistic experiences.
+In addition to the Graduation Art Exhibition, our P6 students also put up a class performance at their Graduation Concert at the end of the year. In preparing for their concert items, our students work together with their classmates and apply their learning in Performing Arts. On the day of the Concert, they display their talents and skills on stage, at the same time showcase the confidence and socio-emotional skills they have developed over their Primary School years. 
 
-In 2021, the theme of Aesthetics Week was ‘**Loving our World**’. The Music teachers shared songs about the environment with the students while the Art teachers organized the whole school to complete a school-wide recyclable mural using bottle caps and plastic bags.&nbsp;_\[Click&nbsp;here_&nbsp;_to see how the mural was created.\]_&nbsp;The virtual finals of the YCKPS Got Talent Competition 2020/2021 allowed all our students to enjoy a range of diverse performances by their talented schoolmates.
-
- ![](/images/LLP16.png)
-
-
-In 2022, the theme of Aesthetics Week was ‘**Arts in Bloom**’ to encourage students to explore the Arts in our school, especially in our school garden. During Art lessons, students created abstract painting using nature and mini clay sculptures that represented nature. For Music lessons, students were introduced to ambisonic soundscapes and created their own musical compositions using sounds recorded around the school. There were also numerous fringe events, including a Photography Exhibition, Music Boards for students to play with during recess, a Virtual Art Gallery, Poetry display and even a fashion display by teachers!
-
-![](/images/LLP17.png)
-
-![](/images/LLP18.png)
-
-![](/images/LLP19.png)
-
-![](/images/LLP20.png)
-
-#### **Tier 2 – Exploration of the Arts**
-
-Students who are interested to explore and pursue their interest in the Arts are able to choose from seven Arts-related CCAs offered in the school, namely
-
-(1) Handbell\
-(2) Angklung\
-(3) Chinese Dance\
-(4) Malay Dance\
-(5) Indian Dance\
-(6) Choir\
-(7) Visual Art Club
-
-Students of these CCAs have the opportunity to deepen their learning, involvement and exposure in the Arts, enabling them to&nbsp;**develop skills and competencies**&nbsp;in their chosen area of specialisation. CCA activities also aim to inculcate values in our students, hone their social and emotional competencies, build their character and help them forge friendships with students of diverse backgrounds.
-
-![](/images/LLP21.png)
-
-**Community Engagement through the Arts**
-
-Our Tier 2 programmes also give our students the opportunity to use their artistic talents and skills to engagement with the community. In recent years, our students have put up &nbsp;performances at Ci Yuan CC and Meranti Home during events and festive celebrations. Our students have also presented their artwork to seniors at the Jia Ying Senior Activity Centre.
-
-![](/images/LLP22.png)
-
-**Enrichment Programmes for Members of Arts CCAs**
-
-To provide our interested students with greater exposure and experiences, members of the Performing Arts CCA groups also view public performances at external venues. Similarly, members of Visual Arts Club view artworks exhibited by other schools and at museums. Members of Arts CCAs are also given opportunities to interact with professional art practitioners in authentic settings such as dance studios and art studios. This allows them to learn from observation of others,&nbsp;**as part of their journey of self-discovery**&nbsp;so that they can improve on their own skills and techniques.&nbsp;
-
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/P6_Graduation_Performances_2024.png)
 #### **Tier 3 – Excellence in the Arts**
 
 Students with strong passion and relevant dispositions in the arts will platforms to further develop and refine their skills. They will be encouraged to strive for excellence in the Arts through external performances (such as the school musical), exhibitions in collaboration with external agencies and competitions.
