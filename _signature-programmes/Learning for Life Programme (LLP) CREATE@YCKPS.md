@@ -2,58 +2,26 @@
 title: Learning for Life Programme (LLP) CREATE@YCKPS
 permalink: /signature-programmes/learning-for-life-programme-llp-create-at-yckps/
 description: ""
+variant: markdown
 ---
 What is LLP?
 ------------
 
-The Learning for Life Programme (LLP) implemented by MOE focuses on the affective aspect of students’ development. An LLP in the Arts typically involves self-discovery, character-building, honing of values, development of social-emotional skills and life skills.
+The Learning for Life Programme (LLP) exposes students to a wide range of experiences to build their social-emotional competencies and to acquire sound values. An LLP in the Arts typically includes activities that involve self-discovery, character-building, honing of values, development of social-emotional skills and life skills.
 
-CREATE@YCKPS
+ABOUT CREATE@YCKPS
 ------------
 
-CREATE@YCKPS, our school’s Learning for Life Programme (LLP), harnesses the benefits of Arts education to inculcate strong values and social emotional learning in our students, preparing them to meet the challenges of the future.&nbsp;
-
-  
-
-Through this programme, the school&nbsp;aims&nbsp;to:&nbsp;
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; create&nbsp;**greater&nbsp;awareness and appreciation**&nbsp;**of the Arts**&nbsp;amongst students;
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; create opportunities for students to&nbsp;**discover their passion and potential**&nbsp;in the area of Visual and Performing Arts; and
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; create platforms to&nbsp;**translate students’ learning into actions**&nbsp;that contribute to the society. &nbsp;&nbsp;
-
-  
-
-&nbsp;Leveraging on the Arts, the school aims to achieve the following&nbsp;**outcomes**&nbsp;in our students: &nbsp;&nbsp;
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Confident Persons**&nbsp;who know their strengths, are confident and effective communicators who are able to express themselves confidently.&nbsp;
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Self-Directed and Engaged Learners**&nbsp;who enjoy learning, have a lively curiosity about things and take ownership of their learning.&nbsp;
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Active Contributors**&nbsp;who collaborate effectively with others, share and care for others and strives for excellence.&nbsp;
-
-&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Concerned Citizens**&nbsp;who take an active role in bettering the lives of others around them. 
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 740px; height: 165px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 242px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 239px; height: 133px;" class="ive_eobj_center" alt="LLP01.jpg" src="/images/LLP01.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 242px; height: 135px;" class="ive_eobj_center" alt="LLP02.jpg" src="/images/LLP02.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 237px; height: 134px;" class="ive_eobj_center" alt="LLP03.jpg" src="/images/LLP03.jpg"></td></tr></tbody></table>
-
-  
+CREATE@YCKPS, our school’s Learning for Life Programme (LLP), harnesses the benefits of Arts education to inculcate strong values and social emotional learning in our students, preparing them to meet the challenges of the future. Leveraging on the Arts, the school aims to achieve the following **outcomes** in our students:   
+* **Confident Persons** who know their strengths, are confident and effective communicators who are able to express themselves confidently.
+* **Self-Directed and Engaged Learners** who enjoy learning, have a lively curiosity about things and take ownership of their learning. **
+*  **Active Contributors** who collaborate effectively with others, share and care for others and strives for excellence. 
+*  **Concerned Citizens** who take an active role in bettering the lives of others around them.
 
 The 3-tier framework below summarises the CREATE@YCKPS programme:
 
-&nbsp;Tier 1 –&nbsp;**E**xposure to the Arts
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/LLP_Framework.png)
 
-&nbsp;Tier 2 –&nbsp;**E**xploration of the Arts
-
-&nbsp;Tier 3 –&nbsp;**E**xcellence in the Arts
-
-![3-tier framework](/images/3-tier%20framework.png)
-
-Tier 1, for all our students across Primary 1 to 6, are&nbsp;**Exposure**&nbsp;programmes to create awareness and appreciation of the Arts. Tier 2 programmes allow interested students to&nbsp;**Explore**&nbsp;their interests and enables them to develop skills and competencies in the Arts. Tier 3 targets students with strong passion and are keen to strive for&nbsp;**Excellence**&nbsp;in the Arts through involvement in external performances, exhibitions and competitions.&nbsp;
-
-![](/images/LLP05.jpg)
-
-  
 
 #### **Tier 1 – Awareness and Appreciation of the Arts**  
 
