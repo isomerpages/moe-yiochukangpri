@@ -94,6 +94,9 @@ Y**CKPS Got Talent – Finals Showcase**
 YCKPS Got Talent – Finals Showcase is a platform for our students to perform on stage for the whole school. The student performers develop the value of excellence as they put in their best effort to put up a confident and high-quality performance; they also develop the value of resilience when they find ways to overcome the various challenges faced during rehearsals and practices. It is not an easy feat for many of our young students and we are really proud of them for their courage and perseverance!
 
 ![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/YCKPS_Got_Talent_2023.jpg)
-  
 
-  
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/YCKPS_Got_Talent_2024.png)
+
+**Enrichment Programmes for Members of Arts CCAs**
+
+To provide our interested students with greater exposure and experiences, members of the Performing Arts CCA groups also view public performances at external venues. Similarly, members of Visual Arts Club view artworks exhibited by other schools and at museums. Members of Arts CCAs are also given opportunities to interact with professional art practitioners in authentic settings such as dance studios and art studios. This allows them to learn from observation of others, as part of their journey of self-discovery so that they can improve on their own skills and techniques. 
