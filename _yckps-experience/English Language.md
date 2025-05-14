@@ -25,20 +25,30 @@ sharing of big books.</p>
 <p>Modified Language Experience Approach – Learning through experiences.</p>
 </li>
 <li>
-<p>Making Thinking Visible (MTV) Routines – Enhancing critical thinking and
-language skills</p>
+<p>I love Reading programme – Strengthening language and reading skills through
+reading to a Reading Confidante.</p>
+</li>
+<li>
+<p>KidsREAD – Collaborating with the National Library Board and secondary
+school student volunteers to promote independent reading via a 20-week
+session.</p>
+</li>
+<li>
+<p>Share-a-Story – Collaborating with parent volunteers to inculcate the
+joy of reading in our students.</p>
 </li>
 <li>
 <p>Making Articulation Great In Classroom (MAGIC) – Whole-school approach
-to developing and enhancing oral presentation skills.</p>
+to developing and enhancing oral presentation skills across all subjects.</p>
 </li>
 <li>
-<p>Reading Mums &amp; Dads – Collaborating with parent volunteers to inculcate
-the joy of reading in our students.</p>
+<p>P1-P6 Spark Box presentation – Providing a platform for students to practice
+and develop their public speaking and communication skills in a safe and
+supportive environment.</p>
 </li>
 <li>
-<p>P1-P3 Show-and-Tell – Sparking the joy of reading and presenting with
-intention and purpose.</p>
+<p>Making Thinking Visible (MTV) Routines – Enhancing critical thinking and
+language skills.</p>
 </li>
 <li>
 <p>KidsREAD – Collaborating with the National Library Board and secondary
@@ -57,39 +67,20 @@ school student volunteers to promote independent reading via weekly sessions.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_2.jpg">
-</div>
 <p><strong>Department Events:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>EL Alive! – Nurturing students’ love for the language through activities
-such as Character Day and Book Cover Design Competition</p>
+such as Character Day, Spelling Bee contests, and word-related recess activities.</p>
 </li>
 <li>
 <p>Writers’ Festival – Celebrating the creativity and individuality of our
 student writers through creative writing activities and an author’s talk
-cum book signing session</p>
+cum book signing session.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_2.jpg">
-</div>
-<p></p>
 <p><strong>Learning Support:</strong>
 </p>
 <p>• P1 &amp; P2: Learning Support Programme (LSP)</p>
