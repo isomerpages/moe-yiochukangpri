@@ -46,19 +46,19 @@ school student volunteers to promote independent reading via weekly sessions.</p
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/English/kidsread%20-%20n%20ng.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Share_a_Story_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/English/reading%20mums%20&amp;%20dads%20-%20n%20ng.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Share_a_Story_2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/English/p6%20oral%20conversation%20workshop%20-%20n%20ng.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_2.jpg">
 </div>
 <p><strong>Department Events:</strong>
 </p>
@@ -73,15 +73,23 @@ student writers through creative writing activities and an author’s talk
 cum book signing session</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/English/book%20cover%20design%20competition%20-%20n%20ng.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/English/authors'%20talk%20&amp;%20book%20signing%20session%20-%20n%20ng.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_2.jpg">
+</div>
+<p></p>
 <p><strong>Learning Support:</strong>
 </p>
 <p>• P1 &amp; P2: Learning Support Programme (LSP)</p>
@@ -90,3 +98,6 @@ Dyslexia Remediation Programme (SDR)</p>
 <p>• P5: Reading Remediation Programme (RRP)</p>
 <p>*Selection of students are based on assessment through diagnostic tests
 to ascertain suitability for the above programmes.</p>
+<p></p>
+<p></p>
+<p></p>
