@@ -67,6 +67,25 @@ school student volunteers to promote independent reading via weekly sessions.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_2.jpg">
+</div>
 <p><strong>Department Events:</strong>
 </p>
 <ul data-tight="true" class="tight">
