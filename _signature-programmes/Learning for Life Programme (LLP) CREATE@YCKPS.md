@@ -38,6 +38,7 @@ For one Assembly each term, the LLP team organizes a special Aesthetics Assembly
 Aesthetics Week is a regular feature in the school calendar with special Arts events and activities organized for one week of the school year. Each year, a different theme is chosen to give students the opportunity to see how the Arts can relate to different aspects of their lives. The wide range of fun and engaging activities expose our students to different art forms and artistic experiences.
 
 In 2024, we collaborated with the Applied Learning Programme team to organise an Earth-day themed Aesthetics Week with the theme of ‘**Saving Our World**’. The week-long celebration kicked off with a whole school dress up; the fun continued during recess with a Pledge Tree, Music Boards, origami stations, an exhibition from NParks, a photography exhibition and an informative presentation about endangered animals. In addition, our Art and Music Lessons for the week encouraged our students to exercise their creativity while emphasizing sustainability. The activities gave our students a chance to explore a wide variety of environmental topics and also helped them think of creative approaches to reuse, reduce and recycle.
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/Aesthetics_Week_2024.png)
 
 **Art Space**
 
@@ -99,4 +100,4 @@ YCKPS Got Talent – Finals Showcase is a platform for our students to perform o
 
 **Enrichment Programmes for Members of Arts CCAs**
 
-To provide our interested students with greater exposure and experiences, members of the Performing Arts CCA groups also view public performances at external venues. Similarly, members of Visual Arts Club view artworks exhibited by other schools and at museums. Members of Arts CCAs are also given opportunities to interact with professional art practitioners in authentic settings such as dance studios and art studios. This allows them to learn from observation of others, as part of their journey of self-discovery so that they can improve on their own skills and techniques. 
+To provide our interested students with greater exposure and experiences, members of the Performing Arts CCA groups also view public performances at external venues. Similarly, members of Visual Arts Club view artworks exhibited by other schools and at museums. Members of Arts CCAs are also given opportunities to interact with professional art practitioners in authentic settings such as dance studios and art studios. This allows them to learn from observation of others, as part of their journey of self-discovery so that they can improve on their own skills and techniques.
