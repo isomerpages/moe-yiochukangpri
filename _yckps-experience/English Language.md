@@ -89,4 +89,4 @@ cum book signing session</p>
 Dyslexia Remediation Programme (SDR)</p>
 <p>• P5: Reading Remediation Programme (RRP)</p>
 <p>*Selection of students are based on assessment through diagnostic tests
-to ascertain suitability for the above programmesogrammes</p>
+to ascertain suitability for the above programmes.</p>
