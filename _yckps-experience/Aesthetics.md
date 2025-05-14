@@ -31,6 +31,9 @@ and supportive setting. Through hands-on engagement and varied experiences,
 our young musicians develop a deep appreciation and lifelong love for music.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Picture1.jpg">
+</div>
 <p>Our Art lessons offer students a vibrant space for creative self-discovery
 across various forms of art, including drawing, painting, mixed media,
 digital art and sculpting. Each project invites students to unlock their
