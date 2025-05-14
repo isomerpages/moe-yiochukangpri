@@ -98,6 +98,11 @@ YCKPS Got Talent – Finals Showcase is a platform for our students to perform o
 
 ![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/YCKPS_Got_Talent_2024.png)
 
+**External Performances**
+
+In recent years, students who are interested in the Performing Arts have attended concerts held at external venues. They have watched performances put up by the Singapore National Youth Orchestra and the Singapore National Youth Chinese Orchestra whereby many of the performers are also students like themselves. These are eye-opening experiences which inspires our students to discover and share their own talents and passion.
+
+![](/images/2025%20Website%20Pictures/Aesthetics%20and%20LLP/External_Performances_2024.png)
 **Enrichment Programmes for Members of Arts CCAs**
 
 To provide our interested students with greater exposure and experiences, members of the Performing Arts CCA groups also view public performances at external venues. Similarly, members of Visual Arts Club view artworks exhibited by other schools and at museums. Members of Arts CCAs are also given opportunities to interact with professional art practitioners in authentic settings such as dance studios and art studios. This allows them to learn from observation of others, as part of their journey of self-discovery so that they can improve on their own skills and techniques.
