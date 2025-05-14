@@ -18,42 +18,24 @@ we aim for our students to:</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Aesthetics/img20220805131622%20-%20yu%20xin%20stella.jpg">
 </div>
-<p>Focussed on exposing our students to the various art forms and providing
-platforms for students to display their talents in art and music, the wide
-range of Aesthetics programmes in YCKPS include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>School-based Visual Art &amp; Music Curriculum</p>
-</li>
-<li>
-<p>Aesthetics Week</p>
-</li>
-<li>
-<p>YCKPS Got Talent</p>
-</li>
-<li>
-<p>P6 Graduation Art Exhibition</p>
-</li>
-<li>
-<p>Museum-Based Learning</p>
-</li>
-<li>
-<p>Theatre Experience Programme</p>
-</li>
-</ul>
+<p>The Art and Music Instructional Programme aims to develop students’ artistic
+skills, thinking skills, art appreciation and learning of values. Students
+experience different Art mediums and playing of different musical instruments,
+allowing them to discover their strengths and talents in Art and Music.</p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Aesthetics/mobile%20stage%201%20-%20yu%20xin%20stella.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Music_Lessons__2025_.png">
 </div>
-<p>
+<p>Our Music lessons provide a holistic and meaningful music education for
+our students, guiding them to explore the musical elements in an engaging
+and supportive setting. Through hands-on engagement and varied experiences,
+our young musicians develop a deep appreciation and lifelong love for music.
 <br>
 </p>
+<p>Our Art lessons offer students a vibrant space for creative self-discovery
+across various forms of art, including drawing, painting, mixed media,
+digital art and sculpting. Each project invites students to unlock their
+creativity and build confidence, fostering personal growth and resilience.</p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Aesthetics/music%20-%20p1%20-%20yu%20xin%20stella.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Aesthetics/yckps%20got%20talent%202023%20-%20yu%20xin%20stella.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Art_Lessons_Photos___2025.png">
 </div>
 <p></p>
