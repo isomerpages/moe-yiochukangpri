@@ -8,7 +8,7 @@ variant: tiptap
 <p>The Aesthetics Department strives to build a vibrant arts culture in the
 school by providing personal, meaningful and impactful experiences for
 all our students. Through the Aesthetics programmes, including our Art
-and Music Instructional Programme and the Learning for Life Programme (LLP),
+and Music Instructional Programme and the <a href="/signature-programmes/learning-for-life-programme-llp-create-at-yckps/" rel="noopener nofollow" target="_blank">Learning for Life Programme (LLP)</a>,
 we aim for our students to:</p>
 <p>• Enjoy and be inspired by the Arts</p>
 <p>• Engage in the Arts with both head and heart</p>
