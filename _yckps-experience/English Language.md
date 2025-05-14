@@ -84,14 +84,9 @@ cum book signing session</p>
 </div>
 <p><strong>Learning Support:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>P1 &amp; P2: Learning Support Programme (LSP)</p>
-</li>
-<li>
-<p>P3 &amp; P4: Reading Remediation Programme (RRP) and/or School-based Dyslexia
-Remediation Programme (SDR)</p>
-</li>
-</ul>
+<p>• P1 &amp; P2: Learning Support Programme (LSP)</p>
+<p>• P3 &amp; P4: Reading Remediation Programme (RRP) and/or School-based
+Dyslexia Remediation Programme (SDR)</p>
+<p>• P5: Reading Remediation Programme (RRP)</p>
 <p>*Selection of students are based on assessment through diagnostic tests
-to ascertain suitability for the above programmes</p>
+to ascertain suitability for the above programmesogrammes</p>
