@@ -129,15 +129,62 @@ teaching them the basics of solving the Rubik’s Cube. Through the Challenge,
 students not only explored the history and global competitive landscape
 of the Rubik’s Cube, but also experienced the joy of learning through play
 and peer interaction.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/maths%20xcite!%201.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Maths_Xcite__7.jpg">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/maths%20xcite!%203.jpeg">
-</div>
 <p><strong>Enrichment – Mathematics Olympiad and E2K Mathematics</strong>
 <br>For students who demonstrated aptitude and interest for mathematics, our
 school organises Olympiad training workshops and E2K Mathematics Enrichment
