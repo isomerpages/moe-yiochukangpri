@@ -165,3 +165,12 @@ booth activities focused on heart health and wellness. Our Primary 5 pupils
 receive specialised instruction on the significance of maintaining healthy
 blood pressure, equipping them with essential knowledge for their well-being.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Blood_Pressure1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Blood_Pressure2.jpg">
+</div>
+<p></p>
+<p></p>
