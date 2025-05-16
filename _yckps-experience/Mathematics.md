@@ -102,18 +102,36 @@ get to solve authentic tasks at various parts of our school by applying
 the mathematics concepts and skills that they have learnt. In this way,
 our students will be able to see the applicability of the mathematical
 knowledge they have acquired.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_2.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_3.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Math Xcite!</strong>
 <br>Under the Math Xcite! programme, the Mathematics Department organises
 mathematics-related games and puzzles for all students. These activities
