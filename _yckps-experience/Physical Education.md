@@ -136,16 +136,21 @@ the school values through Outdoor Education.</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>SWIMSAFER (P5)</strong>
+<p><strong>SWIMSAFER (P3 &amp; P5)</strong>
 </p>
-</li>
-</ul>
 <p>The SwimSafer 2.0 programme is designed to teach participants how to manage
 water safety for water-based activities. The programme aims to teach swimming
 proficiency and water survival skills in a fun manner. The swimming sessions
 will be held during PE periods, within the curriculum time.</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/PE/pe5%20-%20lovino%20villasin%20cruz.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/SwimSafer1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/SwimSafer2.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -153,28 +158,10 @@ will be held during PE periods, within the curriculum time.</p>
 </p>
 </li>
 </ul>
-<p>Our students go through a variety of activities, with the aims of displaying
-the school values and being more aware of the different aspects of health.
-Students will complete challenges within their respective levels, and they
-will have lessons on healthy eating and living habits.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>During Healthy Heart Week, our students engage in diverse activities that
+reinforce our school values whilst developing a deeper understanding of
+various health aspects. During recess, they participate in interactive
+booth activities focused on heart health and wellness. Our Primary 5 pupils
+receive specialised instruction on the significance of maintaining healthy
+blood pressure, equipping them with essential knowledge for their well-being.</p>
 <p></p>
