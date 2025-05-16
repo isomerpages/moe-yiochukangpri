@@ -98,8 +98,15 @@ such as Character Day, Spelling Bee contests, and word-related recess activities
 student writers through creative writing activities and an author’s talk
 cum book signing session.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Character_Day_1.jpg">
+</div>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Character_Day_2.jpg">
+</div>
 <p><strong>Learning Support:</strong>
 </p>
 <p>• P1 &amp; P2: Learning Support Programme (LSP)</p>
