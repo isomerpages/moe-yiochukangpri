@@ -11,15 +11,58 @@ and inquiry-based learning, our teachers provide opportunities for students
 to apply what they have learnt, articulate their thinking and mathematical
 reasoning, hence allowing them to construct understandings of abstract
 mathematical concepts.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/inquiry-based%20learning%202.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Activity_Based_Learning_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Activity_Based_Learning_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Activity_Based_Learning_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Activity_Based_Learning_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Activity_Based_Learning_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Activity_Based_Learning_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/activity-based%20learning%201.jpeg">
-</div>
 <p><strong>Critical thinking in Problem Solving</strong>
 <br>The Polya’s 4 Steps (Understand, Plan, Do, Check) Approach is used to
 help students develop the habit of thinking to solve mathematics problems
