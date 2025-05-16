@@ -63,6 +63,22 @@ to become Youths of Character and useful citizens of Singapore.</p>
 of Total Defence as Singapore's best all-round&nbsp;response to threats
 and challenges that confront Singapore. Students learned about the 6 pillars
 and doing their part to protect Singapore and our shared way of life.</p>
-<p></p>
+<p>We commemorate International Friendship Day to allow our students to be
+sensitized to Singapore's geopolitical realities, and to reflect on the
+importance of&nbsp;cross-cultural skills and the spirit of friendship and
+collaboration amongst different people.</p>
+<p>On Racial Harmony Day, our students reflect on and celebrate Singapore
+as a harmonious society built on a rich diversity of&nbsp;cultures and
+the collaborative effort of all to promote social cohesion.&nbsp;</p>
+<p>Our school-based commemoration brings to students a sense of the historical
+importance and solemnity of National Day.&nbsp;</p>
+<p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values in Action Learning Experiences</strong>
+</p>
+<p>Our Values In Action learning experience nurtures students a commitment
+to address concerns of the community and nation and encourages them to
+exercise ownership over how they can contribute to the community and nation.
+Our students visited Jia Ying Active Ageing Centers to interact with and
+share not only their knowledge on hydroponics, but their fruit of labor
+with the seniors.</p>
 <p></p>
 <p></p>
