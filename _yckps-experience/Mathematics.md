@@ -60,23 +60,40 @@ mathematical concepts.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p><strong>Critical thinking in Problem Solving</strong>
 <br>The Polya’s 4 Steps (Understand, Plan, Do, Check) Approach is used to
 help students develop the habit of thinking to solve mathematics problems
 in a systematic manner. As students progress to a higher level, they are
 introduced to more strategies to help them handle more demanding problems.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/activity-based%20learning%207.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Inquiry_based_learning_1.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/inquiry-based%20learning%204.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Inquiry_based_learning_2.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Inquiry_Based_Learning_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Math Trails</strong>
 <br>Students learn best when they can apply their learning to everyday situations.
 The Mathematics Department organises Math Trails around the school for
@@ -85,20 +102,33 @@ get to solve authentic tasks at various parts of our school by applying
 the mathematics concepts and skills that they have learnt. In this way,
 our students will be able to see the applicability of the mathematical
 knowledge they have acquired.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/math%20trails%201.jfif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/math%20trails%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_3.jpg">
 </div>
 <p><strong>Math Xcite!</strong>
-<br>Under the Math Xcite! programme, the Mathematics Department also organises
-mathematics-related games and puzzles every term for all students to participate.
-These activities allow our students to experience the joy and fun of learning
-mathematics.</p>
+<br>Under the Math Xcite! programme, the Mathematics Department organises
+mathematics-related games and puzzles for all students. These activities
+aim to spark curiosity and allow students to experience the joy and excitement
+of learning mathematics in a fun and engaging way. In 2023 and 2024, the
+department introduced a Rubik’s Cube Challenge to bring the iconic puzzle
+closer to our students. The event generated much enthusiasm, with many
+students actively participating and expressing a keen interest in improving
+their solving skills. Beyond individual engagement, the Challenge also
+fostered a spirit of collaboration and mentorship — our Primary 6 students
+stepped up to guide their younger schoolmates in Primary 1 and 2, patiently
+teaching them the basics of solving the Rubik’s Cube. Through the Challenge,
+students not only explored the history and global competitive landscape
+of the Rubik’s Cube, but also experienced the joy of learning through play
+and peer interaction.</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/maths%20xcite!%201.jpeg">
 </div>
