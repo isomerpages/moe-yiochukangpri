@@ -57,4 +57,12 @@ to become Youths of Character and useful citizens of Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Citizenship Education CCE" src="/images/CCE1.jpg">
 </div>
-<p>ISingapore.</p>
+<p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education Commemorative Days</strong>
+</p>
+<p>In commemorating Total Defence Day, our students reflect on the importance
+of Total Defence as Singapore's best all-round&nbsp;response to threats
+and challenges that confront Singapore. Students learned about the 6 pillars
+and doing their part to protect Singapore and our shared way of life.</p>
+<p></p>
+<p></p>
+<p></p>
