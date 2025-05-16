@@ -182,24 +182,24 @@ and peer interaction.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong>Enrichment – Mathematics Olympiad and E2K Mathematics</strong>
-<br>For students who demonstrated aptitude and interest for mathematics, our
-school organises Olympiad training workshops and E2K Mathematics Enrichment
-lessons to equip these students with concepts and skills that are beyond
-the confines of the syllabus. Students would have the opportunity to hone
-their problem-solving skills, as well as develop confidence and independence
-in carrying out mathematical inquiry.</p>
+<p><strong>Enrichment – E2K Mathematics</strong>
+<br>For students who demonstrate aptitude and interest in Mathematics, our
+school offers the E2K Mathematics Enrichment Programme. This programme
+is designed to stretch students beyond the standard curriculum by engaging
+them in rich and challenging mathematical tasks. Grounded in an inquiry-based
+approach, E2K encourages students to explore, investigate, and reason through
+mathematical problems. Through guided discovery and collaborative discussions,
+students learn to make conjectures, test their ideas, and refine their
+thinking. This approach not only deepens their conceptual understanding,
+but also nurtures important 21st-century competencies such as critical
+thinking, perseverance, and communication.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/e2k%20pic1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Stretch__1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Mathematics/olympiad%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Stretch__2.jpg">
 </div>
 <p><strong>Mathematics Competitions</strong>
 <br>To further stretch students who demonstrated aptitude for the subject,
