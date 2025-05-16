@@ -78,28 +78,15 @@ and the upper primary students (P4-P6) will play small-sided modified sports
 such as Handball, Floorball and Frisbee. They will compete in an inter-class
 tournament format. The winners of the games will be going home with a medal
 to celebrate their efforts and successes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Olympic_Carnival1.jpg">
+</div>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Olympic_Carnival2.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>PRIMARY 5 COHORT CAMP</strong>
@@ -120,13 +107,29 @@ the school values through Outdoor Education.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp4.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp1.jpg">
+</div>
 </td>
 </tr>
 </tbody>
