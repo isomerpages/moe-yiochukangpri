@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,3 +47,12 @@ resilience to its members. The students undergo trainings in their pursuit
 of sporting excellence, providing them with exposure in the different track
 and field events. Annually, its members participate in the National School
 Games Track and Field Championship.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Track___Field_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Track___Field_2.jpg">
+</div>
+<p></p>

@@ -80,13 +80,15 @@ to achieve their goals. The members are exposed to competitive football
 by taking part annually in the National School Games Football Championships
 for both boys and girls and other football events or friendly matches against
 other teams.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/football1%20-%20lovino%20villasin%20cruz.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Football_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Football_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/football2%20-%20lovino%20villasin%20cruz.jpg">
-</div>
 <p></p>

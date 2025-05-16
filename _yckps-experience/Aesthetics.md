@@ -2,28 +2,43 @@
 title: Aesthetics
 permalink: /yckps-experience/aesthetics/
 description: ""
+variant: tiptap
 ---
-## Developing appreciation for the Arts
-
-Developing appreciation for the Arts
-The Aesthetics Department strives to build a vibrant arts culture in the school by providing personal, meaningful and impactful experiences for all our students. Through the Aesthetics programmes, we aim for our students to:
--	Enjoy and be inspired by the Arts
--	Engage in the Arts with both head and heart
--	Express themselves confidently through the Arts
--	Be exposed to the local Arts scene
-
-<img src="/images/2023/Aesthetics/img20220805131622%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/Aesthetics/img20220805131852%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/Aesthetics/zoom%20virtual%20background%20_2%20-%20yu%20xin%20stella.png" style="width:300px;height:auto;" align="center">
-
-Focussed on exposing our students to the various art forms and providing platforms for students to display their talents in art and music, the wide range of Aesthetics programmes in YCKPS include:
-- School-based Visual Art &amp; Music Curriculum
-- Aesthetics Week
-- YCKPS Got Talent
-- P6 Graduation Art Exhibition
-- Museum-Based Learning
-- Theatre Experience Programme
-
-<img src="/images/2023/Aesthetics/mobile%20stage%201%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/Aesthetics/music%20-%20p1%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center"><br>
-<img src="/images/2023/Aesthetics/yckps%20got%20talent%202023%20-%20yu%20xin%20stella.jpg" style="width:300px;height:auto;" align="center">
+<h2>Building a Vibrant Arts Culture in YCKPS</h2>
+<p>The Aesthetics Department strives to build a vibrant arts culture in the
+school by providing personal, meaningful and impactful experiences for
+all our students. Through the Aesthetics programmes, including our Art
+and Music Instructional Programme and the <a href="/signature-programmes/learning-for-life-programme-llp-create-at-yckps/" rel="noopener nofollow" target="_blank">Learning for Life Programme (LLP)</a>,
+we aim for our students to:</p>
+<p>• Enjoy and be inspired by the Arts</p>
+<p>• Engage in the Arts with both head and heart</p>
+<p>• Express themselves confidently through the Arts</p>
+<p>• Be exposed to the local Arts scene</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Aesthetics/img20220805131622%20-%20yu%20xin%20stella.jpg">
+</div>
+<p>The Art and Music Instructional Programme aims to develop students’ artistic
+skills, thinking skills, art appreciation and learning of values. Students
+experience different Art mediums and playing of different musical instruments,
+allowing them to discover their strengths and talents in Art and Music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Music_Lessons__2025_.png">
+</div>
+<p>Our Music lessons provide a holistic and meaningful music education for
+our students, guiding them to explore the musical elements in an engaging
+and supportive setting. Through hands-on engagement and varied experiences,
+our young musicians develop a deep appreciation and lifelong love for music.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Picture1.jpg">
+</div>
+<p>Our Art lessons offer students a vibrant space for creative self-discovery
+across various forms of art, including drawing, painting, mixed media,
+digital art and sculpting. Each project invites students to unlock their
+creativity and build confidence, fostering personal growth and resilience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Art_Lessons_Photos___2025.png">
+</div>
+<p></p>

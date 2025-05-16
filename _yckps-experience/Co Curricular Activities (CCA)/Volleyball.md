@@ -40,13 +40,15 @@ the teachers, help to inculcate the necessary skills and knowledge for
 students to enhance their competencies in the sport. Platforms for them
 to display their learning include competitions such as the National School
 Games Volleyball Championship and friendly games with other school teams.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/volleyball1%20-%20lovino%20villasin%20cruz.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Volleyball_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Volleyball_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/volleyball2%20-%20lovino%20villasin%20cruz.jpg">
-</div>
 <p></p>

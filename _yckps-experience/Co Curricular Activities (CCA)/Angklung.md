@@ -44,19 +44,18 @@ and teamwork. The students have performed during school events, as well
 as, external venues to celebrate various events.
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/angklung%204%20-%20yu%20xin%20stella.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Angklung_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Angklung_2.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/angklung%203%20-%20yu%20xin%20stella.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/CCA/0a1a8925%20-%20yu%20xin%20stella.JPG">
-</div>
 <p></p>
