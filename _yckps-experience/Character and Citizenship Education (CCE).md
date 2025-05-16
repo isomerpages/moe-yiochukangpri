@@ -13,6 +13,8 @@ namely Care, Respect, Responsibility, Integrity,&nbsp;Resilience and&nbsp;Excell
 and focus on 6 domains – <strong>S</strong>ocial, <strong>I</strong>ntellectual, <strong>M</strong>oral, <strong>P</strong>hysical, <strong>L</strong>eadership
 and a<strong>E</strong>sthetic developments of our students, gearing them
 to become Youths of Character and useful citizens of Singapore.</p>
+<p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our School Values Ambassadors, visual anchors for values education.</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -49,10 +51,9 @@ to become Youths of Character and useful citizens of Singapore.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p><em>Say it Right, Do it Right!</em>
+<p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values Education. Learn Through Play - Lego Values Express Programmes</strong>
 </p>
+<p>Students learn about our 6 school values through LEGO play during lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Citizenship Education CCE" src="/images/CCE1.jpg">
 </div>
