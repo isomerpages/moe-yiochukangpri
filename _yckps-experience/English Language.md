@@ -50,6 +50,9 @@ supportive environment.</p>
 <p>Making Thinking Visible (MTV) Routines – Enhancing critical thinking and
 language skills.</p>
 </li>
+<li>
+<p>KidsREAD</p>
+</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Share_a_Story_1.jpg">
