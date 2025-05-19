@@ -34,7 +34,7 @@ variant: tiptap
 <p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
 <h2>About Us</h2>
 <h3><strong>Move to the beat</strong></h3>
-<p>Our Malay Dance Group has performed during school events and have also
+<p>Our Malay Dance Group has performed during school events and has also
 been invited to perform outside the school setting during special events.
 Through these experiences, its members gain valuable lessons and also develop
 confidence. They continue to explore the traditional dance form while adding
