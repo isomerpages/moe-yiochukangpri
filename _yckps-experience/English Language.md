@@ -25,7 +25,7 @@ sharing of big books.</p>
 <p>Modified Language Experience Approach – Learning through experiences.</p>
 </li>
 <li>
-<p>I love Reading programme – Strengthening language and reading skills through
+<p>I Love Reading programme – Strengthening language and reading skills through
 reading to a Reading Confidante.</p>
 </li>
 <li>
@@ -49,10 +49,6 @@ supportive environment.</p>
 <li>
 <p>Making Thinking Visible (MTV) Routines – Enhancing critical thinking and
 language skills.</p>
-</li>
-<li>
-<p>KidsREAD – Collaborating with the National Library Board and secondary
-school student volunteers to promote independent reading via weekly sessions.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
