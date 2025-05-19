@@ -163,9 +163,8 @@ the language in various contexts.</p>
 <p>We look forward to seeing our students thrive in this enriched learning
 environment and grow into confident, bilingual individuals who take pride
 in their cultural roots.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -183,12 +182,6 @@ in their cultural roots.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/MTL/WhatsApp_Image_2025_05_16_at_12_39_20_PM.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/MTL/WhatsApp_Image_2025_05_16_at_12_35_37_PM.jpg">
-</div>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -203,21 +196,9 @@ in their cultural roots.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/MTL/WhatsApp_Image_2025_05_16_at_12_37_20_PM.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/MTL/WhatsApp_Image_2025_05_16_at_12_36_45_PM.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/MTL/WhatsApp_Image_2025_05_16_at_12_38_22_PM.jpg">
 </div>
