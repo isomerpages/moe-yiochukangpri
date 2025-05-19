@@ -52,8 +52,5 @@ to complement the CCA’s activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Scouts_Young_Mariner_Badgework_with_Maritime_Gallery_Tour.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Scouts3.jpg">
-</div>
 <p></p>
 <p></p>
