@@ -16,9 +16,6 @@ exploration, develop practical scientific and problem-solving skills, and
 deepen students' understanding of the environment. Our goal is to inspire
 students to appreciate the relevance of Science in their daily lives and
 the world around them.</p>
-<p></p>
-<p></p>
-<p></p>
 <p>Science comes alive in our active-learning environment where students
 explore science through questioning, hand-on activities, investigation
 and collaboration.</p>
