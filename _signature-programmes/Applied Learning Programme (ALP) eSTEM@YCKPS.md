@@ -159,7 +159,19 @@ shards into recycled products such as carabiners and coasters.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>🌿 C – Connecting with the Environment</strong>
+</p>
+<p>We believe that meaningful experiences in nature cultivate a sense of
+ownership and responsibility. Through hands-on activities like planting
+and harvesting plants in our very own hydroponics farm, learning journeys,
+and ESTEM Project work, students build a personal relationship with the
+natural world. These experiences allow students to forge meaningful connections
+with the environment, fostering a sense of responsibility and care for
+the world around them.&nbsp;</p>
+<p>By developing a <strong>strong connection with the environment</strong>,
+we nurture empathy for nature and inspire action. We hope to encourage
+students to take responsibility for the environment and to engage in sustainable
+behaviors that protect and preserve natural ecosystems.</p>
 <p></p>
 <p>The school aims to:</p>
 <ul>
