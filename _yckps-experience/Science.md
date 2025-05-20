@@ -217,4 +217,16 @@ sustainability.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The YCKPS Science Enrichment Programme is designed to ignite students’
+curiosity and deepen their interest in Science and technology beyond the
+classroom. By connecting scientific concepts to real-life contexts, the
+programme helps students see the relevance of Science in their daily lives.
+Students take part in a range of engaging activities such as the Excellence
+2000 (E2K) Science programme, STEM challenge and learning journeys, which
+offer hands-on experiences to extend classroom learning. Selected students
+also represent the school in Science competitions such as the Elementz
+Science Project Competition and Singapore Science Buskers and other national
+competitions. Through these opportunities, we aim to cultivate a deeper
+understanding of scientific principles, nurture a passion for learning,
+and equip students with the skills and mindset needed for future academic
+pursuits and careers in STEM.</p>
