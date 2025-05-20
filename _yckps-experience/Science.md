@@ -412,4 +412,41 @@ highest level of Vitamin C in vegetables.”</p>
 </tr>
 </tbody>
 </table>
+<p>At YCKPS, we believe that meaningful learning extends beyond the classroom.
+Our Science Learning Journeys provide students with authentic, real-world
+experiences that reinforce and enrich what they learn in school. These
+trips allow students to observe scientific concepts in action, explore
+the environment, and develop a deeper appreciation for the natural world.
+Through these experiences, students strengthen their inquiry skills, broaden
+their understanding, and gain new perspectives on how Science impacts everyday
+life.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary Three students at the Singapore Zoo</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
