@@ -266,11 +266,14 @@ issues.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/P4_EPW_7.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/P4_EPW_8.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -382,12 +385,62 @@ to learn more about one of Singapore’s Four National taps.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Water_ambassador_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Water_ambassador_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Water_ambassador_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Water_ambassador_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Water_ambassador_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Following up on EPW, Primary 5 engaged students in other levels through
+games, making pledges and assembly talk to educate and encourage the importance
+of water conservation.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>🌏 E – Extending Learning about the Environment</strong>
 </p>
 <p>Beyond the classroom, students deepen their environmental knowledge through
 hands-on projects, collaborative STEM challenges, and community outreach
 efforts. These experiences empower them to become confident problem-solvers
 and advocates for sustainability.</p>
-<p></p>
-<h2></h2>
-<p></p>
