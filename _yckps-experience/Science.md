@@ -106,7 +106,13 @@ and collaboration.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Inquiry &amp; Experiential based Classroom</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
