@@ -113,6 +113,54 @@ to show our support in water conservation.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Plastify_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Plastify_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Plastify_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Plastify_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>We commemorated Earth Day with a sea of blue and green outfits worn by
+students and teachers. The day started with assembly talk from Plastify
+sharing with students innovative methods to transform waste into practical
+materials. Through hands-on demonstration, students had the opportunity
+to grasp the recycling process of plastic and experience turning plastic
+shards into recycled products such as carabiners and coasters.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p>The school aims to:</p>
 <ul>
 <li>
