@@ -208,6 +208,12 @@ the opportunity to emphasize the importance of food sustainability.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>E-Stem Project Work</strong> for Primary Three to Six students
+is one of the signature programme designed to create experiences for students
+to connect with the environment and to understand real-world environmental
+issues.</p>
+<p></p>
+<p></p>
 <p>The school aims to:</p>
 <ul>
 <li>
@@ -374,3 +380,5 @@ extend their learning about the environment.</p>
 <p><strong>This team of P5 students investigated and presented on the importance of plants in the filtration of rain water to give us cleaner water</strong>
 </p>
 <p>*Photos were taken before COVID-19.</p>
+<p></p>
+<p></p>
