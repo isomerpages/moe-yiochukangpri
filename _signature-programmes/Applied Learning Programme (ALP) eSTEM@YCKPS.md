@@ -69,8 +69,16 @@ to adopt environmentally friendly behaviors.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Assembly talks and Environmental News Segments in the classroom create
+awareness of current environmental issues and encourage protecting the
+environment.</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p>The school aims to:</p>
 <ul>
 <li>
