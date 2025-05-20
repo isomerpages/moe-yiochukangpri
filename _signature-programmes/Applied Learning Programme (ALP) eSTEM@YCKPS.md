@@ -172,7 +172,42 @@ the world around them.&nbsp;</p>
 we nurture empathy for nature and inspire action. We hope to encourage
 students to take responsibility for the environment and to engage in sustainable
 behaviors that protect and preserve natural ecosystems.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Microgreens_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Microgreens_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ALP/Microgreens_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Primary One and Two students had hands-on experience to grow their own
+vegetable using Microgreen Bags. During this activity, teachers also took
+the opportunity to emphasize the importance of food sustainability.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The school aims to:</p>
 <ul>
 <li>
