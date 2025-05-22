@@ -24,4 +24,4 @@ Useful Forms and Documents
 * [The Straits Times School Pocket Money Fund 2025](/files/Annex_A___2025_STSPMF_Application_Form_for_schoolsUpdated.pdf)
 *   [The Straits Times School Pocket Money Fund 2025 Income Declaration Form](/files/Annex_B___Income_declaration_formUpdated.pdf)
 *   [The Straits Times School Pocket Money Fund 2025 Direct Credit Authorisation Form](/files/Annex_F___DIRECT_CREDIT_AUTHORISATION_FORMv__2025_.pdf)
-*   [Waitlist for School Admission 2025](/files/Waitlist_for_School_Admission_dd_20_May_2025.pdf)
+* [Waitlist for School Admission 2025](/files/Waitlist_for_School_Admission_dd_21_May_2025__FINAL_.pdf)
