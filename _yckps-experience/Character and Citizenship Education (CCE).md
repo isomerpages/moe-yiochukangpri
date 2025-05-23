@@ -57,6 +57,43 @@ to become Youths of Character and useful citizens of Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Citizenship Education CCE" src="/images/CCE1.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Lego.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Lego_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20250404_095721.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education Commemorative Days</strong>
 </p>
 <table style="minWidth: 50px">
@@ -82,14 +119,6 @@ to become Youths of Character and useful citizens of Singapore.</p>
 of Total Defence as Singapore's best all-round&nbsp;response to threats
 and challenges that confront Singapore. Students learned about the 6 pillars
 and doing their part to protect Singapore and our shared way of life.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20250414_094233.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC_0919.jpg">
-</div>
 <p>We commemorate International Friendship Day to allow our students to be
 sensitized to Singapore's geopolitical realities, and to reflect on the
 importance of&nbsp;cross-cultural skills and the spirit of friendship and
