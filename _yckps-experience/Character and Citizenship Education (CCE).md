@@ -136,5 +136,50 @@ exercise ownership over how they can contribute to the community and nation.
 Our students visited Jia Ying Active Ageing Centers to interact with and
 share not only their knowledge on hydroponics, but their fruit of labor
 with the seniors.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20250414_094233.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC_0919.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We commemorate International Friendship Day to allow our students to be
+sensitized to Singapore's geopolitical realities, and to reflect on the
+importance of&nbsp;cross-cultural skills and the spirit of friendship and
+collaboration amongst different people.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20230721_132923.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
