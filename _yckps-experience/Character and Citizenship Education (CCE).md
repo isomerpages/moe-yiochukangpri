@@ -128,14 +128,6 @@ as a harmonious society built on a rich diversity of&nbsp;cultures and
 the collaborative effort of all to promote social cohesion.&nbsp;</p>
 <p>Our school-based commemoration brings to students a sense of the historical
 importance and solemnity of National Day.&nbsp;</p>
-<p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values in Action Learning Experiences</strong>
-</p>
-<p>Our Values In Action learning experience nurtures students a commitment
-to address concerns of the community and nation and encourages them to
-exercise ownership over how they can contribute to the community and nation.
-Our students visited Jia Ying Active Ageing Centers to interact with and
-share not only their knowledge on hydroponics, but their fruit of labor
-with the seniors.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -181,5 +173,61 @@ collaboration amongst different people.</p>
 </tr>
 </tbody>
 </table>
+<p>On Racial Harmony Day, our students reflect on and celebrate Singapore
+as a harmonious society built on a rich diversity of&nbsp;cultures and
+the collaborative effort of all to promote social cohesion.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC00397.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC00444.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>Our school-based commemoration brings to students a sense of the historical
+importance and solemnity of National Day.&nbsp;</p>
+<p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values in Action Learning Experiences</strong>
+</p>
+<p>Our Values In Action learning experience nurtures students a commitment
+to address concerns of the community and nation and encourages them to
+exercise ownership over how they can contribute to the community and nation.
+Our students visited Jia Ying Active Ageing Centers to interact with and
+share not only their knowledge on hydroponics, but their fruit of labor
+with the seniors.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/I_5_VIA_2025_09.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/6278430335310085570.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
