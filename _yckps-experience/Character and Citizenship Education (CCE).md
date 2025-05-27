@@ -79,18 +79,25 @@ to become Youths of Character and useful citizens of Singapore.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20250404_095721.jpg">
 </div>
-</td>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/57eb1467_c057_435b_9d91_a2355f62a894.jpg">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
