@@ -90,9 +90,76 @@ ownership of their learning.<strong>&nbsp;</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ICT/Photo6.jpg">
 </div>
+<p>Beyond classroom learning, students participate in enrichment programmes
+that foster creativity and innovation. The <em>Code for Fun</em> programme,
+in collaboration with the Infocomm Media Development Authority (IMDA),
+introduces students to coding through interactive, hands-on experiences.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>P4 students using Sphero to apply the concept learnt in the 8-point compass.</p>
-<p>Robotics&nbsp;, ICT baseline skills and New Media Literacies are infused
-into the various subjects – English, Mathematics, Science, Mother Tongue
-and Programme for Active Learning (PAL). Our students apply concepts learnt
-from these subjects and see them coming alive.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ICT/Photo7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ICT/Photo8.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our <em>MakerSpace</em> activities further enhance experiential learning
+through design and prototyping, such as Primary 1 students learning Touch
+Typing. A new <em>Thinkers’ Lab</em> is opening soon. This dedicated space
+will support future programmes designed to further enhance students’ learning
+experiences and develop their innovative thinking.</p>
+<p><strong>Promoting Cyberwellness and Responsible ICT Use</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ICT/Photo9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ICT/Photo10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/ICT/Photo11.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We place strong emphasis on Cyberwellness to support students’ well-being
+in the digital space. Our curriculum helps students harness technology
+for positive purposes, maintain a respectful online presence, and become
+safe, responsible users of digital tools. These values are reinforced through
+engaging assembly talks that relate to real-life online experiences.</p>
+<p>
+<br>To strengthen peer influence, trained <em>Cyberwellness Ambassadors</em> take
+the lead in promoting responsible digital behaviour. By sharing practical
+tips, they help create a positive digital culture where students not only
+thrive online but also look out for one another.</p>
+<p></p>
