@@ -157,9 +157,7 @@ in the digital space. Our curriculum helps students harness technology
 for positive purposes, maintain a respectful online presence, and become
 safe, responsible users of digital tools. These values are reinforced through
 engaging assembly talks that relate to real-life online experiences.</p>
-<p>
-<br>To strengthen peer influence, trained <em>Cyberwellness Ambassadors</em> take
+<p>To strengthen peer influence, trained <em>Cyberwellness Ambassadors</em> take
 the lead in promoting responsible digital behaviour. By sharing practical
 tips, they help create a positive digital culture where students not only
 thrive online but also look out for one another.</p>
-<p></p>
