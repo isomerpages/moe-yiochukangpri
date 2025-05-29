@@ -10,7 +10,7 @@ Useful Links
 
 *   [Choosing a Secondary School](https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/)
 *   [Ministry of Education (MOE) main website](https://www.moe.gov.sg/)
 
 Useful Forms and Documents
