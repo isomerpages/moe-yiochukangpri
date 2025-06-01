@@ -13,8 +13,8 @@ communicators and users of the language. This continues to be the long
 term belief of the department. The Mother Tongue Languages department focuses
 on providing platforms for our students to develop their competencies in
 listening, speaking, reading and writing skills and we provide various
-programmes and learning activities for students to enjoy learning the Language
-and to understand the Culture.</p>
+programmes and learning activities for students to enjoy learning the language
+and to understand the culture.</p>
 <h2>Signature Programmes</h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,18 +23,18 @@ and to understand the Culture.</p>
 </ul>
 <p>This is a two-week programme that is carried out during as well as outside
 of curriculum time. The fortnight activities aim to encourage students
-use their Mother Tongue Language more pervasively. A wide range activities
+to use their Mother Tongue Language more pervasively. A wide range of activities
 during recess time and after school workshops were conducted to provide
 authentic situations for students to appreciate their Mother Tongue Language
-and its Culture.</p>
+and its culture.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mother Tongue Cultural Camps</p>
 </li>
 </ul>
-<p>The Cultural Activities aim to provide an immersive environment for students
+<p>The cultural activities aim to provide an immersive environment for students
 to learn and use the Mother Tongue Languages as well as to appreciate its
-Culture though hands-on activities and through learning journeys</p>
+culture though hands-on activities and through learning journeys.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Language and Malay Language Digital Learning Trail</p>
@@ -45,7 +45,7 @@ and Malay Language teachers to provide authentic learning around the school
 compound. Students work in teams to learn more about the content of the
 storybooks that were discussed in class. Students also learn to use the
 tablets to scan QR codes, take photos as well as videos and upload them
-to answer certain questions posed in the learning trails.</p>
+to answer certain questions posed during the learning trails.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cultural Performance Education Programme in Chinese Language</p>
@@ -54,7 +54,7 @@ to answer certain questions posed in the learning trails.</p>
 <p>The Cultural Performance Education Programme is a platform where our students
 get to watch cultural performances outside of school to learn more about
 Chinese Language and its culture. Students get to experience theatre performances,
-interacts with the cast and learn more about Chinese idioms and phrases.</p>
+interact with the cast and learn more about Chinese idioms and phrases.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mother Tongue Support Programme (MTSP)</p>
@@ -64,7 +64,7 @@ interacts with the cast and learn more about Chinese idioms and phrases.</p>
 provides more individualised support for the children in their learning
 of the Mother Tongue Languages. It is offered at Primary 3 and Primary
 4 levels to students who require additional support in learning Mother
-Tongue Languages</p>
+Tongue Languages.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Conversational Chinese and Malay Programme (CCM)</p>
@@ -90,8 +90,8 @@ narratives on selected issues.</p>
 in Mother Tongue languages. Our school promotes active reading by building
 a reading culture for our Mother Tongue Languages students. We select age
 appropriate books and bring these books into the classroom. Students are
-encouraged to read and write book reviews and shares these book reviews
-with each other in class. They also carry out after reading activities
+encouraged to read and write book reviews and share these book reviews
+with one another in class. They also carry out after reading activities
 to deepen their learning on the content of the story.</p>
 <p>- Competition</p>
 <ul data-tight="true" class="tight">
