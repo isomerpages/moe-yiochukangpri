@@ -184,6 +184,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
