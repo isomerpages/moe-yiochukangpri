@@ -62,9 +62,6 @@ Our school values encompass the six main core values&nbsp;highlighted in the sch
 
 Yio Chu Kang Primary School created our Values Ambassadors, depicted by four school-designed mascots - Carrie, Rex, Rei and Ecka - and our principal officially launched them to the school on 25 April 2022. The event marked the debut of these four cute-looking mascots that breathe life into our school culture of values-in-action to guide our students to be self-disciplined individuals to live out the school values.
 <br>
-![](/images/2023/About%20Us%20(School%20Information)/mascot%20pic%206%20-%20yin%20wai%20chow.png)
-
-
 
 School Song
 -----------
