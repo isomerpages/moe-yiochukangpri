@@ -21,9 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Lim*
-<br>Ms Leong Bao Ru
-<br>Ms Mayce Neo</p>
+<p>Ms Mayce Neo*
+<br>Ms Leong Bao Ru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room 1</p>
