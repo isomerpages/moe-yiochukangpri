@@ -19,8 +19,7 @@ and beyond curriculum using EdTech tools, including AI-enabled ones;</p>
 </li>
 <li>
 <p>To develop students' digital literacy and technological skills through
-the curriculum, co-curriculum, and our Applied Learning Programmes (ALP)
-eSTEM@YCKPS and Lifelong Learning Programmes (LLP) CREATE@YCKPS.</p>
+both curricular and co-curricular developmental experiences.</p>
 </li>
 </ul>
 <p><strong>Harnessing EdTech within Curriculum</strong>
