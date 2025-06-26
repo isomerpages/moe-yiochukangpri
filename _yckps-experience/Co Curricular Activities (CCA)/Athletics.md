@@ -22,7 +22,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Syahida*
-<br>Mr Wong Chian Woon
 <br>Mdm Lee Yuen Chee, Nancy</p>
 </td>
 <td rowspan="1" colspan="1">
