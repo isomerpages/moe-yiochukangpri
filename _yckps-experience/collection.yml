@@ -2,7 +2,6 @@ collections:
   yckps-experience:
     output: true
     order:
-      - YCKPS Twinning Experience in Guangdong.md
       - Aesthetics.md
       - Character and Citizenship Education (CCE).md
       - English Language.md
@@ -29,3 +28,4 @@ collections:
       - Co Curricular Activities (CCA)/Scouts.md
       - Co Curricular Activities (CCA)/Visual Arts.md
       - Co Curricular Activities (CCA)/Volleyball.md
+      - YCKPS Twinning Experience in Guangdong.md
