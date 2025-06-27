@@ -144,6 +144,19 @@ Louis Loo, Year Head/Middle Primary)</p>
 <p>Students conducting scientific investigation with their peers from NFLS</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6A.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Learning traditional culture through craft-making</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Besides the learning in NFLS, the students also learnt through new and
