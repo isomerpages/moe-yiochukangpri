@@ -222,6 +222,25 @@ learning experience for the students.</p>
 <p>Learning at the Guangzhou Urban Planning and Exhibition Centre</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_9A.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_9B.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Learning at the Guangdong Museum</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
