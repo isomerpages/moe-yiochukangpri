@@ -124,17 +124,24 @@ peers from NFLS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5A.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5B.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>An English-medium Science Lesson conducted by our Science Teacher (Mr
+Louis Loo, Year Head/Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students conducting scientific investigation with their peers from NFLS</p>
 </td>
 </tr>
 </tbody>
