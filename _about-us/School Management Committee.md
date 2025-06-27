@@ -320,7 +320,7 @@ variant: tiptap
 <p>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Andrea Lim Shi En</p>
+<p>Ms Lim Shi En Andrea</p>
 </td>
 </tr>
 </tbody>
