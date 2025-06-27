@@ -161,6 +161,20 @@ variant: tiptap
 <p>Ms Ong Huiyin, Amelia</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Assistance Year Head</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Shi En Andrea</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -300,27 +314,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Hadzzier Binte Hamzah</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Assistance Year Head</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Shi En Andrea</p>
 </td>
 </tr>
 </tbody>
