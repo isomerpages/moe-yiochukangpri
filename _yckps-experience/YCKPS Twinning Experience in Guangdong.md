@@ -269,3 +269,32 @@ the Guangzhou Library</p>
 <p>Back in Singapore, the students continued with the learning reflection
 on their trip and also transferred their learning by sharing their learning
 experiences with their school mates through a presentation at school assembly.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_11A.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_11B.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Sharing of their learning and reflection with their school mates at school
+assembly</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
