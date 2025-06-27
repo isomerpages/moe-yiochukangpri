@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yoke Wee*</p>
+<p>Mr Daljit Singh*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field</p>
@@ -54,14 +54,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Syafiq B Hashim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Daljit Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

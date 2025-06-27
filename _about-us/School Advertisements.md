@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Malay Food Stall | 31 Dec 2024 | Rice or noodle is acceptable |
+| Malay Food Stall | 31 Dec 2025 | Rice or noodle is acceptable |
 
 **Application Procedure**
 <br>

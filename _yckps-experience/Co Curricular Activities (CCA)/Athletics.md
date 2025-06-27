@@ -22,7 +22,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Syahida*
-<br>Mr Wong Chian Woon
 <br>Mdm Lee Yuen Chee, Nancy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,4 +54,6 @@ Games Track and Field Championship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Track___Field_2.jpg">
 </div>
-<p></p>
+<p>
+<br>
+</p>

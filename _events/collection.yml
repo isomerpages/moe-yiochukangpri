@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2025 Events.md
       - 2024 Events.md
       - 2023 Events/.keep
       - 2023 Events/Term 1.md

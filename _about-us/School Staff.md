@@ -374,17 +374,6 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marissa Rose Binte Dino</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Han Li Qian</p>
 </td>
 </tr>
@@ -572,6 +561,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Marissa Rose Binte Dino</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Integrity 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -714,7 +714,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Chian Woon</p>
+<p>Mdm Turkha Devi</p>
 </td>
 </tr>
 <tr>
@@ -725,7 +725,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Turkha Devi</p>
+<p>Sharon Teo Teng Lai @ Nadine Teo</p>
 </td>
 </tr>
 <tr>
@@ -749,7 +749,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Lim Chyi</p>
+<p>Ms Aileen Tan Fei Ching</p>
 </td>
 </tr>
 <tr>
@@ -779,28 +779,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Resilience 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aileen Tan Fei Ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharon Teo Teng Lai @Nadine Teo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
