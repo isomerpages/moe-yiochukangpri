@@ -74,7 +74,41 @@ with their peers from NFLS. Additionally, one of our Science Teacher (Mr
 Louis Loo, Year Head/Middle Primary) also conducted an English-medium Science
 lesson in NFLS where YCKPS students were engaged in learning with their
 peers from NFLS.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3B.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Twinning Experience at YCKPS’ Twinning School, NFLS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Mathematics lesson integrated with calligraphy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Besides the learning in NFLS, the students also learnt through new and
 authentic experiences at the Guangdong Science Centre (which is the largest
 in the world), Guangdong Museum, Guangzhou Urban Planning and Exhibition
