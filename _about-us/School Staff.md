@@ -1024,11 +1024,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yu Sin Khim, Edwin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Heng Zhen Yi Denise</p>
 </td>
 </tr>
