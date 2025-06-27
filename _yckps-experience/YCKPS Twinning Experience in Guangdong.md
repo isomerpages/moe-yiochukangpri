@@ -266,4 +266,6 @@ the Guangzhou Library</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Back in Singapore, the students continued with the learning reflection
+on their trip and also transferred their learning by sharing their learning
+experiences with their school mates through a presentation at school assembly.</p>
