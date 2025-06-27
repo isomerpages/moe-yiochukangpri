@@ -187,7 +187,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Phan Yi-wen</p>
 </td>
 </tr>
 <tr>
@@ -304,38 +304,23 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p></p>
+<th rowspan="1" colspan="2">
+<p>Assistance Year Head</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Andrea Lim Shi En</p>
 </td>
 </tr>
 </tbody>
