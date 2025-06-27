@@ -241,6 +241,29 @@ learning experience for the students.</p>
 <p>Learning at the Guangdong Museum</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_10A.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_10B.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning at the Guangdong Museum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Capturing moments of the day’s learning through written reflection at
+the Guangzhou Library</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
