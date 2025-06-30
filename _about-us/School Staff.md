@@ -1024,7 +1024,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Zhen Yi Denise</p>
+<p>Mr Tan Yoke Wee</p>
 </td>
 </tr>
 <tr>
@@ -1034,7 +1034,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yan Lin Angel</p>
+<p>Ms Hafsah Binte Mohammed Kassim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Geok Lian Amelia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Giam Hwee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Zhuang Man</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Chay Luan</p>
 </td>
 </tr>
 </tbody>
