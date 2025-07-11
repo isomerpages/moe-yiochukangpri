@@ -1024,11 +1024,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yoke Wee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Sim Wei Ming, Christopher</p>
 </td>
 </tr>
