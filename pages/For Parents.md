@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /quick-links/for-parents/
 description: ""
+variant: markdown
 ---
 Check out our very own Newsletter for this term!
 ------------------------------------------------
@@ -37,7 +38,7 @@ Useful Links
 *   [MC Online](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [School Bag - The Education News Site for Parents](https://www.schoolbag.sg/)
-*   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Singapore Student Learning Space (SLS)](https://www.learning.moe.edu.sg/)
 *   [Information on Primary School Education](https://www.moe.gov.sg/education/primary) (MOE Website)
 *   [Ministry of Education (MOE) main website](https://www.moe.gov.sg/)
 
@@ -52,4 +53,3 @@ Useful Articles
 *   [Resources on Hand Foot Mouth Disease (HFMD)](http://www.hpb.gov.sg/HOPPortal/dandc-article/792)
 *   [Raising your Child for Success](https://www.schoolbag.sg/story/raising-your-child-for-success#.V4xsxet97IX)
 *   [Why Kids should Do Chores](https://www.schoolbag.sg/story/why-kids-should-do-chores#.V1RPLrh97IU)
-

@@ -163,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Assistance Year Head</strong>
+<p><strong>Assistant Year Head</strong>
 </p>
 </td>
 </tr>
