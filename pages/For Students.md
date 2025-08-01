@@ -2,6 +2,7 @@
 title: For Students
 permalink: /quick-links/for-students/
 description: ""
+variant: markdown
 ---
 Full Home-Based Learning
 ------------------------
@@ -18,7 +19,7 @@ Useful Links
   
 
 *   [Choosing a Secondary School](https://www.schoolbag.edu.sg/story/online-open-house-for-secondary-schools-2021-v2) and E-Open house dates
-*   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Singapore Student Learning Space (SLS)](http://vle.learning.moe.edu.sg/login)
 *   [Google Workspace](https://workspace.google.com/dashboard)  
     
 *   [Travel Declaration Forms](https://docs.google.com/a/yckps.edu.sg/viewer?a=v&pid=sites&srcid=eWNrcHMuZWR1LnNnfHlja3BzLWxlYXZlZm9ybXxneDo0NmQ2MzJhNzc0ZGJjY2Ni)
