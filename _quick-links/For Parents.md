@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /quick-links/for-parents/
 description: ""
+variant: markdown
 ---
 Parents Support Group (PSG)
 ---------------------------
@@ -15,4 +16,4 @@ Useful Links
 ------------
 
 *   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Singapore Student Learning Space (SLS)](http://vle.learning.moe.edu.sg/login)
