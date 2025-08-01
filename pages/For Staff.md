@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /quick-links/for-staff/
 description: ""
+variant: markdown
 ---
 *   [Online Relief Form](https://go.gov.sg/yckpsrelief)
 *   [ICT Helpdesk](https://sites.google.com/view/ict-yckps)
