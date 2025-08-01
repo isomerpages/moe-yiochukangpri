@@ -38,7 +38,7 @@ Useful Links
 *   [MC Online](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [School Bag - The Education News Site for Parents](https://www.schoolbag.sg/)
-*   [Singapore Student Learning Space (SLS)](https://www.learning.moe.edu.sg/)
+*   [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Information on Primary School Education](https://www.moe.gov.sg/education/primary) (MOE Website)
 *   [Ministry of Education (MOE) main website](https://www.moe.gov.sg/)
 
