@@ -13,7 +13,7 @@ variant: markdown
 *   [HRP - Human Resource Portal](https://www.hrp.gov.sg/hrp/#/) 
 *   [IEXAMS2](https://iexams.seab.gov.sg)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
-*   [Singapore Student Learning Space](http://learning.moe.edu.sg/)
+*   [Singapore Student Learning Space](http://vle.learning.moe.edu.sg/login)
 *   [SCMobile](https://scmobile.moe.edu.sg/login)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [MOE intranet](https://intranet.moe.gov.sg/)
