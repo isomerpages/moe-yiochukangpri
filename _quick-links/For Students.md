@@ -2,6 +2,7 @@
 title: For Students
 permalink: /quick-links/for-students/
 description: ""
+variant: markdown
 ---
 Useful Links
 ------------
@@ -9,7 +10,7 @@ Useful Links
   
 
 *   [Choosing a Secondary School and E-Open house dates](https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023) 
-*   [Singapore Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Singapore Student Learning Space (SLS)](http://vle.learning.moe.edu.sg/login)
 *   [Library Books: Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/yiochukangpri)
 *   [Virtual School Library](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
