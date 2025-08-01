@@ -73,7 +73,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Zi Xian</p>
+<p>Mr Lip Chon Wai (covering)</p>
 </td>
 </tr>
 <tr>
@@ -230,8 +230,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lip Chon Wai
-<br>Ms Calista Yong</p>
+<p>Ms Calista Yong</p>
 </td>
 </tr>
 <tr>
