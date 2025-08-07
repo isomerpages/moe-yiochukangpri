@@ -532,7 +532,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo ZFhi Cong</p>
+<p>Mr Neo Zhi Cong</p>
 </td>
 </tr>
 <tr>
