@@ -532,7 +532,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Zhi Cong</p>
+<p>Mr Neo ZFhi Cong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Jian Li</p>
 </td>
 </tr>
 <tr>
@@ -1061,6 +1072,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Chay Luan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tian Wen Wah</p>
 </td>
 </tr>
 </tbody>
