@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled_design.gif
+      background: /images/Untitled_design__1_.gif
       key_highlights:
         - title: Quick Links
           description: Click here for quick links!
