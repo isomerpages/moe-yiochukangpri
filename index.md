@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner___1_.gif
+      background: /images/YCKPS_Banner.gif
       key_highlights:
         - title: Quick Links
           description: Click here for quick links!
