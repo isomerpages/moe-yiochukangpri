@@ -2,13 +2,13 @@ collections:
   spotlight:
     output: true
     order:
-      - Student Individual Achievements.md
-      - Our People/Alumni.md
       - Our People/.keep
+      - Our People/Alumni.md
       - Our People/Students.md
       - Our People/Staff.md
       - Virtual School Tour.md
-      - Staff Spotlight/Mr Jonathan Wong.md
       - Staff Spotlight/.keep
+      - Staff Spotlight/Mr Jonathan Wong.md
       - Staff Spotlight/Mdm Salina Binte Akiak.md
       - Staff Spotlight/Ms Lim Huey Ling.md
+      - Student Individual Achievements.md
