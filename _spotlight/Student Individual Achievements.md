@@ -23,7 +23,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 National Mathematical Olympiad of Singapore</strong>
+<p><strong><em>2025 National Mathematical Olympiad of Singapore</em></strong>
 </p>
 <p>(A national-level mathematics competition for primary school students
 which aims to generate greater interest in Mathematics among students;
@@ -40,7 +40,7 @@ mathematical talents in our youths)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 Singapore Primary Science Olympiad</strong>
+<p><strong><em>2025 Singapore Primary Science Olympiad</em></strong>
 </p>
 <p>(National competition which aims to instil passion in Science, nurture
 Science talents and showcase students' abilities in the subject)</p>
