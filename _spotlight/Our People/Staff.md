@@ -5,16 +5,22 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-![](/images/2023/E%20open%20house%202023/2%20mdm%20ramachandra%20suguna.jpg)
+![](/images/Meet_The_Teachers_Mdm_Lu_Yun.png)
+
+---
+
+![](/images/Meet_The_Teachers_Ms_Chermaine_Tay.png)
 
 ---
 
 ![](/images/2023/E%20open%20house%202023/3%20mr%20chan%20zi%20xian.jpg)
 
 ---
+
 ![](/images/2023/E%20open%20house%202023/4%20mr%20loo%20kui-jin%20louis.jpg)
 
 ---
+
 ![](/images/2023/E%20open%20house%202023/5%20mdm%20siti%20hadzzier.jpg)
 
 ---
@@ -26,6 +32,7 @@ variant: markdown
 ![](/images/2023/E%20open%20house%202023/8%20mdm%20raynitha.jpg)
 
 ---
+
 ![](/images/2023/E%20open%20house%202023/9%20mr%20georgy%20mathew.jpg)  
   
 ---
