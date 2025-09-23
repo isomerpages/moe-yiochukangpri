@@ -59,7 +59,10 @@ Hota, Integrity 5)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Distinction (</strong>Ng Xi En, Keian, Excellence 1)</p>
+<p><strong>Merit</strong> (Lu Mingze, Hipona Rand Ambrose Ramos, Lee Genest
+Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
+1; Cheng Yiyang and Gu Xibei (Benjamin), Excellence 2)</p>
 </td>
 </tr>
 <tr>
