@@ -5,13 +5,17 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p><strong>Events</strong>
 </p>
@@ -22,6 +26,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
 <p>Primary 2 Singapore and Asian Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,6 +41,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
 <p>Primary 3 Singapore and Asian Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,10 +55,18 @@ description: ""
 <p><strong>Silver</strong> (Su Qi Amaris, Responsibility 5)</p>
 <p><strong>Bronze</strong> ( Sahana Sthanunathan and Ong Yan Zhe Responsibility
 6; Seah Yue En, Responsbility 5)</p>
-<p>Honourable Mention (Akxel Lance Kusumo, Responsibility 5)</p>
+<p><strong>Honourable Mention </strong>(Akxel Lance Kusumo, Responsibility
+5)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
 <td rowspan="1" colspan="1">
 <p>Primary 4 Singapore and Asian Schools Math Olympiad</p>
 </td>
@@ -55,6 +81,13 @@ Hota, Integrity 5)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
 <p>Primary 6 Raffles Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +99,14 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Literary Confluence 2025&nbsp; Competition</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil - Literary Confluence 2025&nbsp; Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st Prize</strong> (Valliappan Chockalingam, Resilience 2)</p>
@@ -76,6 +116,13 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
 <p>Tirukkural Vizha 2025&nbsp;Tamil Literary Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,6 +131,13 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
 <td rowspan="1" colspan="1">
 <p>National School Games Junior Boys (Basketball)</p>
 </td>
