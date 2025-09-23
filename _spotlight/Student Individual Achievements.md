@@ -72,7 +72,7 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 <td rowspan="1" colspan="1">
 <p><strong>1st Prize</strong> (Valliappan Chockalingam, Resilience 2)</p>
 <p><strong>Certificate of Participation</strong> (Narthanan Mahaadhi, Integrity
-5; Thiruvarasu S/O Ramachandran, Integruty 6)</p>
+5; Thiruvarasu S/O Ramachandran, Integrity 6)</p>
 </td>
 </tr>
 <tr>
