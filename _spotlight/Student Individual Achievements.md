@@ -33,7 +33,11 @@ description: ""
 <p>Primary 3 Singapore and Asian Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gold (Song Churan, Responsibility 6)</p>
+<p>Silver (Su Qi Amaris, Responsibility 5)</p>
+<p>Bronze ( Sahana Sthanunathan, Responsibility 6; Ong Yan Zhe, Responsibility
+6; Seah Yue En, Responsbility 5)</p>
+<p>Honourable Mention (Akxel Lance Kusumo, Responsibility 5)</p>
 </td>
 </tr>
 </tbody>
