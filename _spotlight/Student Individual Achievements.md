@@ -55,8 +55,7 @@ Hota, Integrity 5)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 6 Raffles Mathematical Olympiad</strong>
-</p>
+<p>Primary 6 Raffles Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction (</strong>Ng Xi En, Keian, Excellence 1)</p>
@@ -86,7 +85,7 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NATIONAL SCHOOL GAMES JUNIOR BOYS (Basketball)</p>
+<p>National School Games Junior Boys (Basketball)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Achievement</strong>
