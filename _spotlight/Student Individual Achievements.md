@@ -77,10 +77,11 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tirukkural Vizha 2025&nbsp;Tamil Literary Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>3rd Prize</strong> (Saravanan Sriram, Respect 4)</p>
+<p><strong>Motivation Prize</strong> (M Hariin, Care 2)</p>
 </td>
 </tr>
 </tbody>
