@@ -130,22 +130,6 @@ Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
 <p><strong>Motivation Prize</strong> (M Hariin, Care 2)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games Junior Boys (Basketball)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
