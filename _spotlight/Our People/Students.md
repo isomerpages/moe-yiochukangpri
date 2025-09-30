@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-![](/images/1_Zach_Goh.png)
+<img width="300" alt="Alt text" src="/images/1_Zach_Goh.png">
 
 <p style="text-align:center;"> I like playing games during English lessons because they make learning fun and exciting! My favourite is Four-in-a-Row.</p>
 
