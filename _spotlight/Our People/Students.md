@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100" alt="Alt text" src="/images/1_Zach_Goh.png">
+<img style="width: 80%;" height="auto" width="100" alt="Alt text" src="/images/1_Zach_Goh.png">
 </div>
 <p>I like playing games during English lessons because they make learning
 fun and exciting! My favourite is Four-in-a-Row.</p>
