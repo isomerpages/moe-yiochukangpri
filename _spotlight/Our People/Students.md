@@ -82,25 +82,4 @@ Primary 6 seniors. We eventually became a close-knit family.</p>
 <hr>
 <p>*<strong>Class of 2025</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Zach_Goh.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>I like playing games during English lessons because they make learning
-fun and exciting! My favourite is Four-in-a-Row.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
