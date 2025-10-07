@@ -4,52 +4,130 @@ permalink: /student-individual-achievements/
 variant: tiptap
 description: ""
 ---
-<h1>2025</h1>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Events</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Team Achievement</strong>
-</p>
+<p>Primary 2 Singapore and Asian Schools Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Honourable Mention</strong> (Lucius Thein, Respect 6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>2025 National Mathematical Olympiad of Singapore</em></strong>
-</p>
-<p>(A national-level mathematics competition for primary school students
-which aims to generate greater interest in Mathematics among students;
-cultivate enthusiasm and instil a love for Mathematics; provide an avenue
-to challenge and stretch our students’ mathematical potential; and nurture
-mathematical talents in our youths)</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver Award</p>
-<p>4 Bronze Awards</p>
-<p>8 Honourable Mention</p>
-<p>&nbsp;</p>
+<p>Primary 3 Singapore and Asian Schools Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong> (Song Churan, Responsibility 6)</p>
+<p><strong>Silver</strong> (Su Qi Amaris, Responsibility 5)</p>
+<p><strong>Bronze</strong> ( Sahana Sthanunathan and Ong Yan Zhe Responsibility
+6; Seah Yue En, Responsbility 5)</p>
+<p><strong>Honourable Mention </strong>(Akxel Lance Kusumo, Responsibility
+5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>2025 Singapore Primary Science Olympiad</em></strong>
-</p>
-<p>(National competition which aims to instil passion in Science, nurture
-Science talents and showcase students' abilities in the subject)</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver Award</p>
-<p>2 Bronze Award</p>
-<p>4 Merit Award</p>
-<p>&nbsp;</p>
+<p>Primary 4 Singapore and Asian Schools Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong> (Howard Koh Wen Yi, Integrity 6)</p>
+<p><strong>Bronze</strong> (Nguan Ai Zhen Grace and Dong Eric, Integrity 6;
+Ng Jing Tian, Rykiel, Integrity 5)</p>
+<p><strong>Honourable Mention</strong> (Advik Ajayan and Hoang Dieu Linh,
+Integrity 6;Truong Manh Thai An (Ryan), Agarwal Ayaan and Pratit Priyansh
+Hota, Integrity 5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 6 Raffles Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction (</strong>Ng Xi En, Keian, Excellence 1)</p>
+<p><strong>Merit</strong> (Lu Mingze, Hipona Rand Ambrose Ramos, Lee Genest
+Leonard Lewen, Wu Ji Xiang Mac,Huang Yuege and Ong Teng Yi, Excellence
+1; Cheng Yiyang and Gu Xibei (Benjamin), Excellence 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil - Literary Confluence 2025&nbsp; Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st Prize</strong> (Valliappan Chockalingam, Resilience 2)</p>
+<p><strong>Certificate of Participation</strong> (Narthanan Mahaadhi, Integrity
+5; Thiruvarasu S/O Ramachandran, Integrity 6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tirukkural Vizha 2025&nbsp;Tamil Literary Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3rd Prize</strong> (Saravanan Sriram, Respect 4)</p>
+<p><strong>Motivation Prize</strong> (M Hariin, Care 2)</p>
 </td>
 </tr>
 </tbody>

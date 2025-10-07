@@ -3,65 +3,85 @@ title: Students
 permalink: /e-open-house-2022/our-people/students/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/2023/E%20open%20house%202023/sasha%20rajkumar%20(care%206).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;"> I enjoy art lesson because I can show my creativity through my drawings. I have learnt to use the different colouring and drawing techniques for my drawings.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/joseph%20asbrie%20callen%20(respect%202).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;"> I love PAL lessons because they are fun. For one lesson, we got to go to the music room and watch a video about a girl who went through some challenges and became stronger. It taught us that we should not give up. We also took part in music activities and went to the school garden to listen to the sounds of nature. It was relaxing to listen to birds chirping.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/keian%20ng%20(integrity%205).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;"> The Applied Learning Programme eSTEM@YCKPS taught me how to contribute to a greener Singapore. My classmates and I got to go on a learning journey to an urban farm. I really enjoyed it because I got to learn how to grow various types of vegetables and even helped the urban farmers to plant some of them.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/ong%20jia%20wei%20(resilience%205).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">I enjoy using my iPad for lessons as my teachers create fun activities for us. My favourite activity is ‘Time to Climb’ on Nearpod because I get to challenge my friends and it is a fun way to revise what I had learnt. It is also easier to do group activities with my friends using my iPad. We get to create mind-maps and word clouds, and I like that because we can see everyone’s responses and we get to use our mind-mapping skills to help in our revision.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/sathish%20krishna%20ankita%20(resilience%202).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">During my P2 PAL lessons, I created a robot with my group mates. We had to win games in order to earn fake money, which we could then use to buy items to build a robot. My group bought many toilet paper rolls to build our robot. I had a lot of fun because I liked working together with my classmates and we learnt how to work together well and not fight with one another.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/isabelle%20siow%20hui%20xuan%20(excellence%204).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">I enjoy being an Eco Monitor because I get to encourage friends to recycle and to do so correctly, such as putting the recyclables into the correct bins as part of our school-wide recycling efforts. I also like designing posters to spread the recycling message and to promote recycling. When we first started as Eco Monitors, we attended a training course where the teachers taught us how to become confident leaders. I feel that being an Eco Monitor is an important role because I lead by example and guide my schoolmates to be more environmentally responsible.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/irfan%20bin%20muhammad%20faiz%20(responsibility%207).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">As a prefect, I help students such as guiding them to their classes and maintain order in the canteen. One fun thing I get to do as a prefect is play team-bonding games during prefect training sessions. I enjoy being a prefect because I get to help other students. It helped me develop courage as I sometimes have to give instructions to older students.</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/nur%20quraisyah%20binte%20muhamad%20amin%20(excellence%204).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">I like to dance at home, so I decided to join the Malay Dance CCA. I will sometimes even sing along as I dance! I get along very well with the other Malay Dance members, and we always have a good time talking and practising our routines during CCA sessions. Our CCA teachers also advise us on how to improve our dance techniques and always encourage us to improve. I would definitely recommend my juniors to join the Malay Dance CCA as they will create great memories!</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/chong%20jia%20qi,%20caelyn%20(integrity%205).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">I joined the Brownies because there are fun activities like camps and learning crafts such as making scrunchies. I enjoyed the camp because I learnt how to cook and got to visit the River Safari with my friends! My Brownies seniors and teachers have helped me a lot and I learnt how to respect everyone. It is like having many sisters!</p>
-
----
-
-<img src="/images/2023/E%20open%20house%202023/sahay%20thea%20savana%20nicole%20calupit%20(resilience%202).jpg" style="width:300px;height:auto;" align="center">
-
-<p style="text-align:center;">I joined Volleyball because I can participate actively in a game that I really like. The love for Volleyball runs in my family, with my grandmother and mother being Volleyball players as well! Volleyball has given me leadership opportunities, such leading the members for our warm-up routines. These opportunities have helped me to understand the importance of clear and respectful communication with my members, thus helping me to grow as a leader. In addition, I also love participating in competitions. Competitions motivate me to be resilient. Even when we do not win, I believe that it is important to keep going and continue training hard. Our members also encourage each other a lot, which helps to boost the team morale.</p>
-
----
-***Class of 2023**
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100" alt="Alt text" src="/images/1_Zach_Goh.png">
+</div>
+<p>I like playing games during English Language lessons because they make
+learning fun and exciting! My favourite is Four-in-a-Row. In the game,
+we change words from present to past tense. It helps me learn and I always
+have fun playing it with my friends!</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2_Adreena.png">
+</div>
+<p>I enjoy PAL lessons especially Sports and Games. I get to work together
+with my friends.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3_Eston_Teo.png">
+</div>
+<p>I feel very excited each day as every day in school is very interesting!
+I look forward to going for learning journeys with my classmates. I also
+lead the class when we move around the school on the same level. My peers,
+especially my buddies, help me by taking the lift with me. My teachers
+and classmates are very inclusive and modify the lessons to ensure that
+I can participate. For example, during Music lesson, they lift the bamboo
+sticks higher and modify the steps for me to participate in the traditional
+bamboo stick dance. I also become the second pair of eyes to help my PE
+teacher monitor if any of my classmates are doing the movements wrongly.
+I was also given the opportunity to participate in Readers’ Theatre recital
+in front of the whole school during Assembly programme. In all, YCKPS develops
+me well and I look forward to school!</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/4_Aqisha.png">
+</div>
+<p>I joined recess busking this year because I was inspired by my favourite
+singers. This is my first time singing a song in front of a crowd although
+I have performed a dance item before. Even though I was shy, my teachers’
+and friends’ encouragement and support gave me the courage to take part
+in it.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/5_Qian_Le.png">
+</div>
+<p>My EPW experience taught me to be a good team player. My group worked
+on a project about water conservation, creating slides to teach our schoolmates
+how to save water. I helped design the slides with my friends. Although
+we had different ideas at first, we listened to each other and worked it
+out. My favourite part was the recess presentation where we got to display
+our hard work to our schoolmates!</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/6_Aahil.png">
+</div>
+<p>I join Football (Boys) CCA because I enjoy playing the sport and want
+to learn new skills. Aside from competitions, we are also given opportunities
+to participate in mini matches to practise the skills that we have learnt
+and experience the excitement of competing together as a team. It also
+keeps me physically active and helps me to communicate better with others!</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7_Kingsley.png">
+</div>
+<p>I join Scouts CCA because I look forward to going for camps. I have participated
+in a few camps including school-based combined uniformed group camp and
+external camps. My most memorable event was the Sixer Camp where we learnt
+skills such as helping to resolve a conflict. I also enjoy cooking our
+own noodles using metal tin. I am thankful to my teachers for choosing
+me and giving me the opportunity to participate in the Sixer Camp!</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/8_Heizer.png">
+</div>
+<p>I enjoy being in the Angklung and Kulintang CCA, which I’ve been part
+of for three years. Although I wasn’t keen at first, I grew to love playing
+instruments and made many friends. I struggled with reading music at the
+start but improved over time. My favourite memory was bonding with the
+Primary 6 seniors. We eventually became a 'closely-knitted family'.</p>
+<hr>
+<p>*<strong>Class of 2025</strong>
+</p>
+<p></p>
