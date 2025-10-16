@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100" alt="Alt text" src="/images/1_Zach_Goh.png">
+<img style="width: 50%;" height="auto" width="100" alt="Alt text" src="/images/1_Zach_Goh.png">
 </div>
 <p>I like playing games during English Language lessons because they make
 learning fun and exciting! My favourite is Four-in-a-Row. In the game,
@@ -14,13 +14,13 @@ we change words from present to past tense. It helps me learn and I always
 have fun playing it with my friends!</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2_Adreena.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2_Adreena.png">
 </div>
 <p>I enjoy PAL lessons especially Sports and Games. I get to work together
 with my friends.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3_Eston_Teo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/3_Eston_Teo.png">
 </div>
 <p>I feel very excited each day as every day in school is very interesting!
 I look forward to going for learning journeys with my classmates. I also
@@ -36,7 +36,7 @@ in front of the whole school during Assembly programme. In all, YCKPS develops
 me well and I look forward to school!</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/4_Aqisha.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_Aqisha.png">
 </div>
 <p>I joined recess busking this year because I was inspired by my favourite
 singers. This is my first time singing a song in front of a crowd although
@@ -45,7 +45,7 @@ and friends’ encouragement and support gave me the courage to take part
 in it.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/5_Qian_Le.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/5_Qian_Le.png">
 </div>
 <p>My EPW experience taught me to be a good team player. My group worked
 on a project about water conservation, creating slides to teach our schoolmates
@@ -55,7 +55,7 @@ out. My favourite part was the recess presentation where we got to display
 our hard work to our schoolmates!</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/6_Aahil.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/6_Aahil.png">
 </div>
 <p>I join Football (Boys) CCA because I enjoy playing the sport and want
 to learn new skills. Aside from competitions, we are also given opportunities
@@ -64,7 +64,7 @@ and experience the excitement of competing together as a team. It also
 keeps me physically active and helps me to communicate better with others!</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7_Kingsley.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7_Kingsley.png">
 </div>
 <p>I join Scouts CCA because I look forward to going for camps. I have participated
 in a few camps including school-based combined uniformed group camp and
@@ -74,7 +74,7 @@ own noodles using metal tin. I am thankful to my teachers for choosing
 me and giving me the opportunity to participate in the Sixer Camp!</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/8_Heizer.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/8_Heizer.png">
 </div>
 <p>I enjoy being in the Angklung and Kulintang CCA, which I’ve been part
 of for three years. Although I wasn’t keen at first, I grew to love playing
