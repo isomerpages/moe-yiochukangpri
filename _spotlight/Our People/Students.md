@@ -36,13 +36,40 @@ in front of the whole school during Assembly programme. In all, YCKPS develops
 me well and I look forward to school!</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_Aqisha.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_Lim_En_Rui.png">
+</div>
+<p>During Chinese lesson, I use artificial intelligence (AI) on an iPad to
+analyse my compositions. The AI will comment on how I can make improvements
+in my writing skills. I like using the iPads for learning as we can ask
+questions and the AI will customise its answer. It is very resourceful.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/5_Aqisha.png">
 </div>
 <p>I joined recess busking this year because I was inspired by my favourite
 singers. This is my first time singing a song in front of a crowd although
 I have performed a dance item before. Even though I was shy, my teachers’
 and friends’ encouragement and support gave me the courage to take part
 in it.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/6_Adalie.png">
+</div>
+<p>I had the opportunity to participate in Science Busking this year. I had
+to build a model of a house and prepare speeches together with my teammates.
+It was memorable as I get to experience the joy of being able to represent
+the school in the competition together with my friends.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7_Thaddaeus.png">
+</div>
+<p>My classmates and I went for a Values in Action (VIA) project this year
+at an active ageing centre. We prepared our own board games and some of
+my classmates were chosen to do the presentation. It was very fun as we
+folded origami with the elderly. We also played some board games with them.
+The most memorable part was being able to interact with the elderly. Even
+though most of them only spoke Chinese, we worked together with our classmates
+to make everyone feel included.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/5_Qian_Le.png">
