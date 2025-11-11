@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Language</p>
+<p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Lin</p>
@@ -227,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Yuting</p>
