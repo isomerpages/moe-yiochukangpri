@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Malay Food Stall | 31 Dec 2025 | Rice or noodle is acceptable |
+| Soup Noodle Stall | 31 March 2026 | |
 
 **Application Procedure**
 <br>
@@ -44,7 +44,8 @@ variant: markdown
 
 **Interest applicants must meet the following criteria:**
 
-*   Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+*   Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.
+*   Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work. 
     
 *   Able to provide good service and quality food with prices determined in consultation with the school.
     
@@ -53,15 +54,15 @@ variant: markdown
 *   Able to maintain high standard of food safety and personal hygiene.
     
 *   Healthy and fit to operate the stall.
+*   Must be in personal attendance at the stall.
+*   Preferably possess catering experience or experience operating in a school environment
     
 
 **Applicants should preferably fulfil the following criteria:**
 
-*   Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+*   Successful applicant and stall assistant(s) operating the stall must attend and pass the food safety course level 1 conducted by SkillsFuture Singapore approved training providers. 
     
-*   Possess catering experience or experience operating in a school environment.
-    
-*   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+*   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA) to operate the stall.
 
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
 
