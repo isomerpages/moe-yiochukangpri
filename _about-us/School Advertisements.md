@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Soup Noodle Stall | 31 March 2026 | |
+| Soup Noodle Stall | 31 March 2026 | Noodles only|
 
 **Application Procedure**
 <br>
