@@ -45,7 +45,7 @@ levels.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_2S2F__FMA_FSC_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (2S2F Maths and Science)</a>
+<p><a href="/files/2026 Booklist/P6__2S_FMA_SC__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 (2S2F Maths and Science)</a>
 </p>
 </li>
 <li>
