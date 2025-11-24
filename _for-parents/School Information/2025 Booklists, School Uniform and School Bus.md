@@ -9,13 +9,13 @@ third_nav_title: School Information
 </p>
 <p>Please click on the following links for the booklists of the respective
 levels.</p>
-<p><a href="/files/2025 Booklist/P1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+<p><a href="/files/2026 Booklist/P1_2026_YCKPS.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
-<p><a href="/files/2025 Booklist/P2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+<p><a href="/files/2026 Booklist/P2_YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
 </p>
-<p><a href="/files/2025 Booklist/P3.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/2026 Booklist/P3_YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
 </p>
-<p><a href="/files/2025 Booklist/P4.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/2026 Booklist/P4_YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
 </p>
 <p><strong>Primary 5</strong>
 </p>
