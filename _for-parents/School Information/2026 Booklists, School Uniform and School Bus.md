@@ -57,7 +57,7 @@ levels.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_FDN.pdf" rel="noopener nofollow" target="_blank">P6 Foundation</a>
+<p><a href="/files/2026 Booklist/P6__FDN__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">P6 Foundation</a>
 </p>
 </li>
 </ul>
