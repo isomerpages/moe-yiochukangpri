@@ -49,11 +49,11 @@ levels.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_2S2F__FMA_FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (2S2F Maths and MTL)</a>
+<p><a href="/files/2026 Booklist/P6__2S_FMA_MT__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 (2S2F Maths and MTL)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P6_1S3F__FMTL_FMA_FSC_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (1S3F MTL, Maths and Science)</a>
+<p><a href="/files/2026 Booklist/P6__3F1S__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3F1S MTL)</a>
 </p>
 </li>
 <li>
