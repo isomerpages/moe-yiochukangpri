@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Information
 ---
-<p><strong>2025 Booklists</strong>
+<p><strong>2026 Booklists</strong>
 </p>
 <p>Please click on the following links for the booklists of the respective
 levels.</p>
