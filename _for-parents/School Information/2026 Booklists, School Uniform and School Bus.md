@@ -53,7 +53,7 @@ levels.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Booklist/P6__3F1S__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3F1S MTL)</a>
+<p><a href="/files/2026 Booklist/P6__3F1S__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 (3F1S English)</a>
 </p>
 </li>
 <li>
