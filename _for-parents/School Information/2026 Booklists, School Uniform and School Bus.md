@@ -21,25 +21,12 @@ levels.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025 Booklist/P5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+<p><a href="/files/2026 Booklist/P5_YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Booklist/P5_3S1F__FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1F MTL)</a>
+<p><a href="/files/2026 Booklist/P5__3S1F_MT__YCKPS_2026.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1F MTL)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025 Booklist/P6_3S1F__FMA_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (3S1F Maths)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Booklist/P5_2S2F__FMA_FMTL_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (2S2F Maths and MTL)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Booklist/P5_2S2F__FMA_FSC_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (2S2F Maths and Science)</a>
-</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Primary 6</strong>
