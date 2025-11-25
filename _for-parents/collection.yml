@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 2024/School Year Book.md
       - 2024/.keep
       - Parent Support Group (PSG).md
       - School Information/.keep
