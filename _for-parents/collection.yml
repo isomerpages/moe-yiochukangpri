@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - School Year Book/.keep
-      - School Year Book/2024.md
       - School Year Book/2025.md
+      - School Year Book/2024.md
       - Parent Support Group (PSG).md
       - School Information/.keep
       - School Information/School Notifications & Communications Materials.md
