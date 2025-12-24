@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | --- | --- | --- |
-| Soup Noodle Stall | 31 March 2026 | Noodles only|
+| Halal Noodles (Mee Siam, Mee Rebus, Mee Soto) and Nasi Lemak Stall | 31 December 2026 | Noodles (Mee Siam, Mee Rebus, Mee Soto) and Nasi Lemak|
 
 **Application Procedure**
 <br>
