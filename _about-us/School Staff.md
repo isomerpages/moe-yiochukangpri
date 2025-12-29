@@ -457,7 +457,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Kai Xin</p>
+<p>Mdm Tan Kai Sin</p>
 </td>
 </tr>
 <tr>
