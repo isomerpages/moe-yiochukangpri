@@ -31,6 +31,14 @@ variant: tiptap
 <p>Mdm Ramachandra Suguna</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Suah Jun</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -62,26 +70,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lip Chon Wai (covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shahizah Mohd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yu Xin, Stella</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +97,7 @@ variant: tiptap
 <p>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chiang Siew Lee</p>
+<p>Mr Alex Lee Tiong Huat</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Primary</p>
+<p>Primary 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Thai Ee Lin Elaine</p>
@@ -139,15 +131,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Middle Primary</p>
+<p>Primary 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Loo</p>
+<p>Mr Chew Au Sheng, Victor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Primary</p>
+<p>Primary 1 and 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Huiyin, Amelia</p>
@@ -161,7 +153,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Middle Primary</p>
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Doris Choong Wen Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi En Andrea</p>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadine</p>
+<p>Mdm Sharon Teo Teng Lai @ Nadine Teo</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 <p>Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Larry Lim</p>
+<p>Mr Lim Swee Leng Larry</p>
 </td>
 </tr>
 </tbody>
@@ -222,7 +222,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Calista Yong</p>
+<p>Mr Lip Chon Wai</p>
 </td>
 </tr>
 <tr>
@@ -272,15 +272,7 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dasimah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Peng Xinyu</p>
+<p>Mdm Dasimah Bte Mohamed Daud</p>
 </td>
 </tr>
 <tr>
