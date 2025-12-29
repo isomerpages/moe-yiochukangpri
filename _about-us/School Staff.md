@@ -1173,6 +1173,14 @@ variant: tiptap
 <p>Mdm Jeyanthy d/o N Veerasamy</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Gek Hwa</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Other Support Staff</h2>
