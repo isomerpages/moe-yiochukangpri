@@ -156,7 +156,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Doris Choong Wen Ping</p>
+<p>Ms Doris Choong Wen Ping</p>
 </td>
 </tr>
 <tr>
