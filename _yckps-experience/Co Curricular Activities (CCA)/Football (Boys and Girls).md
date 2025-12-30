@@ -53,7 +53,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Syafiq B Hashim</p>
+<p>Ms Debbie Huang Kai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Han Li Qian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
