@@ -23,8 +23,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lu Yun*
 <br>Mdm Siti Hadzzier Binte Hamzah
-<br>Ms Phan Yi-Wen
-<br>Ms Nicole Lim Yu Tong
+<br>Ms Chermaine Tay Yue Ling
 <br>
 </p>
 </td>
