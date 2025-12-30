@@ -22,7 +22,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Marissa Rose Binte Dino*
-<br>Ms Siti Nur Amalina Binte Kamalazami
 <br>Ms Liu Jiangshan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +38,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Putri Qurratuaini Binte Yusri</p>
+<p>Ms Hazirah Binte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Giam Hwee [Evelyn Tan]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
