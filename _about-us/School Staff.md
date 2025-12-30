@@ -1046,6 +1046,11 @@ variant: tiptap
 <p>Ms Saat Bin Arifin</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Yew Yee</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>School Counsellor/ Special Education Needs Officer</h2>
