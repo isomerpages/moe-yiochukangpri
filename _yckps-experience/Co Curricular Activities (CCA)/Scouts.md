@@ -30,6 +30,14 @@ variant: tiptap
 <p>Foyer/Canteen</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Jian Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
