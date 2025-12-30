@@ -123,6 +123,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 1 and 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Huiyin, Amelia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,14 +143,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chew Au Sheng, Victor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1 and 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Huiyin, Amelia</p>
 </td>
 </tr>
 <tr>
