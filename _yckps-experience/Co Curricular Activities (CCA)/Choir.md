@@ -29,14 +29,6 @@ variant: tiptap
 <p>Music Room 1</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Pereira Cheryl Natasha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>(*denotes the Overall-in-charge Teacher)&nbsp;</p>
