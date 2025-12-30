@@ -22,8 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Hwei Ling*
-<br>Ms Lin Jianing
-<br>Ms Peng Xinyu</p>
+<br>Ms Lin Jianing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
@@ -32,6 +31,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Hui Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kai Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
