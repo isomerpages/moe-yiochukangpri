@@ -63,16 +63,19 @@ levels.</p>
 </ul>
 <p><strong>Purchase of School Uniform</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/YCKPS___Uniform_Order_Form.pdf" rel="noopener nofollow" target="_blank">Price list (Updated)</a>
+<p><em>School Uniform Supplier - Shirley Season Wear</em>
+<br>Address: 7030 Ang Mo Kio Ave 5#04-55 Northstar @ AMK Singapore 569880
+(Take Lift Lobby 1)</p>
+<p>Opening Hours:
+<br>January - November: 12.00 p.m. to 6.00 p.m. (closed on Sundays &amp; Public
+Holiday)
+<br>December: 12.00 p.m. to 6.00 p.m. (opens daily, Monday - Sunday)</p>
+<p>Retail: 6280 4917
+<br>WhatsApp: 9769 5678
+<br>Email: <a href="mailto:getintouch@shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
+<br>Website: <a href="http://www.shirleyuni.com" rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Buying_Guide___Home_Delivery___Self_Collection_Uniform_Vendor_.pdf" rel="noopener noreferrer nofollow" target="_blank">Buying Guide</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p><strong>School Bus Service</strong>
 </p>
 <ul data-tight="true" class="tight">
