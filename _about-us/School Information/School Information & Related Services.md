@@ -152,100 +152,42 @@ with staff.</p>
 </li>
 </ul>
 <h2>School Related Services</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Beau Voix Uniform Supplier<br></u></strong>Contact No
-<br>Online
-<br>Email<u><br></u>
+<p></p>
+<p><strong><u>Shirley Season Wear Uniform Supplier</u></strong>
+<br>Address: 7030 Ang Mo Kio Ave 5#04-55 Northstar @ AMK Singapore 569880
+(Take Lift Lobby 1)
+<br>Opening Hours:
+<br>January - November: 12.00 p.m. to 6.00 p.m. (closed on Sundays &amp; Public
+Holiday)
+<br>December: 12.00 p.m. to 6.00 p.m. (opens daily, Monday - Sunday)
+<br>Retail: 6280 4917
+<br>WhatsApp: 9769 5678
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">getintouch@shirleyuni.com</a>
+<br>Website: <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>: 91016350
-<br>: www.beauvoix.com.sg
-<br>: info@beauvoix.com.sg
-<br>
+<p></p>
+<p><strong><u>School Dental Clinic</u></strong>
+<br>Operation Hours: Monday, Wednesday and Friday (8.00 a.m. to 5.00 p.m.),
+Tuesday and Thursday (8.00 a.m. to 5.30 p.m.)
+<br>Clinic will be opened on alternate weeks.
+<br>Lunch Hours: 1.00 p.m. to 2.00 p.m.
+<br>Contact No: 8764 5325</p>
+<p></p>
+<p><strong><u>Pacific Bookstores Pte Ltd</u></strong>
+<br>Operation Hours: Monday - Friday (2.00 p.m. to 3.00 p.m.)
+<br>Contact No: 9475 1339
+<br>Email : <a rel="noopener noreferrer nofollow" target="_blank">yckps@pacificbookstores.com</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>School Dental Clinic<br></u></strong>Operation Hours
-<br>Lunch Hours
-<br>Contact No
-<br>
+<p></p>
+<p><strong><u>Ace @ Work Student Care Centre (SCC)</u></strong>
+<br>Contact No : 8418 9633
+<br>Email : <a rel="noopener noreferrer nofollow" target="_blank">feedbackyckps@aceatwork.com.sg</a>
+<br>Website : <a rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace538720</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u><br></u></strong>: School Term Tuesday &amp; Thursday (8.00
-a.m. to 5.30 p.m.)
-<br>: 12.30 p.m. to 1.30 p.m.
-<br>: 63854154
-<br>
+<p></p>
+<p><strong><u>Keomin Bus Service</u></strong>
+<br>Contact Person: Mr Zen Lee
+<br>Contact No.: 8620 0600
+<br>Email: <a href="mailto:keominbus@gmail.com" rel="noopener noreferrer nofollow" target="_blank">keominbus@gmail.com</a> 
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Keomin Bus Service<br></u></strong>Contact Person
-<br>Contact No
-<br>Email
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>: Mr Zen Lee
-<br>: 8620 0600
-<br>: keominbus@gmail.com
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Pacific Bookstores Pte Ltd<br></u></strong>Operation Hours
-<br>Contact No
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<p>: Monday to Friday (2.00 p.m. to 3.30 p.m.)
-<br>: 62436884
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Ace @ Work Student Care Centre (SCC)</u></strong> 
-<br>Ace@Work
-<br>Contact No
-<br>Email
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>: 80225576
-<br>:&nbsp;<strong><a href="https://www.aceatwork.com.sg/ace538720" rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace538720</a></strong>
-</p>
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
