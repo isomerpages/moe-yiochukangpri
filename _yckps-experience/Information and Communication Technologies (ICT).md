@@ -159,4 +159,7 @@ engaging assembly talks that relate to real-life online experiences.</p>
 <p>To strengthen peer influence, trained <em>Cyberwellness Ambassadors</em> take
 the lead in promoting responsible digital behaviour. By sharing practical
 tips, they help create a positive digital culture where students not only
-thrive online but also look out for one another.</p>
+thrive online but also look out for one another. Please refer to the following
+link for YCKPS AUP (Acceptable Use Policy) for use of EdTech Resources.</p>
+<p><a href="/files/EdTech ICT/YCKPS_AUP.pdf" rel="noopener nofollow" target="_blank">YCKPS AUP</a>
+</p>
