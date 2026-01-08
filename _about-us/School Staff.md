@@ -82,7 +82,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Gian Hwee, Evelyn</p>
+<p>Ms Evelyn Tan Gian Hwee</p>
 </td>
 </tr>
 <tr>
@@ -409,7 +409,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Jian Li</p>
+<p>Mr Seah Jian Li</p>
 </td>
 </tr>
 <tr>
