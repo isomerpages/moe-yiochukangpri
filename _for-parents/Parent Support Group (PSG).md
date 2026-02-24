@@ -55,14 +55,18 @@ and the events we organize, feel free to drop us an email at&nbsp;<strong>psg.yc
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Audrey Chew</p>
-<p>Mdm Farhanah Mohd Kassim</p>
-<p>Mdm Fathmath Amaanee Shaahid</p>
-<p>Mr Michael Gilbert</p>
-<p>Mr Mohamed Asath S/O Sahul Hameed</p>
-<p>Mdm Radhika Ramachandran</p>
-<p>Mdm Suzanne Liaw</p>
-<p>Mdm Wu Sihui</p>
+<p>Chairperson: Mr. Mohamed Asath
+<br>Vice-Chairperson: Mdm. Wu Sihui
+<br>Secretary cum Treasurer: Mdm. F. Amaanee Shaahid
+<br>Assistant Secretary: Mdm. Suzanne Liaw
+<br>Advisor: Mdm. Farhanah M. Kassim</p>
+<p>
+<br>Members:
+<br>Mdm. Audrey Chew
+<br>Mdm. Fenny L. Saputra
+<br>Mdm. Radhika Ramachandran
+<br>Mr. Aaron Chan
+<br>Mr. Michael Gilbert</p>
 </td>
 </tr>
 </tbody>
