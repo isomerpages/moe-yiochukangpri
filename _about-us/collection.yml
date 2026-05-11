@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Vision, Mission and Values.md
       - Principal's Foreword.md
       - School Management Committee.md
       - School Staff.md
       - School History.md
+      - School Vision, Mission and Values.md
       - School Ethos and Identity.md
       - School Information/.keep
       - School Information/School Information & Related Services.md
