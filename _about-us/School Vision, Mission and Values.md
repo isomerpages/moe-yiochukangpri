@@ -4,9 +4,6 @@ permalink: /school-vision-mission-and-values/
 variant: markdown
 description: ""
 ---
-
-
-
 School Mission
 --------------
 
@@ -28,7 +25,7 @@ Extending Hands
 School Values
 -------------
 <br>
-Our school values encompass the six main core values&nbsp;highlighted in the school vision statement. 
+Our school values encompass the six main core values.
 <br>
 
 #### CARE
@@ -42,5 +39,3 @@ Our school values encompass the six main core values&nbsp;highlighted in the sch
 #### RESILIENCE
 
 #### EXCELLENCE
-
-
