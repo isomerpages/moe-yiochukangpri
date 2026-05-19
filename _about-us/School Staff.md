@@ -1151,6 +1151,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wilson Hong Tin Kin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1240,10 +1248,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p>Desktop Engineers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Baihaqi B Noor Azmishah Nud-Din</p>
+<p>Mr Seyhman A/L Shankar</p>
 </td>
 </tr>
 <tr>
