@@ -31,8 +31,7 @@ in strong social-emotional and life skills</p>
 <p><strong>Appreciation for the Arts:</strong>&nbsp;Developing awareness
 and appreciation of diverse art forms and expressions across cultures,
 broadening students' perspectives and instilling a sense of identity</p>
-</li>
-</ul>
+<p></p>
 <p></p>
 <p><strong>The Design Approach of CREATE@YCKPS</strong>
 </p>
@@ -229,4 +228,4 @@ within the school where our young learners start their artistic journey</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p></p>
+<p></p></li></ul>
