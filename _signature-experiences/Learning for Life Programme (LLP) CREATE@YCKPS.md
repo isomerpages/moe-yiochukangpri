@@ -45,35 +45,147 @@ the arts.</p>
 <p>CREATE @YCKPS is delivered through a range of purposefully designed experiences
 across all levels.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/LLP.png">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Exposure to the Arts (School-wide Experiences)</strong>
+<p><strong>Exposure to the Arts (School-wide Experiences)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aesthetics Experience @Assembly - Igniting curiosity and engaging young
+minds to the breathtaking world of art, music, and performance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Assembly_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Assembly_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Assembly_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Assembly_1.jpg">
+</div>
 </li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aesthetics Experience @Assembly
-- Igniting curiosity and engaging young minds to the breathtaking world
-of art, music, and performance</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aesthetics Week - Our much-anticipated
-annual celebration of the arts, where our students take center stage through
-lunchtime concerts, busking corners and collaborative performances.</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploring @The Art Space – Explore,
-Create, Be inspired! A dedicated place within the school where our young
-learners start their artistic journey</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Exploring the Arts (Level Experiences)</strong>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aesthetics Week - Our much-anticipated annual celebration of the arts,
+where our students take center stage through lunchtime concerts, busking
+corners and collaborative performance.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Week_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Week_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Week_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Week_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Aesthetics_Week_5.jpg">
+</div>
+<p></p>
+</li>
+<li>
+<p>Exploring @The Art Space – Explore, Create, Be inspired! A dedicated place
+within the school where our young learners start their artistic journey</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;<strong>Exploring the Arts (Level Experiences)</strong>
 </p>
-<p>o&nbsp;&nbsp; Arts-based PAL Modules</p>
-<p>o&nbsp;&nbsp; Theatre Experience</p>
-<p>o&nbsp;&nbsp; Recess Busking</p>
-<p>o&nbsp;&nbsp; Museum-Based</p>
-<p>o&nbsp;&nbsp; YCKPS Art Exhibition By Our P6 Graduands</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Excellence in the Arts</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arts-based PAL Modules</p>
+</li>
+<li>
+<p>Theatre Experience</p>
+</li>
+<li>
+<p>Recess Busking</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Recess_Busking_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Recess_Busking_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Recess_Busking_1.jpg">
+</div>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Museum-Based</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Museum_Based_Learning_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Museum_Based_Learning_1.jpg">
+</div>
+<p></p>
+</li>
+<li>
+<p>YCKPS Art Exhibition By Our P6 Graduands</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_Exhibition_and_Graduation_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_Exhibition_and_Graduation_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_Exhibition_and_Graduation_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_Exhibition_and_Graduation_1.jpg">
+</div>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>&nbsp;<strong>Excellence in the Arts</strong>
 </p>
-<p>o&nbsp;&nbsp; External Performances</p>
-<p>o&nbsp;&nbsp; Competitions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>External Performances</p>
+</li>
+<li>
+<p>Competitions</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p></p>
