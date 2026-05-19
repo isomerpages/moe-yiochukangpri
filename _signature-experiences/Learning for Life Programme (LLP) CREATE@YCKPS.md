@@ -2,7 +2,7 @@
 title: Learning for Life Programme (LLP) CREATE@YCKPS
 permalink: /signature-programmes/learning-for-life-programme-llp-create-at-yckps/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Learning for Life Programme (LLP)&nbsp;: CREATE @YCKPS</strong>
 </p>
@@ -32,7 +32,8 @@ in strong social-emotional and life skills</p>
 and appreciation of diverse art forms and expressions across cultures,
 broadening students' perspectives and instilling a sense of identity</p>
 <p></p>
-<p></p>
+</li>
+</ul>
 <p><strong>The Design Approach of CREATE@YCKPS</strong>
 </p>
 <p>At the heart of CREATE@YCKPS is the adoption of the ‘3E’ framework to
@@ -43,7 +44,7 @@ the arts.</p>
 </p>
 <p>CREATE @YCKPS is delivered through a range of purposefully designed experiences
 across all levels.</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/LLP.png">
 </div>
@@ -105,14 +106,12 @@ corners and collaborative performance.</p>
 <li>
 <p>Exploring @The Art Space – Explore, Create, Be inspired! A dedicated place
 within the school where our young learners start their artistic journey</p>
-</li>
-</ul>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
+</li>
+</ul>
+</li>
 <li>
-<p>&nbsp;<strong>Exploring the Arts (Level Experiences)</strong>
+<p><strong>Exploring the Arts (Level Experiences)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -195,7 +194,7 @@ within the school where our young learners start their artistic journey</p>
 </ul>
 </li>
 <li>
-<p>&nbsp;<strong>Excellence in the Arts</strong>
+<p><strong>Excellence in the Arts</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -225,7 +224,8 @@ within the school where our young learners start their artistic journey</p>
 </div>
 </li>
 </ul>
+<p></p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p></p></li></ul>
+<p></p>
