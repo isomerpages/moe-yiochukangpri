@@ -33,7 +33,7 @@ and appreciation of diverse art forms and expressions across cultures,
 broadening students' perspectives and instilling a sense of identity</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>The Design Approach of CREATE@YCKPS</strong>
 </p>
 <p>At the heart of CREATE@YCKPS is the adoption of the ‘3E’ framework to
