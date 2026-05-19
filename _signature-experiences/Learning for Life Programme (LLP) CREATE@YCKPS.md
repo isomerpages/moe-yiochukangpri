@@ -10,7 +10,7 @@ variant: tiptap
 <p><strong>CREATE@YCKPS</strong> is designed to provide a vibrant arts education
 that extends beyond the technical skillset to cultivate deep appreciation
 for the arts as part of the holistic development of students in YCKPS.
-&nbsp;CREATE@YCKPS entails:</p>
+CREATE@YCKPS entails:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Character through the Arts:</strong>&nbsp;Using visual and performing
@@ -118,6 +118,27 @@ within the school where our young learners start their artistic journey</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arts-based PAL Modules</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_PAL_Module_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_PAL_Module_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_PAL_Module_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_PAL_Module_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_PAL_Module_5.jpg">
+</div>
+<p></p>
 </li>
 <li>
 <p>Theatre Experience</p>
@@ -183,6 +204,26 @@ within the school where our young learners start their artistic journey</p>
 </li>
 <li>
 <p>Competitions</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Competition_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Competition_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Competition_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Competition_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Competition_5.jpg">
+</div>
 </li>
 </ul>
 </li>
