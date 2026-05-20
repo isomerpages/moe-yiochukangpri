@@ -142,7 +142,7 @@ variant: tiptap
 <p>Primary 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Au Sheng, Victor</p>
+<p>Mr Chew Ansheng, Victor</p>
 </td>
 </tr>
 <tr>
