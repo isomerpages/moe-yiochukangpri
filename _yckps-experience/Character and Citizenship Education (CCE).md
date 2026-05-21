@@ -69,6 +69,21 @@ students showed care and empathy by guiding their Primary 1 buddies during
 recess, helping them with food, routines, and making sure they felt included.
 Their support helped the younger students feel safe, confident, and welcomed
 in school.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P2_VIA.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>P3 Beach Cleaning Learning Experience:</strong> Students took part
 in beach cleaning activities during their Intertidal Learning Experiences,
 by collecting litter along coastal areas to help protect the marine environment
@@ -78,6 +93,28 @@ joy to seniors through companionship during their visits. They also shared
 the hydroponic vegetables they had grown themselves during their Hydroponics
 Project, combining scientific learning with character development by cultivating
 produce to give back to the community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P4_VIA_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P4_VIA_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>P5 Water Conservation Ambassadors Learning Experiences</strong>:
 Students served as Water Conservation Ambassadors, encouraging their schoolmates
 to save water. Applying what they had learned in their Project Work, they
