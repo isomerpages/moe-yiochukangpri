@@ -127,6 +127,42 @@ to save water. Applying what they had learned in their Project Work, they
 share practical tips and lead by example in their daily habits. Through
 their efforts, they turned knowledge into meaningful actions that benefits
 the school community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P5_VIA_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P5_VIA_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P5_VIA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P5_VIA_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>P6 Save the Earth Ambassadors Learning Experience</strong>: As
 Save the Earth Ambassadors, students demonstrated a deep sense of responsibility
 and commitment to environmental stewardship by organizing a school Recycling
