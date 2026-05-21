@@ -133,6 +133,10 @@ bee challenges with tech tools and reciting of tongue-twisters.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Spelling_Bee_in_action.jpg">
+</div>
 </li>
 <li>
 <p><strong>Reading Culture Initiatives:</strong>
