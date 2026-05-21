@@ -285,7 +285,39 @@ exchanges among friends from different ASEAN countries.</p>
 <p><strong>Racial Harmony Day:</strong> Celebration of Singapore’s rich cultural
 diversity through traditional games, hands-on activities, ethnic dress,
 and the creation of a collaborative tapestry.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/RHD_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/RHD_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/RHD_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/RHD_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>National Day:</strong> Meaningful observance ceremony and concert
