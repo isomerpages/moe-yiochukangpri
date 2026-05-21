@@ -54,6 +54,32 @@ to Upper Primary.</p>
 <p><strong>Collaborative Learning:</strong> Encouraging peer-to-peer interaction,
 such as the <strong>kidsREAD</strong> program where lower primary students
 engage with buddy readers from a secondary school.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/kidsREAD_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/kidsREAD_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/kidsREAD_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <hr>
