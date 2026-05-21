@@ -4,13 +4,25 @@ permalink: /yckps-experience/mathematics/
 description: ""
 variant: tiptap
 ---
-<p>In Yio Chu Kang Primary School, learning mathematics is an active process
-where students engage in meaningful activities and learning experiences
-to explore and learn mathematical concepts and skills. Through activity-based
-and inquiry-based learning, our teachers provide opportunities for students
-to apply what they have learnt, articulate their thinking and mathematical
-reasoning, hence allowing them to construct understandings of abstract
-mathematical concepts.</p>
+<h4><strong>Key Focus</strong></h4>
+<p>The Mathematics Department at YCKPS is guided by the <strong>MOE Mathematics Framework</strong>,
+which places <strong>problem-solving</strong> at its core. Our primary objectives
+include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Confidence and Mastery</strong>: Nurturing confident problem solvers
+who possess a deep understanding of mathematical concepts and skills.</p>
+</li>
+<li>
+<p><strong>Positive Attitudes</strong>: Fostering an interest in Mathematics
+by demonstrating its meaningfulness in real-life applications.</p>
+</li>
+<li>
+<p><strong>Thinking and Reasoning</strong>: Developing metacognitive and
+reasoning abilities that allow students to apply mathematical logic both
+in and beyond the classroom.</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,11 +72,34 @@ mathematical concepts.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Critical thinking in Problem Solving</strong>
-<br>The Polya’s 4 Steps (Understand, Plan, Do, Check) Approach is used to
-help students develop the habit of thinking to solve mathematics problems
-in a systematic manner. As students progress to a higher level, they are
-introduced to more strategies to help them handle more demanding problems.</p>
+<h4><strong>Pedagogical Approaches</strong></h4>
+<p>We utilize student-centric strategies to make Mathematics an engaging
+and active experience:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Inquiry-Based Learning</strong>: Students develop concepts and
+skills through hands-on activities, such as using physical manipulatives
+to investigate fractions.</p>
+</li>
+<li>
+<p><strong>Activity-Based &amp; Collaborative Learning</strong>: Lessons
+incorporate games and collaborative tasks to make learning social and exciting.</p>
+</li>
+<li>
+<p><strong>Ed-Tech Integration</strong>: Meaningful use of technology and
+tablets to deepen conceptual understanding and enhance mathematical literacy.</p>
+</li>
+<li>
+<p><strong>Real-World Application</strong>: Designing authentic tasks that
+mirror life scenarios, such as practical financial literacy activities
+using money and calculating operating hours of the school bookshop.</p>
+</li>
+<li>
+<p><strong>Professional Development for Teachers</strong>: Teachers regularly
+engage in lesson discussions and open classroom sessions led by Master
+Teachers to refine their instructional methods.</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -94,153 +129,68 @@ introduced to more strategies to help them handle more demanding problems.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Math Trails</strong>
-<br>Students learn best when they can apply their learning to everyday situations.
-The Mathematics Department organises Math Trails around the school for
-our students to experience mathematics in real-life. &nbsp;Students will
-get to solve authentic tasks at various parts of our school by applying
-the mathematics concepts and skills that they have learnt. In this way,
-our students will be able to see the applicability of the mathematical
-knowledge they have acquired.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Trail_3.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>Math Xcite!</strong>
-<br>Under the Math Xcite! programme, the Mathematics Department organises
-mathematics-related games and puzzles for all students. These activities
-aim to spark curiosity and allow students to experience the joy and excitement
-of learning mathematics in a fun and engaging way. In 2023 and 2024, the
-department introduced a Rubik’s Cube Challenge to bring the iconic puzzle
-closer to our students. The event generated much enthusiasm, with many
-students actively participating and expressing a keen interest in improving
-their solving skills. Beyond individual engagement, the Challenge also
-fostered a spirit of collaboration and mentorship — our Primary 6 students
-stepped up to guide their younger schoolmates in Primary 1 and 2, patiently
-teaching them the basics of solving the Rubik’s Cube. Through the Challenge,
-students not only explored the history and global competitive landscape
-of the Rubik’s Cube, but also experienced the joy of learning through play
-and peer interaction.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Maths_Xcite__7.jpg">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Xcite__6.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Enrichment – E2K Mathematics</strong>
-<br>For students who demonstrate aptitude and interest in Mathematics, our
-school offers the E2K Mathematics Enrichment Programme. This programme
-is designed to stretch students beyond the standard curriculum by engaging
-them in rich and challenging mathematical tasks. Grounded in an inquiry-based
-approach, E2K encourages students to explore, investigate, and reason through
-mathematical problems. Through guided discovery and collaborative discussions,
-students learn to make conjectures, test their ideas, and refine their
-thinking. This approach not only deepens their conceptual understanding,
-but also nurtures important 21st-century competencies such as critical
-thinking, perseverance, and communication.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Stretch__1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Math_Stretch__2.jpg">
-</div>
-<p><strong>Mathematics Competitions</strong>
-<br>To further stretch students who demonstrated aptitude for the subject,
-the Mathematics Department sends selected students to participate in various
-mathematics competitions.</p>
+<h4><strong>Key Programmes</strong></h4>
+<p>Our programmes cater to a diverse range of learning needs, from foundational
+skills to high-ability enrichment:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Raffles Institution Primary Mathematics Word Contest (RIPMWC)</p>
+<p><strong>Math Trails</strong>: An outdoor learning experience where students
+solve real-world problems around the school campus, such as at the school
+bookshop.</p>
 </li>
 <li>
-<p>National Mathematical Olympiad of Singapore (NMOS)</p>
+<p><strong>Enrichment - E2K Mathematics</strong>: A specialized programme
+designed to stretch the minds and nurture the potential of high-ability
+learners through deep mathematical discussion and thinking.</p>
 </li>
 <li>
-<p>Singapore and Asian Schools Math Olympiad (SASMO)</p>
+<p><strong>Maths Xcite!</strong>: A collection of activities that encourage
+logical thinking through puzzles and games, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sudoku</strong>
+</p>
+</li>
+<li>
+<p><strong>Magic Squares</strong>
+</p>
+</li>
+<li>
+<p><strong>Rubik’s Cube</strong>
+</p>
+</li>
+<li>
+<p><strong>Tower of Hanoi</strong>
+</p>
+</li>
+<li>
+<p><strong>Pentominoes</strong> (moving shapes to form a square).</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Competition_Winners_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Competition_Winners_2.jpg">
-</div>
-<p></p>
-<p></p>
+</li>
+<li>
+<p><strong>KooBits @ YCKPS</strong>: A digital platform that makes practice
+fun through daily challenges, encouraging a commitment to consistent, daily
+math habits.</p>
+</li>
+<li>
+<p><strong>Mathematics Competitions</strong>: Providing platforms for students
+to excel on a national and international level, with notable successes
+in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>SASMO (Singapore and Asian Schools Math Olympiad)</strong>: Awarding
+Gold, Silver, and Bronze winners at the Primary 3 and 4 levels.</p>
+</li>
+<li>
+<p><strong>NMOS (National Mathematical Olympiad of Singapore): </strong>Awarding
+Gold, Silver, and Bronze winners at Primary 5</p>
+</li>
+<li>
+<p><strong>RMO (Raffles Mathematics Olympiad)</strong>: Recognizing students
+with Certificates of Distinction</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
