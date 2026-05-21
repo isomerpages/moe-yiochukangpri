@@ -4,216 +4,120 @@ permalink: /yckps-experience/citizenship-education-cce/
 description: ""
 variant: tiptap
 ---
-<p>In YCKPS, <strong>every teacher is a CCE teacher</strong>. We are committed
-to student excellence and believe in holistic development of our students.
-Our students participate in various learning experiences, such as Values
-Education, Values in Action, National Education and so on. All these learning
-experiences are intentionally designed to anchor on our 6 school values,
-namely Care, Respect, Responsibility, Integrity,&nbsp;Resilience and&nbsp;Excellence,
-and focus on 6 domains – <strong>S</strong>ocial, <strong>I</strong>ntellectual, <strong>M</strong>oral, <strong>P</strong>hysical, <strong>L</strong>eadership
-and a<strong>E</strong>sthetic developments of our students, gearing them
-to become Youths of Character and useful citizens of Singapore.</p>
-<p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our School Values Ambassadors, visual anchors for values education.</strong>
+<p><strong>Character and Citizenship Education (CCE)</strong>
 </p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Boy_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Boy_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Girl_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Girl_2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values Education. Learn Through Play - Lego Values Express Programmes</strong>
+<p><strong>1) Key Focus</strong>
 </p>
-<p>Students learn about our 6 school values through LEGO play during lessons.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Citizenship Education CCE" src="/images/CCE1.jpg">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Lego.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/Lego_2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20250404_095721.jpg">
-</div>
-<p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education Commemorative Days</strong>
+<p>At YCKPS, CCE is central to the school’s mission to "nurture confident
+and self-directed learners who are keen to serve". Our focus includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Holistic Development:</strong> Providing school-wide educational
+experiences for character, social-emotional, and civic development.</p>
+</li>
+<li>
+<p><strong>Values Integration:</strong> Instilling core values and social-emotional
+competencies to build a strong sense of purpose.</p>
+</li>
+<li>
+<p><strong>Active Citizenship:</strong> Empowering students to become "Youths
+of Character" and useful citizens of Singapore who are resilient and contribute
+to the community.</p>
+</li>
+</ul>
+<hr>
+<p><strong>2) Pedagogical Approaches</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/0A1A1310.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p>In commemorating Total Defence Day, our students reflect on the importance
-of Total Defence as Singapore's best all-round&nbsp;response to threats
-and challenges that confront Singapore. Students learned about the 6 pillars
-and doing their part to protect Singapore and our shared way of life.</p>
-<p>We commemorate International Friendship Day to allow our students to be
-sensitized to Singapore's geopolitical realities, and to reflect on the
-importance of&nbsp;cross-cultural skills and the spirit of friendship and
-collaboration amongst different people.</p>
-<p>On Racial Harmony Day, our students reflect on and celebrate Singapore
-as a harmonious society built on a rich diversity of&nbsp;cultures and
-the collaborative effort of all to promote social cohesion.&nbsp;</p>
-<p>Our school-based commemoration brings to students a sense of the historical
-importance and solemnity of National Day.&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20250414_094233.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC_0919.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>We commemorate International Friendship Day to allow our students to be
-sensitized to Singapore's geopolitical realities, and to reflect on the
-importance of&nbsp;cross-cultural skills and the spirit of friendship and
-collaboration amongst different people.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/20230721_132923.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>On Racial Harmony Day, our students reflect on and celebrate Singapore
-as a harmonious society built on a rich diversity of&nbsp;cultures and
-the collaborative effort of all to promote social cohesion.&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC00397.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/DSC00444.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Our school-based commemoration brings to students a sense of the historical
-importance and solemnity of National Day.&nbsp;</p>
-<p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values in Action Learning Experiences</strong>
+<p>The department uses experiential and reflective strategies to make values
+come alive for every student:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Experiential Learning:</strong> Students engage in activities,
+such as simulated power disruptions for Total Defence, to appreciate the
+importance of emergency preparedness.</p>
+</li>
+<li>
+<p><strong>Meaningful Interactions:</strong> Direct engagement with the community,
+such as visiting Senior Active Aging Centres, to practice the values of
+empathy and care.</p>
+</li>
+<li>
+<p><strong>Cultural Engagement:</strong> Celebrating diversity through hands-on
+activities and student-led sharing during recesses in commemorating International
+Friendship Day and Racial Harmony Day.</p>
+</li>
+</ul>
+<hr>
+<p><strong>3) Key Programmes</strong>
 </p>
-<p>Our Values In Action learning experience nurtures students a commitment
-to address concerns of the community and nation and encourages them to
-exercise ownership over how they can contribute to the community and nation.
-Our students visited Jia Ying Active Ageing Centers to interact with and
-share not only their knowledge on hydroponics, but their fruit of labor
-with the seniors.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/I_5_VIA_2025_09.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/CCE/6278430335310085570.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p>Our signature programmes are designed to build a pervasive culture of
+care and national pride:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Values in Action (VIA) Learning Experiences</strong>
+</p>
+</li>
+</ul>
+<p><strong>P1 Values In Action @ Home : </strong>Students learn to demonstrate
+values at home by taking initiative to maintain their personal space and
+contributing actively to household chores. Through these efforts, they
+showed care, respect, and responsibility towards their family, while also
+developing independence and a strong sense of accountability in their daily
+lives.</p>
+<p><strong>P2 Buddy Programme: </strong>In the buddy programme, Primary 2
+students showed care and empathy by guiding their Primary 1 buddies during
+recess, helping them with food, routines, and making sure they felt included.
+Their support helped the younger students feel safe, confident, and welcomed
+in school.</p>
+<p><strong>P3 Beach Cleaning Learning Experience:</strong> Students took part
+in beach cleaning activities during their Intertidal Learning Experiences,
+by collecting litter along coastal areas to help protect the marine environment
+and promote environmental responsibility.</p>
+<p><strong>P4 Visit to Jiaying Active Aging Centre: </strong>Students bring
+joy to seniors through companionship during their visits. They also shared
+the hydroponic vegetables they had grown themselves during their Hydroponics
+Project, combining scientific learning with character development by cultivating
+produce to give back to the community.</p>
+<p><strong>P5 Water Conservation Ambassadors Learning Experiences</strong>:
+Students served as Water Conservation Ambassadors, encouraging their schoolmates
+to save water. Applying what they had learned in their Project Work, they
+share practical tips and lead by example in their daily habits. Through
+their efforts, they turned knowledge into meaningful actions that benefits
+the school community.</p>
+<p><strong>P6 Save the Earth Ambassadors Learning Experience</strong>: As
+Save the Earth Ambassadors, students demonstrated a deep sense of responsibility
+and commitment to environmental stewardship by organizing a school Recycling
+Drive. Beyond simply collecting recyclables, they took ownership of the
+initiative by educating their schoolmates on the impact of waste and the
+importance of sustainable habits. They also modelled positive behavior
+through their own actions, showing consistency between what they believed
+and what they practiced. Through this experience, they developed empathy
+for the environment and a stronger awareness of their role in protecting
+it, inspiring the school community to make more mindful choices in their
+daily lives.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>National Education (NE) Commemorative Days:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Total Defence Day:</strong> Activities like simulated power disruption
+experiences help students strengthen resilience and appreciate Singapore's
+security pillars.</p>
+</li>
+<li>
+<p><strong>International Friendship Day:</strong> Besides assembly sharing
+sessions to share global awareness to broaden students’ perspectives on
+the region, students from different backgrounds, also share their local
+culture with peers during recess, to foster mutual respect and meaningful
+exchanges among friends from different ASEAN countries.</p>
+</li>
+<li>
+<p><strong>Racial Harmony Day:</strong> Celebration of Singapore’s rich cultural
+diversity through traditional games, hands-on activities, ethnic dress,
+and the creation of a collaborative tapestry.</p>
+</li>
+<li>
+<p><strong>National Day:</strong> Meaningful observance ceremony and concert
+that unite the school as one people to honour Singapore's journey.</p>
+</li>
+</ul>
 <p></p>
