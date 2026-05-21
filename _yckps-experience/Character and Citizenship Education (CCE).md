@@ -174,7 +174,35 @@ and what they practiced. Through this experience, they developed empathy
 for the environment and a stronger awareness of their role in protecting
 it, inspiring the school community to make more mindful choices in their
 daily lives.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>National Education (NE) Commemorative Days:</strong>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P6_VIA_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P6_VIA_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>National Education (NE) Commemorative Days:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
