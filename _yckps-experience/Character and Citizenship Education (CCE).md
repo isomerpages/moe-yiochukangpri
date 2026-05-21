@@ -285,6 +285,7 @@ exchanges among friends from different ASEAN countries.</p>
 <p><strong>Racial Harmony Day:</strong> Celebration of Singapore’s rich cultural
 diversity through traditional games, hands-on activities, ethnic dress,
 and the creation of a collaborative tapestry.</p>
+<p></p>
 </li>
 <li>
 <p><strong>National Day:</strong> Meaningful observance ceremony and concert
