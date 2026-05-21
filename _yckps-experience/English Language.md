@@ -67,6 +67,26 @@ environment:</p>
 dresses up as favorite story characters (e.g., Snow White) as part of Character
 Day to participating in interactive activities at recesses like spelling
 bee challenges with tech tools and reciting of tongue-twisters.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/EL_Alive_Recess_Activity.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/EL_Alive_Tongue_Twister.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Reading Culture Initiatives:</strong>
