@@ -101,6 +101,38 @@ time for silent reading to build stamina and habit.</p>
 parent volunteers who visit classrooms to share stories and to listen to
 our young readers read a snippet of their story books during recess to
 foster a love for books.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>NLB Molly Bus:</strong> Bringing the National Library Board’s mobile
