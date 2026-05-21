@@ -209,7 +209,32 @@ daily lives.</p>
 <p><strong>Total Defence Day:</strong> Activities like simulated power disruption
 experiences help students strengthen resilience and appreciate Singapore's
 security pillars.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_TDD_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_TDD_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_TDD_3.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>International Friendship Day:</strong> Besides assembly sharing
 sessions to share global awareness to broaden students’ perspectives on
