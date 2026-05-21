@@ -93,23 +93,29 @@ joy to seniors through companionship during their visits. They also shared
 the hydroponic vegetables they had grown themselves during their Hydroponics
 Project, combining scientific learning with character development by cultivating
 produce to give back to the community.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P4_VIA_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P4_VIA_1.jpg">
 </div>
 </td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P4_VIA_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/P4_VIA_2.jpg">
 </div>
 </td>
 </tr>
