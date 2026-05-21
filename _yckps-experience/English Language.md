@@ -4,113 +4,115 @@ permalink: /yckps-experience/english-languages/
 description: ""
 variant: tiptap
 ---
-<h1>Developing Confident and Effective Communicators</h1>
-<p>The YCKPS English Department aims to nurture our students’ love for the
-English Language and develop them into effective communicators and users
-of the language. In alignment with 21st century competencies, emphasis
-has been placed on developing our students into confident learners, engaging
-speakers and effective writers anchored by a strong reading culture.</p>
-<p><strong>Signature Programmes:</strong>
+<h4><strong>English Language</strong></h4>
+<p><strong>1) Key Focus</strong>
+</p>
+<p>The department is committed to "Empowering the Mind, Engaging the Heart,
+and Extending the Hand". Our primary objectives include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Developing Literacy Skills:</strong> Building strong competencies
+in reading, writing, speaking, viewing, and listening through authentic
+tasks.</p>
+</li>
+<li>
+<p><strong>Confident Communicators:</strong> Nurturing students to become
+confident, effective, and reflective users of the English language.</p>
+</li>
+<li>
+<p><strong>Global Citizenship:</strong> Through Social Studies, we aim to
+help students understand the interconnectedness of the world and their
+role within it.</p>
+</li>
+</ul>
+<hr>
+<p><strong>2) Pedagogical Approaches</strong>
+</p>
+<p>We employ a "spiral" approach to learning, ensuring that skills are revisited
+and deepened as students progress through the levels:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>STELLAR (Strategies for English Language Learning and Reading):</strong> The
+core framework used to develop a strong foundation in literacy through
+shared reading and experiences.</p>
+</li>
+<li>
+<p><strong>Differentiated Instruction (DI):</strong> Tailoring lessons to
+meet the diverse learning needs and profiles of our students.</p>
+</li>
+<li>
+<p><strong>Making Thinking Visible (MTV):</strong> Utilizing thinking routines
+to help students document their thought processes and improve comprehension.</p>
+</li>
+<li>
+<p><strong>Oratorical Progression:</strong> A structured developmental pathway
+for public speaking, moving from foundational Dramatisation at Lower Primary
+to various presentation opportunities both in and out of class from Middle
+to Upper Primary.</p>
+</li>
+<li>
+<p><strong>Collaborative Learning:</strong> Encouraging peer-to-peer interaction,
+such as the <strong>kidsREAD</strong> program where lower primary students
+engage with buddy readers from a secondary school.</p>
+</li>
+</ul>
+<hr>
+<p><strong>3) Key Programmes</strong>
+</p>
+<p>Our programmes are designed to create a pervasive and vibrant language
+environment:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>EL Alive!:</strong> A signature annual event where the school community
+dresses up as favorite story characters (e.g., Snow White) as part of Character
+Day to participating in interactive activities at recesses like spelling
+bee challenges with tech tools and reciting of tongue-twisters.</p>
+</li>
+<li>
+<p><strong>Reading Culture Initiatives:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Drop Everything And Read (DEAR) – Developing avid readers through engendering
-a robust reading culture.</p>
+<p><strong>DEAR (Drop Everything And Read):</strong> A dedicated school-wide
+time for silent reading to build stamina and habit.</p>
 </li>
 <li>
-<p>Shared Book Approach – Strengthening language and reading skills through
-sharing of big books.</p>
+<p><strong>Share-a-Story and I Love Reading with our Reading Parents:</strong> Involving
+parent volunteers who visit classrooms to share stories and to listen to
+our young readers read a snippet of their story books during recess to
+foster a love for books.</p>
 </li>
 <li>
-<p>Modified Language Experience Approach – Learning through experiences.</p>
-</li>
-<li>
-<p>I Love Reading programme – Strengthening language and reading skills through
-reading to a Reading Confidante.</p>
-</li>
-<li>
-<p>KidsREAD – Collaborating with the National Library Board and secondary
-school student volunteers to promote independent reading via a 20-week
-session.</p>
-</li>
-<li>
-<p>Share-a-Story – Collaborating with parent volunteers to inculcate the
-joy of reading in our students.</p>
-</li>
-<li>
-<p>Making Articulation Great In Classroom (MAGIC) – Whole-school approach
-to developing and enhancing oral presentation skills across all subjects.</p>
-</li>
-<li>
-<p>P1-P6 Spark Box presentation – Providing a platform for students to practice
-and develop their public speaking and communication skills in a safe and
-supportive environment.</p>
-</li>
-<li>
-<p>Making Thinking Visible (MTV) Routines – Enhancing critical thinking and
-language skills.</p>
+<p><strong>NLB Molly Bus:</strong> Bringing the National Library Board’s mobile
+library into the school for an immersive browsing experience.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Share_a_Story_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Share_a_Story_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/kidsREAD_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Spark_Box_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/I_Love_Reading_2.jpg">
-</div>
-<p><strong>Department Events:</strong>
+</li>
+<li>
+<p><strong>Oratorical Signature Series:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>EL Alive! – Nurturing students’ love for the language through activities
-such as Character Day, Spelling Bee contests, and word-related recess activities.</p>
+<p><strong>Primary 1: </strong>Show &amp; Tell, Dramatisation</p>
 </li>
 <li>
-<p>Writers’ Festival – Celebrating the creativity and individuality of our
-student writers through creative writing activities and an author’s talk
-cum book signing session.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Character_Day_1.jpg">
-</div>
+<p><strong>Primary 2:</strong> Dramatisation</p>
+</li>
+<li>
+<p><strong>Primary 3 – 6:</strong>  <strong>Spark Box</strong> presentation
+platform.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/EL/Character_Day_2.jpg">
-</div>
-<p><strong>Learning Support:</strong>
-</p>
-<p>• P1 &amp; P2: Learning Support Programme (LSP)</p>
-<p>• P3 &amp; P4: Reading Remediation Programme (RRP) and/or School-based
-Dyslexia Remediation Programme (SDR)</p>
-<p>• P5: Reading Remediation Programme (RRP)</p>
-<p>*Selection of students are based on assessment through diagnostic tests
-to ascertain suitability for the above programmes.</p>
-<p></p>
-<p></p>
+</li>
+<li>
+<p><strong>PILOT Programme (Pushing Individual Limits Of Talent):</strong> Targeted
+enrichment for selected high-ability learners in P4 through Reading Circle
+and P5 through Creative Writing workshop to stretch their creative potential.</p>
+</li>
+<li>
+<p><strong>Writers’ Festival:</strong> A celebration of student authorship
+with exposure to writing and creating different types poems to posters
+or flyers.</p>
+</li>
+</ul>
 <p></p>
