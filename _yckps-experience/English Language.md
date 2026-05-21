@@ -230,6 +230,7 @@ and P5 through Creative Writing workshop to stretch their creative potential.</p
 <p><strong>Writers’ Festival:</strong> A celebration of student authorship
 with exposure to writing and creating different types poems to posters
 or flyers.</p>
+<p></p>
 </li>
 </ul>
 <p></p>
