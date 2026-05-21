@@ -322,6 +322,26 @@ and the creation of a collaborative tapestry.</p>
 <li>
 <p><strong>National Day:</strong> Meaningful observance ceremony and concert
 that unite the school as one people to honour Singapore's journey.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/ND_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/ND_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p></p>
