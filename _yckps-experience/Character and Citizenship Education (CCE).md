@@ -4,8 +4,7 @@ permalink: /yckps-experience/citizenship-education-cce/
 description: ""
 variant: tiptap
 ---
-<p><strong>Character and Citizenship Education (CCE)</strong>
-</p>
+<h4><strong>Character and Citizenship Education (CCE)</strong></h4>
 <p><strong>1) Key Focus</strong>
 </p>
 <p>At YCKPS, CCE is central to the school’s mission to "nurture confident
