@@ -241,6 +241,45 @@ sessions to share global awareness to broaden students’ perspectives on
 the region, students from different backgrounds, also share their local
 culture with peers during recess, to foster mutual respect and meaningful
 exchanges among friends from different ASEAN countries.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_IFD_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_IFD_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_IFD_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_IFD_2.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCE/2026_IFD_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Racial Harmony Day:</strong> Celebration of Singapore’s rich cultural
