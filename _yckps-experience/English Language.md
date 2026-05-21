@@ -167,32 +167,27 @@ foster a love for books.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/I_Love_Reading_Programme_2.jpg">
 </div>
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_1.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_2.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Share_a_Story_Reading_Parents_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
