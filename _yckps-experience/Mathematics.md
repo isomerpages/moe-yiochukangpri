@@ -33,17 +33,18 @@ in and beyond the classroom.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students engaged in the E2K programme." src="/images/2026 Website Update/E2K_Mathematics_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in an E2K programme" src="/images/2026 Website Update/Mathematics/E2K_Mathematics_pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students engaged in an inquiry-based learning activity." src="/images/2026 Website Update/Inquiry_Based_Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in inquiry-based learning" src="/images/2026 Website Update/Mathematics/Inquiry_Based_Pic_2.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students engaged in inquiry-based learning" src="/images/2026 Website Update/Inquiry_Based_Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Mathematics/Koobits_Pic_3.jpg">
 </div>
 <p></p>
 </th>
@@ -88,7 +89,7 @@ Teachers to refine their instructional methods.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students engaged in activity-based learning." src="/images/2026 Website Update/Activity_based_Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in activity-based learning" src="/images/2026 Website Update/Mathematics/Activity_based_Pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -98,7 +99,7 @@ Teachers to refine their instructional methods.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teachers engaged in professional development" src="/images/2026 Website Update/Math_Professional_Development_for_Teachers_Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Teachers attending a professional development session" src="/images/2026 Website Update/Mathematics/Math_Professional_Development_for_Teachers_Pic_2.jpg">
 </div>
 </th>
 </tr>
@@ -168,10 +169,10 @@ with Certificates of Distinction</p>
 </ul>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students holding their math competition certificates" src="/images/2026 Website Update/Math_Competition_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students holding their math competition certificates" src="/images/2026 Website Update/Mathematics/Math_Competition_2.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -181,12 +182,12 @@ with Certificates of Distinction</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students lining up for Koobits." src="/images/2026 Website Update/Koobits_Pic_1__edited_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students queuing up for Koobits." src="/images/2026 Website Update/Mathematics/Koobits_Pic_1__edited_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students engaged in Sudoku" src="/images/2026 Website Update/Math_Xcite__Sudoku_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing Sudoku during Math Excite" src="/images/2026 Website Update/Mathematics/Math_Xcite__Sudoku_.jpg">
 </div>
 </th>
 </tr>
