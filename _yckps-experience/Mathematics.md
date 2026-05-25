@@ -109,21 +109,18 @@ Teachers to refine their instructional methods.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Inquiry_based_learning_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in activity-based learning." src="/images/2026 Website Update/Activity_based_Pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Inquiry_based_learning_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in inquiry-based learning" src="/images/2026 Website Update/Inquiry_Based_Pic_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Mathematics/Inquiry_Based_Learning_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student engaged in an Edtech lesson." src="/images/2026 Website Update/Mathematics/Ed_Tech_Pic_1.jpg">
 </div>
 </th>
 </tr>
