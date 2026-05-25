@@ -4,12 +4,25 @@ permalink: /yckps-experience/physical-education/
 description: ""
 variant: tiptap
 ---
-<h2>To Develop Active and Physically Competent Individuals</h2>
-<p>The YCKPS PE Department aims to develop students’ overall holistic development
-by providing learning opportunities in various sports and physical activities.
-We strive to develop a strong foundation for an active and healthy lifestyle,
-with hopes to promote lifelong participation.</p>
-<h4>Our Signature PE Programmes</h4>
+<h2><strong>Key Focus</strong></h2>
+<p>The PE programme at YCKPS seeks to develop the whole child to foster a
+nation of physically competent and confident individuals who enjoy a lifelong
+active and healthy lifestyle. Our focus includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lifelong Healthy Living</strong>: Guiding students to embrace
+physical activity as a core component of long-term health.</p>
+</li>
+<li>
+<p><strong>Safety and Responsibility</strong>: Instilling a strong sense
+of personal responsibility and safety awareness during physical activities.</p>
+</li>
+<li>
+<p><strong>Physical Competence</strong>: Developing fundamental motor skills
+and specialized sports competencies across all primary levels.Our Signature
+PE Programmes</p>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>T.E.A.M. SPORTS@YCK</strong>
@@ -37,67 +50,33 @@ learning and development through team sports.</p>
 excellence.</p>
 </li>
 </ul>
-<p><strong>SPORTS EDUCATION PROGRAMME</strong>
-</p>
-<p>In addition to regular PE classes, the PE Department also organizes a
-range of programs and events to further broaden and enrich the students’
-learning experiences. These initiatives are designed for the P3-P6 students
-to expose the students to sports beyond the school’s PE curriculum. The
-chosen sports aim to enhance their physical, social, and emotional development,
-promoting a lifelong love of physical activity and healthy living.</p>
-<p><strong>P3 Bowling</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P4_Bowling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students taking part in the Olympic Carnival" src="/images/2026 Website Update/PE/Olympic_Carnival6.jpg">
 </div>
-<p><strong>P4 Archery</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P3_Archery.jpg">
-</div>
-<p><strong>P5 Tchoukball</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Tchoukball.jpg">
-</div>
-<p><strong>P6 Inline Skating</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P6_Inline2.jpg">
-</div>
-<p></p>
+<h2><strong>Pedagogical Approaches</strong></h2>
+<p>The department employs experiential and health-conscious strategies to
+ensure students are equipped with both skills and knowledge:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>OLYMPIC CARNIVAL</strong>
-</p>
-<p>The Olympic Carnival is held every year as part of the Children’s Day
-Celebrations. This programme aims to provide opportunities to learn, understand
-and displaying of the Olympic Values while participating in the games.
-The lower primary students (P1-P3) will be participating in game stations
-and the upper primary students (P4-P6) will play small-sided modified sports
-such as Handball, Floorball and Frisbee. They will compete in an inter-class
-tournament format. The winners of the games will be going home with a medal
-to celebrate their efforts and successes.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Olympic_Carnival1.jpg">
-</div>
+<p><strong>Experiential Outdoor Learning</strong>: Using camps and outdoor
+activities to build resilience, teamwork, and a connection with nature.</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Olympic_Carnival2.jpg">
-</div>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong>PRIMARY 5 COHORT CAMP</strong>
-</p>
+<p><strong>Technology-Enhanced Fitness</strong>: Integrating modern tools
+like "Fitness Trackers" to make physical education lessons more engaging
+and authentic.</p>
+</li>
+<li>
+<p><strong>Health Monitoring Awareness</strong>: Incorporating practical
+health literacy, such as teaching students how to monitor their own blood
+pressure.</p>
+</li>
+<li>
+<p><strong>Differentiated Sports Exposure</strong>: Providing a wide variety
+of sports through the Sports Education Programme (SEP) to cater to different
+interests and skill levels.</p>
 </li>
 </ul>
-<p>The P5 level camp is an extension of the Outdoor Education in the PE syllabus.
-The camp provides opportunities for the students to apply their outdoor
-knowledge and skills in developing a sense of adventure and exploration.
-The camp activities planned are also aligned to help students inculcate
-the school values through Outdoor Education.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -105,72 +84,100 @@ the school values through Outdoor Education.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Blood_Pressure_Prog2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students climbing a rock wall as part of their experiential outdoor learning" src="/images/2026 Website Update/PE/Camp2.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/P5_Camp1.jpg">
-</div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
+<h2><strong>Key Programmes</strong></h2>
+<p>Our signature programmes provide a holistic approach to physical wellbeing,
+ranging from water safety to competitive carnivals:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>SWIMSAFER (P3 &amp; P5)</strong>
-</p>
-<p>The SwimSafer 2.0 programme is designed to teach participants how to manage
-water safety for water-based activities. The programme aims to teach swimming
-proficiency and water survival skills in a fun manner. The swimming sessions
-will be held during PE periods, within the curriculum time.</p>
+<p><strong>P5 Camp</strong>: A flagship outdoor experience where students
+engage in group activities and team-building exercises in a natural environment.</p>
 </li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/SwimSafer1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/SwimSafer2.jpg">
-</div>
+<li>
+<p><strong>SwimSafer Programme</strong>: A dedicated water safety and swimming
+curriculum to ensure students are confident and safe in aquatic settings.</p>
+</li>
+<li>
+<p><strong>Sports Education Programme (SEP)</strong>: Offers students exposure
+to diverse sports not typically found in the standard curriculum, such
+as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>HEALTH AND FITNESS WEEK</strong>
-</p>
+<p><strong>Archery</strong>: Developing focus and precision.</p>
+</li>
+<li>
+<p><strong>Goalball: </strong>Develops empathy and trust through inclusive
+play.</p>
+</li>
+<li>
+<p><strong>Tchoukball</strong>: Enhancing coordination and tactical thinking
+through various ball games.</p>
+</li>
+<li>
+<p><strong>Inline Skating</strong>: Builds perseverance and confidence as
+students overcome challenges and develop self-mastery.</p>
 </li>
 </ul>
-<p>During Healthy Heart Week, our students engage in diverse activities that
-reinforce our school values whilst developing a deeper understanding of
-various health aspects. During recess, they participate in interactive
-booth activities focused on heart health and wellness. Our Primary 5 pupils
-receive specialised instruction on the significance of maintaining healthy
-blood pressure, equipping them with essential knowledge for their well-being.</p>
+</li>
+<li>
+<p><strong>Olympic Carnival</strong>: A school-wide event featuring multiple
+stations including basketball, target-based games, and floorball, fostering
+a spirit of friendly competition and sportsmanship.</p>
+</li>
+<li>
+<p><strong>Health Literacy Initiatives</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Blood Pressure Monitoring</strong>: Students learn to use medical
+devices to track their physiological health.</p>
+</li>
+<li>
+<p><strong>Health Education</strong>: Integrated lessons on maintaining a
+balanced lifestyle and understanding the body’s needs.</p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students taking part in archery" src="/images/2026 Website Update/PE/Archery1.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing hockey during the Olympic Carnival" src="/images/2026 Website Update/PE/Olympic_Carnival4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Boys playing Captain's ball during the Olympic carnival" src="/images/2026 Website Update/PE/Olympic_Carnival3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Blood_Pressure1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="An activity during P5 camp" src="/images/2026 Website Update/PE/Camp1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/PE/Blood_Pressure2.jpg">
-</div>
 <p></p>
 <p></p>
