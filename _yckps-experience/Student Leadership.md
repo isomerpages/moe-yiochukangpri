@@ -69,11 +69,81 @@ lessons to develop self-leadership and social-emotional skills.</p>
 as Class Monitors, subject monitors such as Cyberwellness Monitors, Eco-Monitors,
 and CCA Leaders to manage daily responsibilities and lead their peers in
 specific domains.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/Eco_Monitors_Training_WS.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/CCA_Leaders.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/CCA_Leaders_Training.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Student Leadership Workshop:</strong> Annual training sessions
 where Tier 2 leaders learn practical skills like effective communication
 and conflict resolution.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/CIA_project_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/Prefect_Training.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/CIA_Project_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/CIA_Project_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p><strong>Tier 3: The Student Council (Excellence)</strong>
@@ -83,6 +153,20 @@ and conflict resolution.</p>
 <p><strong>Prefects' Investiture:</strong> A formal ceremony where the school
 community recognizes and commissions student leaders, signaling their commitment
 to the school’s core values.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Leadership/Prefect_Investiture_l.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Signature Service Projects:</strong> The Student Council initiates
@@ -91,5 +175,4 @@ and <strong>Change-in-Action (CIA) projects</strong>, allowing them to "Extend
 a Hand" to others.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p></p>
