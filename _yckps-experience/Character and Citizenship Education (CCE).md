@@ -4,9 +4,7 @@ permalink: /yckps-experience/citizenship-education-cce/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Character and Citizenship Education (CCE)</strong></h4>
-<p><strong>1) Key Focus</strong>
-</p>
+<h4><strong>Key Focus</strong></h4>
 <p>At YCKPS, CCE is central to the school’s mission to "nurture confident
 and self-directed learners who are keen to serve". Our focus includes:</p>
 <ul data-tight="true" class="tight">
@@ -24,9 +22,8 @@ of Character" and useful citizens of Singapore who are resilient and contribute
 to the community.</p>
 </li>
 </ul>
-<hr>
-<p><strong>2) Pedagogical Approaches</strong>
-</p>
+<p></p>
+<h4><strong>Pedagogical Approaches</strong></h4>
 <p>The department uses experiential and reflective strategies to make values
 come alive for every student:</p>
 <ul data-tight="true" class="tight">
@@ -46,28 +43,29 @@ activities and student-led sharing during recesses in commemorating Internationa
 Friendship Day and Racial Harmony Day.</p>
 </li>
 </ul>
-<hr>
-<p><strong>3) Key Programmes</strong>
-</p>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
 <p>Our signature programmes are designed to build a pervasive culture of
 care and national pride:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Values in Action (VIA) Learning Experiences</strong>
 </p>
-</li>
-</ul>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P1 Values In Action @ Home : </strong>Students learn to demonstrate
 values at home by taking initiative to maintain their personal space and
 contributing actively to household chores. Through these efforts, they
 showed care, respect, and responsibility towards their family, while also
 developing independence and a strong sense of accountability in their daily
 lives.</p>
+</li>
+<li>
 <p><strong>P2 Buddy Programme: </strong>In the buddy programme, Primary 2
 students showed care and empathy by guiding their Primary 1 buddies during
 recess, helping them with food, routines, and making sure they felt included.
 Their support helped the younger students feel safe, confident, and welcomed
 in school.</p>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -83,15 +81,21 @@ in school.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P3 Beach Cleaning Learning Experience:</strong> Students took part
 in beach cleaning activities during their Intertidal Learning Experiences,
 by collecting litter along coastal areas to help protect the marine environment
 and promote environmental responsibility.</p>
+</li>
+<li>
 <p><strong>P4 Visit to Jiaying Active Aging Centre: </strong>Students bring
 joy to seniors through companionship during their visits. They also shared
 the hydroponic vegetables they had grown themselves during their Hydroponics
 Project, combining scientific learning with character development by cultivating
 produce to give back to the community.</p>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -120,12 +124,16 @@ produce to give back to the community.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P5 Water Conservation Ambassadors Learning Experiences</strong>:
 Students served as Water Conservation Ambassadors, encouraging their schoolmates
 to save water. Applying what they had learned in their Project Work, they
 share practical tips and lead by example in their daily habits. Through
 their efforts, they turned knowledge into meaningful actions that benefits
 the school community.</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -162,6 +170,8 @@ the school community.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P6 Save the Earth Ambassadors Learning Experience</strong>: As
 Save the Earth Ambassadors, students demonstrated a deep sense of responsibility
 and commitment to environmental stewardship by organizing a school Recycling
@@ -173,6 +183,8 @@ and what they practiced. Through this experience, they developed empathy
 for the environment and a stronger awareness of their role in protecting
 it, inspiring the school community to make more mindful choices in their
 daily lives.</p>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -201,6 +213,7 @@ daily lives.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>National Education (NE) Commemorative Days:</strong>
 </p>
 <ul data-tight="true" class="tight">
