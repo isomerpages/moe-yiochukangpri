@@ -153,7 +153,7 @@ helicopters that maximise air resistance for a slower descent.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__14_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__13_.jpg">
 </div>
 </th>
 </tr>
@@ -170,7 +170,7 @@ helicopters that maximise air resistance for a slower descent.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__14_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__3_.jpg">
 </div>
 </td>
 </tr>
