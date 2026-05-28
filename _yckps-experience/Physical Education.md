@@ -21,12 +21,28 @@ of personal responsibility and safety awareness during physical activities.</p>
 <p><strong>Physical Competence</strong>: Developing fundamental motor skills
 and specialized sports competencies across all primary levels. Our Signature
 PE Programmes</p>
-<p></p>
-</li>
-</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students taking part in the Olympic Carnival" src="/images/2026 Website Update/PE/Olympic_Carnival6.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Olympic_Carnival5.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <h4><strong>Pedagogical Approaches</strong></h4>
 <p>The department employs experiential and health-conscious strategies to
 ensure students are equipped with both skills and knowledge:</p>
@@ -78,10 +94,62 @@ ranging from water safety to competitive carnivals:</p>
 <li>
 <p><strong>P5 Camp</strong>: A flagship outdoor experience where students
 engage in group activities and team-building exercises in a natural environment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Camp1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Camp2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>SwimSafer Programme</strong>: A dedicated water safety and swimming
 curriculum to ensure students are confident and safe in aquatic settings.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Sports Education Programme (SEP)</strong>: Offers students exposure
