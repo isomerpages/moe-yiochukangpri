@@ -4,7 +4,7 @@ permalink: /yckps-experience/physical-education/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Key Focus</strong></h2>
+<h4><strong>Key Focus</strong></h4>
 <p>The PE programme at YCKPS seeks to develop the whole child to foster a
 nation of physically competent and confident individuals who enjoy a lifelong
 active and healthy lifestyle. Our focus includes:</p>
@@ -19,41 +19,15 @@ of personal responsibility and safety awareness during physical activities.</p>
 </li>
 <li>
 <p><strong>Physical Competence</strong>: Developing fundamental motor skills
-and specialized sports competencies across all primary levels.Our Signature
+and specialized sports competencies across all primary levels. Our Signature
 PE Programmes</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>T.E.A.M. SPORTS@YCK</strong>
-</p>
-</li>
-</ul>
-<p>We aim to develop skills and values through our daily PE lessons. The
-framework provides students to build character and leadership skills through
-sports.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>T</strong>eam building, social interaction and integration through
-collaborative learning.</p>
-</li>
-<li>
-<p><strong>E</strong>ngagement of students in adopting a healthy lifestyle
-and mindset.</p>
-</li>
-<li>
-<p><strong>A</strong>nchoring students in key school values for life-long
-learning and development through team sports.</p>
-</li>
-<li>
-<p><strong>M</strong>astery of skills for personal development and sports
-excellence.</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students taking part in the Olympic Carnival" src="/images/2026 Website Update/PE/Olympic_Carnival6.jpg">
 </div>
-<h2><strong>Pedagogical Approaches</strong></h2>
+<h4><strong>Pedagogical Approaches</strong></h4>
 <p>The department employs experiential and health-conscious strategies to
 ensure students are equipped with both skills and knowledge:</p>
 <ul data-tight="true" class="tight">
@@ -93,12 +67,11 @@ interests and skill levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students climbing a rock wall as part of their experiential outdoor learning" src="/images/2026 Website Update/PE/Camp2.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<h2><strong>Key Programmes</strong></h2>
+<h4><strong>Key Programmes</strong></h4>
 <p>Our signature programmes provide a holistic approach to physical wellbeing,
 ranging from water safety to competitive carnivals:</p>
 <ul data-tight="true" class="tight">
