@@ -90,6 +90,9 @@ as:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Archery</strong>: Developing focus and precision.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students taking part in archery" src="/images/2026 Website Update/PE/Archery1.jpg">
+</div>
 </li>
 <li>
 <p><strong>Goalball: </strong>Develops empathy and trust through inclusive
@@ -124,9 +127,6 @@ balanced lifestyle and understanding the body’s needs.</p>
 </ul>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students taking part in archery" src="/images/2026 Website Update/PE/Archery1.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
