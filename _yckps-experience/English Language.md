@@ -4,9 +4,7 @@ permalink: /yckps-experience/english-languages/
 description: ""
 variant: tiptap
 ---
-<h4><strong>English Language</strong></h4>
-<p><strong>1) Key Focus</strong>
-</p>
+<h4><strong>Key Focus</strong></h4>
 <p>The department is committed to "Empowering the Mind, Engaging the Heart,
 and Extending the Hand". Our primary objectives include:</p>
 <ul data-tight="true" class="tight">
@@ -25,9 +23,8 @@ help students understand the interconnectedness of the world and their
 role within it.</p>
 </li>
 </ul>
-<hr>
-<p><strong>2) Pedagogical Approaches</strong>
-</p>
+<p></p>
+<h4><strong>Pedagogical Approaches</strong></h4>
 <p>We employ a "spiral" approach to learning, ensuring that skills are revisited
 and deepened as students progress through the levels:</p>
 <ul data-tight="true" class="tight">
@@ -82,9 +79,8 @@ engage with buddy readers from a secondary school.</p>
 </table>
 </li>
 </ul>
-<hr>
-<p><strong>3) Key Programmes</strong>
-</p>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
 <p>Our programmes are designed to create a pervasive and vibrant language
 environment:</p>
 <ul data-tight="true" class="tight">
