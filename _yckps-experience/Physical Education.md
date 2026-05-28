@@ -79,26 +79,6 @@ of sports through the Sports Education Programme (SEP) to cater to different
 interests and skill levels.</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Blood_Pressure_Prog2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students climbing a rock wall as part of their experiential outdoor learning" src="/images/2026 Website Update/PE/Camp2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h4><strong>Key Programmes</strong></h4>
 <p>Our signature programmes provide a holistic approach to physical wellbeing,
 ranging from water safety to competitive carnivals:</p>
@@ -130,38 +110,6 @@ engage in group activities and team-building exercises in a natural environment.
 <li>
 <p><strong>SwimSafer Programme</strong>: A dedicated water safety and swimming
 curriculum to ensure students are confident and safe in aquatic settings.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 </li>
 <li>
 <p><strong>Sports Education Programme (SEP)</strong>: Offers students exposure
@@ -177,10 +125,44 @@ as:</p>
 <li>
 <p><strong>Goalball: </strong>Develops empathy and trust through inclusive
 play.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Goalball1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Goalball2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Tchoukball</strong>: Enhancing coordination and tactical thinking
 through various ball games.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Tchoukball1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p><strong>Inline Skating</strong>: Builds perseverance and confidence as
@@ -199,14 +181,6 @@ a spirit of friendly competition and sportsmanship.</p>
 <li>
 <p><strong>Blood Pressure Monitoring</strong>: Students learn to use medical
 devices to track their physiological health.</p>
-</li>
-<li>
-<p><strong>Health Education</strong>: Integrated lessons on maintaining a
-balanced lifestyle and understanding the body’s needs.</p>
-</li>
-</ul>
-</li>
-</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -216,21 +190,39 @@ balanced lifestyle and understanding the body’s needs.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students playing hockey during the Olympic Carnival" src="/images/2026 Website Update/PE/Olympic_Carnival4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Blood_Pressure_Prog1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Boys playing Captain's ball during the Olympic carnival" src="/images/2026 Website Update/PE/Olympic_Carnival3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Blood_Pressure_Prog2.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
+</li>
+<li>
+<p><strong>Health Education</strong>: Integrated lessons on maintaining a
+balanced lifestyle and understanding the body’s needs.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="An activity during P5 camp" src="/images/2026 Website Update/PE/Camp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/PE/Olympic_Carnival4.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <p></p>
-<p></p>
+</li>
+</ul>
 <p></p>
