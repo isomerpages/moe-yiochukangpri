@@ -342,12 +342,6 @@ within the school where our young learners start their artistic journey</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p></p>
