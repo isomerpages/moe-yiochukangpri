@@ -4,7 +4,7 @@ permalink: /signature-programmes/learning-for-life-programme-llp-create-at-yckps
 description: ""
 variant: tiptap
 ---
-<h4><strong>Learning for Life Programme (LLP)&nbsp;: CREATE @YCKPS</strong></h4>
+<h4><strong>Learning for Life Programme (LLP): CREATE @YCKPS</strong></h4>
 <p></p>
 <p><strong>CREATE@YCKPS</strong> is designed to provide a vibrant arts education
 that extends beyond the technical skillset to cultivate deep appreciation
