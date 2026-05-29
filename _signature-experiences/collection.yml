@@ -2,6 +2,7 @@ collections:
   signature-experiences:
     output: true
     order:
+      - Student Development.md
       - Applied Learning Programme (ALP) eSTEM@YCKPS.md
       - Learning for Life Programme (LLP) CREATE@YCKPS.md
       - YCKPS Twinning Experience in Guangdong.md
