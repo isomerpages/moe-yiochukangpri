@@ -52,6 +52,27 @@ Teachers. This experience aims to strengthen home-school partnership while
 encouraging students to reflect on their learning journey with pride and
 confidence.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/COL__4_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/COL__5_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><u>Learning Journey to River Wonders</u>
 </p>
 <p>As part of their experiential learning, Primary 1 students will embark
@@ -125,6 +146,36 @@ develop communication, collaboration and innovation skills while designing
 meaningful products that incorporate both play and learning elements. The
 programme empowers students to become thoughtful innovators who value diverse
 perspectives and purposeful design.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/IDEAS4__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/IDEAS4__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/IDEAS4__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
@@ -141,6 +192,49 @@ and creativity using coding platforms and interactive technologies. Through
 collaborative activities and simple programming tasks, students learn to
 design digital solutions, think critically and become confident, responsible
 and future-ready digital learners.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/CFF__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/CFF__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/CFF__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/CFF__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/CFF__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/CFF__6_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><u>P5 Cohort Camp</u>
 </p>
@@ -154,7 +248,7 @@ students learn the importance of communication, empathy, adaptability and
 responsible decision-making, while fostering a sense of belonging and care
 for others.</p>
 <p></p>
-<p><strong><u>I.D.E.A.S. @YCKPS</u></strong><u> (P5) – ‘The Social Innovator’</u>
+<p><u>I.D.E.A.S. @YCKPS (P5) – ‘The Social Innovator’</u>
 <br>The Primary 5 I.D.E.A.S. programme challenges students to become socially
 conscious innovators who design solutions for real-world community needs.
 As “The Social Innovator”, students engage in deeper problem-solving processes
@@ -166,6 +260,36 @@ innovative solutions and present their ideas through pitches and community
 showcases. The programme cultivates empathy, resilience and responsible
 citizenship, equipping students with the confidence and skills to create
 positive impact for the future.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/IDEAS5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/IDEAS5__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/IDEAS5__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 6</strong>
