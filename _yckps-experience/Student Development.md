@@ -29,8 +29,7 @@ Discovery, Exploratory and Thriving.</p>
 </table>
 <p></p>
 <h4><strong>Key Developmental Experiences</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Primary 1:</strong>
 </p>
 <p></p>
@@ -135,7 +134,8 @@ students learn appropriate dining behaviour, communication skills and cultural
 etiquette when dining with others.</p>
 <p></p>
 <p><u>I.D.E.A.S. @YCKPS (P4) – ‘The School Change-Maker’</u>
-<br>The P4 I.D.E.A.S. programme deepens students’ understanding of Design
+</p>
+<p>The P4 I.D.E.A.S. programme deepens students’ understanding of Design
 Thinking by encouraging them to innovate for others through collaboration
 and shared experiences. As “The Change-Maker”, students explore how design
 can strengthen relationships and improve play experiences for different
@@ -249,7 +249,8 @@ responsible decision-making, while fostering a sense of belonging and care
 for others.</p>
 <p></p>
 <p><u>I.D.E.A.S. @YCKPS (P5) – ‘The Social Innovator’</u>
-<br>The Primary 5 I.D.E.A.S. programme challenges students to become socially
+</p>
+<p>The Primary 5 I.D.E.A.S. programme challenges students to become socially
 conscious innovators who design solutions for real-world community needs.
 As “The Social Innovator”, students engage in deeper problem-solving processes
 by exploring issues related to sustainability, inclusion and community
