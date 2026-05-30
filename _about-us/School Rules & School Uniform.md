@@ -58,7 +58,7 @@ for the Flag-raising ceremony by 7.30 a.m.</p>
 <p>2.10. Students arriving in the hall or classroom after the 7.30 a.m. bell
 has rung will have their attendance marked as ‘Late’.</p>
 <p></p>
-<h4><strong>3. Conduct during Assembly, in School and Public Places </strong></h4>
+<h4><strong>3. Conduct during Assembly, in School and Public Places</strong></h4>
 <p>3.1. Students are to assemble in their designated places at the assembly
 area.</p>
 <p>3.2. Students should be reading silently while they are waiting for the
