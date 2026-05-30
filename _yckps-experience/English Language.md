@@ -51,9 +51,8 @@ to Upper Primary.</p>
 <p><strong>Collaborative Learning:</strong> Encouraging peer-to-peer interaction,
 such as the <strong>kidsREAD</strong> program where lower primary students
 engage with buddy readers from a secondary school.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -69,10 +68,15 @@ engage with buddy readers from a secondary school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/kidsREAD_2.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/kidsREAD_3.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -122,15 +126,14 @@ bee challenges with tech tools and reciting of tongue-twisters.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Spelling_Bee_in_action.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/EL/Spelling_Bee_in_action.jpg">
-</div>
 </li>
 <li>
 <p><strong>Reading Culture Initiatives:</strong>
