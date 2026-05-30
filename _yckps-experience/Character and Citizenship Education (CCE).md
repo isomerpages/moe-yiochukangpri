@@ -94,6 +94,7 @@ joy to seniors through companionship during their visits. They also shared
 the hydroponic vegetables they had grown themselves during their Hydroponics
 Project, combining scientific learning with character development by cultivating
 produce to give back to the community.</p>
+<p></p>
 </li>
 </ul>
 <table style="minWidth: 25px">
@@ -108,13 +109,6 @@ produce to give back to the community.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -197,13 +191,6 @@ daily lives.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -213,7 +200,6 @@ daily lives.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>National Education (NE) Commemorative Days:</strong>
 </p>
 <ul data-tight="true" class="tight">
