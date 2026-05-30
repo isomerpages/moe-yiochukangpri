@@ -89,11 +89,47 @@ to be used to cause harm to others.</p>
 <p>4.1. Students are to wear the prescribed school uniform and modification
 to the uniform is not allowed.</p>
 <p>4.2. Students are expected to observe the following rules on school attire.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/School Rules/Uniform_1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/School Rules/Uniform_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>4.3. Primary 1 and 2 students can wear their PE attire for the whole day
 on days when they have PE lessons.</p>
 <p>4.4. Primary 3 to 6 students should be in half-uniform attire on days
 when they have PE lessons. They must change back into half-uniform attire
 right after their PE lesson.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/School Rules/Uniform_3.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Appearance and Hairstyle for Boys</strong>
 </p>
 <p>4.5. All male students must be clean-shaven at all times. Moustache and
@@ -106,6 +142,21 @@ and the hair at the sides should not be touching the ears.</p>
 <p>4.9. Fanciful hairstyles are not allowed in school. Boys who come to school
 with unacceptable hairstyles will be sent home and are expected to report
 to school with a student haircut by the next school day.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/School Rules/Hair_1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>4.10. Girls should be neat and tidy in appearance.</p>
 <p>4.11. Makeup of any kind is not allowed (including visible pimple patches).</p>
 <p>4.12. Fingernails must be short and neat. Nail polish is not allowed.</p>
@@ -113,6 +164,21 @@ to school with a student haircut by the next school day.</p>
 up with a black or navy-blue rubber band. The fringe should not touch the
 eyebrows.</p>
 <p>4.14. Gel, mousse, hair dye/tint of any kind is not allowed.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/School Rules/Hair_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Jewellery and Accessories</strong>
 </p>
 <p>4.15. Students should wear a simple watch. The School does not recommend
