@@ -55,14 +55,20 @@ their confidence as they perform within and outside the school. It also
 aims to inculcate to its members, discipline, teamwork and resilience.
 <br>
 </p>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Chinese_Dance_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/CCA/Chinese_Dance.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA pictures/Chinese_Dance_2.jpg">
-</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
