@@ -195,6 +195,7 @@ with their peers from NFLS. Additionally, one of our Science Teacher (Mr
 Louis Loo, Year Head/Middle Primary) also conducted an English-medium Science
 lesson in NFLS where YCKPS students were engaged in learning with their
 peers from NFLS.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -203,23 +204,33 @@ peers from NFLS.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7A.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5A.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3A.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7B.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4A.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
