@@ -124,6 +124,20 @@ road hazards, defensive walking habits, and the importance of traffic rules.
 This practical engagement empowers students to navigate real-world traffic
 situations with confidence, cultivating socially responsible and safety-conscious
 road users.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/P4_Traffic_Games.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><u>Dining Etiquette</u>
 </p>
@@ -306,6 +320,20 @@ to improve health and save lives. Through this experience, students will
 gain a deeper understanding of STEM-related careers, develop curiosity
 about scientific innovation, and appreciate how research and technology
 contribute to addressing global health challenges.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/MirXes.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><u>Ecological Learning @Sungei Buloh</u>
 </p>
