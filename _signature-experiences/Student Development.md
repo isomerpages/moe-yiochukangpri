@@ -124,17 +124,23 @@ road hazards, defensive walking habits, and the importance of traffic rules.
 This practical engagement empowers students to navigate real-world traffic
 situations with confidence, cultivating socially responsible and safety-conscious
 road users.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/P4_Traffic_Games.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Traffic_Games_02.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Traffic_Games_01.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
