@@ -3,6 +3,7 @@ title: Co Curricular Activities
 permalink: /yckps-experience/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 Sports and Games
 ----------------
@@ -35,7 +36,7 @@ Performing Arts
 </a></p>  
 
 <p><a href="/yckps-experience/co-curricular-activities/performing-arts/chinese-dance">  
-<img style="width:75%" src="/images/chinese%20dance.png">  
+<img style="width:75%" src="/images/2026_chinese_dance.png">  
 </a></p>   
   
 <p><a href="/yckps-experience/co-curricular-activities/performing-arts/indian-dance">  
