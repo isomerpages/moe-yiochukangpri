@@ -4,21 +4,40 @@ permalink: /yckps-experience/science/
 description: ""
 variant: tiptap
 ---
-<p><em>Developing self-directed scientific inquirers and reflective thinkers</em>
-</p>
-<p>At YCKPS, the Science Department is committed to nurturing self-directed
-learners who are curious scientific inquirers and reflective thinkers.
-We strive to cultivate a love for Science by fostering curiosity, critical
-thinking, and a strong foundational understanding of the natural world.
-Through our ICES approach—Inquiry, Communication, Experiential learning,
-and Self-directedness—we provide meaningful learning experiences that encourage
-exploration, develop practical scientific and problem-solving skills, and
-deepen students' understanding of the environment. Our goal is to inspire
-students to appreciate the relevance of Science in their daily lives and
-the world around them.</p>
-<p>Science comes alive in our active-learning environment where students
-explore science through questioning, hand-on activities, investigation
-and collaboration.</p>
+<h4><strong>Key Focus</strong></h4>
+<p>The Science Department at Yio Chu Kang Primary School is committed to
+nurturing curious, confident and reflective learners who are equipped with
+scientific knowledge, skills and values. Our focus includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Scientific Inquiry</strong>: Developing students’ curiosity about
+the natural world and strengthening their understanding of scientific concepts
+through inquiry and exploration.</p>
+</li>
+<li>
+<p><strong>Process Skills &amp; Application</strong>: Building strong scientific
+process skills such as observing, classifying, measuring, inferring and
+communicating, while applying these skills to solve real-world problems.</p>
+</li>
+<li>
+<p><strong>Environmental Stewardship</strong>: Fostering a sense of responsibility
+and care for the environment, empowering students to make informed and
+sustainable choices.</p>
+</li>
+<li>
+<p><strong>21st Century Competencies</strong>: Cultivating critical and inventive
+thinking, collaboration and communication skills through meaningful scientific
+experiences.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Pedagogical Approaches</strong></h4>
+<p>Our teaching approaches are grounded in inquiry-based and experiential
+learning, enabling students to actively construct their understanding:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Inquiry-Based Learning</strong>: Students ask questions, investigate
+phenomena, and construct explanations through hands-on activities and discussions.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,91 +47,92 @@ and collaboration.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Sparkle_Kits_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Sparkle_Kits_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__2_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Sparkle_Kits_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__9_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Inquiry_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__4_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Inquiry_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Inquiry_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__6_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Digestive_System_model__4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__7_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Digestive_System_model__3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__8_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Digestive_System_model__2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Inquiry_Experiential__3_.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Inquiry_12.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Inquiry_14.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Classroom_activity.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Inquiry &amp; Experiential based Classroom</p>
 </td>
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p><strong>STEM Integration</strong>: Students engage in design-based challenges
+that promote creativity, problem-solving and innovation using everyday
+and sustainable materials.</p>
+</li>
+<li>
+<p><strong>Learning Beyond the Classroom</strong>: Authentic learning experiences
+extend beyond the classroom into spaces such as the eco-garden, hydroponics
+systems and learning journeys, where students observe and apply Science
+in real-world contexts.</p>
+</li>
+<li>
+<p><strong>Differentiated Instruction and Enrichment</strong>: Lessons are
+designed to support diverse learners, while programmes such as the E2K
+Science Programme provide opportunities to extend and deepen learning for
+high-ability students.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<p>Our programmes provide platforms for students to explore, apply and showcase
+their scientific thinking:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>STEM Playground Challenge: </strong>A hands-on platform where
+students tackle engaging design challenges, such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Challenge 1: </strong>A pH-antom Ship!: Designing boats powered
+by chemical reactions to move on water.</p>
+</li>
+<li>
+<p><strong>Challenge 2: Slow Descent Helicopter!: </strong>Creating paper
+helicopters that maximise air resistance for a slower descent.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -122,32 +142,47 @@ and collaboration.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Eco_garden_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__12_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Eco_garden_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__10_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Eco_garden_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__13_.jpg">
 </div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>Exploring Science in Our Eco Garden</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__14_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/STEM__3_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>E2K Science Programme</strong>: An enrichment programme that develops
+students’ ability to think and work like scientists through advanced inquiry
+and investigations.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -157,190 +192,47 @@ and collaboration.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/E2K__4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/E2K__5_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/E2K__3_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/E2K__6_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/E2K__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/E2K__1_.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Hydroponics_9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Growing and harvesting vegetables to learn more about plants and food
-sustainability.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The YCKPS Science Enrichment Programme is designed to ignite students’
-curiosity and deepen their interest in Science and technology beyond the
-classroom. By connecting scientific concepts to real-life contexts, the
-programme helps students see the relevance of Science in their daily lives.
-Students take part in a range of engaging activities such as the Excellence
-2000 (E2K) Science programme, STEM challenge and learning journeys, which
-offer hands-on experiences to extend classroom learning. Selected students
-also represent the school in Science competitions such as the Elementz
-Science Project Competition and Singapore Science Buskers and other national
-competitions. Through these opportunities, we aim to cultivate a deeper
-understanding of scientific principles, nurture a passion for learning,
-and equip students with the skills and mindset needed for future academic
-pursuits and careers in STEM.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/E2K_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/E2K_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/E2K_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/E2K_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/E2K_5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Our students at work during E2K enrichment class.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/boat_challenge_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/boat_challenge_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Cardboard_Chair_Challenge_1.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Cardboard_Chair_Challenge_2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Cotton_Reel_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Cotton_Reel_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Rising to the Challenge – Students Showcasing Innovation for STEM Challenge</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/SPSO_1.jpg">
-</div>
-<p>Singapore Primary Science Olympiad organized by NUS High School of Mathematics
-and Science.</p>
+</li>
+<li>
+<p><strong>Learning Journeys</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Primary 3</strong>: Visits to the <strong>Science Centre Singapore</strong> and
+hands-on <strong>Hydroponics</strong> projects to explore plant systems.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -349,26 +241,143 @@ and Science.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Science_Buskers_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Science_Center__3_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Science_Buskers_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Science_Center__4_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>Primary 4</strong>: Hydroponics projects integrated with Character
+and Citizenship Education (CCE), growing vegetables to contribute to the
+community.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Hydro__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Hydro__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Hydro__4_.jpg">
 </div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Our Primary students four confidently presenting their project at the
-Singapore Science Buskers.</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Hydro__6_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Hydro__7_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Hydro__9_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p><strong>Primary 6</strong>: Learning journeys to Sungei Buloh Wetland
+Reserve to deepen environmental and scientific understanding.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Sungei__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Sungei__4_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Sungei__5_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Sungei__6_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Sungei__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Sungei__7_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>National Platforms &amp; Competitions</strong>: Opportunities
+for students to represent the school and demonstrate their scientific thinking
+at various platforms, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Primary Science Olympiad (SPSO)</strong>.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/SPSO.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>Raffles Science Olympiad (RSO)</strong>.</p>
+</li>
+<li>
+<p><strong>Elementz Science Research Conference and Exhibition</strong>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -377,52 +386,23 @@ Singapore Science Buskers.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Elementz_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Elementz__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Elementz_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Elementz__2_.jpg">
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Elementz_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Elementz_4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Primary 5 students at the 22<sup>nd</sup> Elementz Competition for their
-Science research titled, “To investigate which cooking method retains the
-highest level of Vitamin C in vegetables.”</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>At YCKPS, we believe that meaningful learning extends beyond the classroom.
-Our Science Learning Journeys provide students with authentic, real-world
-experiences that reinforce and enrich what they learn in school. These
-trips allow students to observe scientific concepts in action, explore
-the environment, and develop a deeper appreciation for the natural world.
-Through these experiences, students strengthen their inquiry skills, broaden
-their understanding, and gain new perspectives on how Science impacts everyday
-life.</p>
-<table style="minWidth: 50px">
+</li>
+<li>
+<p><strong>Science Buskers Festival</strong>.</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -430,211 +410,14 @@ life.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Zoo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Science/Buskers.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Zoo_2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Zoo_3_jpg.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Zoo_4_jpg.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Primary Three students at the Singapore Zoo</p>
-</td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Urban_Farm_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Urban_Farm_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Urban_Farm_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Urban_Farm_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/URban_Farm_5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/URban_Farm_6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Primary Four experiencing modern farming methods in the city</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Newater_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Newater_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Newater_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Newater_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Newater_5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Newater_6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Primary Five’s trip to NeWater to appreciate how precious water is</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/science_centre_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/science_centre_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/science_centre_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Primary Six at the Science Centre</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Sungei_Buloh_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Sungei_Buloh_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Science/Sungei_Buloh_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Primary Six exploring nature and wildlife at Sungei Buloh</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>

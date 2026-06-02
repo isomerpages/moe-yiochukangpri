@@ -82,7 +82,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Evelyn Tan Gian Hwee</p>
+<p>Ms Evelyn Tan Giam Hwee</p>
 </td>
 </tr>
 <tr>
