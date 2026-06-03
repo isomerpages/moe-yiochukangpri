@@ -57,9 +57,9 @@ confidence in expressing themselves individually and collaboratively.</p>
 artworks through critical thinking. By learning about local and international
 artists and cultures, they develop appreciation for art and its value in
 their lives and society.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Music</strong>
 </p>
 <p>Our Music curriculum is built around three key learning areas:</p>
