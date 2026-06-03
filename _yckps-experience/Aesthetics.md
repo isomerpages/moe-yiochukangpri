@@ -5,40 +5,105 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Key Focus</strong></h4>
-<p>The Aesthetics Department strives to build a vibrant arts culture in the
-school by providing personal, meaningful and impactful experiences for
-all our students. Through the Aesthetics programmes, including our Art
-and Music Instructional Programme and the <a href="/signature-programmes/learning-for-life-programme-llp-create-at-yckps/" rel="noopener nofollow" target="_blank">Learning for Life Programme (LLP)</a>,
-we aim for our students to:</p>
-<p>• Enjoy and be inspired by the Arts</p>
-<p>• Engage in the Arts with both head and heart</p>
-<p>• Express themselves confidently through the Arts</p>
-<p>• Be exposed to the local Arts scene</p>
+<p>At Yio Chu Kang Primary School, we believe every child is a creative soul
+waiting to be inspired. Our Aesthetics programme is more than just lessons.
+It is a journey of self-discovery, expression, and growth through Art and
+Music.</p>
+<p>We nurture every student to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Enjoy and be inspired</strong>: We spark a genuine love for the
+Arts through joyful, memorable experiences that go beyond the classroom.</p>
+</li>
+<li>
+<p><strong>Engage with head and heart</strong>: Our lessons encourage our
+students to think critically, feel deeply, and develop a true appreciation
+for the Arts.</p>
+</li>
+<li>
+<p><strong>Express with confidence</strong>: Through performances, art-making,
+and creative exploration, every student finds their voice and the courage
+to share it.</p>
+</li>
+<li>
+<p><strong>Connect with Singapore's Arts scene</strong>: We bring local culture
+and heritage to life, nurturing a sense of identity and pride in our community.</p>
+</li>
+</ul>
+<p>Our programme builds not just skills, but character, empathy, and a lifelong
+love for the Arts because a creative child is a well-rounded child.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:300px;height:auto;" height="auto" width="100%" src="/images/2023/Aesthetics/img20220805131622%20-%20yu%20xin%20stella.jpg">
-</div>
-<p>The Art and Music Instructional Programme aims to develop students’ artistic
-skills, thinking skills, art appreciation and learning of values. Students
-experience different Art mediums and playing of different musical instruments,
-allowing them to discover their strengths and talents in Art and Music.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Music_Lessons__2025_.png">
-</div>
-<p>Our Music lessons provide a holistic and meaningful music education for
-our students, guiding them to explore the musical elements in an engaging
-and supportive setting. Through hands-on engagement and varied experiences,
-our young musicians develop a deep appreciation and lifelong love for music.
-<br>
+<h4><strong>Pedagogical Approaches</strong></h4>
+<p>Our lessons are hands-on, collaborative, and inquiry-based, weaving in
+digital and technology tools to spark curiosity and imagination. Students
+learn not just to create, but to observe, think critically, and express
+themselves with confidence.</p>
+<p><strong>Art</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Picture1.jpg">
-</div>
-<p>Our Art lessons offer students a vibrant space for creative self-discovery
-across various forms of art, including drawing, painting, mixed media,
-digital art and sculpting. Each project invites students to unlock their
-creativity and build confidence, fostering personal growth and resilience.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Website Pictures/Aesthetics and LLP/Art_Lessons_Photos___2025.png">
-</div>
+<p>Our Art curriculum is built around three learning domains:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>See: </strong>Students observe, inquire and reflect on the world
+through visual exploration and lived experiences. Through drawing, recording
+and visual inquiry, they develop observation skills, curiosity and meaning-making.</p>
+</li>
+<li>
+<p><strong>Express: </strong>Students generate and communicate ideas creatively
+through experimenting with different art mediums and processes. They build
+confidence in expressing themselves individually and collaboratively.</p>
+</li>
+<li>
+<p><strong>Appreciate: </strong>Students discuss, interpret and respond to
+artworks through critical thinking. By learning about local and international
+artists and cultures, they develop appreciation for art and its value in
+their lives and society.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Music</strong>
+</p>
+<p>Our Music curriculum is built around three key learning areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Listen: </strong>Students develop active listening skills by exploring
+a wide range of musical ideas, genres, cultures, and styles. They learn
+to identify musical elements, respond thoughtfully to music, and appreciate
+music as a form of expression and communication.</p>
+</li>
+<li>
+<p><strong>Create: </strong>Students are encouraged to experiment with rhythm,
+melody, movement, and sound through composition and creative activities.
+These experiences nurture imagination, creativity, and confidence in expressing
+musical ideas.</p>
+</li>
+<li>
+<p><strong>Perform: </strong>Students participate in singing, instrumental
+playing, movement, and group performances to develop musical skills, stage
+confidence, teamwork, resilience, and discipline.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<p>Signature Experiences:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Experiential Art &amp; Music Lessons</p>
+</li>
+<li>
+<p>Singapore Youth Festival (SYF) Art Exhibition</p>
+</li>
+<li>
+<p>P6 Graduation Artwork &amp; Exhibition</p>
+</li>
+<li>
+<p>P4 National Gallery Museum-Based Learning</p>
+</li>
+<li>
+<p>Recess Busking</p>
+</li>
+<li>
+<p>School-wide Singing: Music Teachers lead the school in singing National
+Day songs to foster a sense of community, national pride, and belonging.</p>
+</li>
+</ul>
 <p></p>
