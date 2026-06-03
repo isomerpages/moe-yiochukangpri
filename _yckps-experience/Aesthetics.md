@@ -4,7 +4,7 @@ permalink: /yckps-experience/aesthetics/
 description: ""
 variant: tiptap
 ---
-<h2>Building a Vibrant Arts Culture in YCKPS</h2>
+<h4><strong>Key Focus</strong></h4>
 <p>The Aesthetics Department strives to build a vibrant arts culture in the
 school by providing personal, meaningful and impactful experiences for
 all our students. Through the Aesthetics programmes, including our Art
