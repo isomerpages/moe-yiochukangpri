@@ -193,6 +193,38 @@ within the school where our young learners start their artistic journey</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Theatre Experience</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Theatre_Experience_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Theatre_Experience_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Theatre_Experience_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Theatre_Experience_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p>Recess Busking</p>
@@ -255,7 +287,7 @@ within the school where our young learners start their artistic journey</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>YCKPS Art Exhibition by Our P6 Graduands</p>
+<p>P6 Graduation Performance &amp; Art Exhibition</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -284,6 +316,18 @@ within the school where our young learners start their artistic journey</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/Art_Exhibition_and_Graduation_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/P6_Graduation_Performance_and_Art_Exhibition_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/LLP/P6_Graduation_Performance_and_Art_Exhibition_2.jpg">
 </div>
 </td>
 </tr>
