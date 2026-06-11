@@ -78,6 +78,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Law Peng Tee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
