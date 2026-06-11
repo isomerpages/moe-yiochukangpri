@@ -92,6 +92,38 @@ and how they care for and protect wildlife.</p>
 where students are immersed in a rich learning experience of self-discovery,
 exploration and critical thinking. This is part of the school’s efforts
 to empower and develop confident and effective communicators.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/P2_Theatre_Experience_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/P2_Theatre_Experience_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/P2_Theatre_Experience_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/P2_Theatre_Experience_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 3</strong>
@@ -358,6 +390,36 @@ of dance and performance forms, including hip hop and drums percussion.
 The programme will culminate in a final performance during the P6 Graduation
 Ceremony, allowing students to showcase their learning, creativity, and
 collaboration.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/Art_and_Music_Enrichment_Programme__3_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/Art_and_Music_Enrichment_Programme__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Website Update/Student Development/Art_and_Music_Enrichment_Programme__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
